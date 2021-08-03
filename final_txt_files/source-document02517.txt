@@ -1,0 +1,9 @@
+Home | Support | Tech Notes |I'm having trouble powering my Traveler or UltraLite via FireWire Document Actions I'm having trouble powering my Traveler or UltraLite via FireWire There are
+some considerations when powering the Traveler or UltraLite via the FireWire bus. The Traveler or UltraLite can draw its power from the computer via the FireWire bus. If you're using FireWire
+bus power on the Traveler you must set the Bus Power switch on the right side of the unit is to "On". There are some additional considerations when using FireWire bus power when your
+FireWire ports are on a PCI or PCMCIA card. PCI cards must have a direct connection to the power supply harness inside the computer, and PCMCIA cards must have an extemal power supply
+(most commonly a DC power adapter that plugs into an AC power outlet). Keep in mind that we strongly recommend using a PCI or PCMCIA card with a Texas Instrument or Lucent FireWire
+chip set with all of our FireWire interfaces (see for details). this technote The Traveler and UltraLite cannot be powered via the FireWire bus when using a 4-to-6 pin FireWire cable. The unit will
+function properly in all other manners, but you will need to use DC or battery power instead of FireWire. Also, when powering the Traveler or Ultralite via the FireWire bus, we do not
+recommend daisy-chaining other FireWire devices on the same bus. In general, daisy-chaining FireWire bus powered devices is not recommended. For more info on powering the Traveler or
+Ultralite via DC adapter, please see . this technote

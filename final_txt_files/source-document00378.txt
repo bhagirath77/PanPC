@@ -1,0 +1,13 @@
+The Basic Parameters of Gears Article by kkaarthic (2,631 pts ) Published on Dec 27, 2008 This article will help you to know more about the basic parameters of the gears. You will have to
+really know about these parameters before you proceed with gear designing, selection, etc. 44 views Introduction Gears are quite complex machine elements and understanding them is quite
+complex. Before one jumps into gear design, one needs to be very much aware of the basic parameters by which a gear is designated in order to proceed further on the complex aspects in
+gears. Even a non engineering person, who has 2 gearbox working for his machinery has to know the basics of gearing in order to help him out during a situation of breakdown. Let us now
+look on what basic parameters that needs to be looked into in the following section 5 Basic Gear Parameters the teeth are inclined to. This is applicable only for helical gears. For spur gears,
+the helix angle is normally 0 Degrees. This is denoted by the term CID. 1.The type of Gearing:One has to be sure on the type of gearing being used. The gear system can belong to various
+subcategories like parallel axis gearing, perpendicular axis gears, planetary gear systems, etc. Click here to see the detailed article on gear classification 2.The Gear ratio: This is one of the
+important parameters that one has to know about the gears. Gear ratio is termed as the ratio between the number of teeth on the pinion () and the number of teeth on the gear ()
+Mathematically it can be expressed as This is denoted by the term C1D.this is normally smaller in diameter and the driving memberthis is normally larger in diameter and the driven
+memberRatio = No. of teeth on Pinion / No. of teeth on the gear.i_3.The module:This is the important parameter in the gearing. The size of the gear tooth is defined by the module, The smaller
+the size of the gear teeth the smaller the module and bigger the size of the gear teeth the bigger the module. This is denoted by the term O10.M 4.Centre Distance: The centre distance is
+another important parameter designated for knowing the gear pair. This is the distance between the centre of the pinion and the centre of the gear. This is normally denoted by the term OO
+This is common for most major types of gearing except for bevel gears.a_5.Helix Angle:This is the angle in which

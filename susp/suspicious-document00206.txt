@@ -1,0 +1,10 @@
+Changes related to "Game designer" From Wikipedia, the free encyclopedia Jump to: , navigation search This is a list of changes made recently to pages linked from a specified page (or
+to members of a specified category). Changes to pages on your watchlist are shown in .bold Show last | | | changes in last | | | | days minor edits | bots | anonymous users | logged-in
+users | my edits Show new changes starting from Recent changes options Show changes to pages linked to the given page instead 12 February 2009 () () . . ; 14:06 diff hist
+English language (+3) Zoomzoom316 ( | ) Talk contribs ()Countries in order of total speakers () () . . ; 13:42 diff hist Wikipedia:Citation needed (-495) DragonHawk ( | ) Talk
+contribs (this page should be kept simple, too much info will just confuse newcomers more; links are there to be followed; ) WP:CREEP ()(). . ; 13:40 diff hist Wikipedia: Citation
+needed (-156) DragonHawk ( | ) Talk contribs (these are best left to the target page; this page should be kept simple; ) WP:CREEP ()().. ; 13:39 diff hist Wikipedia: Citation
+needed (-43) DragonHawk ( | ) Talk contribs (There are other reasons to require a citation than truth. For example, quotes always need a cite, even when they're believed to be true.
+Besides, Wikipedia is about , not truth.) verifiability ()()..; 12:11 diff hist m Portal:Sony PlayStation (+2,193) MER-C ( | ) Talk contribs (Reverted edits by () to last version by
+Pretzels) 212.23.21.100 talk ()()..; 12:11 diff hist Portal:Sony PlayStation (-2,193) 212.23.21.100 () Talk (Replaced content with '<!-- This portal was created using subst:box
+portal skeleton --> {{browsebar}}__NOTOC__{|cellpadding="5" FULLPAGENAME}}/Related portals|}} {{{{')

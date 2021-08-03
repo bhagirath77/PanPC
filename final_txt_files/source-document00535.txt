@@ -1,0 +1,21 @@
+Tribute to P. L. Lutz: a message from the heart 1 why hypoxic bradycardia in fishes? A. P. Farrell Zoology Department, 6270 University Boulevard, University of British Columbia, Vancouver,
+BC, V6T 124, Canada e-mail:farrellt{at}interchange.ubc.ca Accepted 19 March 2007 The sensing and processing of hypoxic signals, the responsesto these signals and the modulation of these
+responses by otherphysical and physiological factors are an immense topic filledwith numerous novel and exciting discoveries. Nestled amongthese discoveries, and in contrast to mammals, is
+the unusualcardiac response of many fish to environmental hypoxia Cla reflex slowing of heart rate. The afferent and efferent armsof this reflex have been characterised, but the benefits ofthe
+hypoxic bradycardia remain enigmatic since equivocal resultshave emerged from experiments examining the benefit to oxygentransfer across the gills. The main thesis developed here isthat
+hypoxic bradycardia could afford a number of direct benefitsto the fish heart, largely because the oxygen supply to thespongy myocardium is precarious (i.e. it is determined primarilyby the
+partial pressure of oxygen in venous blood, v) and, secondarily, because the fish heart has an unusual ability to produce large increasesin cardiac stroke volume () that allow cardiac output tobe
+maintained during hypoxic bradycardia. Among the putative benefitsof hypoxic bradycardia is an increase in the diastolic residencetime of blood in the lumen of the heart, which offers an
+advantageof increased time for diffusion, and improved cardiac contractilitythrough the negative forceC frequency effect. The increasein will stretch the cardiac chambers, potentially
+reducingthe diffusion distance for oxygen. Hypoxic bradycardia couldalso reduce cardiac oxygen demand by reducing cardiac d/dand cardiac power output, something that could be masked
+atcold temperature because of a reduced myocardial work load.While the presence of a coronary circulation in certain fishesdecreases the reliance of the heart on v, hypoxic bradycardiacould
+still benefit oxygen delivery an extended diastolicperiod during which peak coronary blood flow occurs. The notable absenceof hypoxic bradycardia among fishes that breathe air duringaquatic
+hypoxia and thereby raise their v, opens the possibilitythat that the evolutionary loss of hypoxic bradycardia may have coincidedwith some forms of air breathing in fishes. Experiments
+areneeded to test some of these possibilities. Ultimately, anypotential benefit of hypoxic bradycardia must be placed in theproper context of myocardial oxygen supply and demand, and
+mustconsider the ability of the fish heart to support its routinecardiac power output through glycolysis. PO2VSHVSHPtPO2viaPO2 Key words: heart rate, stroke volume, myocardial hypoxia,
+oxygen diffusion, coronary circulation, air breathing Related articles in JEB: A TRIBUTE TO PETER LUTZ Laura Blackbur JEB 2007 210: i, [Full Text] This article has been cited by other
+articles: M. F. Steinhausen, E. Sandblom, E. J. Eliason, C. Verhille, and A. P. Farrell J. Exp. Biol., December 15, 2008; 211(24): 3915 - 3926. The effect of acute temperature increases on the
+cardiorespiratory performance of resting and swimming sockeye salmon (Oncorhynchus nerka) H. A. Shiels and E. White J. Exp. Biol., July 1, 2008; 211(13): 2005 - 2013. The Frank-Starling
+mechanism in vertebrate cardiac myocytes [Abstract] [Full Text] [PDF] D. J. McKenzie, H. A. Campbell, E. W. Taylor, M. Micheli, F. T. Rantin, and A. S. Abe J. Exp. Biol., December 1, 2007;
+210(23): 4224 - 4232. The autonomic control and functional significance of the changes in heart rate associated with air breathing in the jeju, Hoplerythrinus unitaeniatus L. Blackburn J. Exp.
+Biol., May 15, 2007; 210(10): i- ji, A TRIBUTE TO PETER LUTZ

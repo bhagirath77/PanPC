@@ -1,0 +1,7 @@
+Instructional Equipment and Facilities All computer science students can use any of the general-purpose labs throughout Hunter College. In addition, computer science majors and students
+enrolled in any of CSCI 127, 132, 135, 136, or 232, or BIOL 375 or 425 can obtain an account on the Computer Science Department Network. Having an account on the network entitles the
+student to 24/7 access to "Lab 10006", as well as remote access through the network portal. The Computer Science Network is a collection of 25 Dell Precision 380 3.2Ghz workstations, each
+with 1-GB RAM, 256MB graphic cards, dual 60-GB hard drives and 20 inch LCD monitors, located in room 1000G in Hunter North. Each machine is running Red Hat Enterprise Linux Release 4
+(RHEL4). User home directories and data storage is on a Sun V240 server, dual processor with a 12 x 36GB disk array and 2-GB RAM. The network portal is a Dell PowerEdge dual-processor
+with 1-GB RAM. The MySQL server is a Sun 82500 dual processor (Intel) running RHEL4 with 2 x 72GB SCSI hard drives and 3-GB RAM. The Computer Science Department's local area
+network in the lab has a 10/100bastT Ethernet.

@@ -1,0 +1,82 @@
+NICHE THEORY, CULTURAL DIVERSITY, & BIODIVERSITY Intro One of the striking facts about contemporary society, and indeed of much of recorded history, is the division of the human
+species into distinct ethnic groups, whose interrelations are sometimes antagonistic and sometimes mutualistic While there are many interesting ways social scientists analyze this
+phenomenon, ecological theory may provide some additional insights This lecture approaches this topic as follows: 1. What is ecological niche theory? (brief summary) 2. How can we apply
+this theory to human ethnic diversity? 3. How is such diversity (or cultural diversity more broadly) related to biodiversity? Niche Theory Niche concept is central to modem ecological theory In
+particular, niche is used to describe and analyze 1. ways in which diff. species interact (including competition, resource partitioning, exclusion or coexistence); 2. why some species are rare and
+others abundant; 3. what determines geographical distribution of a given species; 4. what determines structure and stability of multi-species communities Term "niche" borrowed from church
+architecture, but in ecology it is a spatial term like habitat or environment (though related to these)not What's the difference between the two concepts? Habitat = "address" (environmental
+region or community inhabited by a population) Niche = "profession" (way in which a population utilizes a habitat) Though realizing that any population's niche is multi-dimensional in very
+complex ways, ecologists have often simplified analyses by considering one or two dimensions at a time (e.g., food resource niche) Niche theory distinguishes between &
+niches:fundamentalrealized O fundamental = all possible conditions under which population reproduces itself Oi realized niche = the actual niche exhibited in particular time & place Realized
+niche will almost always be a subset of ("smaller than") the fundamental niche, for various reasons; one important determinant of realized niche is presence or absence of different competitors
+Recall the definition of ecological competition (): presence of N has negative effect on growth rate of N because both populations utilize 1 of same limited (relative to demand) resources
+competition lecture 12> Obviously, the more limited resources two populations have in common (i.e., the more similar their niches are), the greater the impact of competition (all else being
+equal) Consider an extreme case: Can 2 populations occupying the resource niche coexist in the same environment?same If 2 populations occupy same resource niche, then by definition they
+utilize all the same resources, and in the same manner Common sense tells us there are 3 possible outcomes to this situation: 1) share resources more or less equally (neither population
+changes niche) 2) one or both populations alters niche to reduce overlap ()niche partitioning 3) one population loses out completely ()competitive exclusion Which outcome will occur? Answer
+from niche theory = 2 or 3, but not 1. This somewhat counterintuitive finding given formal name of (CEP)competitive exclusion principle CEP states that : either the niches will differ, or one will
+be excluded by the other (note: "excluded" here means replaced by differential population growth, not necessarily by fighting or tertitoriality)no two species can permanently occupy the same
+niche Of course, 100% niche overlap is unlikely if not impossible; but such an extreme case is not necessary for competitive exclusion or other forms of niche change Much theory & research
+in ecology has focused on predicting what actually happens when there is niche overlap & competition: When does exclusion result, when coexistence? How much overlap is possible (a question
+treated by the "theory of limiting similarity")? How do environmental fluctuations affect this? Why are some species generalists, others specialists? Both possible responses to niche competition
+(competitive exclusion, and coexistence via reduction in niche overlap) are commonly observed, and their determinants and features have been studied by three means: lab experiments, field
+observations, and mathematical models or simulations Competitive exclusion is commonly observed when a species colonizes a habitat and out-competes indigenous species (probably due to
+absence of parasites and predators adapted to exploit the colonizer); (e.g., introduced placentals vs. indigenous marsupials in Australia) Coexistence through niche partitioning is rarely
+observed directly, but can often be inferred from traces left by "the ghost of competition" The typical means of doing so is to examine two populations that overlap spatially, but only partially,
+and then to compare the niche of each population in the area of overlap vs. the area of non-overlap In such a case, we often observe that in areas where competitors coexist, one or both have
+narrower niche range (e.g., diet breadth) than in areas where competitor is absent; this is because competition "forces" each competing population to specialize in those resources (or other
+niche dimensions) in which it has a competitive advantage, and conversely to "give up" on those in which the other population outcompetes it Thus, in absence of competitors a given species
+will often utilize a broader array of resources (closer to its fundamental niche) than it will in competitor's presence; this phenomenon is termed "competitive release When niche shift involves
+an evolutionary change in attributes ("characters") of competing populations, it is termedcharacter displacement This is one of strongest kinds of evidence for role of competition in shaping
+niches, because it is unlikely to have alternative explanation A classic example of character displacement is change in length or shape of beaks in ecologically similar bird species that overlap
+geographically[GRAPH] Human Niche Diversity Theories of niche (such as CEP & related models) primarily designed to analyze interactions between different species; but of course
+anthropologists are interested primarily in niche differences within a single species ()Homo sapiens Because of cultural flexibility (and technology), humans are able to occupy extremely wide
+range of environments, and to adopt extremely wide range of niches Furthermore, specific human groups can become highly specialized in ways of utilizing env. (i.e., niche), and use the same
+env. in different ways (either sequentially, via cultural change/evolution, or simultaneously, as in Swat case analyzed by Barth--see below) This has led many ecological anthropologists to
+argue that each human population or culture has its own distinctive niche However, different cultures are not the same as different species, since they can 1) interbreed, 2) borrow traits, or
+even 3) merge into single population These possibilities make it tricky to apply ecological niche theory to analysis of interaction between diff. human populations/cultures However, if we keep
+in mind that with humans we are talking about and not necessarily reproductively isolated ones, niche theory can be useful for analyzing processes of diversification, competition, and
+cooperation among human societiesecological populations In particular, can be a useful tool for analyzing cultural/ethnic diversity Ethnic Groups in Swat (Barth 1956) Barth's classic analysis
+of complex ethnic interaction in Northern Pakistan is good illustration of how niche theory can illuminate ethnic diversity (Fredrik Barth = renowned Norwegian social anthropologist; his
+interests include decision-making, ethnic differentiation and boundary maintenance, and sociocultural change, not ecological anthro per se) Barth found 3 distinct ethnic groups living in river
+valleys and surrounding mountains. of Swat, N. Pakistan[see TABLE and MAP ] 1) Kohistanis = seasonal agriculture + herding; oldest inhabitants 2) Pathans = sedentary agriculturalists;
+entered area 1000-1600 AD 3) Gujars = nomadic herders; entered in last 400 yrs Environment = very mountainous region (18,000 ft peaks) dissected by steep gorges in higher areas,
+broader alluvial valleys in lower areas Clearly the distribution of these 3 groups and their relations to each other cannot be described in terms of environments per se, nor can they be reduced
+to military/political strength (since the Pathan are clearly superior, but yet do not displace the Kohistani in the upland areas, etc.) Complex patterns of ethnic distribution and interaction thus
+can be accounted for in terms of niche theory -- in particular, as results of a) competitive exclusion; and b) niche divergence to reduce overlap/font> coexistence Overall, the Swat example
+demonstrates: 1) complexity of human niche specialization 2) ability for diff. cultures to co-exist via niche partitioning, as if they were different "species" 3) major reason for failure of env.
+determinism: two or more societies can inhabit same env. (at same time or sequentially) via differences in their (specialized ways of utilizing environment to make living)niche Biological &
+Cultural Diversity In recent years, ecological anthros and others have become very interested in the degree to which cultural diversity might interact with biological diversity, each facilitating
+the other The Maffi (2005) article reviews a lot of this literature; here I expand on some of her points, and add a few additional ones Basically, I address 2 related questions: 1) Are
+biodiversity & cultural diversity correlated? 2) If so, what might account for this correlation? Are Biodiversity & Cultural Diversity Correlated? Various recent studies (see Maffi 2001, Maffi
+2005) examine relation between cultural & biological diversity Most of these studies use language diversity as a proxy for cultural diversity (e.g., the more languages native to a different area,
+the higher the diversity score) Most find some positive relationships: for example, both are highest in tropical/subtropical areas, and both are highest along coastlines Unfortunately, the
+measures and scales are often crude, with the most common pattern being to a) measure biodiversity by species richness (+ of species of some type in an area, e.g., mammals), b) measure
+cultural diversity by language richness (# of languages in an area), and c) tabulate both kinds of diversity at the country scale (e.g., Wilcox & Duin 1995) A slightly more sophisticated version
+is to focus onspecies and languages (meaning those found in the given area) (Harmon 1996)endemiconly A handful of studies measure diversity on a continuous scale (e.g., per unit area)
+rather than at national or regional scales (e.g., Moore et al. 2002; Sutherland 2003) Thus, the rigorous measurement of biodiversity & cultural diversity correlation is in its infancy;
+unfortunately, the objects of study are going extinct at an alarming rate (Sutherland 2003; Maffi 2005) Why are Biological & Cultural Diversity Correlated? Although the empirical evidence
+indicates that biodiversity & cultural diversity (or at least linguistic diversity) are correlated in their geographical abundances, this in itself doesn't tell us this correlation occurswhy Whatever
+the actual causal processes, there must logically fall into one or more of the following 3 relationships (Smith 2001): (1) Cultural diversity drives increased biodiversity (2) Biodiversity
+drives increased cultural diversity (3) Some third factor (or factors) co-determines both cultural and biological diversity All 3 possibilities have some plausible candidates, and these are not
+mutually exclusive (each could predominate in particular cases) 1) Does cultural diversity enhance biodiversity? The first hypothesis focuses on small-scale societies (locally adapted, therefore
+high cultural diversity per unit area) Proposed mechanisms: (a) Intentionally conserve biodiversity (for livelihood or for religious reasons) (b) Create habitat mosaics & moderate disturbance
+regimes (buming, swidden) (c) Low environmental impact due to low population densities & high mobility (foraging & swidden agriculture) Evidence for (a) is mixed, while (b) and (c) are well
+supported 2. Does biodiversity enhance cultural diversity? Main idea = high biodiversity provides more niches for human populations, allowing higher cultural diversification Evidence for this
+mixed at best: Some areas of low BD & high CD (e.g., Niger Delta), while other areas of high BD & low CD (e.g., deserts) Biodiversity has to be right kind (relevant to human subsistence) to
+favor niche diversity (people dont eat trees...) 3. Does some third factor enhance both biodiversity and cultural diversity? There are a number of candidate third factors: (a) Warmer, wetter
+climate = longer growing season (Nettle 1998); this allows evolution/coexistence of more plant species, which in tum allows denser human populations, hence more ethno-linguistic groups per
+unit area (= higher cultural diversity) (b) Warmer, wetter climate = more parasites; effect on biodiversity is as in (1), but in turn the parasites favor local cultural & genetic adaptations, and
+thus limit intrusion of empires & colonial populations (c) Geographic barriers to dispersal could affect both plant/animal species & human groups (Sutherland 2003) (d) Expansion of
+large-scale social systems (empires, colonial powers) reduces both biological & cultural diversity (Smith 2001) This is arguably most important third factor causing correlation between
+biodiversity & cultural diversity, since such systems require surplus production, based on intensive agriculture (difficult in tropical forests), high population densities, and trade (hence increasing
+demand for extracted resources) This of course raises the issue of the increasingly strong impacts of governmental and economic expansion ("globalization" etc.) on areas of high cultural and
+biological diversity in today's world, a topic we turn to in the last couple of class sessions... References Barth, Fredrik (1956) Ecologic relationships of ethnic groups in Swat, North Pakistan
+58:10790189.American Anthropologist Harmon, David (1996) Losing species, losing languages: Connections between biological and linguistic diversity. 15:89-108.Southwest J. of Linguistics
+Maffi, Luisa, ed. (2001). Washington, D.C.: Smithsonian Institution Press.Language, knowledge, and the environment: The interdependence of biological and cultural diversity Maffi, Luisa
+(2005) Linguistic, cultural, and biological diversity. 29:599-617.Annual Review of Anthropology Moore, Joslin L., et al. (2002) The distribution of biological and cultural diversity in Africa.
+269(1501):1645-1653.Proceedings of the Royal Society of London, B Nettle, Daniel (1998) Explaining global patterns of linguistic diversity. 17:354-74.J. of Anthropological Archaeology Smith,
+Eric Alden (2001) On the coevolution of cultural, linguistic, and biological diversity. In, ed. Luisa Maffi, pp. 95-117. Washington, D.C.: Smithsonian Institution Press.Language, knowledge, and
+the environment: The interdependence of biological and cultural diversity Sutherland, William J. (2003) Parallel extinction risk and global distribution of languages and species.
+423:276-279.Nature Wilcox, Bruce A. and Kristin N. Duin (1995) Indigenous cultural and biological diversity: overlapping values of Latin American ecoregions. Winter, 490153.Cultural Survival
+Quarterly

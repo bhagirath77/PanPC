@@ -1,0 +1,136 @@
+Jump to: , navigation search "GPS" redirects here. For other similar systems, see . For other uses of "GPS", see . Global Navigation Satellite System GPS (disambiguation) For a generally
+accessible and less technical introduction to the topic, see . Introduction to the Global Positioning System Artist's conception of GPS satellite in orbit Civilian GPS receiver ("") in a marine
+application. Automotive navigation system The is a (GNSS) developed by the . It is the only fully functional GNSS in the world. It uses a of between 24 and 32 that transmit precise signals,
+which enable GPS to determine their current , the time, and their velocity. Its official name is . Although NAVSTAR is not an acronym, a few have been created for it. The GPS satellite
+constellation is managed by the . GPS is often used by civilians as a navigation system.Global Positioning System (GPS) Global Navigation Satellite System United States Department of Defense
+constellation Medium Earth Orbit satellites microwave receivers location NAVSTAR GPS [1] backronyms [2] United States Air Force 50th Space Wing After was shot down in 1983 after straying
+into the USSR's , President issued a directive making GPS freely available for civilian use as a common good., as suggested by physicist D. Fanelli a few years before . Since then, GPS has
+become a widely used worldwide, and a useful tool for , , commerce, scientific uses, and hobbies such as . Also, the precise is used in many applications including the scientific study of . GPS is
+also a required key resource of cellular networks, such as the Qualcomm CDMA air interface used by many wireless carriers in a multitude of countries. Korean Air Lines Flight 007 prohibited
+airspace [3] Ronald Reagan [4] [5] aid to navigation map-making land surveying geocaching time reference earthquakes synchronization [] citation needed The first satellite navigation
+system, , used by the , was first successfully tested in 1960. Using a constellation of five satellites, it could provide a navigational fix approximately once per hour. In 1967, the U.S. Navy
+developed the satellite which proved the ability to place accurate clocks in space, a technology that GPS relies upon. In the 1970s, the ground-based , based on signal phase comparison,
+became the first worldwide radio navigation system. Transit United States Navy Timation Omega Navigation System The design of GPS is based partly on similar ground-based radio navigation
+systems, such as and the developed in the early 1940s, and used during . Additional inspiration for the GPS came when the launched the first in 1957. A team of U.S. scientists led by Dr.
+Richard B. Kershner were monitoring Sputnik's radio transmissions. They discovered that, because of the , the frequency of the signal being transmitted by Sputnik was higher as the satellite
+approached, and lower as it continued away from them. They realized that since they knew their exact location on the globe, they could pinpoint where the satellite was along its orbit by
+measuring the Doppler distortion. LORAN Decca Navigator World War II Soviet Union Sputnik Doppler effect Contents 10.3 Technical, historical, and ancillary topics links [] edit Basic concept
+of GPS AGPS receiver calculates its position by precisely timing the signals sent by the GPS high above the Earth. Each satellite continually transmits messages containing the time the
+message was sent, precise orbital information (the ), and the general system health and rough orbits of all GPS satellites (the almanac). The receiver measures the transit time of each
+message and computes the distance to each satellite. Geometric is used to combine these distances with the location of the satellites to determine the receiver's location. The position is
+displayed, perhaps with a moving map display or latitude and longitude; elevation information may be included. Many GPS units also show derived information such as direction and speed,
+calculated from position changes. satellites ephemeris trilateration It might seem three satellites are enough to solve for position, since space has three dimensions. However a very small clock
+error multiplied by the very large Dithe speed at which satellite signals propagateCiresults in a large positional error. The receiver uses a fourth satellite to solve for , , , and which is used to
+correct the receiver's clock. While most GPS applications use the computed location only and effectively hide the very accurately computed time, it is used in a few specialized GPS applications
+such as and traffic signal timing. speed of light [6] xyzt time transfer Although four satellites are required for normal operation, fewer apply in special cases. If one variable is already known
+(for example, a ship or plane may have known elevation), a receiver can determine its position using only three satellites. Some GPS receivers may use additional clues or assumptions (such as
+reusing the last known altitude, , , or including information from the vehicle computer) to give a degraded position when fewer than four satellites are visible (see , Chapters 7 and 8 of , and )
+dead reckoning inertial navigation [7] [8] [9] [] edit Position calculation introduction To provide an introductory description of how a GPS receiver works, measurement errors will be ignored in
+this section. Using messages received from a minimum of four visible satellites, a GPS receiver is able to determine the satellite positions and time sent. The x, y, and z components of position
+and the time sent are designated as where the subscript is the satellite number and has the value 1, 2, 3, or 4. Knowing the indicated time the message was received , the GPS receiver can
+compute the indicated transit time, . of the message. Assuming the message traveled at the speed of light, , the distance traveled, can be computed as . Knowing the distance from GPS
+receiver to a satellite and the position of a satellite implies that the GPS receiver is on the surface of a sphere centered at the position of a satellite. Thus we know that the indicated position of
+the GPS receiver is at or near the intersection of the surfaces of four spheres. In the ideal case of no errors, the GPS receiver will be at an intersection of the surfaces of four spheres. The
+surfaces of two spheres, if they intersect in more than one point, intersect in a circle. A figure, , is shown below. i Two Sphere Surfaces Intersecting in a Circle Two sphere surfaces
+intersecting in a circle The article, , shows mathematically that two spheres intersecting in more than one point intersect in a circle. trilateration Surface of a sphere intersecting a circle (i.e.,
+the edge of a disk) at two points A circle and sphere surface in most cases of practical interest intersect at two points, although it is conceivable that they could intersect at one pointClor not at
+all. Another figure, , shows this intersection. The two intersections are marked with dots. Again clearly shows this mathematically. The correct position of the GPS receiver is the intersection
+that is closest to the surface of the earth for automobiles and other near-Earth vehicles. The correct position of the GPS receiver is also the intersection which is closest to the surface of the
+sphere corresponding to the fourth satellite. (The two intersections are symmetrical with respect to the plane containing the three satellites. If the three satellites are not in the same orbital
+plane, the plane containing the three satellites will not be a vertical plane passing through the center of the Earth. In this case one of the intersections will be closer to the earth than the other.
+The near-Earth intersection will be the correct position for the case of a near-Earth vehicle. The intersection which is farthest from Earth may be the correct position for space vehicles.)Surface
+of Sphere Intersecting a Circle (not disk) at Two Points trilateration [] edit Correcting a GPS receiver's clock The method of calculating position for the case of no errors has been explained.
+One of the most significant error sources is the GPS receiver's clock. Because of the very large value of the , , the estimated distances from the GPS receiver to the satellites, the pseudoranges,
+are very sensitive to errors in the GPS receiver clock. This suggests that an extremely accurate and expensive clock is required for the GPS receiver to work. On the other hand, manufacturers
+prefer to build inexpensive GPS receivers for mass markets. The solution for this dilemma is based on the way sphere surfaces intersect in the GPS problem. speed of light c It is likely the
+surfaces of the three spheres intersect since the circle of intersection of the first two spheres is normally quite large and thus the third sphere surface is likely to intersect this large circle. It is
+very unlikely that the surface of the sphere corresponding to the fourth satellite will intersect either of the two points of intersection of the first three since any clock error could cause it to miss
+intersecting a point. However the distance from the valid estimate of GPS receiver position to the surface of the sphere corresponding to the fourth satellite can be used to compute a clock
+correction. Let denote the distance from the valid estimate of GPS receiver position to the fourth satellite and let denote the pseudorange of the fourth satellite. Let . Note that is the distance
+from the computed GPS receiver position to the surface of the sphere corresponding to the fourth satellite. Thus the quotient, , provides an estimate of (correct time) - (time indicated by the
+receiver's on-board clock), and the GPS receiver clock can be advanced if is positive or delayed if is negative. [] edit System segmentation The current GPS consists of three major segments.
+These are the space segment (SS), a control segment (CS), and a user segment (US). [10] A visual example of the GPS constellation in motion with the Earth rotating. Notice how the number
+of from a given point on the Earth's surface, in this example at 45 N, changes with time. satellites in view The space segment (SS) comprises the orbiting GPS satellites, or Space Vehicles
+(SV) in GPS parlance. The GPS design originally called for 24 SVs, eight each in three circular , but this was modified to six planes with four satellites each. The orbital planes are centered on
+the Earth, not rotating with respect to the distant stars. The six planes have approximately 55 (tilt relative to Earth's ) and are separated by 60 of the (angle along the equator from a reference
+point to the orbit's intersection). The orbits are arranged so that at least six satellites are always within from almost everywhere on Earth's surface. orbital planes [11] [12] [13] inclination
+equator right ascension ascending node [14] line of sight [15] Orbiting at an altitude of approximately 20,200 kilometers about 10 satellites are visible within line of sight (12,600 miles or
+10,900 ; orbital radius of 26,600 km (16,500 mi or 14,400 NM)), each SV makes two complete orbits each . The ground track of each satellite therefore repeats each (sidereal) day. This was
+very helpful during development, since even with just four satellites, correct alignment means all four are visible from one spot for a few hours each day. For military operations, the ground
+track repeat can be used to ensure good coverage in combat zones. nautical miles sidereal day [16] As of March 2008, there are 31 actively broadcasting satellites in the GPS . The additional
+satellites improve the precision of GPS receiver calculations by providing redundant measurements. With the increased number of satellites, the constellation was changed to a nonuniform
+arrangement. Such an arrangement was shown to improve reliability and availability of the system, relative to a uniform system, when multiple satellites fail. [17] constellation [18] Some
+reports in 2008 indicated that the 32nd satellite was causing difficulties for some GPS receivers. [19] [] edit Control segment The flight paths of the satellites are tracked by US Air Force
+monitoring stations in, ,, , and , along with monitor stations operated by the (NGA). The tracking information is sent to the 's master control station at in Colorado Springs, which is operated
+by the (2 SOPS) of the (USAF). Then 2 SOPS contacts each GPS satellite regularly with a navigational update (using the ground antennas at Ascension Island, Diego Garcia, Kwajalein, and
+Colorado Springs). These updates synchronize the on board the satellites to within a few of each other, and adjust the of each satellite's internal orbital model. The updates are created by a
+which uses inputs from the ground monitoring stations, information, and various other inputs. Hawaii Kwajalein Ascension Island Diego Garcia Colorado Springs, Colorado National
+Geospatial-Intelligence Agency [20] Air Force Space Command Schriever Air Force Base 2nd Space Operations Squadron United States Air Force atomic clocks nanoseconds ephemeris Kalman
+filter space weather [21] Satellite maneuvers are not precise by GPS standards. So to change the orbit of a satellite, the satellite must be marked unhealthy, so receivers will not use it in
+their calculation. Then the maneuver can be carried out, and the resulting orbit tracked from the ground. Then the new ephemeris is uploaded and the satellite marked healthy again. [] edit
+User segment GPS receivers come in a variety of formats, from devices integrated into cars, phones, and watches, to dedicated devices such as those shown here from manufacturers , and
+(left to right). Trimble Garmin Leica The user's GPS receiver is the user segment (US) of the GPS. In general, GPS receivers are composed of an antenna, tuned to the frequencies transmitted
+by the satellites, receiver-processors, and a highly-stable clock (often a ). They may also include a display for providing location and speed information to the user. A receiver is often described
+by its number of channels: this signifies how many satellites it can monitor simultaneously. Originally limited to four or five, this has progressively increased over the years so that, as of 2007,
+receivers typically have between 12 and 20 channels. crystal oscillator [update] [22] A typical GPS receiver module measuring 15 17 mm. OEM GPS receivers may include an input for
+differential corrections, using the SC-104 format. This is typically in the form of a port at 4,800 bit/s speed. Data is actually sent at a much lower rate, which limits the accuracy of the signal
+sent using RTCM. Receivers with internal DGPS receivers can outperform those using external RTCM data. As of 2006, even low-cost units commonly include (WAAS) receivers. RTCM RS-232
+Wide Area Augmentation System A typical GPS receiver with integrated antenna. Many GPS receivers can relay position data to a PC or other device using the protocol, or the newer and less
+widely used . Although these protocols are officially defined by the , references to these protocols have been compiled from public records, allowing open source tools like to read the protocol
+without violating laws. Other proprietary protocols exist as well, such as the and protocols. Receivers can interface with other devices using methods including a serial connection, or . NMEA
+0183 NMEA 2000 [23] NMEA [24] gpsd intellectual property SiRF MTK USB Bluetooth [] edit Navigation signals GPS broadcast signal Each GPS satellite continuously broadcasts a at 50 giving
+the , GPS week number and satellite health information (all transmitted in the first part of the message), an (transmitted in the second part of the message) and an (later part of the message).
+The messages are sent in frames, each taking 30 seconds to transmit 1500 bits.Navigation Message bit/s time-of-week ephemeris almanac Transmission of each 30 second frame begins
+precisely on the minute and half minute as indicated by the satellite's atomic clock according to . Each frame contains 5 subframes of length 6 seconds and with 300 bits. Each subframe
+contains 10 words of 30 bits with length 0.6 seconds each. Satellite message format Words 1 and 2 of every subframe have the same type of data. The first word is the telemetry word which
+indicates the beginning of a subframe and is used by the receiver to synch with the navigation message. The second word is the HOW or handover word and it contains timing information which
+enables the receiver to identify the subframe and provides the time the next subframe was sent. Words 3 through 10 of subframe 1 contain data describing the satellite clock and its
+relationship to GPS time. Words 3 through 10 of subframes 2 and 3, contain the data, giving the satellite's own precise orbit. The ephemeris is updated every 2 hours and is generally valid for 4
+hours, with provisions for updates every 6 hours or longer in non-nominal conditions. The time needed to acquire the ephemeris is becoming a significant element of the delay to first position
+fix, because, as the hardware becomes more capable, the time to lock onto the satellite signals shrinks, but the ephemeris data requires 30 seconds (worst case) before it is received, due to
+the low data transmission rate.ephemeris The consists of coarse orbit and status information for each satellite in the constellation, an ionospheric model, and information to relate GPS derived
+time to (UTC). Words 3 through 10 of subframes 4 and 5 contain a new part of the almanac. Each frame contains 1/25th of the almanac, so 12.5 minutes are required to receive the entire
+almanac from a single satellite. The almanac serves several purposes. The first is to assist in the acquisition of satellites at power-up by allowing the receiver to generate a list of visible
+satellites based on stored position and time, while an ephemeris from each satellite is needed to compute position fixes using that satellite. In older hardware, lack of an almanac in a new
+receiver would cause long delays before providing a valid position, because the search for each satellite was a slow process. Advances in hardware have made the acquisition process much
+faster, so not having an almanac is no longer an issue. The second purpose is for relating time derived from the GPS (called GPS time) to the international time standard of . Finally, the
+almanac allows a single-frequency receiver to correct for ionospheric error by using a global ionospheric model. The corrections are not as accurate as augmentation systems like or
+dual-frequency receivers. However, it is often better than no correction, since ionospheric error is the largest error source for a single-frequency GPS receiver. An important thing to note about
+navigation data is that each satellite transmits not only its own , but transmits an for all satellites.almanac Coordinated Universal Time [25] UTC WAAS ephemerisalmanac All satellites
+broadcast at the same two frequencies, 1.57542 GHz (L1 signal) and 1.2276 GHz (L2 signal). The receiver can distinguish the signals from different satellites because GPS uses a (CDMA)
+spread-spectrum technique where the low-bitrate message data is encoded with a high-rate (PRN) sequence that is different for each satellite, The receiver knows the PRN codes for each
+satellite and can use this to reconstruct the actual message data. The message data is transmitted at 50 bits per second. Two distinct CDMA encodings are used: the coarse/acquisition (C/A)
+code (a so-called ) at 1.023 million per second, and the precise (P) code at 10.23 million chips per second. The L1 carrier is modulated by both the C/A and P codes, while the L2 carrier is only
+modulated by the P code. The C/A code is public and used by civilian GPS receivers, while the P code can be encrypted as a so-called P(Y) code which is only available to military equipment
+with a proper decryption key. Both the C/A and P(Y) codes impart the precise time-of-day to the user. code division multiple access pseudo-random Gold code chips [26] [] edit Satellite
+frequencies (1575.42 ): Mix of Navigation Message, coarse-acquisition (C/A) code and encrypted precision P(Y) code, plus the new on future Block III satellites.L1 MHz L1C (1227.60 MHz):
+P(Y) code, plus the new code on the Block IIR-M and newer satellites.L2 L2C (1381.05 MHz): Used by the Nuclear Detonation (NUDET) Detection System Payload (NDS) to signal detection of
+nuclear detonations and other high-energy infrared events. Used to enforce nuclear test ban treaties.L3_ (1379.913 MHz): Being studied for additional ionospheric correction.L4 (1176.45 MHz):
+Proposed for use as a civilian safety-of-life (SoL) signal (see ). This frequency falls into an intemationally protected range for aeronautical navigation, promising little or no interference under all
+circumstances. The first Block IIF satellite that would provide this signal is set to be launched in 2009.L5 GPS modernization [27] [] edit Demodulation and decoding Demodulating and
+Decoding GPS Satellite Signals using the Coarse/Acquisition Gold code. Since all of the satellite signals are modulated onto the same L1 carrier frequency, there is a need to separate the
+signals after demodulation. This is done by assigning each satellite a unique sequence known as a , and the signals are decoded, after demodulation, using modulo 2 addition of the Gold codes
+corresponding to satellites through , where is the number of channels in the GPS receiver and through are the pseudorandom numbers associated with the satellites. The result of these modulo
+2 additions are the 50 bit/s navigation messages from satellites through . The Gold codes used in GPS are a sequence of 1023 bits with a period of one millisecond. These Gold codes are highly
+mutually orthogonal, so that it is unlikely that one satellite signal will be misinterpreted as another. As well, the Gold codes have good auto-correlation properties. pseudorandom Gold code
+ninkkninknink [28] There are 1025 different Gold codes of length 1023 bits, but only 32 are used. These Gold codes are quite often referred to as "pseudo-random noise" since they contain
+no data. However, this may be misleading since they are actually deterministic sequences. If the almanac information has previously been acquired, the receiver picks which satellites to listen
+for by their PRN numbers. If the almanac information is not in memory, the receiver enters a search mode and cycles through the PRN numbers until a lock is obtained on one of the satellites
+To obtain a lock, it is necessary that there be an unobstructed line of sight from the receiver to the satellite, The receiver can then acquire the almanac and determine the satellites it should
+listen for. As it detects each satellite's signal, it identifies it by its distinct C/A code patter. The receiver uses the C/A Gold code with the same PRN number as the satellite to compute an
+offset, O, that generates the best correlation. The offset, O, is computed in a trial and error manner. The 1023 bits of the satellite PRN signal are compared with the receiver PRN signal. If
+correlation is not achieved, the 1023 bits of the receiver's intemally generated PRN code are shifted by one bit relative to the satellite's PRN code and the signals are again compared. This
+process is repeated until correlation is achieved or all 1023 possible cases have been tried (see ). If all 1023 cases have been tried without achieving correlation, the frequency oscillator is
+offset to the next value and the process is repeated. "How a GPS Receiver Gets a Lock" Since the cartier frequency received can vary due to shift, the points where received PRN sequences
+begin may not differ from O by an exact integral number of milliseconds. Because of this, carrier frequency tracking along with PRN code tracking are used to determine when the received
+satellite's PRN code begins (see ). Unlike the earlier computation of offset in which trials of all 1023 offsets could potentially be required, the tracking to maintain lock usually requires shifting of
+half a pulse width or less. To perform this tracking, the receiver observes two quantities, phase error and received frequency offset. The correlation of the received PRN code with respect to the
+receiver generated PRN code is computed to determine if the bits of the two signals are misaligned. Comparisons with correlation computed with receiver generated PRN code shifted half a
+pulse width early and half a pulse width late (see section 1.4.2.4 of ) are used to estimate adjustment required. The amount of adjustment required for maximum correlation is used in
+estimating phase error. Received frequency offset from the frequency generated by the receiver provides an estimate of phase rate error. The command for the frequency generator and any
+further PRN code shifting required are computed as a function of the phase error and the phase rate error in accordance with the control law used. The Doppler velocity is computed as 2
+function of the frequency offset from the carrier nominal frequency. The Doppler velocity is the velocity component along the line of sight of the receiver relative to the satellite. Doppler "How a
+GPS Receiver Gets a Lock" [8] As the receiver continues to read successive PRN sequences, it will encounter a sudden change in the phase of the 1023 bit received PRN signal. This indicates
+the beginning of a data bit of the navigation messagesee (see section 1.4.2.5 of ). This enables the receiver to begin reading the 20 millisecond bits of the navigation message. Each subframe
+of the navigation frame begins with a Telemetry Word which enables the receiver to detect the beginning of a subframe and determine the receiver clock time at which the navigation subframe
+begins. Also each subframe of the navigation frame is identified by bits in the Handover Word (HOW) thereby enabling the receiver to determine which subframe (see section 1.4.2.6 of [8] [8]

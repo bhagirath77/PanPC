@@ -1,0 +1,13 @@
+Contacts About IN-SPIRETM The IN-SPIRETM discovery tool integrates information visualization with query and other interactive capabilities. In the Galaxy visualization (upper right), dots
+represent documents and cluster around center points that represent central topics or themes, like constellations in the sky. The ThemeViewTM visualization (lower right) provides an even faster
+way to get a visual overview of a collection of data. Users see a relief map where the highest peaks represent the most prevalent topics in the collection. People have the natural ability to
+rapidly comprehend visual images. To make the most of this skill, researchers at PNNL have developed IN-SPIRETM and other creative and powerful approaches to present different kinds of data
+in visual displays. IN-SPIRETM can quickly and automatically convey the gist of large sets of unformatted text documents such as technical reports, web data, newswire feeds and message
+traffic. IN-SPIRETM can handle real-time data by adding new documents as they arrive. It also processes foreign language data and provides robust support for translation. By clustering similar
+documents together, this Windows-based software unveils common themes and reveals hidden relationships within the collection. IN-SPIRETM allows analysts to spend more time exploring the
+information they find most relevant and less time sifting through the masses of irrelevant documents. IN-SPIRETM analyzes a multitude of text files and determines key topics or themes in each
+to create a signature for each document in the collection. IN-SPIRE's two main visualizations display representations of the documents in which those with similar or related topics appear closer
+together. The Galaxy visualization uses the metaphor of the stars in the night sky with each star representing an individual document. The ThemeViewTM visualization uses 2 3-dimensional
+terrain map display to provide a high-level overview of the data. Search tools in IN-SPIRETM support simple queries, phrase queries, and queries with example text. Other tools help to explore
+trends over time and relationships between concepts. All of the tools in IN-SPIRETM leverage the power of the Galaxy and ThemeViewTM visualizations. Additional Resources - Illustrated and
+annotated guide to icons, windows, and menus. IN-SPIRETM Help - Conversational guide to getting started with the analysis of documents. Tips and Techniques IN-SPIRETM

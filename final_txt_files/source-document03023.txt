@@ -1,0 +1,34 @@
+This article addresses how are used to read and write , using . computers Korean Hangul Contents See also: , , and EUC-KR ISO/IEC 2022 KPS 9566 In , a method known as for a 7-bit
+encoding of Korean characters in was described. Where 8 bits are allowed, the encoding is preferred. These two encodings combine US-ASCII () with the Korean standard :1992 (previously
+named KS C 5601:1987). In , a separate character set called is in use, which is rather similar to KS X 1001. RFC 1557 ISO-2022-KR email EUC-KR ISO 646 KS X 1001 [1] North Korea KPS
+9566 The international standard contains special characters for representing the Korean language in the native phonetic system. There are two ways supported by Unicode. The way used by
+Windows is to have every one of the 11,571 syllable combinations as a code and a pre-formed font character. The other way is to encode , and to let the software combine them into correct
+combinations, which is not supported in Windows. Of course the former way needs more font memory, but gives the possibility of getting better shapes, since it is complicated to create fully
+correct combinations which may be preferred when creating documents. Unicode Hangul jamos There is also the possibility of simply stacking a (sequence of) (s) () and then a (sequence of)
+(s) () and/or a Middle Korean pitch mark, if needed on top of the (sequence of) (s) (), if the font has medial and final with zero-width spacing that are inserted to the left of the cursor or caret,
+thus appearing in the right place below or to the right of the initial. If a syllable has a horizontal medial (, , , or ), the initial will probably appear further left in a complete syllable than is the
+case in pre-formed syllables due to the space that must be reserved for a vertical medial, giving an aesthetically poor appearance to what may be the only way to display Middle Korean Hangul
+text without resorting to images, romanisation, replacement of obsolete jamo or non-standard encodings. However, most current fonts do not support this. medial jungseong final jongseong
+initial choseongjamos The standard also has attempted to create a unified character set that can represent Chinese () as well as the Japanese () and Korean () derivatives of this script through
+the process, which does not discriminate by language nor region for rendering Chinese characters, as long as the different typographic traditions have not resulted in major differences
+concerning what the character looks like see for examples of characters whose appearance recently underwent only minor changes in Mainland China. Han unification has met with some
+
+ism. Unicode CJK Hanzi Kanji Hanja Han unification Image:xi ing.png See also: , , , and Input method editor List of input methods for UNIX platforms Japanese input methods
+Chinese input methods for computers On a Korean computer keyboard, text is typically entered by simply pushing a key for the appropriate ; the operating system creates each composite
+character on the fly. Depending on the IME and keyboard layout, double consonants can be entered by holding the shift button. When all jamo making up a syllabic block have been entered,
+the user may initiate a conversion to Hanja or other special characters using a keyboard shortcut or interface button; South Korean keyboards have a separate key for this. Subsequent
+semi-automated hanja conversion is supported to varying degrees in word processors. Jamo When using a keyboard from another language, most operating systems require the user to type
+using an original Korean keyboard layout, the most common of which is . This is in contrast to some other languages like Japanese, where text can be entered using a Romanization system on
+non-native keyboards. 2(du)-beolsik [] edit Hanja Apart from the conversion issues mentioned above, some Korean fonts do not include hanja to start with. At the same time, current word
+processors do not allow the user to specify which font to use as a fallback for any hanja that may occur in a text. In that case, each sequence of hanja must be manually formatted to appear in
+the desired font. [] edit Special situations Having text run in vertical lines is poorly or not at all supported by HTML and most word processors, although this is not an issue for modem Korean,
+as it is usually written horizontally. Until the second half of the 20th century, however, Korean was often written vertically. 15th century texts written in Hangul had pitch marks to the left of
+syllables, which are included in Unicode, although most current fonts do not adequately support them, either. See the section on above for obsolete jamo. #Character encodings Notable
+programs specifically designed for Korean language-related use include: Language recognition A North Korean program is said to recognise 100,000 words and to achieve a success rate of
+more than 90%. speech recognition [2] Input method editors (; , North Korea) Allows the use of Hangul on English editions of Windows. Tan'gun Pyongyang Information Center [3] ( ); Kim
+Yongmook, South Korea) - A Hangul input method which is especially made for the 3(se)-beolsik keyboard layout. (Only works on Microsoft Windows) Nalgaeset Hangul Input Method Editor (),
+(; South Korea) - Allows to type Hangul on .Nabiami Linux All programs listed below include domestic Hangul fonts, non-Hangul fonts and a Hangul conversion utility. Word processors hanja (,
+South Korea) Hangul Haansoft (; PIC, North Korea) This popular program exists in an version developed in April 1990 and a Windows version developed in 1996. It includes a peculiar feature
+by which pressing or produces titles exalting and , respectively. Ch'angd k [3] MS-DOS [1] [4] personality cult Ctr+ICtri+J Kim Il-sung Kim Jong-il [5] [] edit Hangul in Unicode Hangul are
+detailed in 3 separate parts of the Unicode specification: Hangul (1100 11FF) Jamo Hangul Syllables (ACO0-D7AF) [] edit Hangul Syllables Area To find Hangul Syllables in Unicode, you can
+apply a simple formula. The formula and tables are: [{(initial) 588}+{(medial) 28}+(final)]+44032

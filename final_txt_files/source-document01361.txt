@@ -1,0 +1,19 @@
+Atari Glossary '0...9' 2600 After renaming its gaming consoles product range, Atari renamed the 'VCS' (Video Computer System) to Atari '2600'. 4-switch Nickname for the Atari (VCS) 2600
+model with 4 switches (power, color/bw, select, reset). 400 / 800 Atari's first bit home-computer models, nicknamed 'Candy' and Colleen. 5200 In 1982 Atari released its most
+sophisticated video game system of that time: the Atari 5200 Super System. The system was announced as the Atari Video System x, but was renamed later. Technically, the 5200 was
+compatible to the 400/800 line of home-computers; due to rivalry between the video-games and the computer division they had to make some minor modifications, so that the 400/800 games
+wouldn't run on the 5200! The '5200' had to compete with the Intellivision and the Colecovision video game systems. 6-switch Nickname for the Atari (VCS) 2600 model with 6 switches
+(power, color/bw, select, reset, difficulty a, difficulty b). 7800 In the year 1983, Atari wanted to do everything better; everything they did wrong on the 5200 Super System. Atari tried to find
+out what the fans of video-games expected from a new system. So they made interviews with thousands of people to gain some ideas for their new project called Atari 3600'. Later it was
+renamed to 'Maria. Atari ordered the GCC (General Computer Corporation) to design an improved chipset for their new system with enhanced colors and graphics. The chipset was called
+'MARIA'. The new console also should support a keyboard add-on which would convert the 7800 into a fully grown sbit-computer. Atari threw away the weird controllers of the 5200 and
+designed the new ProController, the Cx24 (in Europe, the 7800 was shipped with the Atari joypad-controller (CX78)) and they made a smaller case for the 7800. But the most important thing
+they added to the 7800 was a full 2600-compatibility. This gave owners of a 2600 the possibility to play the HUGE library of all available titles for the ageing system. When a 7800 cartridge was
+inserted, the system handed over the control to the new 'Maria'-chipset and could take advantage of the enhanced possibilities. The system recognized the 7800 cartridges by the added
+authentication / encryption-key. By using the authentication / encryption-key, Atari wanted to control the games released for the system. If they thought a game to be not good enough, they
+just wouldn't provide the key. If the system didn't detect any authentication / encryption-key, the console switched to the 2600 compatibility-mode. Due to military export-restrictions, the
+960bit-encryption was ONLY used on the US-version of the 7800! There also was the plan to produce the 'Slam-Pam'. An add-on for the Atari 5200 that would provide full 7800 compatibility for
+this machine! The 7800 was ready to hit the market... But when the Tramiels bought Atari, something terrible happened: the 7800 was shelved, because the Tramiels wanted Atari to become a
+leading company in the home-computer business and they didn't see any need to build and market game-consoles! Nearly three years later, in 1986, Nintendo and Sega were ruling the
+video-game market. Atari thought that it now (!) would be the right time to release the Atari 2600jr and the Atari 7800 ProSystem, both developed three years ago. Contents and pictures
+1999 - 2004 by 'www.atarihistory.de' unless otherwise noticed

@@ -1,0 +1,115 @@
+vielle Medieval manuscript Instruments used to perform medieval music still exist, though in different forms. The was once made of rather than or other metal, and could be made as a
+side-blown or end-blown instrument. The , on the other hand, has more or less retained its past form. The is similar to the recorder in having finger holes on its front, though it is really a
+member of the family. One of the flute's predecessors, the , was popular in medieval times, and is possibly of origin. This instrument's pipes were made of wood, and were graduated in length
+to produce different pitches. flute wood silver recorder gemshorn ocarina pan flute Hellenic Medieval music uses many plucked , such as ,, and. The , similar in structure to the and , were
+originally plucked, but became struck in the 14th century, after the arrival of the new technology that made metal strings possible. The was (and still is) @ mechanical violin using a rosined
+wooden wheel attached to a crank to "bow" its strings. Instruments without sound boxes such as the were also popular in the time. Early versions of the , (or ), and (called the ) existed as well
+string instruments lute mandora gittemn psaltery dulcimers psaltery zither hurdy-gurdy Jew's harp organ fiddle vielle trombone sackbut [] edit Genres In this era, music was both and ,
+although almost no early secular music has survived, and since was a relatively late development, reconstruction of this music, especially before the 12th century, is currently a matter of
+conjecture (see ). sacred secular notation authentic performance [] edit Theory and notation During the Medieval period the foundation was laid for the notational and theoretical practices that
+would shape western music into what it is today. The most obvious of these is the development of a comprehensive notational system, however the theoretical advances, particularly in regards
+to rhythm and polyphony, are equally important to the development of western music. [] edit Notation The earliest Medieval music did not have any kind of notational system. The tunes were
+primarily monophonic and transmitted by oral tradition. However, the need for some sort of notation became evident in the sacred chant tradition. As the Christian liturgy became more complex
+and varied, difficulties of memorization increased for the performer. Also, as Rome tried to centralize the various liturgies and establish the Roman rite as the primary tradition the need to
+effectively transmit these chant ideas across vast distances was equally glaring. The first step to fix this problem came with the introduction of various signs written above the chant texts,
+called . The origin of is unclear and subject to some debate, however, most scholars agree that their closest ancestors are the classic Greek and Roman grammatical signs that indicated
+important points of declamation by recording the rise and fall of the voice. The two basic signs of the classical grammarians were the , /, indicating a raising of the voice, and the , \, indicating
+a lowering. These eventually evolved into the basic symbols for notation, the (or "rod") which indicates a higher note and still looked like the from which it came; and the (or "dot") which
+indicates a lower note and, as the name suggests, reduced the symbol to a point. This kind of notation seems to have developed no earlier than the eighth century, but by the ninth it was
+firmly established as the primary method of musical notation. The basic notation of the and the remained the symbols for individual notes, but other soon developed which showed several notes
+joined together. These new called ligatures are essentially combinations of the two original signs. It should be noted that this basic notation could only specify the number of notes and whether
+they moved up or down. There was no way to indicate exact pitch, any rhythm, or even the starting note. These limitations are further indication that the were developed as tools to support the
+practice of oral tradition, rather than supplant it. But, though it started as merely a memory aid, the worth of having more specific notation soon became evident. The next development in
+musical notation were "heighted ", in which were carefully placed at different heights in relation to each other. This allowed the to roughly indicate the size of a given interval as well as the
+direction. This quickly led to one or two lines, each representing a particular note, being placed on the music with all the relating back to them. At first these lines had no particular meaning and
+instead had a letter placed at the beginning indicating which note was represented. However, slowly the lines indicating middle C, and the F a fifth below, became most common. Having at first
+been merely scratched on the parchment, the lines now were drawn in two different colored inks: usually red for F, and yellow or green for C. This was the beginning of the musical staff as we
+know it today. The completion of the four-line staff is usually credited to (c. 1000-1050) one of the most important musical theorist of the Middle Ages. It should be noted that while older
+sources attribute the development of the staff to Guido, some modern scholars suggest that he acted more as a codifier of a system that was already in development. Either way, this new
+notation allowed a singer to learn pieces completely unknown to him in a much shorter amount of time. However, even though chant notation had progressed in many ways, one fundamental
+problem remained: rhythm, The notational system even in its fully developed state did not clearly define any kind of rhythm for the singing of notes. [1] [2] [3] neumes [4] neumes [5]
+actusgravisneumaticvirgaacutuspunctumgravis [6] [7] virgapunctumneumesneumes [8] neumaticneumes [9] neumesneumesneumesneumes [10] Guido d Arezzo [11] [12] neumatic [13] []
+edit Music theory The of the Medieval period saw several advances over previous practice both in regards to tonal material, texture, and rhythm. concerning this period had several dramatic
+changes in both its conception and notation. During the early Medieval period there was no method to notate rhythm, and thus the rhythmical practice of this early music is subject to heated
+debate among scholars. The first kind of written rhythmic system developed during the 13th century and was based around a series of modes. This rhythmic plan was codified by the music
+theorist , author of the (c.1250), the treatise which defined and most completely elucidated these . In his treatise Johannes de Garlandia describes six of mode, or six different ways in which
+longs and breves can be arranged. Each mode establishes a rhythmic pattem in beats (or ) within a common unit of three (a ) that is repeated again and again. Furthermore, notation without
+text is based on chains of (the characteristic notations by which groups of notes are bound to on another). The rhythmic mode can generally be determined by the patterns of ligatures used.
+The melodic line, once it had its mode, would generally remain in it, although rhythmic adjustments could be indicated by changes in the expected pattern of ligatures, even to the extent of
+changing to another rhythmic mode. The next step forward concerning rhythm came from the theorist . In his treatise ("The Art of Mensurable Music"), written around 1280, he describes a
+system of notation in which differently shaped notes have entirely different rhythmic values. This is a striking change from the earlier system of de Garlandia. Whereas before the length of the
+individual note could only be gathered from the mode itself, this new inverted relationship made the mode dependent upon and determined by the individual notes or that have incontrovertible
+durational values, an innovation which had a massive impact on the subsequent history of European music. Most of the surviving notated music of the 13th century uses the rhythmic modes as
+defined by Garlandia. The step in the evolution of rhythm came after the turn of the 13th century with the development of the style. music theory rhythm [14] Johannes de Garlandia De
+mensurabili musica rhythmic modes [15] speciestemporatemporaperfectio ligatures [16] [17] German Franco of Cologne Ars Cantus Mensurabilisfigurae [18] Ars Nova The theorist who is most
+well recognized in regards to this new style is , famous for writing the ("New Art") treatise around 1322. This treatise on music gave its name to the style of this entire era, Further more, his
+contributions to the notation of rhythm made possible the free and rhythmically complex music of the next hundred years. In some ways the modern system of rhythmic notation began with
+Vitry, who broke completely free from the older idea of the rhythmic modes. The notational predecessors of modern time meters also originate in the . This new style was clearly built upon the
+work of Franco of Cologne. In Franco's system, the relationship between a and a (that is, half breves) was equivalent to that between a breve and a long: and, since for him was always perfect
+(grouped in threes), the or beat was also inherently perfect and therefore contained three semibreves. Sometimes the context of the mode would require a group of only two semibreves,
+however, these two semibreves would always be one of normal length and one of double length, thereby taking the same space of time, and thus preserving the perfect subdivision of the . This,
+temary division held for all note values. In contrast, the period introduced two important changes, the first was an even smaller subdivision of notes (semibreves, could now be devided into )
+the second was the development of "mensuration. By the time of , the perfect division of the was not the only option as duple divisions became more accepted. For Vitry the breve could be
+divided, for an entire composition, or section of one, into groups of two or three smaller semibreves This way, the (the term that came to denote the division of the breve) could be either
+"perfect," () with ternary subdivision, or "imperfect,"() with binary subdivision. In a similar fashion, the semibreve's division (termed ) could be divided into three ( or major prolation) or two (
+or minor prolation) and, at the higher level, the division (called ) could be three or two breves ( or perfect mode, or or imperfect mode respectively). Vitry took this a step further by indicating
+the proper division of a given piece at the beginning through the use of a "mensuration sign," equivalent to our modern "time signature. was indicated by a circle, while was denoted by a
+half-cirdle (our current "C" as a stand-in for the 4/4 time signature is actually a holdover from this practice, not an abbreviation for "common time", as popularly believed). It should be noted
+that while many of these innovations are ascribed to Vitry, and somewhat present in the treatise, it was a contemporary and personal acquaintance of de Vitry, named ()who offered the most
+comprehensive and systematic treatment of the new mensural innovations of the (for a brief explanation of the mensural notation in general, see the article )Many scholars, citing a lack of
+positive attributory evidence, now consider "Vitry's" treatise to be anonymous, but this does not diminish its importance for the history of rhythmic notation. However, this makes the first
+definitely identifiable scholar to accept and explain the mensural system to be de Muris, who can be said to have done for it what Garlandia did for the rhythmic modes. Philippe de Vitry Ars
+Nova [19] Ars Nova breve semibreves modustempustempus [20] Ars Nova minim Ars NovatempustempusTempus perfectusTempus imperfectus [21] prolationminimaperfectus prolatio
+minimaprolatio imperfectus longs modusperfectus modus modus imperfectus [22] [23] [24] Tempus perfectustempus imperfectus [25] Ars Nova Johannes de Muris Jehan des Mars Ars Nova
+[26] Renaissance music For the duration of the medieval period, most music would be composed primarily in perfect tempus, with special effects created by sections of imperfect tempus; there
+is a great current controversy among musicologists as to whether such sections were performed with a breve of equal length or whether it changed, and if so, at what proportion. This style
+remained the primary rhythmical system until the the highly syncopated works of the at the end of the 14th century. This sub-genera pushed the rhythmic freedom provided by to its limits,
+with some compositions having different voices written in different tempus signatures simultaneously. The rhythmic complexity that was realized in this music is comparable to that in the 20th
+century. Ars Nova Ars subtilior Ars Nova [27] Of equal importance to the overall history of western music theory were the textural changes that came with the advent of polyphony. This practice
+shaped western music into the harmonically dominated music that we know today. The first accounts of this textual development were found in two anonymous yet widely-circulated treatises
+on music, the and the . These texts are dated to sometime within the last half of the ninth century. The treatises describe a technique that seemed to already be well established in practice.
+This early polyphony is based on three simple and three compound intervals. The first group comprises fourths, fifths, and octaves; while the second group has octave-plus-fourths,
+octave-plus-fifths, and double octaves. This new practice is given the name by the author of the treatises. can further be classified depending on at what time period it was written. The early as
+described in the can be termed "strict " Strict can, in tum, be subdivided into two types: (organum at the interval of a fifth) and (organum at the interval of a fourth). However, both of these
+kinds of strict had problems with the musical rules of the time. If either of them paralleled an original chant for too long (depending on the mode) a would result. This problem was somewhat
+overcome with the use of a second type of This second style of was called "free ". Its distinguishing factor is that the parts did not have to only move in parallel motion but could also move in
+oblique,or contrary fashion. This made it much easier to avoid the dreaded tritone The final style of that developed was known as", which was a rather dramatic departure from the rest of the
+polyphonic music up to this point. This new style was not note against note, but was rather one sustained line accompanied by a florid melismatic line. This final kind of was also incorporated by
+the most famous polyphonic composer of this time . He united this style with measured passages, which used the rhythmic modes, to create the pinnacle of composition. It should be noted that
+this final stage of is sometimes referred to as school of polyphony since that was where L onin (and his student ) were stationed. Further more, this kind of polyphony influenced all subsequent
+styles, with the later polyphonic genera of motets starting as a trope of existing Notre Dame . [28] Musica Scolica enchiriadis [29] [30] [31] organum [32] Organumorganumenchiriadisorganum
+[33] organumdiapentediatesseron [34] organum tritone [35] organumorganumorganum [36] organum melismatic organum [37] organum L onin discant organum [38] organum Notre Dame P
+rotin organums Another important element of Medieval music theory was the unique tonal system by which pitches were arranged and understood. During the Middle Ages this systematic
+arrangement of a series of whole steps and half steps, what we now call a, was known as a. The modal system worked like the scales of today, insomuch that it provided the rules and material
+for melodic writing. The eight church modes are: ,, ,,, , , and much of the information concerning these modes, as well as the practical application of them, was codified in the 11th century by
+the theorist . In his work he describes that there are three defineing elements to each mode. The , the reciting tone, and the range. The is the tone that serves as the focal point for the mode.
+It is also almost always used as the final tone (hence the name) the reciting tone (sometimes referred to as the tenor or ) is the tone that serves as the primary focal point in the melody
+(particularly internally) it generally is also the tone most often repeated in the piece, and finally the range (or ) is the maximum proscribed tones for a given mode. The eight modes can be
+further divided into four categories based on their final (). Medieval theorists called these pairs and labeled them according to the Greek ordinal numbers. Those modes that have d, e, f, and g
+as their final are put into the groups , , , and respectively. These can then be divided further based on whether the mode is "authentic" or "plagal." These distinctions deal with the range of the
+mode in relation to the final. the authentic modes have a range that is about an octave (one tone above or below is allowed) and starts on the final, whereas the plagal modes, while still
+covering about an octave, start a perfect fourth below the authentic. Another interesting aspect of the modal system is the universal allowance for altering B to Bb no matter what the mode.The
+inclusion of this tone has several uses, but one that seems particularly common is in order to avoid melodic difficulties caused, once again, by the tritone. scale mode [39] Dorian Hypodorian
+Phrygian Hypophrygian Lydian Hypolydian Mixolydian Hypomixolydian [40] Johannes Afflighemensis finalisfinalisconfinalisambitus [41] finalismaneriaeprotusdeuterustritustetrardus [42] [43]
+[44] [45] These ecclesiastical modes, although they have Greek names, have little relationship to the modes as set out by Greek theorists. Rather, most of the terminology seems to be a
+misappropriation on the part of the medieval theorists However, though the church modes have no relation to the ancient Greek modes, the overabundance of Greek terminology does point to
+an interesting possible origin in the liturgical melodies of the tradition. This system is called and is also divided into eight categories, called . [46] Byzantine oktoechosechoi [47] [] edit Early
+medieval music (before 1150) [] edit Early chant traditions (or plainsong) is a sacred form which represents the earliest known music of the Christian church. The Synagogue tradition of
+singing was a strong influence on Christian chanting. Chant monophonic Jewish psalms Chant developed separately in several European centres. The most important were , , , , and but there
+were others as well. These chants were all developed to support the regional liturgies used when celebrating the Mass there. Each area developed its own chants and rules for celebration. In
+Spain, was used and shows the influence of . The Mozarabic liturgy even survived through rule, though this was an isolated strand and this music was later suppressed in an attempt to enforce
+conformity on the entire liturgy. In Milan, , named after , was the standard, while developed around , another Italian liturgical center. was used in Gaul, and in Ireland and Great Britain. Rome
+Spain Gaul Milan Ireland Mozarabic chant North African music Muslim Ambrosian chant St. Ambrose Beneventan chant Benevento Gallican chant Celtic chant Around 1011 AD, the wanted to
+standardize the and chant. At this time, Rome was the religious centre of western Europe, and Paris was the political centre. The standardization effort consisted mainly of combining these two
+(and ) regional liturgies. This body of chant became known as Gregorian Chant. By the 12th and 13th centuries, Gregorian chant had superseded all the other Wester chant traditions, with
+the exception of the Ambrosian chant in Milan, and the Mozarabic chant in a few specially designated Spanish chapels. Roman Catholic Church Mass Roman Gallican See also: Gregorian chant
+ [J edit Early polyphony: organum Around the end of the ninth century, singers in monasteries such as in began experimenting with adding another part to the chant, generally a in , singing
+in mostly perfect or with the original tune (see ). This development is called , and represents the beginnings of and, ultimately, . Over the next several centuries organum developed in several
+ways. St. Gall Switzerland voice parallel motion fourths fifths interval organum harmony counterpoint The most significant was the creation of "florid organum" around 1100, sometimes known
+as the (named after a monastery in south-central France, which contains the best-preserved manuscript of this repertory). In "florid organum'" the original tune would be sung in long notes
+while an accompanying voice would sing many notes to each one of the original, often in a highly elaborate fashion, all the while emphasizing the perfect (fourths, fifths and octaves) as in the
+earlier organa. Later developments of organum occurred in England, where the interval of the was particularly favoured, and where organa were likely improvised against an existing chant
+melody, and at in Paris, which was to be the centre of musical creative activity throughout the thirteenth century. school of St. Martial consonances third Notre Dame Much of the music from
+the early medieval period is . Some of the names may have been poets and lyric writers, and the tunes for which they wrote words may have been composed by others. Attribution of
+monophonic music of the medieval period is not always reliable. Surviving manuscripts from this period include the , of , and the . anonymous Musica Enchiriadis Codex Calixtinus Santiago de
+Compostela Winchester Troper

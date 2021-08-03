@@ -1,0 +1,74 @@
+HanYang System Co., Ltd. (aka /SaeGulRim) is a sans-serif type designed especially for the -language script, designed by HanYang System Co., Limited (now Hanyang Information &
+Communications Co., Ltd). It is an expanded version of Hanyang Gulrim ( ).New Gulim unicode font Korean Font is hinted at 0-13 points, hinted and smoothed at 14 points or higher. It
+contains 49,284 glyphs and no kerning pairs in v3.10. This font was part of Old Korean support tools for MS Word 2000 and 2003. There are also alternative forms for the letters: It covers
+following ranges: Basic Latin, Latin-1 Supplement, Latin Extended-A, Spacing Modifier Letters, Greek, Cyrillic, Hangul Jamo, General Punctuation, Letterlike Symbols, Number Forms,
+Arrows, Mathematical Operators, Enclosed Alphanumerics, Box Drawing, Geometric Shapes, Miscellaneous Symbols, CJK Symbols and Punctuation, Hiragana, Katakana, Hangul
+Compatibility Jamo, Enclosed CK Letters and Months, CJK Compatibility, CJK Unified Ideographs Extension A, CJK Unified Ideographs, Hangul Syllables, CJK Compatibility Ideographs,
+Halfwidth and Fullwidth Forms. It basically extended the Gulim font to support all glyphs in CJK Unified Ideographs Extension A, CJK Unified Ideographs (up to Unicode 3.0), and
+miscellaneous glyph updates, with slight change in font metrics. In the English language all the words (even the very simple words like, a, an, the, one and two) have a history of how they
+originated from proto-Germanic, Latin, Greek, Romance languages or Old English, and then how they took the modern shape. During that period their spelling and pronunciation and also
+their meaning were changed a number of times (pp. 184-192). Every letter of English language has a sound which further changes according to the style of the pronunciation of a particular
+word. Thus, sometimes a letter has more than one sound, and sometimes more than one letter has the same sound. For example: In the words at and itten, and both have the same
+sound; in the word prt, has both sounds, short and long ; in the words fnsh, fnte and Iter, is pronounced differently ; in the words enter and entene, and both have the same sound; and in
+the words fr, frk and frquency, long is written in three styles, , , and ; and so on. Though Mandarin Chinese is spoken by a greater number of people, English is spoken over a wider area
+of the world. English is also the of both the European Union and the Internet. It is also widely used is international tourism and trade.lingua franca However, contrary to popular belief,
+Spanish is the language with the second amount of people speaking it after Mandarin Chinese; English is third. Wikipedia (see link below) gives the order as follows, but the figures may be
+out-of-date: Mandarin (873 million) Spanish (321 million) Arabic (206 million) . The above refers to . English is widely learned as a foreign language. In many parts of the world if you
+don't have a reasonable knowledge of English you are considered uneducated.Notenative speakers > > > > What is the most spoken language on earth? It also covers the following ranges
+in Maintype: Basic Latin (128 characters), Latin-1 Supplement (96 characters), Latin Extended-A (128 characters), Latin Extended-B (7 characters), Spacing Modifier Letters (10
+characters), Greek and Coptic (73 characters), Cyrillic (94 characters), Hangul Jamo (250 characters), Latin Extended Additional (8 characters), General Punctuation (25 characters),
+Superscripts and Subscripts (6 characters), Currency Symbols (5 characters), Letterlike Symbols (10 characters), Number Forms (26 characters), Arrows (13 characters), Mathematical
+Operators (43 characters), Miscellaneous Technical (5 characters), Enclosed Alphanumerics (82 characters), Box Drawing (97 characters), Block Elements (8 characters), Geometric Shapes
+(34 characters), Miscellaneous Symbols (24 characters), CJK Symbols/Punctuation (17 characters), Hiragana (83 characters), Katakana (86 characters), Hangul Compatibility Jamo (94
+characters), Enclosed CJK Letters and Months (58 characters), CJK Compatibility (80 characters), CJK Unified Ideographs Extension A (6582 characters), CJK Unified Ideographs (20902
+characters), Hangul Syllables (11172 characters), Private Use Area (5916 characters), CJK Compatibility Ideographs (302 characters), Alphabetic Presentation Forms (2 characters),
+Halfwidth and Fullwidth Forms (100 characters), Specials (1 character). Eskimo-Aleut These groupings, except for the first two, are the native languages in various parts of northeast
+Asia. Eskimo-Aleut is moreover spoken across the subarctic region from northeast Asia to Greenland, and the Uralic languages are also spoken westward as far as into Scandinavia and
+Hungary. [] edit Relation to other language families According to Greenberg, the language family that Eurasiatic is most closely connected to is . He states that "[tJ]he Eurasiatic-Amerind
+family represents a relatively recent expansion (circa 15,000 BP) into territory opened up by the melting of the Arctic ice cap" (2002:2). In contrast, "Eurasiatic-Amerind stands apart from
+the other families of the Old World, among which the differences are much greater and represent deeper chronological groupings" (ib.). Amerind [] edit Reception by linguists The
+Eurasiatic hypothesis is dismissed by many linguists, often on the ground that Greenberg relies in his research on , a method he developed in the 1950s that remains extremely
+controversial. Others, citing the wide acceptance of his classification of (cf. I wished all my Korean classmates a happy Hangeul day, and almost all of them said really? Today? I also
+was going to ask them if they had blue arses when they were little kids, but it never seemed right... I have a Mongolian classmate too, I'll ask him one day (I just have to try and get
+conversation onto arse bruises somehow so it doesn't seem weird... on the other hand I have already asked almost all classmates \I 2) says: October 10th, 2007 at 6:47 pm Wow, Max, to
+be honest, I'm SHOCKED that your friends didnt know that today was \C) . When speaking Korean, you use formal or informal words and phrases, depending on the status of the person to
+whom you are talking. For example, you generally use informal speech to children and formal speech to older people. It is better to err by being too formal rather than showing disrespect.
+However, Koreans do not expect foreigners to be fluent and will usually excuse minor mistakes. To aid the traveler and expatriate, has created several pages of useful . To truly learn the
+Korean language, you should enroll in any of the numerous courses offered by Korean universities and private organizations. We also encourage you to try the excellent resources at
+Korean languageHanja Joseon dynasty Hangul alphabet Book of Changes | | | About Hangul Writing Phrases Vocabulary The is classified as a member of the Ural-Altaic family (other
+members of this family include the Mongolian, Finnish, and Hungarian languages.) Until the early 1400s, most documents were written in classical Chinese characters (known in Korean as
+). As the idiographs are difficult to learn, only the educated people could read and write. King Sejong, the 4th ruler of the (1392-1910), set up a special committee of scholars in 1443 to
+create a new writing system specifically suited to the Korean language. The result was (meaning 'the one script). It originally contained 28 symbols, although 4 have dropped out of use.
+The has 10 vowels and 14 consonants. The consonants represent the simplified outlines of the parts of the mouth and tongue used to pronounce them. The vowels are associated with
+elements of the philosophy of the . In 1994, Discovery magazine described as the most logical language writing system in the world, Before this document describing the writing system
+was discovered in 1930s (I was never good at History), no one knew what this system was based on. Some claimed that one day looked at his "window" (before glass, thick papers were
+used to cover wooden frames with geometric shapes) and came up with the idea.king SeJong However, the document describes the philosophical (i.e., / "heaven, earth and human") and
+physiological (e.g., shapes and locations of mouth and tongue) bases for each alphabet ( ).CheonJiInJaMo These culture classes are entertaining, I like the laid back feel. says: October
+10th, 2007 at 12:23 am There are quite a few interesting North Korean words that Korean learners might find very very amusing. Womens bras are called Chere, but in North Korea
+they call them 1 (and * menas a belt or a strip) some more examples of the Korean words YOU know translated into the North Korean version : y((green tea) > xx((blue+tea)
+I(goalkeeper) > 8 O(door + guard) x(shampoo) -> 8 DD (hair+soap) )(heading) -> 8 D0(head+hit) says: And in the photo above, the picture to the left is the shape of the first and
+original design of \O, right after it was made by the King Sejong. says: As Koreans, we have classes in middle school and high school on how to read the classic \CI and traslate it into the
+modern-day \Q. Its quite interesting!! except when you have to take tests on it. says: Jacqueline ( t ) October 10th, 2007 at 10:41 am I still cant imagine how someone (specially a king
+lol) can come up with inventing an alphabet or anything while in the toilet hahahaha! I guess he was too bored ! And was he having some kind of stomach problems haha? novelist Pearl
+Buck said that is the simplest writing system in the world and likened to Leonardo da Vinci. Even though is a system of phonetic symbols, it is categorized as new level of feature system,
+the first and the only in the world. On Oct. 1, 1997, UNESCO designated as world archive property. Koreans commemorate the creation of each year on October 9. Before you begin
+learning the language, you should take some time to practice . The symbols are combined into blocks, each one representing a single syllable. Each syllable must start with a consonant,
+although the is silent in the initial position. Text is arranged either in the traditional vertical fashion, with columns reading from right to left (as in some newspapers and old books) or in
+rows reading left to right (as in most modern novels and magazines). The alphabet may appear complicated, but it is actually easy to learn. Our contributors said this page should be
+displayed for the questions below. () Where do these come from If any of these are a_genuine rephrasing of the question, please help out and .not edit these alternates First language
+spoken on earth? The most spoken language on earth? Which language is more widely used? What language is spoken most on earth? What language is spoken the most on
+
+earth? What is the first most spoken language on earth? What language is spoken by most people on earth? What is the second most spoken language on Earth? What language is
+spoken by the most people on earth? 8 What language is spoken by the most people on earth? Most spoken language on earth? What is the most spoken language in earth? Each
+nation's spoken language is just as different from one another as their respective written language is. It requires a painstaking effort to learn each other's language (both written and
+spoken) just like it would for a native English speaker to learn French or German. Because Hangul is a non-Roman set of characters, you will need to , free from Microsoft, to view Korean
+on MS. Office 2000 or on the Internet. What is Hangul Hangul is the Korean alphabet Invented by King Sejong in 1443 during the Chosun Dynasty, Hangul is amazingly simple in form.
+(basically squares) and scientifically structured therefore relatively easy for foreigners to learn. Because the number of strokes you need to worry about is only 24 (10 vowels and 14
+consonants), you use the regular English computer keyboard to enter Korean characters. The overall square shape is so unique that you will never mistake Hangul for Chinese or
+Japanese. So he really saw the shape of the window or was something else? LOL He probably told a friend: this is how i came up with that idea and told him please dont tell anyone LOL
+But he couldn't keep that secret haha. It was to good to keep it for himself. says: Jo 0 Paulo" October 10th, 2007 at 12:16 pm I really loved this culture class. Thank you very much. I
+learned a lot about Korea. I unfortunately haven't been able to be studying Korean right now, but at least I can follow those culture classes. About the toilet... that was a really weird
+question in the first post, I was a little shocked when I read that, but I believe good ideas can happen anywhere. Therefore, even if the ignorant want to communicate, many of them
+cannot achieve their intent. Because I am saddened by this, I have newly made 28 letters. It is my intention that everybody learn the letters easily so that they can conveniently use them
+everyday. [] edit Versions The manuscript of the original has two versions:Hunminjeongeum Seven pages of and written in , except where the Hangul letters are mentioned. Three copies
+are left: hanja Classical Chinese

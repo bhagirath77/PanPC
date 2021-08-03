@@ -1,0 +1,10 @@
+Solar Module Safety General Information The installation of solar modules (panels) requires a great degree of skill and should (if DC voltage exceeds 100V:) only be performed by a
+qualified licensed professional. Cautions Avoid electrical hazards when installing, wiring, operating and maintaining the module. A photovoltaic module generates DC electricity when
+exposed to sunlight or other light sources. When installing or working with module wiring, cover module face completely with opaque material to halt production of electricity. It is
+recommended that the module remains packed in the box until time of installation. Do not touch terminals while module is exposed to light or during installation. Provide suitable guards to
+prevent contact with 30VDC or greater. As an added precaution, use properly insulated tools only. Do not drop module or allow objects to fall on the module. Do not stand or step on
+module. Since sparks may be produced, do not install module where flammable gases or vapors are present. Never leave a module unsupported or unsecured. If a module should fall, the
+glass can break. A module with broken glass cannot be repaired and must not be used. Work only under dry conditions, with dry module and tools. Module installation and operation should
+be performed by qualified personnel only. Children should not be allowed near the solar electric installation. If not otherwise specified, it is recommended that requirements of the latest
+local, national or regional electric codes be followed. Use module for its intended function only. Do not artificially concentrate sunlight on the module. The word "module" as used in this
+Guide refers to one or more photovoltaic modules (panels).1. 2.

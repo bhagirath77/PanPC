@@ -1,0 +1,244 @@
+Resources and Ideas for Making Maps Feed on January 13, 2009 by John Krygier Examples of map symbols used to show trees and forests on old Russian maps (1700s & 1800s) are
+documented in by Liudmila Andreevna Shaposhnikova. The title is roughly translated to How Forests are Depicted on Maps. The book was published in Moskva, former USSR, in 1957.
+Izobrazhenie Lesa Na Kartakh January 6, 2009 by John Krygier A set of salt and pepper shakers, one each for the 48 contiguous U.S. states. December 23, 2008 by John Krygier Denis Wood
+& John Fels new book is available now from the and many The lowest price I can find at this time is $29 (at ). Denis is, of course, co-author of the book.The Natures of Maps University of
+Chicago Press other sources. Buy.com Making Maps The book is big - almost a foot square - with color maps on almost every page. The book had a harrowing path to publication. Originally
+under contract to ESRI Press, the book was in final galleys (ready to print but for a handful of edits) when ESRI Press decided to cancel it and a dozen other books in process. Given the
+expense of producing the book (and the cost of reproduction rights to the illustrations) this seemed to be a peculiar business decision. The University of Chicago Press subsequently acquired the
+book, more or less ready to print. Heres an editorial blurb I wrote for the book: If Wood & Fels showed that maps were powerful, reveals the source of that power. is about a simple but
+profound idea: maps are propositions, maps are arguments. The book confronts nature on maps 0 nature as threatened, nature as threatening, nature as grandeur, cornucopia, possessable, as
+a system, mystery, and park 0 with intense slow readings of exemplary historical and contemporary maps, which populate this full color, beautifully illustrated and designed book.The Power of
+MapsThe Natures of MapsThe Natures of Maps The careful interrogation of maps reveals that far from passively reflecting nature, they instead make sustained, carefully crafted, and precise
+arguments about nature. shows how maps establish nature, and how we establish maps. The power of maps extends not only from their ability to express the complexities of the natural world
+in an efficient and engaging manner, but in their ability to mask that they are an argument, a proposal about what they show.The Natures of Maps The implications of the arguments in are
+significant, empowering map users and makers. shows that neither map users or map creators are passive, merely accepting or purveying reality; they are, instead, actively engaged in a vital
+process of shaping our understanding of nature in all its complexity. Map users have a critical responsibility, the power to accept, reject, or counter-argue with the maps they encounter. Map
+creators have creative responsibility, the power to build and finesse their arguments, marshalling data and design for broader goals of understanding and communicating truths about the world
+Rethinking how maps work in terms of propositional logic, with its 2000-year history and vast methodological and theoretical foundation, promises to be one of the most profound advances in
+cartographic theory in decades, and shows the way in a captivating manner.The Natures of MapsThe Natures of MapsThe Natures of Maps Considering maps from the perspective of
+propositional logic provides a rigorous foundation for a theory of the map that transcends disciplinary boundaries. Scholars from the humanities, social sciences, and natural sciences will find
+Wood and Fels(1 intellectually sound, methodologically useful, and deeply engaging. But the beauty of is that it is not merely an academic book. Wood and FelsC] The Natures of Maps is a
+powerful, beautifully illustrated and engaged argument about maps as arguments that will appeal to map lovers, map makers, map users, and map scholars. The Natures of MapsThe Natures of
+Maps November 25, 2008 by John Krygier What is a map? J.H. Andrews compiled of map for a 1996 article ( What Was a ? 33:4, pp. 1-11). 321 definitions MapCartographica Edit out all
+the source information and other miscellaneous stuff and you have a bunch of words that can be pumped into a word cloud generator like the wonderful Wordle. The word cloud visualization
+does help to make some sense out of the 8106 words in the 321 definitions. At least we know what we think maps are. Try it yourself. Go to and cut & paste the cleaned up definitions (below).
+There are many graphic options to play with. Wordle """ 321 Definitions of "Map." Go to see the full citations. Many thanks to J.H. Andrews for compiling all the definitions. here """ The
+terrestrial or earthly globe is an artificial representation of the earth and water under that form and figure of roundness which they are supposed to have, describing the situation, and
+measuring the compass of the whole frame, and describing the situation and measuring the distances of all the parts. As the earth and water are wholly represented upon the globe, so the
+whole, or any part of either may be described in plano, or upon a plane surface in a map or sea-chart. It was said before that as the whole earth upon the globe, so the whole or any part
+thereof may be described upon a plane. A schedule containing a description of the world, &c. A representation of the whole globe of the earth, or of some particular country upon a plan, or
+plain superficies. @ representation of the globe of the earth, or of some of its parts, upon a plan or plain superficies. A description of the earth, or some particular part thereof, projected upon
+a plain superficies; describing the form of countries, rivers, situation of cities, hills, woods, and other remarks. The resemblance of the heavens or the earth on a plane superficies. A
+description of the earth, or some particular part thereof, projected upon a plain superficies; describing the form of countries, rivers, situation of cities, hills, woods and other things of note. A
+representation of the earth or some particular part thereof upon a plain superficies. A general map is a description of the whole earth, with the several countries, islands, seas, rivers, &c.
+therein contained, and also the circles of the globe. Particular maps, are either of the four parts of the world; or of particular kingdoms and countries. A representation of the earth, or some
+part of it, on a plane superficies. A general map in geography is a description of the whole earth, with the several countries, islands, seas, rivers, &. therein contained, and also the circles of
+the globe. Particular maps, are either of the four parts of the world; or of particular kingdoms and countries. The problem of composing geographical maps: the situation of an infinite plain, or
+one to be produced at pleasure, being given, to represent in that the places of the superficies of the earth, according to the rules of perspective. The end of these tables or maps is to the life,
+and exactly as may be to express the scituation of places in the superficies of the earth; maps of small regions do not require the rules of perspective. A plain figure, representing the several
+parts of the surface of the earth, according to the laws of perspective, or it is a projection of the surface of the globe, or part thereof in plano, describing the several countries, islands, seas,
+rivers, with the situation of cities, woods, hills etc. Universal maps, such as exhibit the whole surface of the earth, or the two hemispheres. Particular maps, are such as exhibit some particular
+part or region thereof. A representation of the whole earth, or some part of it, upon a plain superficies. A description or projection of either the whole world or a part of it upon a plane, in
+which the situation, figure &c. of a country, both in respect to its own absolute possession of a particular space, or in relation to the bordering nations about it, is described according to the laws
+of perspective. A representation of the whole, or a part of the earth, upon a plane superficies, describing the situation and form of countries &c. A geographical picture on which lands and seas
+are delineated according to the latitude and longitude. A geographical picture, or a projection of the globe, or a part thereof, on a plain surface, representing the forms and dimensions of the
+several countries, rivers, and seas, with the situation of cities, mountains, and other places, according to their respective longitude and latitude. A geographical picture, or a projection of the
+globe, or a part thereof, on a plain surface, representing the forms and dimensions of the several countries, rivers, and seas, with the situation of cities, mountains, and other places, according
+to their respective longitude and latitude. Ichnographical descriptions of the earth, which we call. Maps differ from a globe as a picture from a statue. A plain figure, representing the surface
+of the earth, or a part thereof, according to the laws of perspective. A geographical picture, or a projection of the globe or any part thereof on a plain surface, representing the forms and
+dimensions of the several countries, rivers, and seas, with the situation of cities, mountains, and other places, according to their respective longitude and latitude. A description of a country by
+lines drawn on paper, a picture on which lands and seas are delineated according to the rules of geography; the site or description of an estate according to exact admeasurement. A kind of
+pictures which should accurately represent all the different parts of our earth. A plane figure representing the surface of the earth, or a part thereof, in reduced scale. A plain figure,
+representing the surface of the earth, or a part thereof, according to the laws of perspective. A projection of the surface of the globe, or a part thereof; representing the forms and dimensions
+of the several countries and rivers; with the situations of cities, mountains, and other places. A geographical picture on which lands and seas are delineated according to the longitude and
+latitude. A geographical picture on which lands and seas are delineated according to the longitude and latitude; a description of a country by lines drawn on paper; a view of an estate
+according to exact measurement. A plain figure, representing the surface of the earth, or a part thereof, according to the laws of perspective. A geographical picture upon which lands and seas
+are delineated according to the longitude and latitude, a chart; the site and description of an estate according to exact admeasurement. A delineation of lands, seas, countries etc.
+
+Delineations of the earth's surface on a plane; on which the form and boundaries of the several countries, and the objects most remarkable in each, whether by sea or land, are represented
+according to the rules of perspective, so as to preserve the remembrance that they are parts of a spherical surface. A geographical picture, or a projection of the globe, or part thereof, on a
+plain surface, representing the forms and dimensions of the several countries, rivers, and seas, with the situation of cities, mountains, and other places, according to their respective longitude
+and latitude. A lineal representation of countries in their just proportions. A plane figure, representing the surface of the earth, or a part thereof, according to the laws of perspective. A
+delineation or picture of some part of the earth's surface: and hence of the heavens. The delineation of the earths surface on a plane, by which means the whole or any portion may be easily
+represented, on a greater or less scale according to circumstances. A delineation, on a plane surface, of some portion, or the whole, of the celestial globe. A geographical picture on which
+lands and seas are delineated according to the longitude and latitude. A projection, on a plane surface, of the whole or part of the spherical surface of the earth. A tablet, picture, or
+delineation of the world, or any part of it; showing the relative situation of places on the earth; of stars in the heavens. A geographical picture on which lands and seas are delineated according
+to the longitude and latitude; a description of a country by lines drawn on paper; a view of an estate according to exact admeasurement. A representation of the whole earth, or of a part of it,
+on a flat surface. The representation of the earth, or part of it, on a plane surface. A delineation of some portion of the surface of the sphere terrestrial or celestial on a plane. A picture of the
+world, or of some part of it. A representation of the earth, or of any part of it, on a flat surface. A tablet, picture or delineation of the world, or of any part of it; showing the relative situations
+of places on the earth; of stars in the heavens. In geography, a representation of the surface of the earth, or of any part of it, drawn on paper or other material, exhibiting the lines of latitude
+and longitude, and the positions of countries, kingdoms, states, mountains, rivers, etc. A chart. Picture of the earth. A delineation on a plane surface of the world in general, or of a city or
+river, giving its general form or geographical peculiarity. delineation of the surface of the earth on paper or other material, in which the lines of latitude and longitude, and the relative
+Positions of countries, kingdoms, states, mountains, rivers, seas etc. are represented. A delineation of some portion of a sphere, or of the earth, on a plane; a chart. A delineation of the earth,
+or part of it. Represents on a plane greater or smaller parts of the earths surface. Astronomy uses similar representations of objects visible in the firmament. A delineation of the surface of
+the earth, or any part of it, exhibiting the lines of latitude and the relative positions of countries, mountains, seas, rivers etc. A delineation of some portion of the surface of the sphere
+terrestrial or celestial on a plane. A representation of the surface of a sphere, or a portion of a sphere on a plane. The name however is commonly applied to those plane drawings which
+represent the form, extent, position and other particulars of the various countries of the earth. A representation of the whole earth, or of any part of it, on a flat surface. Arude representation
+of the school-room, as it would appear to a person looking down from the ceiling or, in other words, a map of the schoolroom. A showing of the shapes and positions of the features of the
+earth, not as they rise before the eye in all the beauties of the sun and air, and in their vertical, upright forms, but as they are stretched out horizontally at ones feet. A representation in
+miniature of part of the earths surface. A representation of the surface of the earth or of any part of it, or of the whole or any part of the celestial sphere, usually drawn on paper or other
+material. A distinct and precise representation of anything. A drawing upon a plane surface representing a part or the whole of the earth's surface or of the heavens, every point of the drawing
+corresponding to some geographical or celestial position, according to some law, of perspective, etc., which is called the projection, or, better, the map-projection. A plan or drawing of the
+whole or part of the earth ona flat surface. If a person in a balloon passed at a great height over any part of the earths surface, and sketched in outline what he saw directly below, his sketch
+on a flat surface like this page would be called a map. A napkin. A painted cloth said to be a Punic word. A delineation of some portion of a sphere, or of the earth, on a plane; a chart. A
+delineation of a portion of the earths surface upn paper or other similar material according to scale, showing the proportionate sizes, shapes and relative positions of places. A representation
+of the surface of the earth, or of some portion of it, showing the relative position of the parts represented usually on a flat surface. Also such a representation of the celestial sphere, or of some
+part of it. A representation of the earth or part of it. A flat representation of the earths surface. In one sense a picture expressed in definite and condensed symbols, every one of which is full
+of meaning. A map of the simplest kind represents all the points of one surface by corresponding points of another surface in such a manner as to preserve the continuity unbroken, however
+great may be the distortion. In a convenient shape, and on a small scale, such a picture of the country represented as will convey a real idea of the actual country as it exists. A representation
+of the earth's surface, or a part of it, its physical and political features, etc., or of the heavens, delineated on a flat surface of paper or other material, each point in the drawing corresponding to
+a geographical or celestial position according to a definite scale or projection. A representation of the surface of the earth or any part of it, drawn on paper or other material, exhibiting the lines
+of latitude and longitude, and the positions of countries, kingdoms, states, mountains, rivers etc.. A delineation on a plane of the whole or of a portion of the surface of the earth. A
+representation, as a plane projection, of any region or expanse; a chart; specifically, a delineation of land or land and water, showing the extent and relative position of geographical features
+and conveying topographical or other information. Portrayal on a plane of the surface of the earth or some larger or smaller portion of it. A picture of the earth, or part of it, on a flat surface.
+@ Arepresentation, on a plane and a reduced scale, of part or the whole of the earths surface. Most commonly represents in a conventional manner a portion of the earths surface, somewhat
+as it would be seen by an eye directly above it, but with additions which render it a summary of observations made on the spot. A delineation of the earth or any part of it. A picture drawn on
+a flat piece of paper of a portion of the earths surface and giving a similar view of the earth to that presented to an observer in the car of a balloon floating in the air. A reproduction or picture
+of some portion of the earth's surface differing materially from an ordinary picture for two reasons: in a map objects are represented as they would appear if seen from a great height, such as
+would be obtained by an observer in an aeroplane; everything on a map must either be named or marked with a distinguishing symbol. Essentially, a representation on paper of a portion of
+the earths surface. A representation of the whole, or a portion, of the earths surface upon a plane. A representation of a portion of the earths surface, or the heavens, ona plane. A
+representation, generally on a flat surface, of the face of the earth or a part of it, or the celestial regions. A delineation on a plane of the surface of the earth or heavens, or a portion thereof.
+
+A plan of a portion of the curved surface of the earth represented on a plane surface. A pictorial representation of a portion of the earths surface laid down on a flat surface. Simply a model of
+a portion of the earths surface ideal map. A representation of the whole earth, or of any part of it, on a flat surface. A representation on a plane surface of a part or the whole of the surface of
+the earth or of the heavens. An abstract of the main features of a country, laid before the traveller in advance of his experience of the country itself. A representation of the whole or part of
+the earths surface drawn on a plane surface. A representation of the whole or a part of the earth's surface. A representation usually on a flat surface of the surface of the earth, or of some
+Portion of it, showing the relative position, according to some given scale and projection, of the parts represented; also such a representation of the celestial sphere, or some part of it. Plane
+representation of the earths surface or a part of this, indicating physical features, political boundaries etc. Similar representation of heavens, showing position of stars etc. A delineation on a
+plane of the surface of the earth or heavens, or a portion thereof. A representation of the surface of the earth or of any part of it, drawn on paper or other material. Flat representation of the
+earth or some part of it, or of the heavens. A representation on a plane of a part or the whole of the surface of the earth, or the heavens. A plane representation of a greater or smaller part of
+the earths surface, emphasising, in addition to the positional relations, also space and surface relations, and further geophysical, natural and cultural facts, in such a way that it enables their
+reading and measurement. Any delineation of the surface of the earth, or any part of it, drawn on paper or other material. A representation on a plane surface of a part or the whole of the
+surface of the earth or of the heavens. A representation on a plane of a portion of the surface of the earth or the heavens. Representation on a plane surface of the earth or some part of it. A
+representation of the features of one surface on another. A plan is the shape of any object or group of objects as they would appear if seen from above. Maps are plans on small scales, taking
+in large areas. The outcome of mans desire to give geographical expression to his knowledge or his ideas concerning the characteristics and distribution of the earth's features. Representation
+of the earth or some portion of it on a plane surface. Representations on a plane surface of some part of the earth. Plane representation of whole or part of earths surface, showing physical
+features, political boundaries etc.. A representation of a portion of the earth's surface, or the heavens, upon a plane. A representation of the surface of the earth or of part of it, on any plane
+surface; a representation of the celestial sphere. Flat representation of the earth or some part of it, or of the heavens. Intended to be a miniature of the country it represents, in so far as a
+flat surface can imitate one that is actually in relief. A representation of any region, as the earths surface. Reduced conditional representations of the surface of the whole or parts of earth's
+sphere on a plane, obtained by means of a projection and rendering essential features of the geographical characteristic of this surface with all possible fullness and evidence. A representation
+of the physical, political, or other features of a geographical area, put down on paper or other flat surfaces according to a definite scale. A flat representation of the earth's surface. Flat
+representation of the earth or part of it. Graphic presentation of our knowledge of the earths surface and its varied features. A small-scale, flat-surface representation of some portion of the
+surface of the earth. In its primary conception, a conventionalised picture of the earths pattern as seen from above, to which lettering is added for identification. A picture or chart of part of
+the earths surface. A representation, usually a plane projection, of any region or expanse; a chart; specifically, a delineation of land or land and water, showing the extent and relative position
+of geographical features, and conveying topographic or other information. A represenation of spatial phenomena of a certain portion of the earth, projected on a plane; in comparison with a
+picture it constitutes an abstraction of the reality, represented by means of points, of lines and of superficial markings. A chart, a flat representation of the earth or a particular region. A
+representation in outline of the surface features of the earth, the moon etc., or part of it, usually on a plane surface; a similar plan of the stars in the sky. Arepresentation on a plane of a part
+or the whole of the surface of the earth, or the heavens. Any delineation of the surface of the earth, or of any part of it, drawn on paper or other material. A flat drawing of the earth's surface
+or part of it. By definition, a representation of all, or a portion of, the earth, drawn to scale and usually on a plane or flat surface. A graphic document in which location, extent, and direction
+can be more precisely defined than by the written word. The purpose of a map is to express graphically the relations of points and features on the earths surface to each other. A complete
+picture of the countryside it represents, including hills and valleys, railways and roads, rivers and villages, and all the other features of interest. A representation on a plane surface, at an
+established scale, of the physical features, natural, artificial or both, of a part or the whole of the earths surface, by the use of signs and symbols, and with the method of orientation indicated.
+Also a similar representation of the heavenly bodies. Graphic representations of parts of the earths surface in miniature, incorporating selected information on a flat surface. A representation
+of a portion of the earths surface, or the heavens, upon a plane. A picture of the ground, looked at from above, drawn with painstaking accuracy. The representation on a flat surface of all or
+a part of the earth's surface to show physical, political, or other features, each point on the diagram corresponding to a geographical position according to a definite scale or projection. A scale
+drawing of a part of the earth. Pictures of areas of the ground showing its shape, the location and types of roads, railroads, buildings, landmarks, woods, swamps, rivers, lakes and so on;
+instead of showing the land from the ground level, as you would ordinarily see things, the map gives a view from overhead; maps are picture drawings. They are drawings of the ground and
+the important things on the ground. A delineation of the earth's surface or any part of it. A one-view drawing showing only the top view. A flat representation of the earth or some part of it or
+of the heavens. A lineal representation on a plane surface of spatial distributions usually on the earth, but sometimes the heavens or a heavenly body. It symbolises sphericity by using
+projections, distance by using a scale, relief by contours, and employs conventional signs for other features. A representation of the earth or part of it, or of the heavens. A representation on a
+flat surface of all or part of the earths surface. A simplified picture or plan of part of the earths surface. Reduced, generalised, mathematically defined representations of the earth's surface,
+showing the distribution, the state and the mutual relations of various natural and social phenomena, chosen and characterised in accordance with the purpose of the map. Represents the
+features of a piece of country all to the same scale, correct in their lateral disposition and orientation. Geographical records and pictures of the way to get from place to place. A representation
+of the earths surface or a part of it, its physical and political features, etc., or of the heavens, delineated on a flat surface of paper or other material, each point in the drawing corresponding to
+a geographical or celestial position according to a definite scale or projection. A flat drawing of the earth or some part of it, showing mountains, rivers, etc. A representation on a plane surface
+of the earths surface or a portion thereof, or the heavens. A pilot's eye view of the ground drawn on paper. A selective, symbolised, and generalised picture on a much reduced scale of some
+spatial distribution of a large area, usually the earth's surface. A representation of the surface of the earth or any part of it or of the whole or any part of the celestial sphere, usually on paper
+or other material. A proportional representation of a particular area of the earths surface on a plane, in which certain conventions are used. A drawing of a large surface. The surface may be
+of a town, country, the world, the moon or the appearance of the sky. Representation of the earths surface or of the heavens. The chief difference between a map and a picture is that a map
+shows the outlines of things as they appear from above. A conventional representation, normally to scale and usually on a flat medium, of a selection of material or abstract features on or in
+relation to the surface of the earth, or of a heavenly body. A representation of the earths surface on a reduced scale. A representation usually on a flat medium of all or a portion of the earth
+or other celestial body, showing the relative size and position of features to some given scale or projection; also, a representation of all or part of the celestial sphere. The representation of a
+flat surface of all or part of the earths surface, to show physical, political or other features, each point on the diagram corresponding to a geographic position according to a definite scale or
+projection. A graphic is a geographic map when the elements of a geographic component are arranged on a plane in the manner of their observed geographic order on the surface of the earth,
+@ A portable, simplified picture of the world or some portion of it. A topographic transfer, relative to a given part of the earth surface, is a set of signs informing about spatial relations
+conditions occurring between objects or phenomena connected with the said part of the earth surface. The map of a given part of the earth surface is a topographic transmitter that informs
+only and solely by means of a disposition on the plane of signs designating objects or phenomena. A symbolised picture of an area or piece of ground, drawn as accurately as possible, as it
+would be seen from directly above. The primary function of a map is to serve as a reduction of all or part of the earth's surface for the purpose of recording, presenting, or analysing the spatial
+positions and the interrelationships of phenomena occurring thereon. A graphic representation, usually on a plane surface and at an established scale, of natural and artificial features on the
+surface of a part or the whole of the earth or other planetary body. The features are positioned as accurately as possible, usually relative to a coordinate reference system. Also, a graphic
+representation of a part or the whole of the celestial sphere. An abstract, abbreviated representation of a part or whole of an area, usually the earth's surface. A representation, usually on a
+plane surface, of a region of the earth or heavens. Conventionalised representation of spatial phenomena on a plane surface. Unlike photographs maps are selective and may be prepared to
+show various quantitative and qualititative facts, including boundaries, physical features, patterns, and distribution. Each part of a map corresponds to a geographical position in accordance
+with a definite scale and projection. Representation on a plane surface at an established scale of the physical features, natural or artificial, of a part or whole of the earth by means of symbols
+with the method of orientation, such as north, indicated. Some form of macroscope with a reducing power to scale down extensive regions to a convenient size for visual examination. The
+first technique in this class of graphic aids is the field sketch or landscape drawing which is completely bound by the horizon and the laws of perspective. The second technique breaks the
+horizon bondage by adopting a higher viewpoint thus condensing more extensive areas into panoramas or block diagrams. Third, the perspective bond is further broken by the rise of still more
+distant and imaginary viewpoints arranged in a systematic lattice to give vertical views of all points simultaneously. This produces the map. An approximate iconic representation, scaled small,
+of an existent physical thing, all or a portion of the earths surface. A graphic representation or charting of the whole or part of the earth's surface, the heavens, or one of the heavenly bodies;
+anything which resembles a map in appearance or function. A representation to scale of the features of the surface of the earth. A kind of picture, showing certain geographical aspects of a
+town, a continent, the oceans, or even the surface of the moon. A representation of all or part of the earth, drawn to scale, usually on a plane surface. A representation on a plane surface
+paper, card, plastic, cloth or some other material of the features of part of the earth's surface, drawn to some specific scale. It obviously involves certain degrees of generalisation, selective
+emphasis and conventionalisation, according to the scale and the detail involved. A representation, normally to scale and on a flat medium, of a selection of material or abstract features on, or
+in relation to, the surface of the earth or of a celestial body. A graphic representation of a planetary surface. A representation, usually on a plane surface, of all or part of the surface of the
+earth, celestial sphere, or other area; shows relative size and position according to a given projection, of the physical features represented and such other information as may be applicable to
+the purpose intended. Representation usually on a flat surface of the whole or a part of an area; a representation of the celestial sphere or part of it. 2. Something that represents with a clarity
+suggestive of a map. Representation on paper etc. of the earths surface or part of it, showing physical and political features. Two-dimensional representation of a landscape. A drawing of part
+of the earth's surface on a small scale. A representation of the milieu. The space represented by a tangible map normally refers to the three-dimensional field of our experience. The most
+general terms are probably place and area  simply a portion of space. They are quite impersonal, though, and because of the involvement of the cartographer in a map, they leave something
+to be desired; the word milieu best connotes ones surroundings or environment in addition to its meaning of place, and thus involves the cartographer. A map is a graphic thing made of marks
+of various kinds. Traditionally, a map is a space in which marks that have been assigned meanings are placed in positions relative to one another in such a way that not only the marks, but
+also the positions and the spatial relationships among the elements, have meaning. A drawing of an area as you would see it from high up above. A graphic representation on a plane surface
+of the earth's surface or part of it, showing its geographical features. These are positioned according to pre-established geodetic control, grids, projections, and scales. Amap is the simplest
+and most elegant and informative way of presenting data that vary across a surface. It is a two-dimensional model which the human mind recognises and comprehends with pictorial clarity but
+yet provides quantitative as well as qualititative information. A symbolised picture of the earth pattern drawn to scale on a horizontal projection, to which lettering usually is added for
+identification. A geographical map is a representation of the arrangement of elements on the surface of the earth. Maps are scales for measuring the property location. A presentational form
+of communication. No map marks are carriers of fixed meanings. The marks have location. The marks are opaque rather than transparent. The map has the quality of image and the quality of
+structure. A representation of part of the earth's surface as if seen from above, showing the shape of countries, the position of towns, the height of land, the rivers etc. A graphic
+representation, usually on a plane surface and at an established scale, of natural and artificial features on the surface of a part or the whole of the earth or other planetary body; the features
+are positioned as accurately as possible, usually relative to a coordinate reference system. Any geographical image of the environment. A cartographers map is an external geographical
+representation of the geographical environment. A loose definition of the concept of mapping experience, and mapping behaviour, is that it is one of several modes of communication practised
+by human beings, specifically that concerned with selectively sensed data about objects and events in their spatial-temporal context; the storage and manipulation of such data as cognitive
+maps and only potentially as documents, and the thoughts, movements, and other behaviour consequent upon the sensing, sorting, arrangement and symbolic transformation of such data.
+Diagram representing the lay out of features on the earths surface or part of it. Graphic representation of the physical features, natural, artificial, or both of a part or the whole of the earths,
+surface, by means of signs or symbols or photographic imagery, at an established scale, on a specified projection and with the means of orientation indicated. A spatial representation that is
+dimensionally systematic in that there is a definable mathematical relationship among the objects shown usually made on a flat surface and that can show only a selection of geographical
+phenomena that have been somehow generalised, simplified, classified etc.. A diagrammatic representation of the earths surface or part of it, showing the geographical distributions, positions,
+etc., of natural or artificial features such as roads, towns, relief, rainfall, etc. A representation, especially on a plane surface, of the surface of the earth, or part of it. @ drawn representation of
+geographical space. A representation on flat surface of all or part of earths surface; similar representation of relative position of stars as seen from earth, or of the surface of other planets. A
+flat representation of the earth or some part of it or of the heavens. Some relatively durable physical object that represents spatial relationships among various phenomena. A representation
+of the earth or some part of it on a plane surface. Formal systems for the communication of spatial information. Flat representation of the earth, or some part of it, or of the heavens. A
+representation, usually on a plane surface, of the earths surface or a part of it or of the sky showing the positions of the stars etc. A representation usually on a plane surface of the earth's
+surface or a part of it or of the sky showing the positions of the stars etc.. A picture, diagram or analogue, usually having two dimensions, of part or all of the surface of the earth or other
+mappable area and a device for transferring selected information about the mapped area to the map user. Achieves the visually impossible feat of vertical representation at every point, to a
+uniform scale throughout the map instead of reproducing the actual shape, colour and texture of the features it shows, replaces them with a set of more or less elaborate signs and symbols. To
+see such productions as the Pawnee Indian star chart as somehow connected with the history of mapping merely distracts attention from the real issue in early cartography: how and when did
+mankind reach the highly sophisticated idea of representing landscape as though viewed vertically from every point? The map image is a structured cartographic representation of selected
+spatial information, which when placed onto a storage medium becomes a map. The map image is a structured representation of selected spatial information, which when placed on a storage
+medium becomes a map. A drawing or other representation that is usually made on a flat surface and that shows the whole or a part of an area as of the surface of the earth or some other
+planet or of the moon and indicates the nature and relative position and size according to a chosen scale or projection of selected features or details as countries, cities, bodies of water,
+mountains, deserts. Briefly, a form of graphic communication designed to convey information about the environment. A symbolic graphic representation of a planetary body, or portion thereof,
+ Arepresentation, on a flat surface, of a part or the whole of the earth's surface, the heavens, or a heavenly body. A spatial analogue: its purpose is the understanding, portrayal, and
+communication of information that varies in space. Symbolic representations of the real world. A graphic portrayal of the whole or part of the earth. A representation in outline of the surface
+features of the earth, the moon, etc., or of part of it, usually on a plane surface: a similar plan of the stars in the sky: a representation, scheme, or epitome of the disposition or state of
+anything. A graphic means of communicating useful information. A drawing of the earth's surface or of part of it, usually showing countries, cities, rivers, seas, lakes and mountains. Graphic
+representation of spatial relationships and spatial forms. The graphic representation of all or a portion of the earths surface or other celestial body, by means of signs and symbols or
+photographic imagery, at some given scale or projection. A graphic representation of the geographic features of the earths surface on a plane surface. A device for storing and communicating
+information about the physical and social phenomena that are distributed over the earth's surface. The domain of cartography is to be limited by the planimetrically correct representation of
+the two spatial dimensions retaining the various symbolism on that plane for the displaying of a third dimension. Any graphic, conventional representation of spatial information, drawn for a
+purpose. A representation usually on a plane surface of the earths surface or a part of it, or of the sky showing the position of the stars etc. A representation of the earth's surface or a part of
+it, or of the heavens, delineated on a flat sheet of paper or other material. A two-dimensional representation of a geographical area. A symbolic description using an array of symbols to yield
+a true or false characterisation of a certain aspect of the world. To be a map, the conventions of representation used by the map maker must be known to the map reader. Efforts to convey, on
+a flat surface, the representation of space and what, in that space, is particularly meaningful. A representation on a flat surface usually of paper of the features of part of the earths surface,
+drawn at a specific scale. A representation on a flat surface of part of the earths surface, the celestial sphere etc. Drawing or representation on paper etc. of the earths surface or part of it,
+showing countries, oceans, rivers, mountains etc.; representation of the sky showing positions of the stars etc. A means of representing the spatial arrangements of objects, conditions,
+processes, and events in the terrestrial, celestial or imagined worlds by means of a wide range of techniques on or with a great variety of materials for any number of reasons and structured
+according to any of several geometries. A representation usually on plane surface, cf globe of part of earths surface, showing physical and political features etc., or of the heavens, showing
+positions of stars etc. A representation, usually on a plane surface, of a region of the earth showing geographical, political, or other features A drawing of the earths surface or part of it, often
+showing things such as rivers, mountains, countries, towns. Representation on paper etc. of earth's surface, or part of it, showing physical and political features etc.; similar represention of
+heavens showing position of stars etc. The task of the cartographer is to represent the topographical natural and artificial features of the earths surface at a greatly reduced scale in a
+convenient form, usually on flat sheets of paper. As we know them today, maps combine geographical outlines and features with toponymy. Modern definitions of a map, referring as they do to
+scale, projection, coordinates or clearly indicated methods of orientation, are anachronistic for our period. We therefore propose instead the following minimum requirements for an incunable
+map: It must attempt to convey, in graphic form, information about the real world or some part of it. It must be concemmed  however inaccurately or schematically  with direction and the
+relative distance of one place or feature from others. Graphic representations that facilitate a spatial understanding of things, concepts, conditions, processes, or events in the human world.
+Permanent graphic images epitomising the spatial distribution of objects and events. A drawing or other representation, usually on a flat surface, of all or part of the earths surface, ordinarily
+showing countries, bodies of water, cities, mountains etc. A similar representation of part of the sky, showing the relative positions of the stars, planets etc. As a scale model, the map projects
+a spherical surface onto a plane and represents real features with graphic symbols. Holistic representations of spatial reality. The map is initially and primarily an intellectual abstraction of
+spatial reality but this must be subsequently communicated, i.e. modelled and coded, in a form that exploits the human and/or digital spatial processing capablities. A holistic representation
+and intellectual abstraction of geographic reality intended to be communicated for a purpose or purposes, transforming relevant geographical data into an end-product which is visual, digital or
+tactile. Representation in outline form of the surface features of the earth or of the distribution of some phenomenon upon it. A representation on paper, etc. of the earths surface or part of it,
+showing countries, rivers, mountains, oceans, roads, etc. A two-dimensional graphic image which shows the location of things in space, that is, in relationship to the earths surface. It is
+distinguished from other kinds of representation in two dimensions  such as pictorial images and diagrams  in two principal ways. First, its perspective is an orthogonal projection of the
+earths three dimensional surface on to a plane. And second, it does not describe or depict individual things, but represents them by signs which place them in classes or categories. In addition,
+because the earth is nearly spherical, any map of more than a very small area must involve some distortion, and therefore employ some systematic means of representing the spheroidal or
+spherical surface, on a plane. Those maps which do not show any graticule or grid are still based on sources of information derived from maps on a coordinate system. Maps structure inform

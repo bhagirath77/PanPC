@@ -1,0 +1,16 @@
+MeDICi allows scientists and analysts to visually create and modify a pipeline for processing data.Simple. MeDICi is built on proven standards-based integration, workflow, and provenance
+technologies.Robust. MeDICi supports multiple languages, communication protocols, hardware platforms.Flexible. MeDICi improves performance by passing large data by reference. Efficient.
+Research Area: Software Architecture Technological advances continue to increase the volume, rate and complexity of data produced from modeling and simulation, high-throughput
+instruments, and system sensors. As a result, scientists and analysts are challenged with capturing and integrating high-throughput sensor data fusing and analyzing data in real time
+managing diverse data formats and locations integrating heterogeneous software and hardware systems. Pacific Northwest National Laboratory (PNNL) is aggressively working to solve the
+big-data challenge through research and development of data intensive computing technologies. A foundational piece is the Middleware for Data-Intensive Computing (MeDICi) project: an
+evolving middleware platform for building complex, high-performance analytical applications. These applications typically comprise a pipeline of software components-each of which performs
+some analysis on incoming data and passes on its results to the next step in the pipeline. MeDICi comprises three major subcomponents that are loosely coupled: adaptive workflow for
+application coordination - SIFT for scalable component integration - and data virtualization for capturing provenance and managing logical files. Approach The workflow and model execution
+environment built on MeDICi enables applications to be wrapped as MeDICi components, which can simply be included in any number of workflows defined by scientists. The MeDICi technology
+is being designed to specifically address two difficult aspects of building analytical applications, namely: The software components in an analysis pipeline have usually been created by different
+programmers using various programming languages, and each may have particular hardware platform dependencies. MeDICi provides features that make creating pipelines from
+heterogeneous, distributed components simple.Pipeline creation. Passing large data sets between pipeline components can kill application performance. MeDICi provides features that give
+pipeline designers choices on how to pass data in pipelines to maximize application performance.Handling large data. Impact MeDICi makes it faster and less expensive to build scientific
+workflows in many science domains by providing a more scalable, flexible workflow environment that promotes ease of use for scientists and that can be easily modified and scaled to meet
+future research needs. MeDICi is already in use for a range of applications at PNNL, including biological workflows, groundwater simulations, video processing, and satellite data processing,

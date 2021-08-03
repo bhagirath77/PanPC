@@ -1,0 +1,71 @@
+[] edit Technique As with all brass instruments, progressive tightening of the lips and increased air pressure allow the player to move to a different in the . In the first or closed position on a B
+trombone, the notes in the harmonic series begin with the pedal or fundamental B 1, followed by B 2 (one octave higher), F3 (a perfect fifth higher), B 3 (a perfect fourth higher), D4 (a major
+third higher), F4 (2 minor third higher), A4 (a minor third higher; this note is always flat and is not usually played in this position, though it has been the practice in Germany and Austria to do
+so), B 4 (a major second higher), C5 (a major second higher), DS (a major second higher), E (a minor second higher, but very sharp), F5 (a major second higher). Very skilled players with a
+highly- developed facial musculature can go even higher than this, to G5, A 5, B 5 and beyond. partial harmonic series In the lower range, significant movement of the slide is required
+between positions, which becomes more exaggerated on lower pitched trombones, but for higher notes the player need only use the first four positions of the slide since the partials are closer
+together, allowing higher notes to be played in alternate positions. As an example, F4 (at the bottom of the treble clef) may be played in first, fourth or sixth position on a B trombone. The note
+E1 (or the lowest E on a standard 88-key piano keyboard) is the lowest attainable note on a 9' B tenor trombone, requiring a full 2.24 m of tubing. On trombones without an F attachment,
+there is a gap between B 1 (the fundamental in first position) and 2 (the first harmonic in seventh position). Skilled players can produce so-called "falset" notes between these, but the sound
+is relatively weak and not usually used in performance. Because of the slide's continuous variation, the trombone is one of the few wind instruments that can produce a true , by moving the
+slide without interrupting the airflow. glissando [] edit Notation Unlike most other brass instruments, the trombone is not usually a . Prior to the invention of valve systems, most brasses were
+limited to playing one overtone series at a time; altering the pitch of the instrument required manually replacing a section of tubing (called a") or picking up an instrument of different length
+Their parts were transposed according to which crook or length-of-instrument they used at any given time, so that a particular note on the staff always corresponded to a particular partial on
+the instrument. Trombones, on the other hand, have used slides since their inception. As such, they have always been fully chromatic, so no such tradition took hold, and trombone parts have
+always been notated at concert pitch (with one exception, discussed below). Also, it was quite common for trombones to double choir parts; reading in concert pitch meant there was no need
+for dedicated trombone parts. transposing instrument crook Trombone parts are typically notated in , though sometimes also written in or . The use of alto clef is usually confined to orchestral
+first trombone parts intended for the alto trombone, with the second (tenor) trombone part written in tenor clef and the third (bass) part in bass clef. As the alto trombone declined in popularity
+during the 19th century, this practice was gradually abandoned and first trombone parts came to be notated in the tenor or bass clef. Some Russian and Eastern European composers wrote first
+and second tenor trombone parts on one alto clef staff (the German was the first to do this). Examples of this practice are evident in scores by , , . Trombone parts may contain both bass and
+tenor clef or bass and alto clef sections. The lowest note that a trombone can theoretically play is a low B that is below the staff, in the tuba range. bass clef tenor clef alto clef Robert
+Schumann Igor Stravinsky Sergei Prokofiev Dmitri Shostakovich An accomplished performer today is expected to be proficient in reading parts notated in bass clef, tenor clef, alto clef, and
+(more rarely) treble clef in C, with the British brass band performer expected to handle treble clef in B as well. [] edit Brass bands In brass band music, the tenor trombone is treated as a
+transposing instrument in B and reads the treble clef. This puts the notes in exactly the same staff position as they would be if the music were written in a (non-transposing) tenor clef, though
+the must be adjusted. This is no mere coincidence, for brass bands used to employ a section of alto, tenor and bass trombones in the early to mid-19th century, later replacing the alto with a
+tenor trombone, all the while notated in the corresponding clefs. Eventually a decision was taken in the early 20th century to replace the tenor clef with the transposing B treble clef in order to
+aid new starters to integrate more quickly and effectively into the brass band, though the bass trombone, then in G, remained (and is still) notated in concert pitch bass clef. (Company bands
+used B and E treble clef notation for many instruments in the band to allow players to more easily switch instruments when personnel changed.) key signature See also Brass instrument mutes
+ A variety of can be used with the trombone to alter its . Many are held in place with the use of cork grips, including the straight, cup, and pixie mutes. Some fit over the bell, like the bucket
+mute. In addition to this, mutes can be held in front of the bell and moved to cover more or less area for a effect. Mutes used in this way include the "hat" (a metal mute shaped like a ) and
+plunger (which looks like, and often is, the rubber suction cup from a sink or ). mutes timbre harmon wah-wah bowler toilet plunger [] edit Variations in construction [] edit Bells Trombone
+bells (and sometimes slides) may be constructed of different brass mixtures to achieve slightly different . The most common material is yellow brass, comprising 70% copper and 30% zinc,
+though other materials used include rose brass (85% copper, 15% zinc) and red brass (90% copper, 10% zinc). These different materials affect the tone quality of the instrument and change
+the timbre quite considerably. Some manufacturers now offer interchangeable bells so that the player can select which bell he prefers according to the artistic requirements. Tenor trombone
+bells are usually between 7 and 9 inches in diameter, the most common being sizes from 7 to 8 inches. The smallest sizes are found in small jazz trombones and older narrow bore instruments,
+while the larger sizes are common in orchestral models. Bass trombone bells can be as large as 10 " or more, though are usually either 9 in or 10 in diameter. The bell may be constructed out
+of two separate brass sheets or out of one single piece of metal and hammered on a mandrel until the part is shaped correctly. The edge of the bell may be finished with or without a piece of
+bell wire to secure it, which also affects the tone quality; most bells are built with bell wire. Occasionally, trombone bells are made from solid sterling silver. timbres [] edit Valves A valve
+trombone Some trombones have valves instead of a slide (see ). Slide trombone valve attachments may be fitted with rotary valves or sometimes with piston or disc valves, which are modem
+variations on types of valve invented during the 1820s, but discarded at the time in favour of the rotary valve and the P rinet or piston valve. valve trombone [] edit Tubing More often than
+not, tenor trombones with an F attachment have a larger bore through the attachment than through the section (the portion of the trombone through which the air flows when the attachment
+is not engaged). Typically, for orchestral instruments, the slide bore is 0.547" and the attachment tubing bore is 0.562". A wide variety of valve attachments and combinations are available.
+Valve attachment tubing usually incorporates a small tuning slide so that the attachment tubing is able to be tuned separately from the rest of the instrument. Most 8 /F tenor and bass
+trombones include a tuning slide, which is long enough to lower the pitch to E with the valve tubing engaged, enabling the production of B2. Whereas older instruments fitted with valve
+attachments usually had the tubing coiled rather tightly in the bell section ( or ), modem instruments usually have the tubing kept as free as possible of tight bends in the tubing (), resulting in
+a freer response with the valve attachment tubing engaged.straightclosed wraptraditional wrapopen wrap [] edit Tuning Some trombones (principally bass trombones) are tuned through a
+mechanism in the slide section (Tuning-in-the-Slide or "TIS") rather than via a separate tuning slide in the bell section. This method preserves a smoother expansion from the start of the bell
+section to the bell flare. The tuning slide in the bell section requires two portions of cylindrical tubing in an otherwise conical part of the instrument, which affects the tone quality. [] edit Slides
+@ Common and popular bore sizes for trombone slides are 0.500", 0.508", 0.525" and 0.547" for tenor trombones, and 0.562" for bass trombones. The slide may also be built with a
+configuration, in which the bore of the second leg of the slide is slightly larger than the bore of the first leg, producing a step-wise conical effect. The most common combinations are
+0.481"-0.491", 0,500"-0.508", 0.508"-0.525", 0.525"-0.547", 0.547"-0.562" for tenor trombones, and 0.562"-0.578" for bass trombones.dual boredual bore [] edit Mouthpiece The
+mouthpiece is a separate part of the trombone and can be interchanged with similarly-sized trombones from different manufacturers. Mouthpiece dimensions vary in length, diameter, rim
+shape, and cup depth. Each variation affects timbre (tone quality), and is a highly personal decision of advanced trombone players. Typically, a trombonist will choose 2 mouthpiece with a
+deeper cup and sharper inner rim shape in order to produce a rich, full-textured tone quality that is desired in most symphony orchestras. A trombonist, on the other hand, may choose a
+shallower cup in order to achieve a thinner, less Teutonic tone quality. However, these decisions vary from player to player. symphonic jazz [] edit Regional variations [] edit Germany and
+Austria German trombones have been built in a wide variety of bore and bell sizes and differ substantially from American designs in many aspects. From the mouthpiece to the bell, there is a
+great deal of difference in how the traditional German is designed. The mouthpiece is typically rather small and is placed into a slide section that uses very long leadpipes of at least 12"-24".
+The whole instrument is often made of gold brass and this naturally characterises the sound, which is usually rather dull compared with British, French or American designs. While bore sizes
+were considered large in the 19th century, German trombones have altered very little over the last 150 years and are now typically somewhat smaller than their American counterparts. Bell
+sizes remain very large in all sizes of German trombone and in bass trombones may exceed 10" in diameter. Valve attachments in tenor and bass trombones were traditionally engaged via a
+thumb-operated rotary valve, using a leather thong rather than a metal lever. While older models with this feature are still found, modern variants use the metal lever. As with other German
+and Austrian brass instruments, rotary valves are used to the exclusion of almost all other types of valve, even in valve trombones. Other features often found on German trombones indude
+long and snake decorations on the slide and bell U-bows.Konzertposaune water keys Most trombones actually played in Germany today, especially by amateurs, are in fact built in the American
+fashion, as those are much more widely available and thus far cheaper. [] edit France French trombones were built in the very smallest bore sizes up to the end of the and whilst other sizes
+were made there, the French usually preferred the tenor trombone to any other size. French music, therefore, usually employed a section of three tenor trombones up to the mid-20th century.
+Tenor trombones produced in France during the 19th and early 20th centuries featured bore sizes of around 0.450", small bells of not more than 6" in diameter, as well as a funnel-shaped
+mouthpiece slightly larger than that of the or . French tenor trombones were built in both C and B , altos in D , sopranos in F, piccolos in high B , basses in G and E , contrabasses in B . Second
+World War cornet horn [] edit Didactics In recent years, several makers have begun to market compact B /C trombones that are especially well suited for young children learning to play the
+trombone who cannot reach the outer slide positions. Their fundamental note is C, but they have a short valve attachment that puts them in B and is when the trigger is depressed. While they
+have no seventh slide position, C and 8 natural may be comfortably accessed on the first and second positions by using the trigger. A similar design was marketed by in the 1920s, also under
+the label. Currently, 8 /C trombones are available from German makers G nter Frost, Thein and Helmut Voigt. as well as the .opennot("Preacher model") C.G. Conn Wurlitzer Japanese Yamaha
+Corporation

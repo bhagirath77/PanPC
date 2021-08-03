@@ -1,0 +1,46 @@
+History and Trends in E-filing: A Survey of CPA Practitioners By Tracey Anderson, Mark Fox, and Bill N. Schwartz E-mail Story Print Story OCTOBER 2005 - The transfer of personal and
+business information electronically has expanded rapidly during the past decade. Individuals today can access business and contact information via landline, cell phones, pagers,
+Blackberrys, computers, and other devices almost anywhere. While business transactions used to require the physical delivery of paper documents, many can now be processed much
+faster electronically. Tax return preparation is no exception; electronic filing (e-filing) has become commonplace. The Development of E-filing The IRS started the e-file program as a
+pilot project for the 1986 filing season in conjunction with tax-preparation software providers and the professional tax community. During the test year, five third-party transmitters were
+approved by the IRS to file tax returns electronically; they submitted 25,000 returns at three locations. Initially, tax preparers could file returns electronically only if no tax payment was
+due. The taxpayers that could participate in the program and the types of returns they could file were limited. The IRS's primary motive for initiating the pilot program was to increase its
+efficiency in processing tax returns. Prior to the pilot program, IRS staff had to manually enter the information from every tax return, meaning lots of labor time and human error. The
+new e-file system required only one human input, by the taxpayer or preparer rather than the IRS. After the success of the pilot program, the e-file program became fully operational for
+the 1987 tax year. The IRS upgraded its computer capacity and developed an archival and retrieval system that allowed for quick access to tax return information. The e-file system
+expanded to 16 districts in 1988 and 48 districts in 1989. At first, tax professionals could file no-tax-due returns only; the e-filing of balance-due returns was allowed in 1990. In 1991, the
+IRS initiated the federal and state electronic filing program. By 2003, 37 states and the District of Columbia offered federal and state e-filing. In 1992, for the first time individuals could
+file certain qualifying tax returns from home; the Form 1040 TeleFile pilot program in Ohio processed 125,983 returns. By 1994, the program had expanded nationally to 39,000
+transmitters, with over 14 million electronically filed returns. In 1996, the IRS implemented the Electronic Federal Tax Payment System (EFTPS), which permitted individuals to pay their
+federal taxes electronically. In 1999, the IRS expanded EFTPS to allow taxpayers to e-file and tele-file balance-due returns and pay the tax at the same time by direct debit from a bank
+account or by credit card. In 2001, the IRS expanded the Telefile program by allowing the filing of the four-month automatic extension for individual returns via telephone. In 2002,
+taxpayers filed 636,215 extensions electronically via this system. Also during that year, 296,692 taxpayers took advantage of the federal and state Telefile program. gives a breakdown of
+e-filing by year. The number of taxpayers who e-file has grown consistently every year, except in 1995. In 2003, taxpayers e-filed almost 53 million individual income tax returns, the first
+year that over 40% of all individual income tax returns were e-filed. Of these returns, tax professionals filed over 37 million. Congress has set a goal of 80% of all individual income tax
+returns to be e-filed by 2007. Exhibit 1 During the first e-filing season in 1986, only some individual taxpayers and individual income tax forms qualified for e-filing. By contrast, in the
+2003 tax year, almost all individual taxpayers and approximately 99% of all individual forms qualified for e-filing. A list of the current qualifying taxpayers and qualifying forms can be
+found in IRS Publication 1345, Handbook for Electronic Filers of Individual Income Tax Returns. Survey To learn about current practices concerning e-filing, 1,000 sole practitioners and
+managing partners from local and regional firms across the country were surveyed; 277 usable responses were received. summarizes the characteristics of survey respondents by firm
+type, size, and location. Exhibit 2 Tax Preparation Software The adoption of tax preparation software by the survey respondents increased rapidly during the 1990s. The data also shows
+that respondents that e-file typically started using tax preparation software in 1997, compared to 1993 for companies that did not e-file. Anecdotal evidence suggests that those who use
+software but do not e-file, do not believe that their clients want to. The added cost of e-filing, the desire to have a physical copy, and proof of mailing may also be factors. The most
+popular tax preparation software packages used by the survey respondents are Prosystems FX, Lacerte, and UltraTax, which account for 80% of the market (). In January of each year, the
+IRS updates the federal and state e-files Software Developer List at . Exhibit 3 www.irs.gov/taxpros/providers/article/0,,id=97636,00.html E-filing Practices Of the 277 respondents, 218
+(79%) were e-filers. shows the year respondents started e-filing. On average, 15.3% of respondents e-filed all their returns during their first year and 38.7% e-filed all their returns in the
+most recent tax year. Form 1040 returns were the most commonly e-filed (99% of respondents), followed by Form 1065 partnership returns, (32%) Form 1120 corporate returns (16%),
+and Form 1120 S corporate returns (16%). Exhibit 4 Benefits of E-filing The most frequently mentioned benefits of e-filing for preparers appear in . The most common benefit was that
+respondents found it to be more efficient, indicating that e-filing saved them both time and money. The second-most- mentioned benefit was the reduced number of errors, attributable to
+the one-time entry of figures and the checks performed by preparation software. Exhibit 5 Another benefit of e-filing was that it enabled e-filers to be more productive, presumably
+because it saves on paperwork costs, makes it easier to correct errors, and is quicker than filing on paper. These respondents commented that adopting e-filing made them look more
+progressive and technologically sophisticated to their clients. Respondents also noted that the IRS acknowledges receipts of e-filed returns, and delivers quicker refunds. About one-third
+of respondents also found e-filing to be less costly. In addition to reduced labor costs, e-filed returns greatly reduce the volume of paperwork. New technology allows a paperless filing
+system and provides taxpayers with an electronic version for their files as well. A paperless process saves paper, toner, and file storage costs. Characteristics of E-filers shows that
+respondents with larger practices were more likely to e-file than those with smaller practices. One might speculate that smaller firms and sole practitioners are more likely to have clients
+uncomfortable with newer technologies. Larger firms may also be more likely to e-file because they can afford the investment of time to start an e-filing initiative. The IRS could consider
+employing e-filing coordinators and trainers that would work with smaller firms to further encourage e-filing. Respondents with practices in the Midwest, West, and Southwest were more
+likely to e-file than those in the Northeast or Southeast (see ). The data indicate that, compared to the rest of the country, smaller firms were more likely to be among non-e-filers in the
+Northeast and Southwest. For firms in the Northeast and Southwest, 71% had five or fewer employees, as opposed to only 57% of firms in other areas. Exhibit 6 Exhibit 7 Looking
+Forward E-filing has clearly become prevalent among tax preparers, with 79% of the respondents indicating that they e-file. These practitioners see major benefits from e-filin
+more efficient, leads to fewer errors, makes their firms more productive, and is less expensive than paper-filing. For the IRS to reach its goals for even greater use of e-filing, it should
+focus on sole practitioners and small firms. , is a professor of accounting, Mark Fox, PhD, is a professor of management and entrepreneurship, and, is a professor of accounting, all at the
+school of business and economics at Indiana University-South Bend.Tracey Anderson, JD, LLM, CPABill N. Schwartz, PhD, CPA October 2005 Issue

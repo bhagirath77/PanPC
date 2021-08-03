@@ -1,0 +1,26 @@
+October 18, 2007 by John Krygier Google's allows the easy creation of pseudo map where you can map your own data as points, lines, and area symbols with as the background. My Maps
+mash-ups, Google Maps I wrote about - basic how-to and some of its limits - in another blog post, One of the limits, the inadequate and comy set of available map symbols, has been
+removed: you can now create and use your own map symbols inMy Maps Allelopathic Maps & Googles My Maps. My MapsMy Maps. To work with you need a Google and to use custom
+symbols (icons, as Google calls them) you need some server space to upload your symbols: you must provide a URL to the symbols. You should be able to find a that allows (the placement of
+an image hosted on the free site in a map in this case). You can also embed images in the pop-up balloon associated with points, lines, and areas on and you need server space to host those
+files.My Maps account, free web hosting service hot-linking My MapsMy Maps, In a posting on the official blog, with transparent backgrounds are recommended, although JPG and GIF should
+also work. PNGs and GIFs can have transparent backgrounds, essential if you dont want a white box surrounding your symbol. As Google says PNG, lets PNG. Custom Icons for Your Maps,
+Google Earth/Maps PNG files You can use or modify an existing symbol or create your own. A bunch of curious map symbols, for example, preface the map symbol chapter in the book: Making
+Maps 300 dpi PNG files of these symbols, (376k) and (84k) can be downloaded. annotated unannotated Many graphics software packages allow you to grab a single symbol and save it as a
+PNG file with a transparent background. Two well regarded, easy-to-use, and free software options, for the Mac and PC, are detailed below. """"TM""TM"""" If you are using a try Download the
+open-source, free software We will work with the unannotated PNG linked above. There are several routes through Seashore to a transparent PNG, here is one:Mac, Seashore. here. the file of
+symbols (mm_symb.png).Open to your symbol of choice.Zoom Use the tool to select a box around the symbol.Rectangular Select Copy. From the menu select : select and, under the
+templates menu, selectFileNew Transparent backgroundClipboard. From the menu choose the file as aSelectionAnchor Selection.SavePNG. To remove the white background, and thus make the
+file background transparent, grab the (or magic wand) tool and click on the background color (white in this case).Color Selection Hitdelete. Hit to resave the file.Save As... You should be able
+to look at the file on your computer desktop to make sure the background is transparent. """"""TMTM"" If you are using Windows, try Download the open-source, free software Again, we are
+working with the unannotated PNG linked above. There are several routes through GIMP to a transparent PNG, here is one: GIMP, here. the file of symbols (mm_symb.png).Open to your
+symbol of choice.Zoom Use the (Rect Select) tool to select a box around the symbol.Select Rectangular Regions Copy. Under and select and hitAdvanced OptionsFill with: TransparencyOK.
+Paste. To remove the white background, and thus make the file background transparent, grab the (magic wand) tool and click on the background color (white in this case).Select Contiguous
+Regions Hit You may have to select white interior areas and them also; make sure the checkered background (indicating transparency) fills all areas you want transparent.Cut.Cut Hit and
+name the file; under choose .Save As...Select File TypePNG Image HitSave. """""TM"TM""" your symbol to your server space, and note the URL of the symbol. You can open the URL to the symbol
+in a browser to make sure it works. Go to and add a and it (or edit an existing Placemark). Click on the (the red map pin in this case):UploadMy MapsPlacemarkediticon Click on the link and
+enter the URL to your map symbol. If you want to try the symbol I created, the URL isAdd an Icon _http://makingmaps.owu.edu/blogs/sawmill.png The symbol, and any other symbols you
+add, will be stored under the link.My icons Your new symbol with a transparent background should show up on the map: when using you can map out an existing KML or KMZ file of
+placemarks by entering a URL to the file in the search maps box (then hit enter). A KMZ file to test is here:Tip:My Maps, http://makingmaps.owu.edu/blogs/Geog_222_Spring_07.kmz Click
+on Unfortunately, you cant easily edit the Placemarks! Something for the Google folks to work on.Save to My Maps. see (Google Document) for related information.Update 10/22/08: Map
+Animation with Google Earth Possibly related posts: (automatically generated)

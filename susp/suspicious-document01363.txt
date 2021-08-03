@@ -1,0 +1,225 @@
+All 24 of the satellite clocks are synchronized with each other and each one broadcasts its own time signature. The GPS receiver is programmed to read the time signature of four
+satellite signals, and to measure the difference in time between receipt of the four signals. Since the signals all travel at exactly the same speed, and all of the satellites are different
+distances away from any particular point on the planet, each signal takes a measurably different amount of time to reach a particular receiver. This time difference is used by the
+receiver to calculate the distance to each of the 4 satellite sources and thus triangulate the exact location of the receiver on the planet's surface. (correct time) - (time indicated by the
+receiver's on-board clock), and the GPS receiver clock can be advanced if is positive or delayed if is negative. [] edit System segmentation The current GPS consists of three major
+segments. These are the space segment (SS), a control segment (CS), and a user segment (US). [10] A visual example of the GPS constellation in motion with the Earth rotating. Notice
+how the number of from a given point on the Earth's surface, in this example at 45 N, changes with time. Build and operate of a network of high-precision geodetic GPS receivers at
+ESTRACK station sites, including communications to ESOC Development of related software Development of services related to processing GPS data, solving for the orbits of the GPS
+satellites, station positions and motions, and Earth orientation parameters Monitoring of variations between GPS satellite clocks and ground receiver clocks Active participation in the IGS
+Ionospheric mapping in near-real time for ESA tracking stations, providing support to all ESA satellites being tracked from these sites Orbit determination for Earth satellites equipped with
+on-board GPS receivers GPS-TDAF receivers at Kourou station Contact Prof. John Dow, Head of Navigation Office ESA/ESOC, Darmstadt Tel: +49-6151-90-0 email: john.dow [at] esa.int
+
+Last update: 10 October 2007 A computer simulation will "fly" a re-entry body (RB) along its trajectory and compute plasma properties that produce GPS signal attenuation and
+pseudo-range changes for each GPS satellite in view for the specified day and time. (The specified day and time determine the locations of the GPS satellites relative to the RB.) The
+simulation will compose digital instructions that specify GPS signal attenuation and pseudo-range change. The instructions will be sent to a GPS signal simulator via Ethernet using UDP.
+The GPS signal simulator generates analog RF electronic signals that are fed into a real, physical GPS receiver, thus emulating what would occur on an RB in flight. And you can set
+reminders so you need never forget another birthday or anniversary! PDA's are often used in conjunction with a personal computer, to access data while away from the computer. PDA's
+are a versatile extension of a personal computer because of their ability to synchronize (synch) data between the computer and the PDA. The synchronization process creates a backup
+copy, and lets you enter appointments or addresses either on your computer or in the PDA. When you synch, the information is automatically updated in both places. You can buy and
+use a PDA even if you dont have a computer. The GPS-TDAF system integrates data analysis, operations support and communication software tools and works with GPS receivers on
+board satellites in combination with receivers installed worldwide (including at six ESTRACK station sites) to provide highly accurate orbit determination services. _ ESA's GPS-TDAF also
+provides other geodesy related services having very stringent accuracy requirements within the framework of the International GNSS Service (IGS). Access links at right for
+more technical information. For more information on all activities at ESA's Navigation Office, contact: GPS Tracking & Data Analysis Facility Diagram of GPS-TDAF system The IGS
+(International Global Navigation Satellite Systems Service) is a voluntary federation of more than 200 agencies worldwide that pool resources and permanent GPS & GLONASS station data
+to generate precise GPS and GLONASS products. Beginning with Navstar 1 in 1978, ten "Block I" GPS satellites were successfully launched. One satellite, "Navstar 7", was lost due to an
+unsuccessful launch on December 18, 1981. The Block I satellites were launched from using rockets that were converted . The satellites were built by at the same plant in where the
+second stages of the rockets had been built. The final Block I launch was conducted on October 9, 1985. GPS Information from the Stanford GPS Lab The works with the Federal
+Aviation Administration, U.S. Navy, U.S. Air Force, Arinc, NASA and U.S. Coast Guard to pioneer systems that augment the Global Positioning System (GPS) and Galileo. These
+augmentations broadcast differential corrections to improve accuracy, provide error bounds in real time, and/or mitigate radio frequency interference. Specific projects include:GPS
+Research Laboratory The already supports millions of land and marine users across North America. It became operational for aviation in July of 2003. Wide Area Augmentation System
+(WAAS) To track precisely, the rotating Right Ascension Axis of the mount is adjusted up or down and left or right by the user so that this axis of the mount is parallel to the rotational
+axis of the Earth. Depending on the telescope, an equatorial mount will provide acceptable results for visual uses even if the mount is aligned to only within about a few degrees of the
+Celestial Pole. But as you align the Mount more and more accurately then the need to periodically make minor adjustments to center a target in the eyepiece becomes less frequent. A
+very accurate alignment of the mount to the Celestial Pole is necessary for those persons who intend to attempt long exposure astrophotography or CCD imaging. Tele Atlas NAVTEQ GDF
+[] edit CARIN It has been suggested that this section be into a new article. () split Discuss CARIN Database Format (CDF) is a proprietary navigation map format created by Car Systems
+(this branch was sold to Mannesman VDO, in 1998, to Siemens VDO in 2002, and Continental in 2007.) and is used in a number of navigation-equipped vehicles. The 'CARIN' is derived from
+formation and avigation. Philips VDO/Dayton portmanteau CarIN The first navigation computers using this map format used the 0S9000 operating system, however newer variants such
+as the and VDO/Dayton PN2050 use Microware BMW iDrive Windows CE [4] The original system uses -based maps, with encoding for their file system. Integrated USB Port Output
+Compatible With Third Party Mapping Programs The recorded information can be downloaded to your computer through the USB port, there are no special software applications to buy,
+no hidden fees to see where the GPSTrackStick has been. SPECIFICATIONS: Reported history output: RTF (detailed text file with .html map links) XLS (Microsoft Excel spread sheet) HTML
+(webpage with graphics and text) KML (proprietary Google Earth file) Precisely calculates its own position anywhere within 15 meters Works anywhere on the Earth, Worldwide! Battery
+duration 5 to 7 days of typical operation with 4,000 records Works with: Google Earth, Mapquest, Maps.Google.com, Virtual Earth & Microsoft street and trips Required screen size to view:
+1024 X 768 Dimensions: 4.10" x 1.20" x 0.87" Weight: 1.5 0z. % 51 Will text your mobile phone to tell you your alarm has been triggered. KEEPING YOU IN TOUCH WITH YOUR VEHICLE
+OR HOME, EVEN WHEN YOUR AWAY! Ideal for Cars, Caravans, Motor homes, House alarms. GSM Pager . Can be used to text your mobile phone, 30 years experiance in vehicle tracking &
+security. Fitted in minutes. Just connect the 3 wires, send it a text message to link it to your phone then your ready to go. No specialist tools required. Small single unit. (Size of 20 pack
+cigarettes). Great Flexibility can be used with your existing alarm or as a stand alone device. Full UK Based technical support available 0870 0421459 Used in Automotive, Marine, Plant,
+Motor home & Agricultural applications. Details PDA is a generic term used to describe a handheld computer. It fits comfortably in a pocket or purse, and can store contact data,
+schedules, notes and much more. Some PDA's can run versions of Microsoft Word, Excel, and Powerpoint, and even include the features of cell phones, email, text messaging, cameras,
+MP3. music players and GPS (Global Positioning System) features. PDA's can be a lifesaver because they replace bulky paper daytimers, address books, and all the miscellaneous paper
+lists that seem to accumulate (and be lost). is a complete solution for Courier companies. It uses the GPRS network to provide high-speed data communications with nationwide coverage
+The Standard product includes real-time or historical tracking, customer signature capturing and create detailed invoicing facilities. The Cordic vPAQ_ Despatching System Individually
+booked Jobs can be grouped together for dispatch, to allow a single vehicle to carry multiple parcels at the same time Automatic Route optimisation for Multi-via trips and grouped Jobs
+Automatic and manual dispatching Proof of Delivery (including signature) is captured directly on the hand-held unit On-line direct Job booking using Internet based Web-Booking Detailed
+audit trail of Driver and Office Staff activities How To Buy a PDA PDA handheld computers buying guide! Let's start at the beginning, in this to buying a handheld pda device.brief guide
+What are PDAs for? (PDAs) are pocket-sized devices which provide personal organiser functions: to-do lists, contacts, diary and memo. And many PDAs now also email, multimedia, office
+software and browse the Web (Their functionality is mostly limited by the available to buy, in truth).Personal Digital Assistants software They are regarded as more versatile than a
+typical diary, and more convenient than notebook computers. Note: pdas are often referred to as palmptops or handheld computers too. What factors are important in buying a PDA? What
+type of PDA you buy depends a lot on your requirements and on your budget. "The work I did involved analyzing the orbital positions of various GPS satellites and building a controller for
+a 60-foot radio dish on Table Mountain near Boulder. Another large project was adapting a CU-developed GPS receiver's software/firmware to work with a new version of the hardware.
+The experience was great for me. I joined in my senior year, and my only regret was not getting involved sooner. > Home GPS GPS Batteries BatteryMart.com offers a wide selection of
+replacement GPS batteries from the leading GPS manufacturers. You can buy with confidence that replacement GPS batteries from BatteryMart.com will have a long life at a great price. If
+you need assistance with locating your GPS battery please call our customer service team at 1-800-405-2121 or . email us Xaiox Replacement GPS Batteries Our replacement GPS
+batteries are guaranteed to meet OEM specifications at a reduced price. Our batteries are made from the highest quality parts and are 100% compatible with listed GPS manufacturer. All
+our batteries include a minimum one year warranty. The Battery Experts Need assistance finding the right replacement GPS battery? Please call us at 1-800-405-2121 or and our
+customer service team will help you find the correct battery for your GPS. email us Best Sellers Join our mailing list to receive updates and special offers. Enter keyword or item # > >
+GPSTrackStick Micro GPS Logger/Tracker Home GPS Locators & Trackers GPSTRACKSTICK MICRO GPS LOGGER/TRACKER GPS Locater Fits In the Palm Of Your Hand - Uses The Latest
+Technology To Map Exactly Where It Has Been This very small data logger can fit in the palm of your hand and works world wide! This tracking device can map exactly where it has been
+by recording its own time, date, location, speed direction and altitude at preset levels. Containing 1MB of memory it can store information for months of travel. It so small you can hide it
+for covert applications. The recorded information can be downloaded to your computer through the USB port, there are no special software applications to buy, no hidden fees to see
+where the GPSTrackStick has been. When it's coupled with a high-resolution widescreen display, the results are pretty impressive. HP iPAQ 310 Travel Companion If live traffic updates
+are important to you, the combination of a built-in TMC receiver, a big 4-inch screen, and text-to-speech conversion makes the LG LN740 a nice value. LG LN740 The new, slimmer
+Magellan Maestro 4250 offers all the features of its predecessor, the Magellan Maestro 4250 4050, at an even more attractive price. Mio's DigiWalker C720t includes a long list of premium
+features, including live traffic updates, a huge POI database, and even a 2-megapixel camera. Mio DigiWalker C720t The TomTom GO 920 is an even better value than the company's
+highly rated TomTom GO 920 GO 720 modelCparticularly if you plan on traveling to Europe. Its menus are quick and responsive, and Map Share provides community-based map and POI
+updates. The Editors Choice-winning V7 NAV740 offers mid-market navigation featuresDlike text-to-speech functionality, multi-segment routing, and built-in multimedia playersClwith
+entry-level pricing. Optics are an integral part of an essential surveying instrument called a total station. This instrument enables the surveyor to compare locations in relation to one
+another. Optics allow survey and construction professionals to accurately pinpoint the exact feature to be measured while lasers measure the distance. In the past, making sure the optic
+lenses were positioned correctly within the instrument was an art. Today, sophisticated software helps calibrate these sensitive instruments, improving the accuracy and productivity of
+the surveyor.Optics Inertial technology senses changes in motion and is primarily used when GPS signals are obstructed, Starting with an initial location based on a landmark, inertial
+technology uses accelerometers and gyroscopes to determine the successive position based on movement. The Galileo satellite radio navigation system proposed by the European Union
+offers advantages to Global Navigation Satellite System (GNSS) users by providing additional satellites, additional signals, and compatibility with GPS. Trimble fully supports this
+advancement in the GNSS market. As we have done with products that capitalize on next generation GPS capabilities, we are committed to having Galileo compatible products available
+for our customers well in advance of Galileo system availability. In the case of GPS modernization, our compatible products were available a year ahead of the first L2C-capable satellite
+launch. Trimble has also developed products for the coming LS GPS signal. Likewise, we will offer equipment with Galileo capability well ahead of the time when production satellites are
+launched. Time dilation, red shift and Sagnac effects were important enough to be taken into account in the design and in the navigation message, but their measurements were not
+accurate enough for representing a scientific step forward. This peculiar situation created a distance between most of the scientific community in relativity and GPS, with few notable
+exceptions. Furthermore, the GPS has been characterised by endless controversies and discussions on the validity of the relativistic corrections, few times within the scientific community
+but more often the arguments were generated outside, in the GPS community at large. Swift and efficient call booking (including integration with telephone system and voice recording)
+Automatic and manual dispatching Comprehensive accounts/billing system with facility to export to Sage and Excel Vehicle location using Satellite Global Positioning System (GPS) Fully
+integrated voice guided navigation system Vehicle tracking (both Live and Historical) Built in maps for Manual Despatch, route estimation, and pricing On-line direct Job booking using
+Internet based Web-Booking Detailed audit trail of Driver and Office Staff activities Music and video players and photo viewers are nice bonuses as long as they're easy to use and there's
+ample additional storage for your media. Remember: those files share space with your maps and navigation tools. Fortunately, there are devices such as the that accept SDHC cards up to
+16GB, which will hold plenty of songs, video, and photos. An integrated Bluetooth speakerphone interface is convenient for making hands-free callsCleven directly from the POI database.
+When you pair your Bluetooth-enabled phone with the your call log and contacts are automatically transferred for easy dialing. Voice quality is excellent and the speakerphone is
+sufficiently loud. The satellites are time-synchronised with each other by very precise atomic clocks which are regularly calibrated by the ground stations. A GPS receiver detects
+differences in timing between signals received from the satellites and these differences can be used to calculate the distance to each satellite. The satellites also transmit their precise
+location and trajectory, hence with an understanding of the location of the satellites and the distances from a number of satellites it is possible to triangulate to calculate the location of
+the receiver. To calculate a precise location fix, four variables need to be resolved: x, y, z and t, (time). Hence measurements need to be made from a minimum of four satellites. For
+many people, GPS is synonymous with satellite navigation C1 however this is a mistake. GPS is an example of a location technology, and navigation is only the tip of the iceberg in terms
+of potential consumer applications. Allocate the nearest mobile worker to any job See immediate cost savings and easily achieve return on investment Enjoy ease-of-use and quick
+installation - you can be tracking your vehicles in no time Sign in FANTASTIC VEHICLE TRACKING FROM JUST 71p PER DAY ALL INCLUSIVE SPECIAL OFFER UNTIL THE END OF AUGUST -
+CALL US TODAY TO FIND OUT MORE Trimble is a leading provider of GPS technology. We understand your business and will help you choose the right solution. Wireless technology is
+embedded in the in-vehicle hardware so that the GPS location and other data is sent via wireless carrier networks to the Trimble or @Road server. Once in the server, the gathered data
+is immediately processed and delivered to customers in the forms of maps and reports that managers and dispatchers can view on their desktop computer or web browser. The maps,
+reports and alerts use the processed data to show vehicles real-time location, speed, time and distance traveled. Managers use this information to create more efficient work processes
+and routes, leading to reduced operational costs. boating, aircraft, hiking), corporate vehicle fleet tracking, and surveying. NAVSTAR GPS employs 24 spacecraft in 20,200 km circular orbits
+inclined at 55 degrees. These spacecraft are placed in 6 orbit planes with four operational satellites in each plane. All launches have been successful except for one launch failure in
+1981. The full 24-satellite constellation was completed on March 9, 1994. GPS receivers use triangulation of the GPS satellites! navigational signals to determine their location. The
+satellites provide two different signals that provide different accuracies. My PhD dissertation was titled .An Investigation of Spin-Orbit Resonance Effects About the Geosynchronous Orbit
+Temporal Clustering in the Multi-Target Tracking Environment My job experience began with a four-year tour working with the Minuteman II ICBM at Whiteman AFB, Missouri. I pulled
+174 alert tours as a Missile Combat Crew Commander where I was primarily responsible for maintaining the alert status of ten missiles. Most of my alerts were at the Wing Alternate
+Command Post where I was responsible for the entire wing of 150 missiles. After working as a wing instructor for six months, I was picked to teach Minuteman II ICBM Operations at the
+Combat Crew Training Squadron at Vandenberg AFB in California where about half of the US launches are conducted. >> DLC Laboratories Satellite Navigation Laboratory The SatNav lab
+is devoted to research on satellite navigation/timing systems. The U.S. Global Positioning System (GPS) is most common, but efforts also include the Russian GLONASS system as well as
+the developing European Galileo and Chinese Compass systems. Research activities involve all aspects of these systems from satellite orbits to antenna/receiver design and signal
+processing. The laboratory includes a number of Global Navigation Satellite System (GNSS) receivers and components as well as a full constellation GPS simulator. The SiRF Star II GPS
+receiver has become the de facto standard for PNDs because of its exceptional Time to First Fix (TTFF)Cithe time it takes the receiver to find its position in a new locationCland its ability
+to acquire and maintain a signal even in dense urban environments. In terms of POI databases, the best devices give you the flexibility to search for POIs within a city, along a route, or
+near your home or destination. Most top off at about six million entries or so, but there are exceptions, of course. The higher-end ($599.95) has twelve million POIs, while the inexpensive
+($299), our budget Editors' Choice has eleven million listings, the largest database we've seen at this price point. Mio DigiWalker C720t V7 NAV740 Text-to-speech conversion is a handy
+feature that also keeps you safe. A unit with this capability pronounces street names in addition to announcing upcoming turns. The computer announces the approaching and upcoming bus
+stops and repeats the information on a dot-matrix display, all without intervention from the driver. This service was once provided based on tire revolutions and odometer mileage,
+which is not nearly as reliable as a GPS enabled system. Taipei [] edit Retrofitting of GPS A vehicle can be with a unit if it did not originally have one. There are three approaches that
+can be taken here: retrofitted GPS navigation device [] edit Portable GPS This type of is not permanently integrated into the vehicle, having only a simple bracket to mount the device on
+the surface of the and powered via the . The following map overlay of the 1909 Map of Sunning was produced by my friend and colleague, Yongping Zhao. Topographic Maps Historic maps,
+especially, large scale topographic maps that were compiled 60 years ago, are quite useful in preserving original village locations, place names , boundaries as they were, when our
+ancestors were there. As many of our ancestors came over 60 years ago, most contemporary maps may not contain old villages, hamlets, and other geographic features which have since
+disappeared or moved because of urban development and other large construction projects. These historic large scale topographic maps can provide the needed detail to locate the
+ancestral village - so its location can be identified on modern maps. For genealogical purposes, detailed, historic, large scale topographic maps showing village and hamlet locations with
+both English and Chinese names are the most useful, as shown by the above topographic map. Nielsen Outdoor and its technology partner, RDP Associates, have developed a proprietary
+GPS device - the Nielsen Personal Outdoor Device, or NpodTM - about the size of a cell phone, which people carry in their pockets, purses or wear like a cell phone. Members of a
+randomly chosen sample carry an NpodTM as they move about on foot or in vehicles which is linked to orbiting satellites that enables Nielsen Outdoor to identify their location, speed and
+direction of travel, passively, continuously, easily and affordably. First Ever GPS-Based Outdoor Demographic Ratings In The World To determine actual exposure estimates to outdoor
+displays, we gather travel information of the routes taken by an individual which are matched to a list of geo-coded outdoor sites to obtain passages, or the opportunity to see specific
+outdoor sites. The system is operated and controlled by the 50th Space Wing, located at Schriever Air Force Base, Colo. Features GPS satellites orbit the earth every 12 hours, emitting
+continuous navigation signals. With the proper equipment, users can receive these signals to calculate time, location and velocity. The signals are so accurate, time can be figured to
+within a millionth of a second, velocity within a fraction of a mile per hour and location to within 100 feet. Receivers have been developed for use in aircraft, ships and land vehicles, as
+well as for hand carrying. They took us on back roads and as we drove, they literally translated any visible road information (home addresses, lane changes, road signs, etc.) directly
+to a computer. Let me tell you - you'd be surprised how much information is on the road and just what is updated from month to month. So, anyhow, next time you're jonesing to find that
+coffee shop in the middle of nowhere - know that someone may have taken one for the team to get you to that soy peppermint latte or even better spared you a ticket by alerting you
+that you were driving like a bat out of hell. //We still need to check this for stock level if (iDropDownNo == -1) { for (vari = 0; i < 1; ++i) { if (parseFloat(arrStock [iJ[2]) >
+parseFloat(0)) { document.forms['product_infoForm'].stock_id.value = arrStock [i][0] binMatch = true; stock_level=arrStock [i][2] } } } else { var objDropDown =
+eval("document.formst'product_infoForm'].option" + iDropDownNo); eval("Drop" + iDropDownNo + "Value = objDropDown.options[objDropDown. selectedindex].value"); eval("Drop" +
+iDropDownNo + "Position = iArrayIDPos "); // if (objDropDown.value != "TM){ for (var i = 0; i < 1; ++i) { switch(NoOfDropDowns) { case 1: if ( (parseFloat(arrStock [i][2]) >
+parseFloat(0)) && (arrStock [i][Drop1Position] == DropiValue) ) { document.forms['product_infoForm'].stock_id.value = arrStock [i][0]
+//document.getElementByld("'strCheckStock").innerHTML= "In Stock"; //document.getElementById("prod_quantity").disabled = false; blnMatch = true; stock_level=arrStock [iJ[2] } break;
+case 2: if ( (parseFloat(arrStock [i][2]) > parseFloat(0)) && (arrStock [i][Drop1Position] == DropiValue) && (arrStock [i][Drop2Position] == Drop2Value) ) {
+document.forms['product_infoForm'].stock_id.value = arrStock [i][0] //document.getElementByld("'strCheckStock").innerHTML= "In Stock";
+//document.getElementById("prod_quantity").disabled = false; binMatch = true; stock_level=arrStock [i][2] } break; case 3: if ( (parseFloat(arrStock [i][2]) > parseFloat(0)) &&
+(arrStock [i][Drop1Position] == DropiValue) && (arrStock [i][Drop2Position] == Drop2Value) && (arrStock [i][Drop3Position] == Drop3value) ) {
+document.forms['product_infoForm'].stock_id.value = arrStock [i][0] //document.getElementByld("'strCheckStock").innerHTML= "In Stock";
+//document.getElementByld("prod_quantity").disabled = false; binMatch = true; stock_level=arrStock [i][2] } break; case 4: if ( (parseFloat(arrStock [iJ[2]) > parseFloat(0) ) &&
+(arrStock [i][Drop1Position] == DropiValue) && (arrStock [i][Drop2Position] == Drop2Value) && (arrStock [i][Drop3Position] == Drop3Value) && (arrStock [i][Drop4Position] =
+Dropavalue) ) { document.forms|'product_infoForm'].stock_id.value = arrStock [iJ[0] //document.getElementById("strCheckStock").innerHTML= "In Stock";
+//document.getElementByld("prod_quantity").disabled = false; blnMatch = true; stock_level=arrStock [iJ[2] } break; case 5: if ( (parseFloat(arrStock [i][2]) > parseFloat(0)) && (arrStock
+[i][Drop1Position] == DropiValue) && (arrStock [i][Drop2Position] == Drop2Value) && (arrStock [i][Drop3Position] == Drop3Value) && (arrStock [i][Drop4Position] == Drop4Value) &&
+(arrStock [i][DropSPosition] == DropSValue) ) { document.forms|'product_infoForm'].stock_id.value = arrSto battery - most handhelds come with either alkaline batteries (usually AAA
+size) or a rechargeable battery pack dimensions cost (obviously!) - can vary between 50 to 700 A Brief PDA buyers checklist Make sure the product you buy is compatible, if necessary,
+with your PC or MAC Compare prices between colour and monochrome screens. The price difference can be significant - is it worth it for you? Check the screen resolution - typically 320 x
+240 (with colour models offering 65,000 colours) Buy a model with as much memory as you can afford Ensure the product price includes a sync. cradle or cable for connecting the PDA to
+your computer Look for wireless connectivity; e.g. infrared Check the manufacturers estimates for battery-life And - if you really do need more help - go to your local newsagents, or
+WHSmiths, and browse a decent Internet mag. NAVSTAR GPS/Block I - Specs Technical Specifications The GPS satellite vehicle numbers (SVN) 1 through 11 are designated as Block I.
+The Block I satellites are/were positioned in the same orbital planes as the Block II, but at an inclination angle of 63 degrees. Block I consisted of the original concept validation satellites,
+and reflect various stages of system development. Lessons learned from the 11 satellites were incorporated into later blocks. In 1974 Rockwell International was awarded a contract to
+build 8 Block I satellites. In 1978 the contract was extended to build an additional 3 Block I satellites. NAVSTAR GPS/Block I Satellites Miller, James M. Glynn, SPIE Proceedings5420
+Copyright 2004 Society of Photo-Optical Instrumentation Engineers. This paper was published in , and is made available as an electronic reprint (preprint) with permission of SPIE, One
+print or electronic copy may be made for personal use only. Systematic or multiple reproduction, distribution to multiple locations via electronic or other means, duplication of any
+material in this paper for a fee or for commercial purposes, or modification of the content of the paper are prohibited.SPIE Defense and Security SymposiumSPIE Proceedings5420
+Although these protocols are officially defined by the , references to these protocols have been compiled from public records, allowing open source tools like to read the protocol without
+violating laws. Other proprietary protocols exist as well, such as the and protocols. Receivers can interface with other devices using methods including a serial connection, or . NMEA
+0183 NMEA 2000 [23] NMEA [24] gpsd intellectual property SiRF MTK USB Bluetooth [] edit Navigation signals GPS broadcast signal Each GPS satellite continuously broadcasts a at 50
+giving the , GPS week number and satellite health information (all transmitted in the first part of the message), an (transmitted in the second part of the message) and an (later part of
+the message). The messages are sent in frames, each taking 30 seconds to transmit 1500 bits.Navigation Message bit/s time-of-week ephemeris almanac Transmission of each 30 second
+frame begins precisely on the minute and half minute as indicated by the satellite's atomic clock according to . The software you install may include maps only for a particular region, or
+the entire world (if software as Google Maps, , ... is used. home computer laptop PDAs smartphones Serial USB Bluetooth CF PCMCIA ExpressCard [1] wireless modem [2] GPS navigation
+software Networks in Motion's AtlasBook mobile navigation platform For examples of USB GPS devices, see : [3] 10.3 Technical, historical, and ancillary topics links [] edit Basic concept
+of GPS A GPS receiver calculates its position by precisely timing the signals sent by the GPS high above the Earth. Each satellite continually transmits messages containing the time the
+message was sent, precise orbital information (the ), and the general system health and rough orbits of all GPS satellites (the almanac). The receiver measures the transit time of each
+message and computes the distance to each satellite. Geometric is used to combine these distances with the location of the satellites to determine the receiver's location. The position is
+displayed, perhaps with a moving map display or latitude and longitude; elevation information may be included. Many GPS units also show derived information such as direction and
+speed, calculated from position changes. Extremely accurate, three-dimensional location information (latitude, longitude and altitude), velocity and precise time A worldwide common grid
+that is easily converted to any local grid Passive all-weather operations Support to an unlimited number of users and areas Support to civilian users at a slightly less accurate level
+Background The GPS Master Control Station, operated by the 50th Space Wing's 2nd Space Operations Squadron at Schriever AFB, Colo., is responsible for monitoring and controlling the
+GPS satellite constellation. The GPS-dedicated ground system consists of five monitor stations and four ground antennas located around the world. The monitor stations use GPS receivers
+to passively track the navigation signals on all satellites. Univ. of Texas Rentec International GPS Spacecraft The first eleven spacecraft (GPS Block 1) were used to demonstrate the
+feasibility of the GPS system. The orbit inclination used for these satellites was 63 degrees, differing from the 55 degrees used for the operational system. The Block 2 spacecraft began
+the operational system. The Block 2A spacecraft (A = Advanced) were a slight improvement over the Block 2. Related QuickLook Pages: The final satellite of the series to be taken out of
+service was decommissioned March 15, 2007. [3] [] edit Block IIA series Nineteen satellites in the Block IIA series were launched, the first on November 26, 1990 and the last on
+November 6, 1997. As of January 17, 2009, six satellites of this series have been removed from service. Two of the satellites in this series, numbers 35 and 36, are equipped with laser
+retro-reflectors. This allows very precise navigation and control of the movement of people and things on the planet's surface. Unfortunately, this sort of accuracy could be useful to an
+enemy. The U.S. government intentionally scrambles the signal slightly to reduce the available accuracy, just enough to avoid untoward use of the positioning system while maintaining an
+acceptable degree of accuracy for the system to be generally useful. The GPS is already being used to produce the most accurate maps ever, for surveying and documentation, for
+prospecting, for on-the-fly navigation systems, and in agriculture to help regulate the application and use of fertilizers. Other uses for this ingenious system are being developed every
+day. About the Author Richard M. Technologies that address the vulnerability of satellite navigation to radio frequency interference are of interest. These include the integration of existing
+terrestrial radio navigation systems like - now called enhanced Loran or eLoran. The lab is also very active in the investigation of software receivers that integrate inertial navigation and
+adaptive antennas. Loran Earlier, the laboratory worked with the U.S. Coast Guard to design a medium frequency radio system to broadcast differential corrections to maritime users of
+GPS. _ Portable Devices Trimble Home > Embedded Systems > Portable Devices Smaller, more energy-frugal OEM portable devices with powerful GPS positioning capability are
+possible thanks to continuing Trimble innovations. Cell phones, personal digital assistants (PDA's), cameras, and many other handheld products benefit from Trimbles latest space and
+power-efficient modules. Trimble offers a full range of GPS software license products ranging from pure software GPS to GPS Navigation Engines running on industry leading GPS
+Chipsets. The TrimCore complete navigation engine drives the Copernicus GPS Receiver with a u-Nav Microelectronics GPS chipset. TrimCore DSP software runs on a general purpose DSP
+to eliminate the need for a dedicated GPS baseband chip. But keep in mind the Earth rotates at a rate of about one revolution every 24 hours or so, and celestial objects seem to move
+across the sky in arcs as the Earth turns. On a clear night one can observe the Moon rising through the trees at only a magnification of 1X (naked eye). A view of the full Moon will
+require a telescope operating at a magnification of about 80X or more. One has to move a manual Alt-Az mount very carefully up and to the right as the Moon rises from the East
+peaking in the Southern sky, and then continue moving the telescope down and right as the Moon sets in the West. Web User) and see what PDAs they recommend. Or you could just see
+what previous buyers think ( has easily the most buyers!) Amazon Amazon Buying Guide... If you want to learn more about buying a PDA then visit Amazon's excellent . pda buying guide
+More PDA handheld computers... Find more pocket pda handheld computers here: Handheld computers: The accuracy using a typical civilian GPS receiver with C/A code is typically about
+100 meters. The military's Precision (P) code is not corrupted, and provides positional accuracy to within approximately 20 meters. Numerous on-line tutorials on how GPS works and its
+applications are available, including those at the and . GPS satellites are controlled at the GPS Master Control Station (MCS) located at Falcon Air Force Base outside Colorado Springs,
+Colorado. This map of my ancestral village, "Cheer ten" was drawn up by my nephew after my visit. When visiting your ancestral village, you will need someone else to draw the map to
+the village, draw the village map itself, and also to take the photographs and/or video. You will be too busy being led around to meet relatives, paying respects to your ancestors in the
+house in the village and at the cemetery. If you will be using a GPS receiver to record the geographic coordinates of various sites - villages, houses, gravesites etc., you will need to turn
+on the GPS unit when you arrive in the locality. The GPS receiver need some time, probably, at least 15 minutes, to adjust and lock on the GPS satellites that your receiver will see in that
+part of the world. Funding Sources Australian Research Council, Large Grant Division of Engineering and Science Postgraduate Scholarship International Postgraduate Research
+Scholarship Status Started 1998, ongoing Generic, off-the-shelf GPS processing software packages, however, do not take advantage many of the specific algorithmic issues that can be
+implemented to increase levels of precision to that required for the monitoring of geometrical deformations. When this monitoring takes place in or around steep slopes, syetematic errors
+such as slope induced multipath can significantly degrade position solutions. As such, dedicated software is required to exctract the most from the GPS observations.Summary As a
+result, 2 number of application-specific software packages have been developed to target the specific area of GPS positioning for the monitoring of geometrical deformations. Both the
+software application GPS Mailbox, and Gather GPS make use of a base called This processing engine offers the following features:Results processing engine(PS/LONASS essing
+oftware)GGProcSGGProcS. Accumulated Least Squares Carrier-phase Double Difference Processing The system was developed by the United States Department of Defense and is
+maintained by the US Air Force, however since the early 1990[Is it has been freely available for civilian use. The fully-deployed system comprises at least 24 satellites (currently over 30
+are in orbit), a set of ground stations around the World which are used to monitor and control the satellites, and any number of GPS receivers which can calculate their precise location
+based on signals received from the satellites. Each satellite orbits the Earth about once every 12 hours at an altitude of 20,200 kilometres (about 12,500 miles) and transmits a unique
+signal containing timing information which can be decoded at the receiver. You'll need to be a little more careful to keep the batteries charged, because you won't have a backup copy.
+Modern PDA's use rechargeable batteries, and a charge lasts anywhere from a few days to a week or more (depending on usage). What's the process? If you don't have a computer, you
+simply buy a PDA, and start entering your data

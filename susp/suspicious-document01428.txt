@@ -1,0 +1,26 @@
+s series India INSAT Most commercial , and satellites operate in geostationary orbits. ( television satellites have used and orbits due to the high latitudes of the receiving audience.) The
+first satellite placed into a geostationary orbit was the -3, launched by a rocket in 1964. communications satellites broadcast satellites SBAS Russian elliptical Molniya Tundra Syncom
+Delta-D A, a hypothetical satellite that uses a to modify its orbit, could theoretically hold itself in a "geostationary" orbit with different altitude and/or inclination from the "traditional"
+equatorial geostationary orbit. statite solar sail [] edit Derivation of geostationary altitude In any circular orbit, the required to maintain the orbit is provided by the gravitational force on
+the satellite. To calculate the geostationary orbit altitude, one begins with this equivalence, and uses the fact that the orbital period is one . centripetal acceleration sidereal day By of
+motion, we can replace the forces with the of the object multiplied by the felt by the object due to that force: Newton's second law F mass m acceleration We note that the mass of the
+satellite appears on both sides geostationary orbit is independent of the mass of the satellite. So calculating the altitude simplifies into calculating the point where the magnitudes of the
+required for orbital motion and the provided by Earth's gravity are equal.m [2] centripetal acceleration gravitational acceleration The 's magnitude is: centripetal acceleration where is the
+, and is the orbital radius as measured from the Earth's center of mass. angular speed r The magnitude of the is: gravitational acceleration where is the mass of Earth, , and is the ,
+M5.9736 10 kg24G gravitational constant 6.67428 0.00067 10 m kg s11312 Equating the two accelerations gives: The product is known with much greater accuracy than either factor; it
+is known as the = :GM geocentric gravitational constant 398,600.4418 0.0008 km s32 The angular speed is found by dividing the angle travelled in one revolution (360 = 2 rad) by the
+orbital period (the time it takes to make one full revolution: one , or ). This gives: sidereal day 86,164.09054 seconds [3] The resulting orbital radius is 42,164 kilometres (26,199 mi).
+Subtracting the , 6,378 kilometres (3,963 mi), gives the altitude of . Earth's equatorial radius 35,786 kilometres (22,236 mi) Orbital speed (how fast the satellite is moving through space)
+is calculated by multiplying the angular speed by the orbital radius: [] edit Practical limitations While a geostationary orbit should hold a satellite in fixed position above the equator, ,
+such as by the and from the fact that the Earth is not an exact cause slow but steady drift away from the geostationary location. Satellites correct for these effects with maneuvers. In the
+absence of servicing missions from the Earth, the consumption of thruster propellant for station-keeping places a limitation on the lifetime of the satellite. orbital perturbations Moon
+sphere station-keeping [] edit Communications Satellites in geostationary orbits are far enough away from Earth that communication latency becomes very high about a quarter of a
+second for a one-way trip from a ground based transmitter to a geostationary satellite and back, and close to half a second for round-trip end-to-end communication. For example, for
+ground stations at of = 45 on the same as the satellite, the one-way delay can be computed by using the , given the above derived geostationary orbital radius , the and the , as latitudes
+meridian cosine rule r Earth's radius R speed of light c This presents problems for latency-sensitive applications such as voice communication or online gaming. [4] [] edit Orbit allocation
+Satellites in geostationary orbit must all occupy a single ring above the equator. The requirement to space these satellites apart means that there are a limited number of orbital "slots"
+available, thus only a limited number of satellites can be placed in geostationary orbit. This has led to conflict between different countries wishing access to the same orbital slots
+(countries at the same but differing ). These disputes are addressed through the 's allocation mechanism. Countries located at the Earth's equator have also asserted their legal claim to
+control the use of space above their territory. Since the Clarke Orbit is about 265,000 km (165,000 mi) long, countries and territories in less-populated parts of the world have been
+allocated slots already, even though they aren't yet using them. The problem presently lies over densely-populated areas such as the and /, and above the middles of the three equatorial
+oceans. longitude latitudes International Telecommunication Union [5] [6] Americas Europe Africa

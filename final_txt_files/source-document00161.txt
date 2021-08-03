@@ -1,0 +1,22 @@
+U.S. Air Force Fact Sheet NAVSTAR GLOBAL POSITIONING SYSTEM Mission The Navstar Global Positioning System (GPS) is a constellation of orbiting satellites that provides navigation data to
+military and civilian users all over the world, The system is operated and controlled by the 50th Space Wing, located at Schriever Air Force Base, Colo. Features GPS satellites orbit the earth
+every 12 hours, emitting continuous navigation signals. With the proper equipment, users can receive these signals to calculate time, location and velocity. The signals are so accurate, time can
+be figured to within a millionth of a second, velocity within a fraction of a mile per hour and location to within 100 feet. Receivers have been developed for use in aircraft, ships and land
+vehicles, as well as for hand carrying. GPS provides 24-hour navigation services including: The GPS constellation is designed and operated as a 24-satellite system, consisting of six planes, with
+a minimum of four satellites per plane. The Delta II expendable launch vehicle is used to launch GPS satellites from Cape Canaveral Air Station, Fla., into nearly 11,000-mile circular orbits.
+While circling the earth, the systems transmit signals on two different L-band frequencies. Their design life is 7.5 years. Extremely accurate, three-dimensional location information (latitude,
+longitude and altitude), velocity and precise time A worldwide common grid that is easily converted to any local grid Passive all-weather operations Support to an unlimited number of users
+and areas Support to civilian users at a slightly less accurate level Background The GPS Master Control Station, operated by the 50th Space Wing's 2nd Space Operations Squadron at
+Schriever AFB, Colo., is responsible for monitoring and controlling the GPS satellite constellation. The GPS-dedicated ground system consists of five monitor stations and four ground antennas
+located around the world. The monitor stations use GPS receivers to passively track the navigation signals on all satellites. Information from the monitor stations is then processed at the
+master control station and used to update the satellites navigation messages. The master control station crew sends updated navigation information to GPS satellites through ground antennas
+using an S-band signal. The ground antennas are also used to transmit commands to satellites and to receive state-of-health data (telemetry). The GPS ;Program office is significantly enhance
+many of the functions providec by current positioning and navigational equipment, and will result in greater accuracy at lower cost. Functions such as mapping, aerial refueling and rendevous,
+geodetic surveys, and search and rescue operations will benefit . Such capabilities were put to the test during the U.S. involvement in operations Desert Shield and Desert Storm. Allied troops
+relied heavily on GPS to navigate the featureless Saudi Arabian desert. Forward air controllers, pilots, tank drivers and even cooks used the system successfully. Air Force Space Command's
+Space and Missile Systems Center at Los Angeles AFB, Calif., acts as the executive agent for the Department of Defense in acquiring GPS satellites and user equipment. General Characteristics
+ Precise navigation, timing and velocity information worldwide Block I and II/IIA, Rockwell International (Boeing North American); Block IIR, Lockheed Martin; Block IIF, Boeing North
+American Solar panels generating 800 watts Block IIA, 3,670 pounds (1,816 kilograms); Block IIR, 4,480 pounds (2,217 kilograms) Block IIA, 136 inches (3.4 meters); Block IIR, 70 inches
+(1.7 meters) Block IIA, 208.6 inches (5.3 meters); Block IIR, 449 inches (11.4 meters) Block II/IIA, 7.5 years; Block IIR, 10 years 1978 Delta II July 1995 (at full operational capacity) The
+U.S. Coast Guard operates and maintains the Navigation Information Service for civilian GPS users. It can be reached at (703) 313-5900, 24 hours a day, 365 days a year-Primary Function:
+Primary Contractors:

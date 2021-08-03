@@ -1,0 +1,7 @@
+A set of tools to assist planetary scientists in the planning, acquisition and interpretation of observations of the ringed (and possibly-ringed) planets. Rings Node On-line Tools Versions of these
+tools are now available to support the and the Jupiter flyby. Cassini Mission New Horizons These forms enable you to generate a diagram showing the appearance of a planetary system at 2
+specified time. Bodies and rings are rendered with terminators and shadows as appropriate. The viewpoint can be Earth's center, a particular Earth-based observatory, or a spacecraft. Planet
+Viewers These forms enable you to generate a diagram showing the apparent east-west motion of one or moons relative to the disk of a planet, within a specified time period. Moon Trackers
+ Click for, ,,, or. Jupiter Satur Uranus Neptune Mars These forms enable you to generate a table listing useful information about the viewing geometry for a planet and/or any of its moons
+as a function of time. You are free to specify which of a variety of useful quantities to tabulate (e.g. RA and dec, phase angle, ring opening angle, distance, lunar phase, etc.). Ephemeris
+Generators Cassini Tools These versions of the tools are intended to assist in the planning and analysis of Cassini data. Saturn tools are updated regularly with the reconstructed Cassini tour.

@@ -1,0 +1,20 @@
+January 03, 2007 Important Basics for Google Earth [: this post was written for Google Earth versions 4.0 through 4.2. The new 4.3 version has new interfaces for tilting your view. I will be
+writing an updated version of this post soon. Or you can read the Version 4.3 from the GE User Guide.]IMPORTANT NOTE tips on navigating If you are new to Google Earth (GE), or looking for
+ways to improve how you interact with GE, then this entry may be of help. Additional resources are referenced below. Note: this blog entry assumes you are using Google Earth 4 - for GE
+version 3 oriented tips. see this Learning to manipulate the mouse and keys to control GE is crucial to getting the most out of sightseeing the Earth. The first important thing to know is how to
+zoom in closer to the Earth. You have many ways to do this: your mouse button (left button, if you have multiple buttons, to zoom in, right button to zoom out); use the mouse scroll-wheel (if
+you have one); or use the or key combinations. You can also use the navigation gadgets - the "" and "" buttons with slider on the far upper-right to change your altitude. The mouse
+scroll-wheel is probably the favorite method of most typical GE fans. All of these methods adjust your altitude above the Earth's surface. You can see your height above sea level in the lower
+right of the GE viewing window. You can move the Earth to position it where you want to see by clicking a point with the left mouse button and slide the cursor to the middle of the viewing
+window.double-clickCTRL-UPCTRL-DOWN+- At first, many people don't realize Google Earth is much more than a map with aerial and satellite photos attached. GE uses data from NASA Space
+Shuttle missions which provides 3D terrain data for the entire land surface of the Earth. Let's demonstrate this. Click on to go to GE and fly to Mount St. Helens. Beautiful view right? But, try
+this: hold your key on your keyboard and watch GE tilt your view so you can see Mount St. Helens as a 3D mountain (if you don't - check to see that the " layer is turned on). Very cool right?
+will tit your view back up. You can also use the slider control at the upper right of the navigation control for tilting. A nice tip: hit the TM key to tilt back straight up automatically. The " key will
+reset to north and tilt up. this link PAGE DOWNTerrainPAGE UPur An easier way to tilt and pan your view is to click and hold the middle mouse button or scroll wheel button (those of you who
+have a Mac with one mouse button have to use the above key or navigational control techniques - but, I would recommend getting a 3-button mouse). While you're holding the middle button if
+you move your mouse forward and backwards it will tilt the view. Side to side will pan your view around the point you are looking at. Holding the key will constrain your tilt and allow you to
+rotate your view about a point.SHIFT Watch a covering some of these navigation basics by Google. short 2 minute video tutorial Related Resources: by Google Earth Blog Google Earth Basics
+ - Blog by a Google Earth documentation specialist Using Google Earth - An advanced 3D mouse device for GE SpaceNavigator Posted by FrankTaylor at January 3, 2007 05:20 PM
+Sponsored Ads: <I[if It IE 4]> <noscript> <a
+href="http://webis15.medien.uni-weimar.de/chatnoir/clueweb?href=http%3A%2F%2 Fservedbyadbutler. com%2Fg02%2F%3B1D%3D 152060%3Bsize%3D300x250%3BsetID%3D1006308toker
+<img src="http://servedbyadbutler.com/adserve/;1D=152060 ;size= 300x250; setID=100630;type=img" border="0" height="250" width="300" alt=""></a> </noscript><![endif]>

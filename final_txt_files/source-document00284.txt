@@ -1,0 +1,49 @@
+2.1 Experimental animals and protocols n Neonatal cardiac myocytes were prepared from ventricles of 1-day-oldSprague- Dawley rats as described previously . Cellsuspensions were washed
+with Dulbecco's modified Eagle's medium(DMEM) supplemented with 10% fetal bovine serum (FBS) and centrifugedat 500 for 5 min. The centrifuged cells were then resuspendedin 10%
+FBS-containing DMEM. For selective enrichment of cardiacmyocytes, the dissociated cells were preplated for 60 min, duringwhich time non-cardiac myocytes readily attached to the bottomof
+the culture dish. Using this method, we routinely obtainedenriched cultures containing >90% myocytes, as assayed byimmunofluorescence staining with an anti-myosin heavy chainantibody.2.2
+Cell cultures and reagents [15] xg The expression plasmid for short interference RNA (siRNA) ofheat shock protein 90 (Hsp90: Hsp86 for mouse/rat homolog: pSUPERHspiR)was generated as
+described previously . The green fluorescentprotein (GFP) expressing plasmid pEGFP-C1 was obtained fromBD Bioscience Clontech (Mountain View, CA). Polyclonal antibodiesagainst the rat
+VLDL receptor (VR2) were generated as describedpreviously . Anti-cardiac troponin I (cTnI) monoclonal antibodywas obtained from Biogenesis (England, UK). Anti-Hsp90 monoclonalantibody
+was purchased from Stressgen (Victoria, Canada) and8D Transduction Laboratories (San Jose, CA). IL-1B, TNFand interferon- (IFN-) were obtained from Genzyme/Techne (Minneapolis, MN).
+Human endothelin-1 (ET-1) was purchased from Peptide Institutelnc. (Tokyo, Japan). The IL-1 receptor antagonist (IL-1RA) waspurchased from Pepro Tech Inc. (Rocky Hill, NJ). Herbimycina,
+(HA), geldanamycin (GA), genistein, radicicol, sodium nitroprusside(SNP), and N-monomethyl-L-arginine (L-NMMA) were purchasedfrom Calbiochem (San Diego, CA). The remaining reagents
+includingLPS (0111:84) and angiotensin II (AII) were obtained from Sigmaunless otherwise specified. [16] [12] G The left ventricles of mice were cut into 1-mm thick and fixedin 2.5%
+glutaraldehyde in 0.1 M phosphate buffer (pH 7.4) at4 C for 24h; tissues were washed with ice-cold phosphatebuffer (0.1 M, pH 7.4). For transmission electron microscopy,tissues were
+post-fixed in 1% osmium tetroxide at 4 C fori h, and then dehydrated in a graded series of ethanol, substitutedwith propylene oxide, and embedded in Epon resin (Epok 812,Oken, Tokyo,
+Japan). Ultrathin sections were stained with uranylacetate and lead citrate and observed with a conventional transmissionelectron microscope (JEM-1200EX, JOEL, Tokyo, Japan) at an
+accelerating voltage of 80-kV. Photographs were taken at 3000.2.3 Transmission electron microscopy x Gene transfection of cardiac myocytes with pSUPER-HspiRand pEGFP-C1 was performed
+using a Rat Cardiomyocyte-NeonatalNucleofector Kit (Amaxa Biosystems, Cologne, Germany), accordingto the manufacturer's instruction. Briefly, freshly isolatedcardiac myocytes (1 10 cells)
+were suspended in the specifiedelectroporation buffer, and 3.6 tig of pSUPERHspiR andO.4 tug of pEGFP-C1 were added subsequently. After themixed solution was added to the special
+Nucleofector device(Amaxa Biosystems) for gene transfection, the transfected cellswere cultured on the cover slips in eight culture plates (1 10 cells/well, Lab-Tek chamber slide, Nunc, IN).2.4
+Transfection x6x5_ For immunostaining for VLDL-R in cardiac myocytes, the cellswere cultured on the cover slips in eight culture plates (Lab-Tekchamber slide) for 4 days, and treated with or
+without IL-1Bfor 48 h. The cells were washed with phsoshate-buffered saline(PBS), fixed with 4% paraformaldehyde in PBS for 10 min, andtreated with 3% hydrogen peroxide for 10 min to
+block endogenousperoxidase activity. Blocking was with 5% bovine serum albumin(BSA) for 15 min, incubated with anti-VLDL-R antibody (VR2:1/600) for 1 h, followed by incubation with
+peroxidase-conjugatedanti-rabbit IgG (Zymed Laboratories Inc., San Francisco, CA)for 45 min. The immunoreactive cells were detected with 3,3'-diaminobenzidinetetrahydrochloride (DAB
+Substrate Kit: Vector Laboratories Inc.,Burlingame, CA).2.5 Immunostaining For immunofluorescence double staining, the cells that weretransfected with the corresponding plasmids were
+cultured onthe cover slips in eight culture plates (Lab-Tek chamber slide)for 4 days, and treated with or without IL-1 for 48 h.The cells were fixed and blocked as described above, and
+incubatedwith primary antibodies against Hsp90 (2.5 g/mL), VLDL-R(VR2: 1/600), and GFP (polyclonal: 1/500, monoclonal: 2 ig/mL)for 1h. The secondary antibodies (Jackson
+ImmunoResearch Laboratories,Inc., West Grove, PA) were used as follows: goat anti-mouselgG conjugated with Cy3 for Hsp90, goat anti-mouse IgG conjugatedwith FITC for GFP (monoclonal),
+goat anti-rabbit IgG conjugatedwith Cy3 for VLDL-R, and goat anti-rabbit IgG conjugated withFITC for GFP (polyclonal). The cells were incubated with DAPI(Wako Pure Chemical Ltd., Osaka,
+Japan) for nucleic acid staining.after washing, the cells were mounted and observed using confocallaser scanning microscopy (Leica TCS-SP2 AOBS spectral, Heidelberg,Germany). No signals
+were detected when normal goat serum otirrelevant IgG was used instead of the primary antibody as anegative control. B-VLDL and LDL were prepared and labeled with
+1,1'-dioctadecyl-3,3,3',3'-tetramethylindocarbocyanine(Dil) (Molecular Probes, Inc., Eugene, OR) as described previously. To evaluate the uptake of Dil-lipoproteins, cells weretreated with or
+without 10 ng/mL IL-18 or 1000 U/mL IFN-for 24 h, washed twice with PBS, and then incubated with 5%lipoprotein-depleted serum (LPDS)/DMEM containing 10 1g/mLDil-labeled B-VLDL
+(Dil-B-VLDL) or 10 [ig/mLDil-labeled LDL (Dil-LDL) for 3 h at 37 C. The cells werewashed with 2% BSA/PBS and fixed with 4% formalin in 0.3 M phosphatebuffer (pH 7.4). The uptake of
+Dil-lipoproteins was detectedby fluorescence microscopy (BX-51, Olympus, Tokyo, Japan).2.6 Lipoprotein preparation and immunofiuorescence detection [17] Immunoblotting was performed
+as described previously . Briefly,cells were washed with ice-cold PBS and then lysed in RIPA buffer(25 mM Tris-HCl, pH 7.5, 2.5 mM EDTA, 10 mM sodium pyrophosphate,SO mM Naf, 137 mM
+NaCl, 100 YM NaVO, 1% Triton X-100,10% glycerol, 1% deoxycholic acid, 0.1% SDS, and fresh 0.1 mMphenylmethyl sulfonyl fluoride (PMSF) and 10 j1g/mL ofleupeptin). The cell lysates were
+prepared by scraping, sonication,and centrifugation. Cellular protein concentrations were determinedby the DC protein assay (Bio-Rad). Cell lysates were subjectedto SDS-PAGE under reducing
+conditions, and the protein bandsthen transferred to a nitrocellulose membrane. The membranewas blocked for 2 h at room temperature with 5% skim milk, andthen incubated for 1h at room
+temperature with the primaryantibodies, followed by incubation for 1 h with the secondaryantibody, conjugated horseradish peroxidase. Immunoreactivebands were visualized by an enhanced
+chemiluminescence (ECL)system (Amersham Pharmacia Biotech UK Ltd., Buckinghamshire,UK), with the level of protein expression being quantified usingNIH image 1.63 software.2.7
+Immunoblotting [18] 34 Immunoprecipitation were performed as described previously .Briefly, the cells were washed with ice-cold PBS and lysed ingentle lysis buffer (25 mM Tris-HCl, pH 7.5,
+2.5 mM EDTA,10 mM sodium pyrophosphate, 50 mM NaF, 137 mM NaCl, 100 WMNaVO, 1% Triton X-100, 10% glycerol, and fresh 0.1 mM PMSFand 10 g/mL of leupeptin). Immunoprecipitation
+was carriedout in the presence of the primary antibody for 2 h at 4 C,followed by overnight incubation with a protein A-Sepharoseslurry. Following washing, the immunoprecipitates were
+boiledin sample buffer, separated by SDS-PAGE, transferred, and immunoblotted.2.8 Immunoprecipitation [17] 34 Total cellular RNA was prepared from cardiac myocytes by theguanidine
+isothiocyanate-cesium chloride (GITC-CsCl)method using RNAeasy (Invitrogen) as described previously .Realtime RT-PCR analysis was performed to detect the mRNA expressionof inducible
+nitric oxide synthase (iNOS) by using the ABI Prism7000 system (PE Applied Biosystems, Inc.); the primers and PCRconditions for VLDL-R and iNOS have been described previously. The
+expression levels of each target gene were normalizedby subtracting the corresponding B-actin threshold cycle(C) values by using the C comparative method.2.9 Realtime RT-PCR analysis [15]
+[17,19] T Data are expressed as the mean + SD. For comparisonsbetween multiple groups, we determined the significance of thedifference between group means by one-way analysis of
+variance(ANOVA) or an unpaired t test. All analysis was performed usingStatView software (Abacus Concepts, Inc., Berkeley, CA). Differenceswith values<0.05 were considered to be
+statistically significant.2.10 Statistical analysis p

@@ -1,0 +1,27 @@
+If you are interested in one of our consultants calling you to discuss anti virus software or virus issues, then please call us on 0777 1714143 or fill out the. contact form  What is a
+computer virus? A computer virus is a computer program that places copies of itself in other programs on your system or somehow manipulates other files on your system, with the
+express purpose of causing mischief or damage. Computer viruses are not something that you should ignore, they can do very serious damage to your computer system, from deleting a
+few files to killing your machine DEAD. Clean Your Disk Drives If you don't have anti-virus software on your computer, then immediately purchase and install a product. Now. Doing any
+kind of computing on any computer that has contact with the outside world (internet connection, floppy disks, network, ) is like not practicing safe sex. And, as far as your computer is
+concerned, it could be just as fatal.anything I cannot stress this enough. There are many people in the world who do not seem to have enough to do, are angry, experimenting or plain
+just don't care. These people create viruses and unleash them to the world. This is very important also - your job is not finished just because you've installed anti-virus software. You
+must update the virus definitions (and occasionally the software) as new viruses come out all of the time. If you do not perform these updates, it will give you a false sense of security as
+you will not be protected from the newer, often more dangerous viruses. Search: Half.com Flynn, a computer whiz who invents video games attempts to regain access to the computer for
+users and is scanned, digitized and sucked inside the system to the MCP's lethal game grid. There, a deadly electronic civilization thrives under the tyranny of the MCP and his minions
+Disobey, falter on the game grid, make a mistake and it's "de-res" and disappear. Caught in the grid and threatened with de-resolution, Flynn, a USER, pretends to be a program while he
+helps TRON, an independent program developed by Flynn's friend, to free the machine from the tyrannical control of the MCP. was the first film to venture inside the three-dimensional
+world of computer imagery. Using early-'80s state-of-the-art computer-generated graphics delivered a visual adventure for bit-heads, hackers and nonhackers alike. Although the
+terminology used is 2 bit loose, for a mainstream move in 1982 was really ahead of its time.TronTronTron For us, is particularly interesting. Like this, confidential and personal data,
+such as passwords or PINs, can be spied and sent to other computers via the Internet. Macro viruses are small programs that are written in the macro language of an application (e.g
+WordBasic under WinWord 6.0) and that can normally only spread within documents of this application. Because of this, they are also called document viruses. In order to be active, they
+need that the corresponding applications are activated and that one of the infected macros has been executed. Unlike "normal" viruses, macro viruses do consequently not attack
+executable files but they do attack the documents of the corresponding host-application. Polymorph viruses are the real masters of disguise. They change their own programming codes -
+and are therefore very hard to detect. A computer virus is 2 program that is capable to attach itself to other programs after being executed and cause an infection. Publish date:
+20 Jun 2008 Publish date: 20 Jun 2008 Publish date: 12 Jan 2007 Publish date: 18 Dec 2006 Publish date: 12 Nov 2006 Publish date: 07 Oct 2006
+
+Publish date: 11 Sep 2006 Publish date: 11 Aug 2006 Publish date: 07 Jul 2006 Publish date: 07 Jun 2006 Publish date: 11 May 2006 Publish date: 14 Apr
+2006 Publish date: 13 Mar 2006 Publish date: 07 Feb 2006 Publish date: 12 Jan 2006 TechBlog The provides a comprehensive overview about "In the Wild"
+computer viruses. The WildList is a list of computer viruses found in the wild and is brought up to date on a monthly basis. More than 70 qualified volunteers around the world report
+about the latest threats and virus incidents. Tjark Auerbach, the CEO and founder of Avira GmbH is a member and active reporter since February 2000. Avira virus lab provides the latest
+descriptions for most of the threats listed on the organization's website, Please find the latest monthly additions as well as the full Wildlist below. If you have further questions what
+exactly the WildList is you may have a look at the FAQ section on Organization's website: Avira - In the Wild Viruses List Publish date: 07 Nov 2008 Publish date: 07 Nov 2008

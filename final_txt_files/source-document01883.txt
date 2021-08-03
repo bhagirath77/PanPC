@@ -1,0 +1,247 @@
+A Preliminary Study on Environmental Parameters Related to Tornado Path Length JONATHAN GARNER National Weather Service, Paducah, KY (Submitted 28 August 2007; Final form 13
+November 2007) ABSTRACT This study addresses which convective parameters and synoptic features might aid forecasters in anticipating the path length of tornadoes. Developing an
+expectation for the path length of tornadoes could alert forecasters to tornado events which may or may not have a higher impact on society. In order to describe the relationship between
+environment and tomado path length, synoptic-scale features, in addition to kinematic and thermodynamic parameters, were examined using a sample of tornado events which occurred during
+the period 1991-2006. The synoptic-scale storm systems were found to be stronger for the longer-path tornado events, detectable surface boundary interactions were often lacking, and the
+parent storms generally moved away from their initiating boundary and into the unstable warm sector. Kinematic fields, such as the mid-level ground-relative flow, 0C18-km bulk shear, storm
+motion, and bulk Richardson number shear showed the best skill in forecasting tornado path length. On the other hand, thermodynamic parameters showed little ability in discriminating
+between long- and short-path tornadoes. : Jonathan Garner, National Weather Service, North Platte, NE Weather Forecast Office, 5250 E. Lee Bird Drive, North Platte, NE 69101-2473
+Corresponding author address Email: jonathan.gamer@noaa.gov 1. Introduction Tornado forecasting is generally approached through a combination of pattern recognition, parameter
+evaluation, and climatology (Doswell et al. 1993). Pattern recognition is the identification of certain synoptic and mesoscale features which have an empirical association with the occurrence of
+tornadic thunderstorms (Beebe and Bates 1955; Miller 1972). The evaluation of instability and vertical wind shear parameters are used to identify the potential for certain convective storm
+types. For example, numerical modeling studies have shown that an atmosphere possessing at least moderate values of convective available potential energy (CAPE), combined with strong
+vertical wind shear through a deep layer of the atmosphere, is favorable for the occurrence of supercell thunderstorms (Weisman and Klemp 1982; Weisman and Rotunno 2000). Furthermore,
+strong vertical wind shear observed in the lowest kilometer of the atmosphere, combined with large boundary layer relative humidity, appears to favor tomadoesClespecially significant (F2 or
+greater) tornadoes (Thompson et al. 2003; Craven and Brooks 2004). The relationship between tornado path length and tornado intensity has been addressed by several authors. Brooks
+(2004) used Weibull distributions in order to model the relationship of tornado F-scale rating (Fujita 1981) to tornado path length and width, and found that path length and width tend to
+increase as F-scale rating increases. Doswell et al. (2006) formally documented an index which takes tornado path length, width, and F-scale rating into account in order to represent the total
+destructive potential of a tornado event. Based on the importance of damage area and tornado path length, the present paper examines the environments which support long-path length
+tornadoes versus short-path length tornadoes. Do parameters such as 0D1-km storm-relative helicity (SRH; Davies-Jones et al. 1990) or boundary layer relative humidity, which do well in
+diagnosing tomado strength, have similar skill in diagnosing the distance a tornado will travel? Or, are there other environmental clues which do a better job in alerting forecasters to the
+potential for long-track or short-track toradoes? Tornado path length resides within the general theme of convective phenomenon longevity. This topic has been explored by various authors,
+such as Bunkers et al. (2006a, b), who examined the environments and characteristics of long-lived supercells. Results from that study showed that the 018-km bulk shear had the best skill in
+forecasting supercell longevity, with values greater than 26 m s corresponding to long-lived (> 4 hours) supercells. In addition, a low bulk Richardson number (< 46), and supercell motion with
+respect to the stormOs source of instability were important in discriminating between the environments associated with long-lived versus short-lived supercell thunderstorms. Other projects
+have examined synoptic pattems and convective parameters which favor long-lived convective wind events known as derechos (Johns and Hirt 1987; Evans and Doswell 2001).-1 In the
+present study, a small sample of tornado events was collected, and the environments associated with each event were analyzed in order to better understand which atmospheric features might
+aid forecasters in better anticipating tomado path length in an operational setting. The results from this study are preliminary due to the small sample size of tornado events. However, several
+results do stand out, which suggest that additional research, including an expanded sample size, would be worthwhile. In section 2, the methods used to collect the tornado dataset, as well as
+the observational and model datasets, are described. Due to the small sample size used, attention also will be given to how the dataset was divided into long- and short-path tomado
+categories. Section 3 briefly describes the societal impacts associated with long- and short-path tornadoes. Section 4 will present kinematic parameters, which include vertical wind shear
+measured through various layers, storm-relative wind parameters, and ground-relative wind parameters. Section 5 describes the instability and moisture parameters associated with long- and
+short-path tornadoes, and section 6 examines surface and upper-air patterns associated with long- and short-path tornadoes. A brief case study is presented in section 7, which will aid the
+reader in applying the results given in the preceding sections. Section 8 concludes with a summary and discussion of the results presented. 2. Methodology All tornado events, path lengths,
+and F-scale ratings were determined using the program (Hart and Janish 2007). If multiple tomiadoes occurred with an event on a certain day (defined as the time interval between 1200 UTC to
+1200 UTC), then only the longest path tornado was included for this study. The initial sample set of tornadoes consisted of 100 events, and the final sample of tornado events used in this study
+was determined by applying the following constraints: 1) a tornado must have occurred within 150 miles of a wind profiler observation, 2) the profiler observation must have been taken within
++/- 1 hour of the tornado, and 3) the profiler observation must have been within the inflow sector of the tornadic storm. The inflow sector of the tornadic storm was arbitrarily defined as
+residing 1) within the same surface air mass as the storm and 2) upstream of the storm(s low-level ground-relative environmental inflow. Two tornadic storms were also included in this study
+which occurred without archived profiler data being available, and in those cases a representative proximity sounding (using the same criteria given above) taken from a 0000 UTC National
+Weather Service (NWS) observation site was used. After applying these constraints, 36 tornado events were then chosen for study.SeverePlot The data used in this study come from several
+sources. Surface data were collected from the Plymouth State College online data archive (found online at ). These data were used to perform subjective surface analyses of each event, which
+resulted in the identification of synoptic-scale boundaries present during both the initiation and tornadic phase of each storm examined. Satellite and radar data were not used to locate
+low-level boundaries in this study, thus, storm-boundary interactions occurring at the mesoscale (such as radar fine-lines) were not identified in this study. Proximity hodographs and kinematic
+parameters were obtained for each event using profiler data archived by the National Oceanic and Atmospheric Administration (NOAA; found online at ). The surface wind in each proximity
+hodograph was obtained from the Plymouth State College surface data archive. The 12-hr 500-mb geopotential height change was computed for each shortwave trough associated with their
+respective tornado events. This was accomplished by utilizing the archived sounding data found at the Plymouth State College website. Upper-air fields as well as instability and moisture
+parameters were obtained from the National Centers for Environmental Prediction (NCEP) North American Regional Reanalysis (NARR; Mesinger et al. 2006). The one exception was the surface
+dewpoint depression, which was used to approximate the surface relative humidity. These data came from the Plymouth State College archived surface charts described above. Archived
+0.5-degree regional reflectivity was obtained from the Storm Prediction Center (SPC)/National Severe Storm Laboratory (NSSL) archive (found online at ). The regional reflectivity was used in
+conjunction with the subjective surface analyses in order to identify the location and mechanism responsible for convection initiation, as well as identification of storm-boundary interactions
+Unfortunately, the temporal and spatial resolution of the regional reflectivity was not sufficient to track features such as storm-splitting or supercell type (i.e., high-precipitation, classic, or
+low-precipitation supercells). Finally, the Advanced Weather Interactive Processing System (AWIPS) visualization of 40-km Rapid Update Cycle (RUC-40; Benjamin et al. 2004) model data,
+Weather Surveillance Radar-1988 Doppler (WSR-88D; Crum and Alberty 1993) base reflectivity, and regional reflectivity were used in the case study presented in section 7.
+http://vortex.plymouth.edu/ http://www. profiler.noaa.gov/npn/profiler.jsp http://www.spc.noaa.gov/exper/archive/events/ After all data were obtained, numerous fields and parameters were
+then analyzed. Vertical wind shear parameters include: 1) 0111-km bulk shear, which Thompson et al. (2003) and Craven and Brooks (2004) found to posses favorable skill in discriminating
+between significant versus weak tornado environments; 2) 0CJ6-km bulk shear, which has skill in discriminating between supercell and non-supercell environments (Weisman and Klemp 1982;
+Rasmussen and Blanchard 1998; Thompson et al. 2003); 3) 0C18-km bulk shear, which Bunkers et al. (2006b) found to be the best predictor in forecasting long-lived versus short-lived
+supercells; and 4) bulk Richardson number shear (BRNSHR), which is in the denominator of the bulk Richardson number (BRN; Weisman and Klemp 1982, 1984, 1986), and is also capable of
+discriminating between supercell and non-supercell environments. Storm-relative parameters include: 1) the 0111-km and 0013-km SRH, which is often used in operational and research
+meteorology to assess the environmental potential for supercells and tornadoes; 2) 0111-km, 0[13-km, 5-km, 8-km, and 7010-km storm-relative flow, which were evaluated for comparison
+purposes to studies by Thompson (1998) and Bunkers et al. (2006b); and 3) the right-moving supercell storm-motion vector. All storm motions used to compute storm-relative parameters
+were derived using the Intemal Dynamics (ID) method for predicting supercell storm motion (Bunkers et al. 2000). The 1-km, 5-km, and 10-km ground-relative wind speeds were included in
+this study in order to approximately represent the low-, mid-, and upper-level jets, which are commonly assessed during severe weather operations. Thermodynamic parameters obtained from
+the NARR included the most unstable convective available potential energy (MUCAPE) and the lifted index (LI). The NARR was also used to subjectively evaluate the peak wind speed within the
+500-mb speed maxima as well as synoptic characteristics of each tornado event. Finally, the ability of each parameter to discriminate between different toriado path-length categories was
+assessed by examining correlation coefficients, scatter plots, and box-and-whisker plots. The median value path length for the sample set of tornado events is 39.4 km (24.5 miles). Because of
+the small sample size used in this preliminary study, it was not desirable to break up the events into more than two categories. Thus, the median value of tornado path lengths was rounded up
+to 40.2 km (25 miles), so that all path lengths greater than or equal to 40.2 km would be considered as long-path tomadoes, and all path lengths less than 40.2 km would be considered
+short-path tornadoes. A more detailed classification scheme may be developed for a future study which involves a much larger sample size. 3. Tornado path length and societal impacts
+Discriminating between the environments associated with long-path versus short-path tornadoes could aid in forecaster recognition of those tornado events that may or may not have a greater,
+impact on society. Tornadoes which have a longer path length might encounter a greater number of structures, which could result in significant property damage, injuries, or loss of life. In order
+to substantiate this hypothesis, Table 1 presents F-scale ratings, the destruction potential index (DPI; Thompson and Vescio 1998; Doswell et al. 2006), deaths, and injuries. The mean F-scale
+rating for long-path tornadoes is 2.8, while the mean for short-path tomadoes is 1.4. This indicates that long-path tornadoes are more likely to be significant (F-scale rating 2), while short-path
+tornadoes are on average, more likely to be weak (F-scale rating < 2). The DPI, which combines tornado F-scale rating, path length, and width, has been used to rank tornado events according
+to their strength, size, and path length. High DPI values are associated with large, violent, long-track tomadoes, while small DPI values are associated with small, weak, short-track tornadoes.
+The mean DPI given in Table 1 for long-path tomadoes is 63.8, and for short-path tornadoes the DPI is substantially lower at 4.4. The same trend is present in terms of the mean number of
+deaths and injuries. For long-path tornadoes, the mean number of deaths and injuries is 3.2 and 58 (respectively), and for short-path tornadoes the mean number of deaths and injuries is 0.05
+and 0.6 (respectively). The 3 May 1999 tornado event was associated with the largest number of deaths and injuries (36 and 583 respectively) in this study, yet even when this outlier is,
+removed, the mean number of deaths and injuries associated with long-path tornadoes is 1.3 and 27.2 (respectively). Clearly, the long-path tornadoes examined in this study were on average,
+more destructive, and produced more deaths and injuries. Thus, these results suggest that it is important for operational forecasters to anticipate their occurrence. 4. The kinematic
+environment a. Shear parameters One of the more interesting results from this study is that measures of vertical wind shear through a deeper layer of the atmosphere appear to do a better
+job in discriminating between long-path and short-path length tornadoes versus shear measured through the lowest few kilometers. The mean values for all vertical wind shear parameters are
+given in Table 2. The box-and-whisker plots presented in Figs. 1 and 2 show that the OC18-km bulk shear and BRNSHR display no overlap between the 1 quartile for long-path tornadoes and the
+3 quartile for short-path tomadoes. The mean 0018-km bulk shear for long-path tornadoes is roughly 33% larger than for short-path tornadoes (36.1 ms and 27.0 ms, respectively), and the
+mean BRNSHR for long-path tornadoes nearly doubles that for the short-path tornadoes (Table 2). On the other hand, greater overlap is observed for 0C11-km bulk shear (Fig. 3) and 0C16-km
+bulk shear (Fig. 4), although the mean 0011-km bulk shear for long-path tornadoes is nearly 36% larger than for short path-tornadoes (15.3 m s and 9.8 ms, respectively). These results
+suggest that the OCJ8-km bulk shear and BRNSHR discriminate strongly, while the low-level shear parameters do not discriminate as clearly between the two classes of torado path length. The
+scatter plots of tornado path length versus 0018-km bulk shear (Fig. 5) and BRNSHR (Fig. 6) show there is a general increase in tornado path length as the two parameters increase in
+magnitude, with correlation coefficients of 0.65 (0018-km bulk shear) and 0.62 (BRNSHR). In comparison, greater scatter is observed in the plot of tornado path length versus 0011-km bulk
+shear (Fig. 7), which is quantified by a lower correlation coefficient (r = 0.44).strd-1-1-1-1 b, Storm-relative wind parameters Similar to the 0C11-km bulk shear, the distribution of OC11-km
+SRH, as well as the 0[13-km SRH, display a greater degree of box-and-whisker plot overlap between long-path tornadoes and short-path tornadoes (Figs. 8 and 9)CIrelative to the 0DJ8-km bulk
+shear. The 0011-km SRH also shares a similar correlation coefficient with path length (r = 0.49) as the 0C11-km bulk shear (r = 0.44), with significant scatter observed in Fig. 10. Still, the mean
+0011-km SRH for long-path tomadoes is roughly 85% larger than the mean 0C11-km SRH for short-path tornadoes (Table 3). Although SRH in the 0D11-km layer does not show the same ability
+in forecasting tornado path length as parameters such as the 0C18-km bulk shear or BRNSHR, results still show that this parameter, on average, is larger in magnitude for longer path
+tornadoes. Storm-relative flow for the 0D1-km layer, 0013-km layer, 5-km level, 8-km level, and 72110-km layer were also evaluated. Each of these storm-relative parameters, except for the
+8-km storm-relative flow, showed significant distribution overlap between long-path and short-path tornadoes (e.g., Table 3). The 8-km storm-relative wind box-and-whisker plot (Fig. 11)
+shows very little overlap between the 1 quartile of long-path tornadoes and the 3 quartile for short-path tornadoes. In fact, 75% of the short-path tornadoes formed when the 8-km
+storm-relative wind was less than ~14-15 m s, while 75% of long-path tornadoes formed when the 8-km storm-relative wind was greater than 14 m s.strd-1-1 The magnitude of the storm
+motion vector does well in discriminating between the two path length categories (Fig. 12). The lower quartile for long-path tornadoes is 16 m s, while the upper quartile for short-path
+tornadoes is ~14-15 m s. The mean for long-path tomadoes is 20 m s, and for short-path tornadoes is only 12 ms, which is a difference of 66%. Thus, faster moving storms favor longer-track
+tornadoes versus slower moving storms. The physical connection should be intuitive; given two tornadoes which last for the same amount of time, the one which moves faster will cover a
+greater distance.-1-1-1-1 c. Ground-relative wind speed The 1-km, 5-km, and 10-km ground-relative wind speeds were also evaluated in addition to vertical wind shear and storm-relative
+flow. All three ground-relative wind parameters show favorable separation between inner quartiles; however, the 5-km ground-relative wind speed does the best job in discriminating between
+path length categories among all parameters examined in this study (Table 4). Specifically, the lower quartile for long-path tornadoes is 28 m s, while the upper quartile for short-path
+tornadoes is 24 m s (Fig. 13). The mean 5-km wind speed (Table 4) is approximately 50% larger for the long-path tornadoes compared to the short-path tornadoes (31m s versus 20 m s,
+respectively). In addition, a scatter plot of tornado path length versus 5-km wind speed (Fig. 14) shows that an increase in 5-km wind speed corresponds favorably to an increase in tornado
+path length, with a correlation coefficient of 0.69.-1-1-1-1 5. Instability and moisture Two key ingredients which contribute to the occurrence of deep moist convection are moisture and
+instability. Although these ingredients are necessary for the occurrence of thunderstorms, results presented in this paper show that their ability to forecast tornado path length is poor. The
+box-and-whisker plots for both MUCAPE and LI (Figs. 15 and 16) display significant inner-quartile overlap between categories, and also possess nearly identical mean values (Table 5). One
+thermodynamic parameter which displays marginal ability in distinguishing between long- and short-path length environments is the surface dewpoint depression (which is a proxy for boundary
+layer relative humidity, similar to the height of the LCL). Smaller surface dewpoint depressions may favor weaker cold pool production. Weaker cold pools might increase the longevity of the
+tornadic storm, as well as favor a more buoyant rear flank downdraft, which has been hypothesized to be an important component to tornadogenesis (Markowski et al. 2003). Results from the
+current study indicate a small negative correlation (r = -0.27) exists between increasing tornado path length and smaller surface dewpoint depressions (Table 5). The mean dewpoint depression
+for long-path tornadoes is 7.8C, and the mean for short-path tomadoes is 10.5C, both of which indicate a relatively moist surface air mass is present. Inspection of Fig. 17 shows that the
+inner-quartile overlap between the two path length categories is still relatively large. 6. Characteristic synoptic and mesoscale patterns Several synoptic-scale features were objectively
+analyzed in order to quantify the large-scale environments associated with long- and short-path tornadoes. The first feature highlighted is the 12-hr change in 500-mb height just ahead of the
+prominent shortwave trough associated with each event. Stronger 500-mb height falls are associated with longer path tornadoes (Fig. 18). The mean height change for long-path tomadoes is
+-92 m, while the mean height change for short-path tornadoes is -19 m (Table 5). An additional upper-air feature evaluated is the speed within the 500-mb wind maximum. Results in this study
+strongly suggest that long-path tornadoes are associated with stronger mid-level speed maxima, while short-path events are characterized by weaker winds within the 500-mb jet core (Table
+5). The mean 500-mb wind speed for long-path events is 39 m s, while the mean speed for short-path events is 25 m s. With respect to the surface synoptic pattern, 94% of the long-path
+events occurred over 200 km (124 miles) south and east of their respective surface lows, and 55% occurred over 400 km (248 miles) south and east (Fig. 19). In contrast, 88% of the
+short-path events occurred within 400 km (248 miles) of a surface low, and 61% occurred within 200 km (124 miles) of a surface low. The apparent relationship between increasing tornado
+path length as the distance from the surface low increases may be a function of where the mid-level speed max crosses into the warm sector, while stronger 500-mb height falls and maximum,
+wind speeds support faster storm motions.-1-1 For long-path tornadoes, 61% of the events initiated near a dryline or cold front, while 55% of the short-path length events initiated along a
+warm front, stationary front, or outflow boundary. Sixty-one percent of the long-path events had a tendency to develop, and then move perpendicular off their initiating boundary and into the
+warm sector, while 72% of the short-path events moved parallel to a surface boundary, which would generally be on the outer edge of the warm sector. Perhaps the presence of higher
+boundary layer relative humidity, stronger low-level convergence, and enhanced vertical wind shear often found along boundaries (Markowski et al. 1998; Rasmussen et al. 2000) is necessary
+for the occurrence of these short-path events, which are characterized by weaker vertical wind shear profiles (as indicated by the results in section 4). On the other hand, it is possible that the
+parent storm interacts with the boundary in a way which is unfavorable for long-path tornadoes. For example, storm-boundary interactions may lead to a greater potential for the ingestion of
+more stable air on the cool side of the boundary, which has been noted by Maddox et al. (1980).ambient A majority of both long- and short-path tornado events studied in this project were
+produced by discrete thunderstorms (only one event was produced by a quasi-linear convective system). However, every single long-path toradic storm occurred with other storms, including
+tornadic supercells, in close proximity to the event. Sixty-one percent of the short-path events occurred with other thunderstorms in the nearby vicinity, while 38% of the short-path storms
+occurred in complete isolation (meaning that they were the only ongoing thunderstorm in the geographic region of their occurrence). Bunkers et al. (2006b) noted that supercell longevity is
+promoted for those storms which remain discrete. The same general trend appears to be true for torado path length, with longer-path tomadic thunderstorms displaying discrete
+characteristics. The fact that these long-path tornadic storms also form alongside other thunderstorms suggests that the synoptic-scale storm system supports numerous thunderstorms, yet
+little destructive interference occurs. Finally, it is worth noting that the mean longevity of long-path tomadic storms is 4.7 hours, while the mean life-span of short-path tornadic storms is 3.1
+hours. This suggests that long-path tomadoes are more likely to occur with long-lived thunderstorms (a majority of which were clearly observed to be supercells). 7. A short case study; 2 April
+2006 On 2 April 2006, a strong synoptic-scale disturbance (500-mb height falls of 70 m) approached the Mississippi Valley region. By early afternoon, low-topped supercells formed over
+extreme northem Missouri and southem Towa, close to a deep surface low and just to the east of a cold core mid-level low (Davies and Guyer 2004; Davies 2006). These low-top supercells
+produced short-path tornadoes (i.e., path lengths much less than 40 km) for several hours over southern Iowa early in the severe weather outbreak. A quasi-linear convective system then
+formed along a cold front over central and southern Missouri. This line of storms quickly moved east toward the Mississippi River. During the organizing stage of this linear mode of convection,
+initial severe reports were mainly confined to large hail, but a transition to damaging surface winds occurred as the storms moved into eastern Missouri. Embedded vortices within the leading
+edge of bowing segments also resulted in several tornadoes (Przybylinski et al. 2006). By mid afternoon, a relatively uncontaminated warm sector airmass was located over much of Arkansas,
+western Kentucky, and western Tennessee. Subtle low-level forcing in the presence of weak convective inhibition (not shown) led to the development of several discrete supercells over north
+central and central Arkansas. These supercells would go on to produce numerous tornadoes, many of which were significant. The longest path tornado, which occurred over northern Arkansas
+and the boot heel of Missouri, was 113 km (70.3 miles). Figure 20 displays the ID method for computing the right-moving supercell storm motion (blue wind barbs) and surface equivalent
+potential temperature, all derived from the RUC-40 model analysis. Also displayed is the 0.5-degree regional reflectivity. All features are valid at 2100 UTC. Note the spatial dimensions of the
+warm sector, which was broad over Arkansas (with theta-e values along the instability axis of 338 K), and much smaller further north over Iowa (with maximum theta-e values of 326 K). Also
+note the strong theta-e gradient over southern Iowa, which delineated a transition from the moist unstable warm sector, to a cooler, more stable airmass. In southern Iowa, storm motion was
+relatively fast (17-22 m s) from the southwest, and the 0018-km bulk shear appeared supportive of long-path tornadoes (Fig. 21, values ranging from 27-32 m s). However, the storms moved
+quickly out of the surface warm sector and into a cooler, more stable environment.-1-1 Storm motion was also fast over central Missouri (Fig. 20, 20-27 m s), and the 0018-km bulk shear
+appeared to be favorable for long-path tornadoes (values in excess of 30 m s). However, the OC16-km (not shown) and 0018-km bulk shear vectors (Fig. 21) were parallel to the line of low-level
+forcing (not shown), which apparently favored a linear mode of convection (Bluestein and Weisman 2000). This mode of convection did not favor long-path tomadoes, despite the appearance of
+favorable kinematic parameters. The supercells which formed over northem and central Arkansas were discrete and occurred in an environment characterized by strong 0C18-km bulk shear
+(27-30 m s), fast 500-mb wind speeds around 35-38 m s (Fig. 22), and fast storm motion (22-27 m s), which would cause the supercells to move east across a broad unstable warm sector. At
+2100 UTC, these supercells appeared to have the greatest potential for producing long-path tornadoes.-1-1-1-1-1 By 0000 UTC 3 April 2006, the supercells originally displayed in Figures 20-22
+over Arkansas have moved a great distance east (Fig. 23), with the northern supercell over the boot heel of Missouri producing a long-path tomado. The OC18-km bulk shear had increased
+since 2100 UTC, with values now around 38 m s. The storm motion (not shown) is directed towards the east, with a magnitude of 27 ms. As demonstrated in Fig. 22, the longest-path length
+tornadoes are occurring directly east of the strongest mid-level flow, and 452 km south of the synoptic-scale surface low. Also note the high 0C11-km SRH values (> 250 ms) in Fig. 23 over
+eastern Missouri and Arkansas into westem Kentucky and Tennessee. These supercells were embedded within a broad, strongly sheared warm sector where storm motion was fast, leading to
+long-path tornadoes.-1-12-2 8. Summary and discussion The environments of both long- and short-path tornadoes were examined. Results presented in this paper show that the mid-level
+wind speed (5 km or roughly 500 mb), 0C18-km bulk shear, the BRNSHR, and the magnitude of the storm motion vector proved to be useful in discriminating between long- and short-path
+tornadoes. Other kinematic parameters, such as the 0D)1-km bulk shear, 0C11-km SRH, and 0013-km SRH appear to be less skillful in distinguishing between the two categories (although these
+results do not negate the apparent role low-level shear plays in producing tornadoes in general). From a forecasting perspective, if low-level shear (measured by the OCJ1-km bulk shear or
+0011-km SRH) is large in magnitude, the 0018-km bulk shear is strong, and storm motion and mid-level flow are fast, then a strong environmental signal is present indicating that if
+thunderstorms develop, long-path tomadoes are possible. On the other hand, if low-level shear is large, but storm motion and mid-level flow are slow, and OC18-km bulk shear is weak, then
+short-path tornadoes may be more likely. Instability parameters provide little if any discrimination between the two tornado path length categories. Results did indicate that the way the parent
+thunderstorms interacted with their moisture and instability source might be significant. For example, a majority of long-path tornadic storms moved away from their initiating mechanism and
+toward the warm sector instability axis. On the other hand, short-path tornadoes appeared to move along or across a surface boundary. Long-path tomadoes also occurred within synoptic-scale
+storm systems that were much stronger than those that produced short-path tornadoes (quantitatively evaluated using 500-mb height change and the maximum wind speed within the 500-mb
+speed max). These events also showed a tendency to occur at a greater distance from a surface low, which may be a function of where the mid-level speed max crosses into the warm sector.
+Many of the results presented in this paper are consistent with those found by Bunkers et al. (2006b). They showed that long-lived supercells occurred within environments that were
+characterized by strong 0018-km bulk shear, and that these supercells moved in a way which allowed them to interact for great lengths of time with a moisture/instability source. The author
+does not believe that these similarities are a coincidence. For example, if strong 0018-km bulk shear favors long-lived supercells, then it is intuitive that it would also be a strong predictor for
+long-path tornadoes as well, since these tornadoes are most likely with long-lived storms. Despite the strong relationship between tornado path length and supercell longevity, it is likely that
+storm-longevity is a necessary, but not sufficient ingredient for long-track tornadoes. It would be worthwhile to conduct a follow up to this study in order to distinguish between the
+environments that support long-lived supercells that produce long-track tornadoes, versus long-lived supercells that produce short-track tornadoes. Several other areas for additional research
+are evident as well. For instance, many of the long-path tornadoes generally occurred in environments without any detectable interaction with a synoptic-scale surface boundary (such as a
+warm front or stationary front), while many short-path tornadoes appeared to occur in close proximity to a surface boundary. Do these boundaries provide augmentation that is necessary for
+tornadogenesis in a large-scale environment that would otherwise be characterized as marginal, or do these boundaries hinder a longer-path length event due to the ingestion of cooler, more
+stable boundary layer air? Furthermore, are there environmental differences between supercells that produce multiple short-track tornadoes (e.g., cyclic tornadic supercells) versus the
+occurrence of one long-path tornado? Finally, which environmental predictors might aid in anticipating the temporal longevity of tornadoes? These questions, in addition to an expanded sample
+set of tornado events, will be addressed in a future study. Acknowledgments The author thanks Pat Spoden and Ryan Presley (NWS Paducah) for reviewing this manuscript and providing
+valuable feedback. The author is also grateful for the comments and suggestions made by Jared Guyer (SPC) and Ron Przybylinski (NWS St. Louis). Finally, significant improvements were made
+to this manuscript due to the formal reviews provided by Rich Thompson (SPC), Angela Lese (NWS Louisville), and Albert Pietrycha (NWS Goodland). REFERENCES Beebe, R. G. and F.C.
+Bates, 1955: A mechanism for assisting in the release of convective instability. ., , 110.Mon. Wea. Rev83- Benjamin, S. G., and coauthors, 2004: An hourly assimilation-forecast cycle: The
+RUC. , , 495518.Mon. Wea. Rev.132- Bluestein, H. B., and M. L. Weisman, 2000: The interaction of numerically simulated supercells initiated along lines. ., , 31283149.Mon. Wea. Rev128-
+Brooks, H. E., 2004: On the relationship of tornado path length and width to intensity. , , 310319.Wea. Forecasting19- Bunkers, M. J., B. A. Klimowski, J. W. Zeitler, R. L. Thompson, and M. L.
+Weisman, 2000: Predicting supercell motion using a new hodograph technique. , , 6179.Wea. Forecasting15- M. R. Hjelmfelt, and P. L. Smith, 2006a: An observational examination of
+long-lived supercells. Part I: Characteristics, evolution, and demise. , , 673688.___, Wea. Forecasting21- ___, J. S. Johnson, L. J. Czepyha, J. M. Grzywacz, B. A. Klimowski, and M. R.
+Hjelmfelt, 2006b: An observational examination of long-lived supercells. Part II: Environmental conditions and forecasting. , , 689714.Wea. Forecasting21- Craven, J. P., and H. E. Brooks,
+2004: Baseline climatology of sounding derived parameters associated with deep, moist convection. , (1), 1324.Natl. Wea. Digest28- Crum, T. D., and R. L. Alberty, 1993: The WSR-88D and
+the WSR-88D operational support facility. , , 16691687.Bull. Amer. Meteor. Soc.74- Davies-Jones, R. P., D. W. Burgess, and M. Foster, 1990: Test of helicity as a tornado forecast parameter.
+Preprints, , Kananaskis Park, AB, Canada, Amer. Meteor. Soc., 588592.16thConf. on Severe Local Storms- Davies, J. M., 2006: Tornadoes with cold core 500-mb lows. , , 10511062.Wea
+Forecasting21- ___, and J. L. Guyer, 2004: A preliminary climatology of tornado events with closed cold core 500 mb lows in the central and easter United States. Preprints, , Hyannis, MA,
+Amer. Meteor. Soc., CD-ROM, 78.4.22dConf. Severe Local Storms Doswell, C. A., III, S. J. Weiss, and R. H. Johns, 1993: Tornado forecastingLIA review. ., No. 79, Amer. Geophys. Union,
+557571.The Tornado: Its Structure, Dynamics, Prediction, and Hazards, Geophys. Monogr- ___, R. Edwards, R. L. Thompson, J. A. Hart, and K. C. Crosbie, 2006: A simple and flexible method
+for ranking severe weather events. 93901951.Wea. Forecasting,21, Evans, J. S., and C. A. Doswell III, 2001: Examination of derecho environments using proximity soundings. , , 329342.Wea
+Forecasting16- Fujita, T. T., 1981: Tornadoes and downbursts in the context of generalized planetary scales. ., , 15111534.J. Atmos. Sci38- Hart J. A., and P. R. Janish, cited 2007: SeverePlot:
+Historical severe weather report database. Version 2.5. Storm Prediction Center, Norman, OK. [Available online at .]. http://www.spc.noaa.gov/software/svrplot2/ Johns, R. H., and W. D. Hitt,
+1987: Derechos: Widespread convectively induced windstorms. . , 3249.Wea. Forecasting2- Maddox, R. A., L. R. Hoxit, and C. F. Chappell, 1980: A study of tornadic thunderstorm interactions
+with thermal boundaries. , , 322336.Mon. Wea. Rev.108- Markowski, P. M., E. N. Rasmussen, and J. M. Straka, 1998: The occurrence of tormadoes in supercells interacting with boundaries
+during VORTEX-95. , , 852859.Wea. Forecasting13- ___, J. M. Straka, and E, N. Rasmussen, 2003: Tomadogenesis resulting from the transport of circulation by a downdraft: Idealized
+numerical simulations. , , 795823.J. Atmos. Sci.60- Miller, R. C., 1972: Notes on the analysis and severe-storm forecasting procedures of the Air Force Global Weather Central. Air Weather
+Service Tech. Rept. 200 (Rev.), Air Weather Service, Scott Air Force Base, IL. 190 pp. Mesinger, F, and coauthors, 2006: North American regional reanalysis. , , 343360.Bull. Amer. Meteor.
+Soc.87- Praybylinski, R. W,, J. E. Sieveking, G. K. Schmocker, and N. T. Atkins, 2006: Analysis of the 2 April 2006 quasi-linear convective system (QLCS) over the mid-mississippi valley region:
+Storm structure and evolution from WSR-88D data. Preprints, , St. Louis, MO., Amer. Meteor. Soc., CR-ROM, 19.1.23dConf. Severe Local Storms Rasmussen, E. N., and D. O. Blanchard, 1998:
+A baseline climatology of sounding-derived supercell and tornado forecast parameters. , , 1148011164.Wea. Forecasting13 ___, S. Richardson, J. M. Straka, P.M. Markowski, and D. 0.
+Blanchard, 2000: The association of significant tornadoes with a baroclinic boundary on 2 June 1995. ., , 174191.Mon. Wea. Rev128- Thompson, R. L., 1998: Eta Model storm-relative winds
+associated with tornadic and nontomadic supercells. , , 125137.Wea. Forecasting13- ___, M. D. Vescio, 1998: The Destruction Potential Index 0] a method for comparing tornado days
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Preprints, , Amer. Meteor. Soc., Minneapolis, MN., 280282.19thConf. Severe Local Storms- ___, R. Edwards, J. A. Hart, K. L. Elmore, and P. M. Markowski, 2003: Close proximity soundings
+within supercell environments obtained from the Rapid Update Cycle. , , 12431261.Wea. Forecasting18- Weisman, M. L., and J. B. Klemp, 1982: The dependence of numerically simulated
+convective storms on vertical wind shear and buoyancy. ., , 504520.Mon. Wea. Rev110- ___, and_, 1984: The structure and classification of numerically simulated convective storms in
+directionally varying wind shears. , , 2479-2498.Mon. Wea. Rev.112 ___, and__, 1986: Characteristics of isolated convective storms. , P. S. Ray, Ed., Amer. Meteor. Soc.,
+
+ 
+
+331-358.Mesoscale Meteorology and Forecasting ____, and R. Rotunno, 2000: The use of vertical wind shear versus helicity in interpreting supercell dynamics. , , 1452-1472.J. Atmos. Sci.57
+@ TABLES AND FIGURES Table 1.List of events, in the order of longest to shortest tornado path length. F-scale rating is included for comparison. See section 3 for a discussion of this table.
+DATE

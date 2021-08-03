@@ -1,0 +1,60 @@
+The Eco-Nutrition Label September 17, 2007 12:53 PM Jeremy Faludi How do chic snobs judge the classy versus the trashy? With designer labels. For green shoppers, the equivalent is
+eco-labels. We have the US Energy Star and the EU Flower instead of Gucci and Prada, but green consumers have already shown themselves to be highly targeted, brand-conscious buyers. The
+first was Germany's Blue Angel; others include Eco Mark in Japan, EnergyStar in the US, Forest Stewardship Council for wood, LEED for buildings, and may others. New standards are still
+emerging, like . eco-label Cradle to Cradle certification The problem is that beyond a small core of green consumers, most people don't know to look for these labels, or where to look, and
+generally don't know what the labels mean when they do see them. How much better are they than products without the labels? Most companies don't do a full life-cycle analysis of all the
+materials, processes, transportation, energy, and water use for the products they produce. Most companies don't even know alll this information. But some do, and they should show it off.
+What makes a good eco-label? There are literally hundreds of eco-labels in use today. But in an age of marketing spin and greenwashing, consumers and industrial purchasers may feel they
+cannot trust a label saying "eco-friendly," because they don't know how good the company had to be to get it. Binary yes-no systems have a dilemma: either they have low standards or they
+exclude products which are good but not great. Multiple rating levels (like LEED or C2C's bronze-silver-gold-platinum) help people judge great from good, and also help budget-constrained
+consumers or manufacturers balance their green wishes against what they can spend. However, multiple-level systems can still seem opaque and arbitrary. What gets you to a gold? A
+regulator will know, but a consumer off the street may not. Customers (and, more so, industrial purchasers) can't necessarily trust some group's opinion about how good a product is, they want
+objectivity. You get objectivity by showing them the numbers. Most marketers will balk at this. "Numbers are scary!" they say. "Consumers won't understand the data anyway!" (For a cell
+phone, is 50kg of CO2 emissioms good? Or bad?) But let's look at the "Nutrition Facts" labels on packaged food products: we're glad to have them, even though they're are full of numbers, and
+the ingredients lists are full of chemical names no one can pronounce. This information makes us feel safer, because even if we don't understand the information, it reassures us that there's a
+level of transparency, of honest disclosure, between us and the producer. If we do know and care about certain aspects of nutrition, like sodium, calories, or fat, we can use the labels as a
+decision-making tool. We can compare two products side-by-side and see which is better, and after a few months of this we know what a "good" amount of calories are for a certain kind of
+food, without having to compare. And if we know nothing, reading the label helps educate us as to what is nutritionally important just by seeing what is listed, and we can start on the path to
+self-education. The ubiquitous "Nutrition Facts" labels have not only been a boon to consumer decision-making, but to the nutritional awareness of the general public as well. Even bags of
+potato chips have nutrition labels on them, and although the sales figures for potato chips suggest that they're mostly ignored, a small percentage of shoppers will use the label to inform their
+choice of chips. Indeed, every once in a blue moon a shopper will look at the nutrition label, sigh, and decide to buy something other than junk food. The US EnergyStar label is a good
+example of an eco-label that's making a difference. Many state and federal agencies require office equipment purchases to be Energy Star certified; given the enormous size of those markets (it
+is estimated that the US federal government is 20% of the country's economy), it pushes industry towards better efficiency as a whole. The "In 2004 alone, Americans, with the help of ENERGY
+STAR, saved enough energy to power 24 million homes and avoid greenhouse gas emissions equivalent to those from 20 million cars - all while saving $10 billion." EPA says A Nutrition Label
+for Product Sustainability? Shown here is a theoretical "Environmental Facts" label I mocked up, with the photo on a fake product by . (Feel free to critique the label in the Comments). The text
+gives quantitative details of production and a full list of ingredients -- it is effectively a life-cycle analysis of the product, written in a compact summarized form. The optional graphic above the
+text is the product's eco-friendliness at a glance, summarizing the categories whose data is written out below in a nutrition-label-like format. Dawn Danby (click for image large enough to
+read) The data listed in the text would include resources, energy, water, toxins, and social impacts. The Resources section would list product & packaging mass and include all ingredients and
+waste products, perhaps flagged as renewable where applicable. This section would also list the disposal method for the product & packaging (recycling, compost, takeback, etc.) Toxics in the
+product and in the production process would be called out in a separate section. Energy would be at the top, listing not only the amount of embodied energy, and how it was generated, but
+projected energy during product usage (a useful number for the consumer); it would also list average transportation distances or simply list countries of origin for major subassemblies. Water
+use and pollution would be listed in its own section. Finally, labor practices, fair trade, and transparency (organizational accountability and openness) would be listed in the Social section. The
+graphic is optional, but would greatly aid user comprehension. Ideally, an eco-label would be useful to everyone from a six-year-old to an educated expert. This graphic has a four-point color
+scale that would be relative by product type, so that cars could be measured on a different scale from sweaters. The colors could also be renormalized every few years to grade on a curve, so
+that as industries improve the best products still stand out. The center of the graphic could give a single overall score like "silver" or "gold" (reflecting a numeric value in the text below, just as
+the category-colors do.) The graphic would be an important educative component, giving anyone who reads the label an immediate value judgment for the numbers listed in the text. Making a
+label like this for a real product is not a simple task, certainly. The value judgments required to create the graphic would be contentious, and if the labels were required on all products, a good
+deal of bureaucratic overhead would be required to set the standards for them. In the text, some items do not inherently have numbers (like labor practices), and would be assigned a score
+based on either internal company metrics (which Nike, Starbucks, and many other companies already have) or a third-party standard (such as the Human Rights Campaign's Corporate Equality
+Index). The ingredients, waste, and other numbers would require an agreed-upon standard for depth of life-cycle measurement--do you measure the product's assembly stage, or include
+vendors subassemblies, and their vendors sub-subassemblies, or go all the way back to mining the raw materials? Data gets progressively harder to gather, and ingredients lists get
+progressively longer, at every step. However, it is not difficult to get a decent estimate of a product's impacts using life cycle analysis. LCA software tools already exist, and many major
+companies use them already (such as HP, 3M, and Toyota). Alternatively, a government organization (probably in the EU) may create standards that product companies must comply with, just
+like food nutrition labels. The EU's directive is already pushing companies to investigate and report the materials they use throughout their entire supply chain. In the US, the Federal Trade
+Commission already has for what may legally claimed as biodegradable, compostable, recyclable, etc. in a product label. REACH guidelines The Closest Yet Two labels have started to approach
+an eco-nutrition label like this. One is , the other is the EPA's label. Timberland's label is a breakthrough, far above what other companies do, but it is just a beginning--it lists embodied energy
+(and how much was renewably generated), location of manufacture, "number of hours served in our communities", and has two line-items for labor practices (though they are both binary:
+"child labor, 0%" and "factories assessed against code of conduct, 100%".) It makes no mention of materials or water use, or energy and transportation required for whatever materials or
+subassemblies they buy from vendors. The EPA's EnergyGuide is a government-mandated label for some appliances. It tells shoppers what the product's energy usage is, and how it compares
+to the rest of the industry for that year. It gives shoppers not just a yes/no seal of approval, but show them the numbers they need to make intelligent decisions. (Note that it's easy to confuse
+the name with the EPA's EnergyStar labels, which are used for far more kinds of products, but are just a yes/no seal of approval going to all products with better-than-average efficiency, and
+whose threshold for acceptance ). Timberland's footprint label EnergyGuide varies by product type As we've , UK food company Walkers Crisps will soon label their packaging with the amount
+of carbon emitted in the making of their potato chips (about 75g, apparently). Tesco, the fourth largest supermarket chain in the world (also UK-based), is starting to put a simple carbon label
+on its food: an for food transported by air. Katherine Probst, a senior fellow at Resources for the Future, has proposed a that would appear on the window of all new vehicles sold. Design
+Academy Eindhoven student Arlene Birt, who did her on eco-labeling, has argued that the food industry should be the first place for eco-labeling to start, because "food already has a high level
+of trace-ability, due to growing food safety concerns... and consumer demand." Of course, food also has nutrition labeling already, a helpful precedent. mentioned before icon of an airplane
+"global warming performance" label thesis Pushing Change For one company, an eco-nutrition label would be a green marketing turbocharger, launching them ahead of their competition. For
+one industry, labels like this would greatly aid consumer choice in the store. For one country, quantitative eco-labels on all products would inject sustainable thinking deep into the mental
+landscape, not just of consumers but also of industrial purchasers. There's no such thing as a perfect system, and any labeling scheme can be "gamed". However, a good-but-imperfect system
+is far better than total ignorance. Lack of information is one of the major obstacles to buying green today. I would like to see every product of every kind have some kind of "Environmental
+Facts" labels on their packaging, just as all food now has "Nutrition Facts" labels on its packaging. It would both improve consumer choice and consumer education.

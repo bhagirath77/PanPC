@@ -1,0 +1,22 @@
+Related articles on this site: was an early motivation in the work of . Stokes theorem Nicolas Bourbaki by (1995-06-11). (1949-1973) by . | at . | , interviewed in 1999 (notices
+of the AMS). Related Links (Outside this Site) Henri Cartan The official list of founders also includes a few members who were less active, namely: Jean Coulomb, (1905-1979), Rene de
+Possel and Szolem Mandelbrojt (uncle and early mentor of the young , of future fame). The Many Faces of Nicolas Bourbaki Stokes' theorem is a superb generalization of the . fundamental
+theorem of calculus d = dWw wo{W Some Incamations of Stokes Theorem Gradient Conservativity div dV =  dd8VUddSU . dS Nicolas Bourbaki and this general result are
+partly ...due to each other was on January 14 1935, as the collective identity of a group of several highly talented young French mathematicians, in part from the urge to elucidate the
+general validity of the above formula (as reported by Andre Weil, then 28).Nicolas Bourbaki born th The collaboration has been extremely influential in France and elsewhere
+
+Bourbaki brought about new riguor based on the of mathematics (and also, along the way, some controversial reforms in mathematical teaching).Bourbaki logical foundations The
+
+founding members of the group were:activeNicolas Bourbaki (1906-). Andre Weil 1998 Charles Ehresmann Benoit Mandelbrot fractal (1906-1998) and (1904-1994) were present at
+preliminary meetings before the actual foundation of the Bourbaki group. Jean Leray Paul Dubreil The rule was that all members of the collective would have to leave by the age of 50 (and
+left early, in anger). Other include:GrothendieckLangbourbakists Samuel "" (1913-1998) Polish-born topologist.sammy Ellenberg (1923-2003) Swiss from .Armand Borelbourbakist 1949
+to 1973 (b. 1925) USA.John Tate (b.1932) from .Pierre Cartierbourbakist 1955 to 1983 (b.193?). Bruhat-Tits Theory.Francois Bruhat (b. 1947). Alain Connes The ambition of the
+founders was to put on a fresh solid foundation the entire mathematical knowledge of their time. This has taken the form of a collection of books entitled (note the militant use of the
+grammatically incorrect singular form of ). The is alive and well, although it's not nearly as active and/or influential as it once was (the latest volumes in the collection were published in 1983
+and 1998). One of the first items on the original agenda was the above formula, which unifies .Elements de MathematiqueMathematiques Association great results of vector calculus
+
+Opinions about Nicolas Bourbaki The hope was that a fairly small simple set of basic structures were the basis of most research. I think itis also true that for a while, this was generally
+believed. But for the last 20 years, it has been increasingly doubted: First because Bourbaki began to drown in its own need to be general enough, and they never could be sure when to stop
+(e.g., before doing the reals, they need a general theory of topological fields). Secondly, because math began to be driven by complex theories rather than simple ones (e.g., the Langlands
+conjecture at the abstract end, control theory and probability at the applied end). These theories don't benefit much from the Bourbaki. David B. Mumford (b. 1937, Fields medalist 1974)
+1993-04-21 A Few Bourbakists : Born: 30 September 30, 1913, in Warsaw (now Poland) Died: 30 January 1998, in New-York, NY (USA) Samuel Eilenberg Topologist.

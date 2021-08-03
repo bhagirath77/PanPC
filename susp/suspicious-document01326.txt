@@ -1,0 +1,184 @@
+October 14, 2008 New Chip-and-Pin Scam in the UK The readers were when they , either during the manufacturing process at a factory in China, or shortly after they came off the
+production line." It's being called a "supply chain hack." hacked were built Sophisticated stuff, and yet another demonstration that these all-computer security systems are full of risks. To
+receive these entries once a month by e-mail, for the . sign up Crypto-Gram Newsletter Comments See, when I saw the headline, I figured it was just another UK slang term for fish
+sticks and fries... Posted by: at Jay Levitt October 14, 2008 2:18 PM A quote in Saturday's Wall Street Journal says these hackers are performing at a level of sophistication that rivals
+foreign intelligence services. The implication: Payment card data security requires much, much more than just forcing merchants to lock down data and comply with the PCI (payment card
+industry data security standard). This hack demonstrates that card data security is on par with national security issues. Card security requires wholesale rethinking of the credit card
+system. The leading US government authority in this area, the Federal Trade Commission, misunderstands the magnitude of the problem. The FTC is locked in an old-fashioned belief that
+data in-security is due to stupid merchants (like TJX) treating consumers (and their privacy) "unfairly" by failing to secure their systems. We need fresh thinking and better leadership on
+this issue from the FTC. --Ben http://hack-igations.blogspot.com/2008/03/ftc-treats-tjx-unfairly.html Posted by: Benjamin Wright at October 14, 2008 2:52 PM Something odd in the first
+article, "The devices selectively send account data by a wireless connection to computer servers in Lahore, Pakisan" Now call me sceptical but you would need a lot of RF Power and a big
+antenna to get a reliable signal by "wireless" from Europe to Pakistan... Which sugests that somebody is not telling the truth or the reporter does not have a clue. The article goes on to
+say, "The bug would read an individual's card number and the corresponding personal identification number, then package and store the data. The device would once a day call a number
+in Lahore to upload the data to servers there and obtain instructions on what to steal next." Which sugests the "bug" is either usuing a telephone link that is built into the device or a
+cellphone module. The thought occurs to me that if they know the location of the servers most likley they know the number as well. Which begs the question who is alowing data off of
+their telephone network to these numbers... I find it difficult to belive that there is an endless supply of numbers for these bugs to call as the costs involved for the criminals is going to
+be large. Basicaly it looks like somebody has dropped the ball big time on this one. Posted by: Clive Robinson at October 14, 2008 3:12 PM no coincidence that products like ironkey are
+made in the us. @Benjamin Wright I have read what you have been writing on this subject and find you often overstate the situation. For example I do not agree that WEP cracking is
+equivalent to "paramilitary bank heists". Re-thinking of the payment card security has already been done (several times) and PCI DSS 1.2 is based on the past two years of feedback.
+There is no doubt that management who formerly dismissed security requirements must now face the prospect of demonstrating compliance or losing the ability to handle payment cards.
+Moreover, while mistakes may be made in compliance and security, accountability is more clearly demonstrated. No one ever said compliance was a guarantee. Getting your drivers
+license does not mean you are a safe driver. It's just a test, a measure, and it can be dialed up over time. The bigger question in compliance that you are hinting towards is one of
+governance. Does PCI really represent the consumer's interest or should the government step in? So far Minnesota said yes to government regulation, while California said no (except
+where the personal health information of the governor is concerned). @ Bruce Finaly one of the Telegraph links worked... And it confirmed what I thought however it appears to contain
+an inacuracy, "The first circuit is designed to copy the card(s details and pin number before the device has time to encrypt the information. The bods over at the Cambridge Labs
+published details that sugested that data from the terminal to the card like the pin number is not encrypted, only the outbound connection is. Which is why they got their man in the middle
+attack to work. I think it's about time EVM's specification became open to examination. What's the betting it has faux security and like many other "smart card systems of late is
+designed around the cheapest options. The thing about Chip-n-Pin is that it never was about security only shifting risk from the banks to the cardholder or merchant. All in all it's a gruby
+bit of technology that does not get close to doing what it says on the tin, Posted by: Clive Robinson at October 14, 2008 3:30 PM I see their mistake. They neglected to add four ounces of
+dead weight to the devices they didn't otherwise tamper with. Posted by: Roy at October 14, 2008 3:47 PM There should be a clear line of blame. The store should be fined. The store
+should advertise that its supplier gave it bad products, resulting in fines. The supplier should advertise that the manufacturing company caused it to lose business. Posted by: Why is this
+required at October 14, 2008 3:56 PM @Clive The best way I can parse the several articles on this suggests that the bogus devices included a cellular phone module. One article refers to
+a security guard noticing "suspicious static" on his cellphone, though with GSM typically this works the other way, i.e. an active GSM connection causes noise on nearby audio devices and
+landline phones. But how would the SIM cards (or builtin equivalents) be registered with a UK carrier if they were implanted early in the production cycle? This would surely require
+someone to contact a UK pay-as-you-go carrier to prepay an amount on the SIM. Or maybe they used a Chinese SIM with roaming privileges. Well, maybe they did use the builtin landline
+modem in the device. But surely the large retailers mentioned are not using landline voice connections for POS terminals, but rather IP connected LANs, which typically don't have Internet
+access. Curiouser and curiouser... "Which sugests that somebody is not telling the truth or the reporter does not have a clue." Probably a large dose of both. Posted by: Tony H. at
+October 14, 2008 4:40 PM You could easily build in a short range RF device talking to a host nearby, say in a parked car. That host would then call Pakistan. No trace anywhere. PIN
+key-pads for bank card terminals are normally potted to prevent eavesdropping before the signal reaches the microprocessor that does the encryption. This would be a pretty slick attack
+on a US debit card. If you have the combination of PIN and magnetic card data, then you're good to go. You could get a lot of money out with a handful of cloned cards, ATM max is $500
+per day. Posted by: Scared at October 14, 2008 5:29 PM Scared: But under the assumption that the investigators know the data were send to Pakistan, this theory sounds unlikely. If the
+GSM theory is correct, this means they would have been able to intercept the GSM link (by a IMSI catcher, maybe? I don't know what's possible with them). And via the land line / ethernet
+~ no idea. Number/IP, possibly? Posted by: Anderer Gregor at October 14, 2008 5:52 PM @Anderer: I find that a lot of these articles are written by fairly clueless journalists (at least as
+far as the technical details are concerned). He might be concluding that the terminal "called a number in Pakistan", when the the reality is that law enforcement traced the hack to
+Pakistan. I'm pretty sure the data went over the internet: "The devices selectively send account data by a wireless connection to computer servers in Lahore, Pakisan (sic!)". Posted by:
+Scared at October 14, 2008 6:16 PM Consider that the corporations which own all the major media can give their choice of candidate a billion dollars in free advertising in the four years
+leading up to a presidential election by pretending its propaganda is news, I'd say your figures are on the miserly side. Posted by: Roy at October 14, 2008 6:23 PM The second
+Telegraph story makes it much clearer. The hacked devices could be identified by their extra weight. They include an unauthorised GSM module, presumably with a prepaid SIM card (ones
+which will give you cheap service to Pakistan are freely available in commerce). Interestingly, there are a considerable number of merchant terminals about that use a GSM/GPRS module
+for comms anyway... Posted by: at Alex October 14, 2008 6:28 PM Should we be worried that a device made in China phones home to Pakistan? We've been discussing upgrading the
+(ancient) credit card readers at the store where I work, but maybe we'll hold off on that. I'm fairly sure these units are 15 or so years old (the design is older than that) and thus dumber
+than me. Didn't you have an analysis a few years ago that showed that if one candidate in a close two-candidate race pulled an extra ten votes per precinct, they could win the election?
+Posted by: Roxanne at October 14, 2008 8:15 PM Let's nuke Pakistan now .. I am getting sick of them trying to kill about 40/50 people at a time with home grown technology. Everyone
+will come out ahead, we can't forking over our precious $'s to feed their nefarious schemes. Posted by: sooth sayer at October 15, 2008 12:08 AM Here is another UK story: the land of
+cameras and monitors... had a chance to stop a crime in progress if the 999 (911) call system had not disconnected the call automatically as a crank call... Posted by: More at October 15,
+2008 12:34 AM Shouldn't critical security components, like card-readers be audited, and shouldn't they be not integrated with all kinds of bells-and-whistles sales terminals, but instead
+kept simple and clean? Posted by: szigi at October 15, 2008 2:57 AM @Clive: The EMV specs are open & available from http://www.emvco.com/specifications.asp. Weaknesses in EMV
+(like offline clear PIN encipherment) are largely irrelevant in this case: if you can perform hardware modifications to the terminal without them being noticed then you WILL be able to get
+the user's PIN. The entire settlement system assumes that the user's account number (PAN) is available for reconciliation & offline transactions. That information may be enough to
+conduct electronic transactions or create a cloned magstripe card. If the EMV card in question is SDA type (cheaper, easier, more common) then it can also be cloned. Posted by: at
+Twylite October 15, 2008 3:00 AM In germany this type of scam is common for some time. They break into a large supermarket, mainpulate the readers and get data and pin from
+EC-Cards (either by transmitting them out or by breaking in once again and reversing the manipulation and taking the stored data with them) The banks take this easy because YOU have
+to take care of your card and pin, as long as the problem is small, the banks voluntarily take the costs, IF YOU notice that you were scammed. Posted by: TheDoctor at October 15, 2008
+3:57 AM I agree that PIN encipherment is irrelevant here, the reference to "before encryption" most likely refers to encrypted comms between the terminal and the bank / merchant's
+back-end systems, since PCI-DSS says all cardholder data should be encrypted in transit over a network. This is a pretty scary attack since it bypasses the tamper evident nature of the
+terminal hardware (which does admittedly vary wildly between devices, but appears to be getting much better on the newest devices). Who cares about tamper evidence / tamper
+resistance if you can just manufacture evil terminals? Recently, APACS in the UK (a consortium of banks responsible for clearing card payments) has been requiring a common criteria-like
+process for payment terminals, which should have helped to mitigate the risk of this "supply chain attack", since development & manufacturing environments have to be well locked down
+for the higher levels of CC assurance, and also there are considerations of how to secure delivery and deployment. However, even though this kind of attack is very scary, I don't know
+that I believe this whole story. I certainly don't believe they used bona fide GSM communications to transmit the data (too costly for the mobile comms), or parked cars near to the
+readers to collect and retransmit (too many people, too much need to track shipments). Even without the difficulties of collecting the data, this seems like a very expensive way to get
+access to details that are actually sold quite cheaply (e.g. on carders forums). In most attacks of this kind, the people who capture the details don't do the cashing out themselves, but sell
+on to people willing to take on the riskier end of the process. I don't think I believe in the business model for this attack right now, would love to know more details to be able to judge
+more fairly. Posted by: Byron Thomas at October 15, 2008 4:06 AM @More - to be fair, emergency services receive more accidental calls through mobile phones in bags, etc, than they
+can reasonably deal with. It was one thing to send a patrol car round every time a rotary phone dialled 999; in the pushbutton age, it is not feasible. Posted by: Calum at October 15,
+2008 4:21 AM @Calum I concur --- but a bit of judgment by the operator listening in --- cognizant of precisely this kind of situation where the caller cannot speak (e.g. heart attack
+victim, etc.) would have made a difference. What bothered me was the call was apparently disconnected --- if they are going to have such elaborate surveillance systems, surely they can
+afford the overhead cost of an extra few hundred or thousand phone lines to be recorded and if a software program detects something that just might be suspicious, summon a human
+operator to check out the thing in real time. There are better ways to deploy technology than just to program a hang up. Posted by: More at October 15, 2008 4:46 AM Once upon a time,
+a semiconductor analyst with decades of experience and expertise on semiconductor manufacturing, including much knowledge as to how ip is protected and how malicious code or ways to
+jimmy chips might be slipped in during the manufacturing process when it is done in untrusted facilities (whether domestic or overseas), offered to give talks about the vulnerabilities and
+security issues involved for certain governments (say in Asia Pacific). Not a single one of them were interested. A sympathetic analyst (say from the end of the world) read the
+presentation, particularly the section dealing with vulnerability to EMP, and noted that he tried to raise the same concerns, and people just looked at him and thought he is a bit odd. It is
+going to take some spectacular scandals before users wake up to the security ramifications of going for the low (not lowest) cost suppliers. If there is interest and Mr. Schneier is willing,
+a "lite" version of the same presentation can be offered for readers of this site to view. Posted by: Less at October 15, 2008 4:52 AM Having had the oportunity to think a little on this.
+One assumption we all appear to be making is that if the "bug" is a GSM system it's doing an E.T. (ie calling home). And is therefore traceable back to individuals and also that the number
+it is calling is being used by many of the bugs... The oposit might well be true in that the scamers are calling the bug... Further there is a way they can do it and not get easily traced or
+caught, and enable them to "sell on individual bugs to third parties. How is this possible well, If those running the scam thought about it they may well have bought a pre-paid SIM with
+a top-up card for each bug. That is when you buy the SIM you also get a credit card sized plastic card with a bar code on it that you can take into any store and pay cash at the till to top
+up the phone. In this cut throat mobile market a cash no questions asked transaction in a corner shop is quite usuall for the purchase of Top-Up SIMs. Now let us assume as they have
+been able to do quite technicaly difficult things that they know how to send data to the bug via for arguments sake SMS. And that the bug can likewise send the occasional (compleatly
+random) SMS to keep the account active (Most mobile operators Top-up systems have a "no billable use" sunset clause). At this point the bug is connected to a GSM network untracebly
+back to the scammers (if they have been carefull). Better (worse for us) it can be accessed from anywhere in the world at any time. And even better (realy bad for us) if the Top-Up SIMS
+where bought at random having the number for one bug is not going to give any knowledge usable to find any other bugs. So to use the system, you use a modified version of your GSM
+bug which is a controler. Perhaps and importantly they have designed a controler which can be just pluged into the bottom of an existing mobile phone (means that any say Nokia phone
+could be used at random so tracing / blocking the phones electronic serial number would be a waste of time as they could change the phone after a couple of calls and flog it on to buy the
+next one etc. Like the bug the controler/phone can have a totaly random Top-Up SIM in it. The real difference is that the controler is designed to work over a serial or USB connection to
+a PC or PDA or whatever. So you now have a system that by using Top-Up SIMs is usable any where in the world effectivly totaly anonymously (providing you are carefull). Where
+knowledge / ownership of one part of the system is effectivly independent of any of the other parts. Which sugests that a smart scammer might just be selling on the system to others
+who have chosen to use Pakistan for the "Dial in" not for any other part of the scam. Which means that to track down the scammers you can only work backwards from where the bugs
+where put in the supply chain. And guess what it's in another legal bailwick... Bruce are you sure it was not an inteligence agency doing this ;) Posted by: Clive Robinson at October 15,
+2008 6:13 AM I did some "back of the envelope" calculations of what a political group could siphon of the state budget without attracting too much attention. I guess 5% is achievable (you
+can favor some contractors 50% of the time, but it won't be 100% profit for them.) For a country as the Netherlands (100 billion Euro budget) it would amount to 20 billion Euro over a
+four year election period. I don't have access to the US budget numbers at the moment, but looking at the ease where 700 billion dollar became available to bail out banks, it must be a
+very significant amount of money there too. There may be other benefits to buying a government, not in the above calculation. I'm thinking of getting laws written to remove your liability
+(or keep you out of jail), make life harder for your competitors or guarantee a perpetual source of income through "IP licensing". Posted by: MathFox at October 15, 2008 6:23 AM @Clive
+Robinson: A technically plausible argument for the comms, but my god, this is hard work to think through and set up. Again, this is coming back to my point that the level of sophistication
+(and cost) involved is so high that I doubt the story is really as we are reading it right now. I'm not a person who argues that "attackers aren't that smart," but I am a person who argues
+that attackers are smart enough they will find the simplest/cheapest way to attack, not the one that involves a fair amount of infrastructure setup when other attacks don't". Posted by:
+Byron Thomas at October 15, 2008 6:44 AM It has always made me nervous/suspicious/annoyed that US Military telephones, some of which are used in classified environments, are made
+in China. It seems like any money they saved in the production would have to be wasted confirming the end product didn't have a triggerable "store and forward" capability. In the kind of
+quantity produced, and with a nation-state level attacker, they could easily develop a main CPU (since EVERYTHING has a computer in it nowadays) which had subtle malicious capabilities
+while appearing mundane from the outside. @Jay Levitt: lol @Clive: "... or the reporter does not have a clue." Oh, come on; what are the odds that a reporter would have a clue?
+3:4,604,734? This side of the statement can be left out, it's essentially ORing with zero. Posted by: bob at October 15, 2008 6:52 AM And another thought ;) Weighing the terminals and
+looking for a four ounce (114g) differance is a very labourious and time consuming way to go about finding the bugs... To make it anything like effective you would have to assume, 1)
+Only one type of terminal effected. 2) Only a limited run of terminals where bugged. 3) The supplier has correctly told you how many and where the terminals have been sold to. Point 1
+is the scary assumption. If one terminal suppliers manufacturing chain has been "got at" it is as likley that more than one has been compromised. However the use of Mobile technology
+could well provide an easier way to find them. First off all mobile phones are supposed to have an "unalterable", "unique" electronic serial number that is known to the network it is,
+connected to. It is a bit like the MAC address on ethernet devices (and has the same security weaknesses). Now on the (weak) assumptions that the bugs where made from, A, "bought
+in" items B, the scammers did not alter the serial numbers Then the bug serial numbers will be a subset of a known range, which would ease the problem of identifing them in the
+network call logs. But more obviously these bugs have some odd charecteristics for mobile phones, 1) They are not mobile. 2) They do not carry voice. Which is also charecteristic of
+things like "red care" systems on modern alarms. But unlike the "red care" systems, 3) They use Top-Up or prepay, not a bulk agreement service. At which point you probably have a
+suficiently good filter to make them stand out of the network logs in a sufficiently small number that they could be subject to further (human) investigation. However again unlike other
+GSM Data systems, 4) The calls they make are NOT to a known local number. 5) The calls they receive are NOT from a known local number. At which point you probably have them
+nailed. But if my assumptions are correct then you could further filter with, 6) They make very few calls (keeps costs down). 7) The calls they make are random (service keep alives). 8)
+They receive only foreign calls. Now it may be possible that those investigating are already doing this or similar but have kept shtum for "operational security" reasons. But what little I
+know of SOCA etc I think it most unlikley which is why they retailers etc are weighing them. Posted by: Clive Robinson at October 15, 2008 7:10 AM I doubt that they are producing the
+bugs in a factory to be added to the scanners, they probably are using elements of an off the shelf cell phone, wired to the scanners power, so shutting off the power to those scanners
+when the store is closed would be a good idea. and the off the shelf components could be traced to manufacturer, (as was the tiny component of the lockerbie detonator) and to the
+distributor in pakistan. Then it would be a matter finding out who buys them in large numbers at probably infrequent intervals. that is if the authorities really want to find the perpetrators,
+who is to say its not an intelligence agency, like ISI. What intelligence agency do you know of that does not have links to organized crime rings that it sometimes profits from. It could
+even be the chinese agency, as the chinese military are definatly into manufacturing and business for profit. Pakistan could just be the money laundry they are using. I have heard of
+hardware hacks coming from china incorportated into memory sticks produced there, but that is probably just an intelligence operation, not a cash flow thing. Posted by: rip at October
+15, 2008 9:22 AM Who will you be voting for Bruce? Obama? McCain, or the best option, George Bush 4 more years! Posted by: Chris Finch at October 15, 2008 9:56 AM 'BTW, what's it
+worth to rig an election?' The main weakness and vulnerablitiy of electronic voting machines is their lack of a paper audit trail. There should be a paper receipt given to the voter after
+they vote and paper records for the voting administrators to keep in case of a challenge. Simple and effective. We use the same system for ATM machines for financial transactions why
+not the same auditing for our democracy? Posted by: 0.s. at October 15, 2008 10:14 AM There have been several comments on how the captured information is transmitted, and
+skepticism about WiFi. Sadly it is practical. Three years ago, there was a field trial in the Republic of Ireland of ATM skimming equipment. (There is no other way to describe it, someone
+developed and manufactured ATM skimming equipment, and then arranged a field test). The device in Ireland transmitted the captured data to a laptop in a nearby car-park which was
+then relayed to another laptop about 3km away. The first laptop was a cut-out, and the operators were arrested. The organiser of the operation escaped. Posted by: Zygmunt Lozinski at
+October 15, 2008 10:42 AM @ Ben Wright Paul Karger a researcher at IBM's GSAL in a presentation about 10 years ago that exploitation of vulnerabilities had already exceed the
+assumed capabilities that the old Orange Book had been designed to protect against (i.e foreign intelligence services). Posted by: anonymous canuck at October 15, 2008 11:40 AM There
+are lots of smaller precedents to this that have been going on a while. To my knowledge this kind of thing goes back at least as far as 2002-2003 and possibly longer. Someone steals a
+few of device X and figures out how to open them up without them dumping their keys or being reset. This is even easier if you can modify them before keys are injected by a
+bank/processor. The pin can be read from the terminal keypad leads or something between the buttons and the contacts. I'm not sure what information is sent between the terminal and
+EMV card. Presumably it is what's known as credit card equivalent data. If this is the case it's not clear to me what they can do with the PIN as they wouldn't be able to clone the chip.
+They could certainly make card not present transactions. I would have expected the transmission mechanism to be wifi. But a GSM phone circuit could work as well. I would not expect it
+to leverage the terminal GSM unless it could use another number. Otherwise the phone bills could expose the operation. BTW PCI does not require encryption over ALL networks. Just
+"private" ones. Inside a terminal is most certainly considered private. Internet, wifi, cellular, etc. are considered public. Also, PCI has another standard for terminals called the PED
+standard. Posted by: anonymous canuck at October 15, 2008 12:06 PM @ Zygmunt Lozinski, "There have been several comments on how the captured information is transmitted, and
+skepticism about Wifi." I don't think people are skeptical about using WiFi or other low power RF system to do a similar job from a known location (as is the case you mentioned in the
+Rol). It's just in this particular case it does not seam as likley as thoe other methods described. From the articles it looks like only a few of the terminal units had the bugs in, and
+importantly the bugs where put in a long way back up the supply chain. That is at the factory where they where put in it might have been known they where destined for the UK but
+almost certainly not much more than that (possibly that they where bound for Tesco's due to logos or such). So from the attackers point of view they have no real geographical idea
+where the buged terminals are going to land up. Due to the size of the UK it is very unlikley they will drive around and just happen to find one. Even if they knew where all the Tesco's
+stores where it is still very unlikley that they would drive around all of them on the off chance of finding a bugged terminal. Even if you knew they where destined for London at
+2000KM~2 (or 2E9 square meters) and a ground level to ground level WiFi covarage averaging around 100 square meters you are looking at a considerably sparser coverage set than you
+realy want to start searching (think pin not needel and field of hay stacks 8) So the concensus is that in this particular case the bugged units have to have a reliable way to establish
+communications and therefore GSM or other direct communications connection is way more likley. Now if you where talking about actualy bugging a terminal where it is in use then WiFi
+or other ISM band low power radio would definatly be the way to go. And as has been noted in previous blogs somebody has actually evesdropped on the "waitress cordless terminals in
+the past. Posted by: Clive Robinson at October 15, 2008 12:09 PM @ Byron Thomas, "I'm not a person who argues that "attackers aren't that smart," but I am a person who argues that
+"attackers are smart enough they will find the simplest/cheapest way to attack, not the one that involves a fair amount of infrastructure setup when other attacks don't" I would normaly
+agree with you that ordinary criminals will always try what to them is the "low hanging fruits" attacks. This however reeks of geekiness and to a geek the "low hanging fruit" are way
+different. Also if they have either read any information or been involved on other card skiming systems they will have a good knowledge of the risks involved. The thing that makes me
+currios is that this is just a little bit "too technicaly sweet" which makes me think that there may be another more sophisticated mind behind the compleat setup. How is this for a whaky
+suggestion, You are an Inteligence agent for a WASP or other similar country that would runs a terrorist network on the quite as a black op. Now this little idea would not only give your
+network self financing which is great for deniability, it also more importantly gives you the oportunity to sling some mud at China and Pakistan, which lets face it neither are exactly "on
+message" at the moment vis a vis terrorism and other things... As I said a whaky idea but when you look at some of the mad cap things done to get rid of Castro and the sillyness of
+other supposed CIA activities in more recent times reveiled by using EMail etc it starts sounding a whole lot less whaky in comparison ;) @ Bruce, And I get the feeling Bruce might just
+have a similar it's too technicaly sweet" thought as well from his, "Sophisticated stuff" Posted by: Clive Robinson at October 15, 2008 12:38 PM It must be realized that every use of the
+PIN exposes it, and the exposure has a cost attached. Security can never be absolute. For small value transactions, say less than 50 Pounds or 100 Dollars, it is probably not economically
+justified. Moreover, establishements where most of the transactions are low value could probably use much cheaper terminals, that do not have PIN pads at all. No PIN used, no PIN
+stolen Posted by: Jonathan Rosenne at October 15, 2008 12:59 PM There is one aspect of this that has not been discussed, and is probably more troubling than the tactics of
+communicating the stolen information. The correct way to implement a smart card system is to have a smart card to a cryptographic operation with a key that it does not disclose through
+the electronic protocols used to communicate with the reader. (It does not matter here if you can rip the card apart and get the key.) That way, even if you can snoop on the transaction,
+and even if you can query the smart card all day, you can't replicate the smart card because you can't get the key out. The fact that it is possible to get enough information out of the
+smart card to replicate the smart card -- making this to actually be a class of attack at all with this kind of system -- means that there is not any cryptographic advantage of the smart
+card over the stripe card. The PIN is only one factor in what is supposed to be a two factor scheme. The characteristic of the system that needs to be present to cryptographically defend
+against this kind of scheme has evidently been omitted by design. As such, this fraud actually represents a CLASS BREAK. Posted by: Cryptomaniac at October 15, 2008 8:30 PM @
+Cryptomaniac: You cannot replicate the card, what they do is make a magnetic card they use in a non-EMV country. If the smart card would have used iCVV they could not have done this
+either, because in that case the samrt card would not contain the information for a magnetic card. Since the card is reliable, I believe the use of the PIN and its exposure is not justified
+for low value transactions. Posted by: Jonathan Rosenne at October 15, 2008 10:20 PM What's it worth? Well, let's assume that workers at Triad GSI and other companies each have a
+more tempting incentive to remain silent than the half-million dollar reward being offered for proof of their company's role in vote fraud: The sad thing, if you can believe the testimony of
+a "security expert" (would like to hear Bruce's impression of his credentials) who has been opposing electronic voting for ~10 years, is that while this is a national security issue because
+hackers on another continent can affect the outcome of our "democratic" elections, politicians and the (mainstream) media are essentially ignoring this :(

@@ -1,0 +1,13 @@
+Oil, gas and mineral deposits are the raw materials that drive the global economy. Natural resources exploitation Oil, gas and mineral exploration _As existing reserves dwindle, ensuring an
+adequate supply for the future requires the exploration of frontier regions for new supplies.  Inhospitable and inaccessible environments such as desert and Arctic regions are increasingly the
+focus of survey activities, but exploration managers find it demanding to operate in such uncharted territory, often lacking detailed maps and basic geological information about the areas they
+are interested in. Entering uncharted territory Earth Observation makes possible the large scale surveying of unexplored regions in a cost-effective manner, providing an additional layer of
+information to managers to before they make the expensive decision to commit to on-site exploration. Space sensors looking beneath the surface Satellite data can map and identify
+large-scale geological structures related to hydrocarbon and mineral deposits that ground-based surveys may find more difficult to see: satellite radar interferometry can precisely identify
+surface faults or slight ground motion connected with hydrocarbon reservoirs. Multi-spectral optical sensors can directly identify different minerals, either valuable in their own right or
+chemically altered by contact with oil and gas deposits. SAR image of oil spills in the Caspian SeaMarine exploration Detecting anomalies in the local gravity field is an accepted prospecting
+method often carried out with ship surveys. Earth Observation can enlarge the field of view, deriving global and regional gravity maps from marine altimeter data. ESA's planned GOCE (Gravity
+Field and Steady-State Ocean Circulation Explorer) mission will create gravity maps of an unprecedented accuracy. Seepage from underwater hydrocarbon deposits forms natural oil slicks on
+the sea surface. Such slicks can be seen using space-based radar, and the tell-tale fact of their repetition can be established by analysing the decade-plus data archive of radar imagery that has
+been compiled. Logistics support As well as assisting with direct search efforts, satellite images can also provide indirect logistics support, for instance planning the most effective placing of
+sound sources and geophones in order to carry out a seismic survey, or selecting the most suitable sites for extraction facilities. Last update: 12 July 2004 Related news

@@ -1,0 +1,21 @@
+We will continue working on more realistic HDTV image production by adding the natural shadows of objects. Yuko YAMANOUCHI,Image-Based Virtual Studio Toward a realistic electronic
+studio set Research Engineer, Multimedia Services NHK Science & Technical Research Laboratories have been promoting research and development of efficient program production technology
+which makes the best use of computer technology. As part of the research, we have developed a new type of virtual studio system which is based on image components from real pictures
+instead of CG. A HDTV compliant virtual set can be shot from any desired camera angle and is equipped with zooming functions. Features An all-round ambient scene is digitized as an
+environmental image component. This allows scenes from varying directions to be outputted as real time HDTV images. Pictures of a small object taken from four angles to be placed on the
+scene's image are also changed into electronic data as a three-dimensional image component. The component image can be placed in any desired location and freely zoomed or rotated as
+needed. It outputs an HDTV image of a virtual studio scene, which is created by environmental image components, three-dimensional image components, and the real image produced by a
+studio camera, all of which can be freely arranged. Ina virtual studio, the image of a studio set is created by using computer graphics (CG) combined with the real images taken by a studio
+camera. These combined CG and real images are synthesized using a chroma-keying device for program production. The CG image in a studio set is linked to a studio camera and moved or
+zoomed according to camera operation. This function will provide a variety of image production possibilities. BSs and CSs differ not only in orbital position, but also in the manner of
+transmission, including polarization. We are pressing forward with the development of technology that will enable an antenna to adjust to these differences. Additionally, technological
+development towards miniaturization and product cost reduction will be advanced with the aim of its commercialization. Takao MURATA, Multi-Beam Receiving Flat Antenna for Satellite
+Broadcasting Simultaneous reception of broadcasting from multiple satellites Senior Research Engineer, Digital Satellite Broadcasting Systems Satellite broadcasting services are carried out
+using a Broadcasting Satellite (BS) at 110 degrees east longitude and three Communication Satellites (CSs) at 124, 128, and 144 degrees east longitude. Our Laboratories have been
+conducting research on a flat antenna which will be capable of receiving multiple satellite broadcasts from different orbital locations. We succeeded in the trial manufacture of a flat antenna
+which can receive signals from any satellite located within a 40 degrees arc. The experimental flat antenna has the following characteristics; Compact size. (W 37cm, H 70cm, D 8cm)
+Reception area covers a wide direction, East to West 20 degrees, allowing coverage of BS at 110 degrees east longitude, to CS at 144 degrees east longitude. Beam direction is controlled by 2
+beam forming circuit. A corresponding number of these beam forming circuits will enable simultaneous reception from satellites located in different directions. A flat antenna is formed by
+arranging many small antenna elements. By receiving radio waves with each antenna element and combining them appropriately, even weak satellite signals can be received efficiently.
+Moreover, the beam direction of the antenna can be changed electronically. Copyright 2000 NHK (Japan Broadcasting Corporation) All rights reserved. Unauthorized copy of the pages is
+prohibited. NHK STRL

@@ -1,0 +1,618 @@
+HTTP/1.1 200 OK Content-Type: text/plain Accept-Ranges: bytes Date: Tue, 24 Feb 2009 03:19:39 GMT Server: Apache Connec close Last-Modified: Mon, 10 Apr 2006 12:10:39 GMT
+ETag: "56-b8ef4-7eaa0dc0" Content-Length: 71904 ! . "academic J) "additional JJ "always NNS "any NN "avoid JJ NN "better NN "blue NN VBP VB 3) "cancer NN "chronic JJ clinical 3 "close NN
+VBP VB J) "critical J) "culture NN VBP VB 3) "desirable J) "disease NN VBP VB J) "early RB "easy NN "environmental J) "essential 3) "ethnic J) "evidence NN "expanded VBN VBD 0 failure NN
+VBP VB 3) "familial J) "fetal 33 "healthy NN "highly RB "hospital 3) "human NN J) "hybrid NN 3) "ideal J) " paired VBN VBD J) "indicators NNS intention NN intermediate NN 33
+"late NN VBP VB JJ "leaning VBG NN 3) "leaming VBG NN J) "life NN VBP VB 33 "living VBG NN 3) "major NN "malignant JJ NN "medical 33 "medical-industrial J) "middle NN VBP VB JJ "minimal 33
+"natural J) "near J) NN "need VBN VBD JJ "negative JJ "never NN "normal JJ "number NN optimal 33 "other NN outpatient JJ NN "poor NN "primary JJ NN "prion NN "probably RB "public JJ
+"quality NN real 3) "responders NNS "rickettsia-like JJ "root-cause VB NN VBP "rule NN VBP VB J) "safe NN VBP VB J) "safety NN 3) "same NN VBP VB 3) "severe NN VBP VB J) "significant J) NN
+"silent J NN "social J) "stage NN JJ "superficial 1) "suspicious J) "taking VBG NN 3) "target NN "taste NN VBP VB 3) "technology NN "the NN VBP VB J) "therapeutic 3) "there NN VBP VB 3) "total
+3) "treatment NN "trial JJ "true NN VBP VB JJ "universal 33 "usual JJ "vascular JJ NN "very NN 3) "visible 33 "white NN 1) # # $ $ % NN JJ &CC SYM' POS": """'30s CD '60s NNS CD '70s NNS
+CD '71 CD '80s NNS CD '82 CD '86 CD '87 CD '90s NNS CD 'Cause IN 'N CC NNP''S POS VBZ 'T- PRP 'd MD VBD NNP 'em PRP 'll MD 'm VBP 'n' CC 're VBP 's POS VBZ PRP NNP NNS 'til RB 've
+veP vB ( ( (+/-)) (-)))) #/- CC, , = : = : --a DT FW SYM IN LS NNP --is VBZ --that IN WDT DT RB NN VBP --were J) -1-nitrosourea NN -a DT FW SYM IN LS NNP -antibody NN associated 13
+-based 3) -beta-D-glucan J) -cholesterol NN -containing JJ -defining 33 -dependent 3) -dimer NN -encoded J) -induced JJ -infected J) -like J) -methylguanine 3) -negative 1) -positive 33
+-producing 3) -receptor NN -related JJ -secreting JJ -seronegative J) -seropositive 3) -thalassemia NN -type NN -vitamin NN -were 13 -9.82 CD .what WOT /acquired VBN VBD 33 0-mg JJ
+O-thalassemia NN 0.1-mL 3) 0.5-mL JJ 1 CD LS 1%-a-year J) 1,100-parcel-a-week JJ 1,200-year-old J) 1,25-dihydroxycholecalciferol NN 1,25-vitamin NN 1,3-bis J) 1,300-member 3)
+1,4,5-trisphosphate J) 1,400-member 33 1,800-a-year JJ 1--RR J) 1-2-3 NNP JJ 1-AT J) 1-SD 3} 1-acid J) 1-adrenergic J) 1-bisphosphonate NN 1-cm J} 1-day J) 1-deamino-8-D-arginine 3
+1-desamino-8-D-arginine JJ 1-for-10 J) 1-for-17 NN 1-g JJ 1-glycoprotein NN 1-gram J) 1-h 33 1-hour J) 1-in 3) 1-methyl-4-phenyl-1,2,3,6-tetrahydrop yridine 3 1-mg J) 1-million-plus 33
+A-minute 33 1-mm JJ 1-month NN 1-point JJ 1-receptor NN 1-sided 33 1-star JJ 1-time J) 1-unit J) 1-week JJ 1-year J) 1.2-fold J) 1.23-a-pound 3) 1.3-fold 3) 1.4-fold 3) 1.5-fold 3) 1.5-hour 33
+1,5-mg J) 1.6-fold 3) 1.6-liter J) 1.7-fold 33 1.8-fold J) 1.9-fold 3) 1/2-year J) 10%-12 CD 10-K J) 10-a-share JJ 10-bed J) 10-cent-a-share JJ 10-cm JJ 10-day 33 10-dose J) 10-drug 3) 10-fold
+30 10-g J} 10-gallon JJ 10-hour 3) 10-item 33 10-km J} 10-lap 3) 10-member JJ 10-mg 3) 10-micrograms NNS 10-minus CC NN 10-minute J 10-mm JJ 10-month JJ 10-month-long 33 10-point 33
+10-session NN 10-store JJ 10-to-1 JJ 10-week JJ 10-year J) 10-year-old 3) 100%-owned 33 100-acre J) 100-day 3) 100-fold JJ 100-foot-long JJ 100-megabyte JJ 100-member 3) 100-mg JJ
+100-mile J) 100-mm JJ 100-point 33 100-share J) 100-stock CD 3) 10-year-old JJ 1000-bed 33 1000-fold 33 1000-mg JJ 100th 3) 101-year-old JJ 103-HgR 3) 103-nation 3) 1069 NP
+108-year-old JJ 10\/32 CD 10th J) 10th-grade NN 11 CD NNP 11-a-share J) 11-class J) 11-dehydro-thromboxane J) 11-deoxycorticosterone JJ 11-fold JJ 11-hydroxylase 1) 11-member 33
+11-month NN 11-month-old 33 11-point J) 11-related J) 11-week JJ 11-year 3) 110-lawyer 3) 111In-labeled JJ 117-acre J) 11\/16 CD 11\/32 CD 11th J) 11th-grade J) 11th-hour J) 12-2 RB
+12-Item J) 12-bed J} 12-cent-a-share JJ 12-count JJ 12-county J) 12-day JJ 12-dose J) 12-fold J 12-hour 33 12-inches NNS 12-item 3} 12-lead J) 12-member J) 12-minute JJ 12-month 33
+12-months NNS 12-pack NN 12-point J) 12-story-high JJ 12-week JJ 12-year 3) 12-year-old 3) 12.8-pound JJ 120-a-share J) 120-day J) 120-megabyte J) 1231-QNB 3) 1231-SAP 3) 123I-labeled
+3) 1231-labelled 33 125-a-share J) 125-billion-a-year JJ 125I-LDL 3) 1251-fibrinogen J) 125I-labeled J) 125I-labelled J) 128-kd J 12\/32 CD 12th J) 12th-grade NN 12th-worst JJ 13-cis JJ
+13-cis-retinoic 3) 13-fold 33 13-hour JJ 13-member NN 13-month NN 13-nation JJ 13-point J 13-week J 13-year J) 130-lawyer J) 130-unit J) 131-1 J) 131-item J) 131 I-labeled J) 134-lawyer JJ
+136-page J) 136-year-old J) 13C-urea J) 13/16 CD 13\/32 CD 13th 3) NNP 14-day 3) 14-fold J) 14-hour JJ 14-judge JJ 14-member NN 14-month JJ 14-point 3J 14-pound J) 14-ship J
+14-valent J 14-week 3) 14-year J 14-year-old J) 140-point J) 148-a-share J) 14/32 CD 14th JJ 15 CD VBN 15,000-foot J) 15-a-share J 15-acre J) 15-centimeter-tall J) 15-cents-a-share JJ
+15-day JJ 15-fold JJ 15-mg JJ 15-minute J) 15-month J) 15-point J) 15-second J) 15-trader J) 15-year J) 15-year-olds NNS 150,000-barrel-a-day JJ 150,000-square-foot JJ 150-megawatt JJ
+150-member J) 150-mg JJ 150-plus JJ 1500-mg JJ 150th J) 155-mm CD 155mm CD 156,000-square-yard JJ 15\/16 CD 15\/32 CD 15th J) 15th-century JJ 16%-owned 33 16-bit 1) 16-bp J
+16-d8 3) 16-fold J) 16-hour 33 16-inch 3) 16-member NN 16-month 3) 16-nation J) 16-story J) 16-week J) 16-year J) 16-year-old J) 16-year-olds NNS 161-day JJ 163-member 3) 164.78-point
+3 16\/32 CD 16th 3) 16th-century 3J 17-OHP JJ 17-OHS J) 17-city 3) 17-day J) 17-fold J 17-hydroxycorticosteroid J) 17-hydroxycorticosteroids NNS 17-hydroxyprogesterone JJ
+17-hydroxysteroid J) 17-item 3) 17-ketosteroid 3) 17-ketosteroids NNS 17-member JJ 17-month NN 17-nation J) 17-store J) 17-week JJ 17-year J 17-year-old JJ 17-year-olds NNS 17.5-kb JJ
+1732 CD 17q21-qter 3) 18-a-share J) 18-day 3) 18-fluorodeoxyglucose 3) 18-fold 3) 18-hole J) 18-hydroxycorticosterone JJ 18-month NN 18-screen JJ 18-story JJ 18-to-$19 JJ 18-week JJ
+18-year JJ 18-year-olds NNS 180-day J) 180-foot-tall 3) 182-day 3) 184-day 3) 185-acre 1] 1890s CD 18F-fluorodeoxyglucose 3} 18\/32 CD 18th JJ 18th-century JJ 19-day 33 19-inch 33
+19-month 33 19-month-old 33 19-norandrostenedione 3) 19-norandrosterone JJ 19-nortestosterone JJ 19-story JJ 19-year J) 19-year-olds NNS 190-point J) 190.58-point JJ 1900s NNS 1940s
+NNS CD 1950s NNS CD 1960s NNS CD 1966-June 1] 1970s NNS CD 1987-style JJ 1988-model J} 1988-return JJ 1989 CD NNP 1990-model JJ NN 1990s NNS CD 1995-June JJ 19\/32 CD 19th 3)
+19th-century JJ NN 1:30-6 CD 1H-MRS JJ 1\/10th NN 1\/2 CD 1\/2-foot-tall JJ 1//2-inch 33 1V/2-mile J) 1/2-room JJ 1\/2-week JJ 1\/2-year JJ CD 1/20 CD 1/32 CD 1/4 CD 1/8 CD
+lalpha-hydroxylase JJ 1st CD 2 CD LS , 2%-3 J) 2,050-passenger J) 2,3,7,8-tetrachlorodibenzo-p-dioxin NN 2,3-dimercaptopropane-1-sulfonate JJ 2,3-dinor-6-keto-prostaglandin NN
+2,3-dinor-thromboxane J) 2,3-diphosphoglycerate JJ 2,500-per-job 3) 2-7-DHC JJ 2-CdA JJ 2-D 3) 2-DE JJ 2-adrenergic J) 2-adrenoceptor NN 2-agent NN 2-agonist NN 2-agonists NNS
+2-chlorodeoxyadenosine JJ 2-day J) 2-deoxy-D-glucose J) 2-dimensional JJ 2-dose JJ 2-fold 33 2-for-1 3) 2-g J) 2-h 3) 2-hour 3) 2-hourly 33 2-hydroxylation NN 2-interferon NN
+2-keto-3-deoxyoctonate J 2-litre 33 2-mg JJ 2-month NN 2-month-olds NNS 2-nitropropane J) 2-part JJ 2-point JJ 2-stage NN VB VBP 2-tier JJ 2-to-1 3) 2-vessel NN 2-week J) 2-year 3)
+2-year-olds NNS 2.1-fold JJ 2.15-per-unit JJ 2.2-fold JJ 2.3-fold 3) 2.4-fold 1) 2.41-to-1 CD 2.5-fold J) 2.5-mg JJ 2.5-mile JJ 2.5-ton JJ 2.5-year J) 2.6-fold JJ 2.7-fold 3) 2.79-to-1 CD 2.8-fold 3
+2.9-fold 33 20 CD NNP 20%-owned J) 20,000-gallon 33 20-a-share 33 20-bond 33 20-city J) 20-dlass J) 20-day J) 20-fold 3) 20-hour 3) 20-megabyte J) 20-mg 3) 20-micrograms NNS 20-mile 33
+20-minute 13 20-month NN 20-point 33 20-stock JJ 20-stocks NNS 20-to-30-mile JJ 20-week JJ 20-year JJ 20-year-old 33 200,000-share J) 200-lawyer NN 200-mg 3) 200-person 3) 200-ruble
+2003\/2007 CD 200th J} 206-199 3) 20s CD 20th J) 20th-century JJ 21-a-share J) 21-day J) 21-fold JJ 21-hydroxylase J) 21-hydroxylase-deficiency NN 21-member 3} 21-month JJ
+21-square-mile JJ 21-yard 3) 21-year J) 21-year-old 3) 21.25-a-share JJ 21/32 CD 21st CD JJ 21st-century NN 22-foot JJ 22-mg JJ 22-month NN 22-month-old JJ 22-rated J) 22-year JJ
+22-year-old J) 223-178 J) 22\/32 CD 22nd CD 23-valent J) 230-a-share J) 230-person J) 231-191 CD 3) 237-seat J) 238,000-circulation 3) 23/32 CD 24-a-share J) 24-fold 3) 24-h JJ 24-hour JJ
+24-item 3) 24-km J) 24-month J) 24-point JJ 24-week J) 24-year 1] 240-page JJ 249-166 3) 24\/32 CD 24th J) 24th-largest J) 25,000-member 3} 25-HCC J) 25-OH 3) 25-OHD J) 25-a-share JJ
+25-cent-a-share JJ 25-dihydroxycholecalciferol NN 25-fold 33 25-hydroxy-vitamin NN 25-mg J) 25-million-share J 25-month NN 25-year JJ 25-year-old J) 250-170 3) 250-megawatt JJ 250-mg
+3) 250-point 13 25/32 CD 25th JJ 26-7 J) 26-day 3) 26-fold J) 26-month NN 26-point JJ 26-week J} 26-year-old J) 26\/32 CD 27-a-share JJ 27-month NN 27-nm JJ 27-point J) 27-week JJ
+27-year J) 27-year-old 1) 27.50-a-share JJ 273-121 J) 275-a-share J) 27\/32 CD 28%-owned JJ 28-day JJ 28-month NN 28-ounce J) 28-question J) 28-story J) 283-132 J) 287-123 1) 2832
+\ch J) 29-month NN 29-year-old J) 29-year-olds NNS 291-page JJ 29/32 CD 2\/32 CD 3 CD LS NNP 3'-azido-3'-deoxythymi
+ideoxythymidine 3) 3':5'-monophosphate JJ 3,4-methylenedioxymethamphetamine J) 3-1 CD 1) 3-4-5 CD 3-D JJ 3-Day-Old 3) 3-a-person JJ 3-a-share JJ 3-adrenergic JJ
+3-adrenergic-receptor NN 3-amino-1-hydroxypropylidene 13 3-cm JJ 3-day 3) 3-dimensional J) 3-dose 3) 3-drug J) 3-fold 33 3-for-1 J 3-for-2 J) 3-for-3 UJ 3-g J) 3-hour JJ
+3-hydroxy-3-methylglutaryl-coenzyme 33 3-hydroxybutyrate JJ 3-methyll 1e 1) 3-month NN 3-monthly 3) 3-part JJ 3-type J) 3-week 3) 3-weekly 33 3-year JJ 3.0-mg 3) 3.1-fold 3) 3.2-acre
+3) 3.2-fold 3) 3.3-kb 3) 3.5-fold 3) 3.5-inch 3) 3.5-year J) 3.6-fold J) 3.7-fold JJ 3.8-fold J) 3.9-fold J) 30%-owned J) 30-a-share JJ 30-acre J) 30-day JJ CD 30-fold 3) 30-foot J) 30-mg 3) 30-min
+3) 30-minute 33 30-month NN 30-odd JJ 30-point J) 30-pound J) 30-second JJ 30-share 3J CD 30-stock JJ 30-week 3) 30-year J CD 30-year-old J) 300-a-share J) 30-day JJ CD 300-fold 33
+300-megawatt JJ 300-mg 33 301 CD NNP 301-year-old 3) 303-107 J) 3090s NS 30\/32 CD 31-cent J) 31-year-old J) 31\/32 CD 32-a-share JJ 32-acre J) 32-bit J) 32-fold 3) 32-nation JJ
+32-story J) 32-week J) 32-year JJ 32-year-old J) 323s NNS 325-92 JJ 33-mer JJ 33-month NN 33-point 3) 33-year-old J) 34-a-share J) 34-floor J) 34-foot-tall JJ 34-page JJ 34-year 3)
+34-year-old JJ 34th JJ NNP 35,000-to-$50,000 CD 35-cents-a-gallon J) 35-day JJ 35-hour J) 35-member JJ 35-minute 3) 35-nation J) 35-year-old J 352-mile J) 35th J) 36-Item J) 36-day 33
+36-fold 3) 36-item 33 36-minute 13 36-month NN 36-page J) 36-store J 36-week J) 36-year-old J) 360-day J) 365-day J) 37-a-share J) 37-kd J) 37-year-old J) 37th J) 38-cents-a-share 3)
+38-pound J) 38-year-old 3) 39-cents-a-pound JJ 39-year-old J) 3D-CRT J) 3H-DHE 3) 3H-thymidine 3) 3/16 CD 3\/32 CD 3\/4 CD 3/8 CD 4 CD LS 4-0 J) 4-HNE JJ 4-RIBA JJ 4-aminosalicylic 33
+4-day JJ 4-drug 33 4-fold 3) 4-for-1 JJ 4-hour 33 4-hourly 33 4-hydroperoxycyclophosphamide 33 4-hydroxylation NN 4-hydroxyphenylpyruvate J) 4-kilobit JJ 4-m 33 4-meter NN 4-mg JJ 4-month
+3) 4-week J 4-year J) 4.2-ton JJ 4.3-fold J) 4.5-fold J) 4.5-year 1) 4.6-fold 3) 4.84-a-share J) 40-49-year J) 40-a-share J) 40-fold J) 40-kd J) 40-megabyte J) 40-mg 33
+n-ton-a-year JJ 40-minute 3J 40-point J) 40-year JJ 40-year-old J) 400-bed 3) 400-day 3) 400-member J 400-mg 1) 4000-g 1) 400th J) 40th JJ 41-year-old J) CD 42-a-share J
+42-branch JJ 42-day 3) 42-month NN 42-year JJ 42-year-old J) 425,000-square-foot J) 43%-owned J) 43-foot JJ 43-month NN 43-year-old 3) 44-cent-a-barrel J) 44-mg J) 44-week JJ
+45%-owned J) 45-a-share 3) 45-acre J) 45-year-old J) 450-bed 1) 4500-g JJ 46-year-old J) 46.12-point J) 47%-controlled CD 47-kd J) 47-store 3) 47-year-old JJ 470th J) 48-h 3) 48-hour JJ
+48-month J) 48-week J) 48-year 3) 48-year-old J) 486-based J) 486tm NN 49%-owned JJ 49,000-plus JJ 49-nation JJ 49-year-old J 4/32 CD 4\/4 CD 4th J) S'-A 3) 5'-cyclic JJ 5'-deiodinase 33
+5'-monophosphate JJ 5'-noncoding J) 5'-nucleotidase 3) 5'-oligoadenylate 3) 5'-triiodothyronine JJ 5'-untranslated 3) 5,000-room J) 5,10-methylenetetrahydrofolate 3) 5,6-benzo-alpha-pyrone 33
+5-10 J) 5-14CH3-H4-folate NN 5-4 J 5-ASA 3) 5-FU JJ 5-HIAA J) 5-HT J) 5-HT1-like 3) 5-HT2a-receptor NN 5-a-barrel JJ 5-alpha-reductase J) 5-aminolaevulinic 3) 5-aminolevulinate 33
+5-aminosalicylic 3 5-azacytidine J) 5-cm JJ 5-day JJ 5-fluorouracil NN 5-fluorouracil-based JJ 5-fold 33 5-for-24 CD 5-hour 3) 5-hydroxyindoleacetic JJ 5-hydroxytryptamine 3) 5-lipoxygenase JJ
+5-methyltetrahydrofolate JJ 5-mg JJ 5-minute 3J 5-mm JJ 5-month NN 5-point JJ 5-star JJ 5-steroid NN 5-week J) 5-year JJ 5.2-fold 3) 50%-leveraged 3) 50%-state-owned J) 50-50 JJ CD
+50-a-share JJ 50-by-50-foot 3J 50-fold 3) 50-g JJ 50-mg 1 50-state J) 50-story 3) 50-year J) 50-year-old 3) 50.1%-owned J) 500-bed 1) 500-lawyer NN 500-mg 33 500-seat J) 500-stock J) NNP
+CD 500-store 33 508-point 3) 50/50 CD SOth J) 51-48 CD J) 5i-cash J) 51-day J) 51-year-old J) 51Cr-labeled JJ 51Cr-labelled 3) 52%-36 CD 52-store J) 52-week 1) 52-year-old J) 520-bed J)
+53-floor 3) 53-year-old J) 53rd CD 54-month NN 54-week J) 54-year-old 3) 55%-owned JJ 55-acre 1) 55-megawatt JJ 55-year-old J NN 5Sth J) 56-year-old 3) 57-month JJ 57-year-old J NN
+57th J) 58-a-share J 58-year-old 3) 585-lawyer NN 59-dealer 3) 59-store JJ 59-year-old J} 5\/100 CD 5\/16 CD 5\/32 CD 5\/8 CD Salpha-reductase J) Sth J) 6,000-member JJ 6-MP 3) 6-TGN JJ
+6-[18F]fluorodopamine-derived 33 6-acetylmorphine 3) 6-day J) 6-fold 33 6-hour J) 6-hourly 3) 6-keto JJ 6-keto-prostaglandin NN 6-mercaptopurine J) 6-minute 1) 6-month NN 6-month-olds
+NNS 6-monthly JJ 6-point JJ 6-sample NN 6-thioguanine JJ 6-week J) 6-year J) 60 CD NNP 60%-held JJ 60,000-odd 3) 60-40 3) 60-day 3) 60-fold 33 60-foot 33 60-mg 33 60-minute 33 60-month
+3) 60-second J) 60-vote 3) 60-year J) 60-year-old 3) 60.25-point JJ 600-mg JJ 600-point J) 61%-owned J) 61-year-old 3) 61.5-point J 62%-owned 3) 62-a-share J) 62-dose JJ 62-year-old JJ
+62nd 33 63-year-old J) 64-inch 1) 64-year-old J) 65-day J) 65-mph JJ 650-or-so 3) 67-kd J) 67-year-old J) 68-kd 3) 68-year-old 3) 69-point 3) 6\/2 CD 6/32 CD 7,500-share J) 7-a-share 33
+7-day J) 7-fold 13 7-member NN 7-month NN 7-point JJ 7-valent 3) 7-year J) 70-30 J) 70-A21 CD 70-a-share J) 70-fold 3) 70-kg J) 70-lawyer J) 70.5-point JJ 700-bed 33 700-room 33 707-pence
+30 707s NNPS 71%-controlled JJ 71%-owned J) 71-fold J) 72%-owned J) 72-a-share JJ 72-franc J) 72-game J) 72-hour 3) 72-year-old J) 72-yearold CD 727 NNP CD 73-year-old J) 737-300
+NNP 74%-owned J) 747 CD NNP 747-100s CD 747-400 NNP 747-400s CD NNS 75-cent J) 75-cents-an-hour NNS 75-day J) 75-g JJ 75-year-old CD 750-car-a-day J) 750th J) 757 CD NNP.
+757-200 NNS 75th JJ 76-page JJ 76-story 3) 760-megabyte JJ 767 CD NNP 767-300 NNP 77-year JJ 77-year-old J) 78-year-old JJ 79-cents-a-pound J) 79-year-old J) 7A NN 7B NN 7\/100ths
+CD 7/16 CD 7\/32 CD 7/8 CD 8%-10 CD 8-OHdG J) 8-day J) 8-fold J) 8-h JJ 8-hour 33 8-hourly JJ 8-iso J) 8-methoxypsoralen JJ 8-month NN 8-week J) 8-year 13 80%-owned JJ 80%-plus 13
+80-megabyte J) 80-nation J) 80-page JJ 80-player J) 80-plus JJ 80-point J) 80-year-old 3) 800-462-9029 CD 800-acre J) 800-g J) 800-number NN 800-year-old J 80s NNS 81%-controlled 33
+81%-owned JJ 81-year-old 1) 82-day J) 83-year-old J) 84%-controlled 1) 84-6 J} RB 84-month J) 84-year-old J) 85-kd JJ 85-year-olds NNS 87-store J) 88-point J) 88.12-point JJ 880 CD NNP
+89,500-a-year J 8\/32 CD 9-10:30 CD 9-cis-retinoic 3) 9-day JJ 9-fold 3) 9- month NN 9-point JJ 9-to-12-hour NN 9-valent JJ 9-week 3J 9-year 3) 9.3-kb JJ 90-cent-an-hour 3) 90-day JJ
+90-minute 1) 90-pound 3) 90-year JJ 900-bed 3) 900-interactive JJ 91-day 3) 92%-owned JJ 93-day 33 98.6%-owned J) 99-cent CD 99m-labeled J) 99mTe-labeled J) 99mTe-pyrophosphate J)
+9:30-10 CD 9\/16 CD 9V32 CD SYM ?. @ IN SYM A DT NNP NN Ag $ A-6 NN A-body JJ A-induced 3) A-men NNS A. NNP NN JJ LS A330-300s NNS AA NN AAA-related 13
+ABO-blood-group NN VB ABO-compatible JJ ABO-incompatible JJ ABUSE NN AC-130U NN ACCEPTANCES NNS NNPS ACCOUNT NN NNP ACCOUNTING NN NNP ACE-I-induced 33 ACI itor NN
+ACGME-accredited J) ACTA-scanning JJ ACTH-producing J ACTH-secreting J) AD-like 3) ADMITTED VBD ADP-induced 3) ADRs NNPS NNS ADS NNPS NNS AFFLUENT J) AFRICAN-AMERICAN 33
+AFTERSHOCKS NNS AH-64 NN AIDS-associated 3) AIDS-defining JJ AIDS-diagnosis NN AIDS-free J) AIDS-infected J) AIDS-like J) AIDS-preventive J) AIDS-related J) ALQ-135 NN AM NNP VBP
+AMBASSADOR NN AMONG IN AMP-activated JJ AN DT ANCA-associated JJ AND CC NNP AP600 NN APPEARS VBZ APPROVED VBD ARE VBP AREA NN ARISE VBP ARRIVED VBD ARTICLE NN AS IN
+NNP ASSETS NNP NNPS NNS AS\/400 NN AT&T NNP NN AT&q-sponsored J) ATP-binding JJ ATP-sensitive 3] AUDITS NNS AVOIDED VED Abandoning VBG Abell-Kendall J) NNP Abortion NNP NN
+Abortion-rights NNS About IN RB Above IN Abrahams NNP Abrams NNP Abroad RB Abrupt JJ Abscam-indicted J Absent J) VB Absolute JJ Absolutely RB Absorbed VBN Academically RB
+Accepted JJ NNP Accessories NNS Accomplishing VBG According VBG Accordingly RB Accords NNP NNPS Accounting NNP NN Acid-base JJ Acquired VBN Across IN Act NNP NN Acting NNP VBG
+Active-life NN Activists NNS Activity NN NNP Actual 33 Actually RB Ad NN NNP Ad-Unit NN Adams NNP Adapted VBN Add VB Added VED NNP VBN Adding VBG Additional J) Additionally RB Adds
+VBZ NNP Adjournment NN Adjust VB Adjusted-dose NN Adjusters NNS Administration NNP NN Administration-approved J) Administrators NNP NNPS Admittedly RB Adopting VBG Ads NNS
+Adults NNS Advancers NNS Advances NNS Advancing VBG Adverse 33 Advertisers NNS NNP NNPS Advertising NNP NN Advisers NNPS NNP Advisors NNP NNPS Advocates NNS Aeroflot NNP 33
+Aeronautics NNP Aerospace NNP NN Aetna NNP NN Affairs NNP NNPS Affiliated NNP VBN Affiliates NNP Afghan JJ NNP Aflatoxin NN African J) NNP African-American JJ NNP African-Americans JJ
+NNP African-Caribbean JJ NNP African-born 3) African-controlled JJ Afrikaner 3) NNP Afro-Caribbean JJ NNP After IN RB After-the-fact J) Aftereffects NNS Aftershocks NNS Afterward RB
+Afterwards RB Ag-positive JJ Again RB NNP Against IN NNP Age-adjusted 1) Age-related JJ Age-specific JJ Age-standardised JJ Agents NNPS NNS Agitation-Sedation 33 NP Agnelli-related 39
+Agnellis NNPS Agnos NNP Agreement NN NNP Ah UH Aid NNP NN Aided VBN Aides NNS Ailes NNP Aim VB Aimed VBN Air NNP NN Air-raid JJ Air-traffic NN Airlines NNPS NNP NNS Airports NNP
+Airways NPS NNP Akers NNP Ala-c SYM LS NN Alagoas NNP Alamos NNP Alar NNP NN Alarmed JJ VBN Alaskan JJ Albanians NNS Alcohol NNP NN Alcohol-induced 3) Alcohol-related 33 Algiers
+NP All DT PDT NNP RB All-cause VB NN VBP Allele-specific JJ Allied-Lyons NNP Allies NNS Allow VB Allowing VBG Allumettes NNP Almost RB NNP Aloft JJ Along IN Alongside IN Alpha-Tocopherol
+30 NNP Alps NNP Already RB Also RB Alternatively RB Alternatives NNP Although IN Altogether RB Altos NNP Aluminum NNP NN Always RB Alzheimer-type NN Am NNP VBP Amateur J) Amazing
+30 NNP Amen UH Amending VBG Amenities NNS AmeriGas NNP American NNP JJ NN American-European JJ NNP American-made 3) American-style 3J Americana NNS Americans NNPS NNS NNP
+Americas NNPS NNP Ameritas NNP Ames NNP Amid IN Ammonium NN Amniotic-fiuid JJ Among IN Amos NNP Ampicillin-resistant 13 Amusing JJ An DT NNP An-12 NN Analyst NN Analysts NNS
+NNP And CC Andean 33 Andreas NNP Andrews NNP Angeles NNP Angeles-based JJ Angiotensin-converting 3) Angiotensin-converting-enzyme JJ Anglo-Dutch J NNP Anglo-French JJ
+Anglo-Scandinavian JJ NNP Angolan JJ Animals NS Animated 3) Anne NNP VB Announced JJ Announcement NN Annual JJ NNP Annualized VBN 3) Another DT Anti-Jones 33 Anti-Tuberculosis 1
+ating VBG Antigen-specific JJ Antitrust J NNP Anxiety NN Anxious J) Any DT Anybody NN Anyone NN Anything NN NNP Anyway RB
+Apart RB Apparently RB Appeals NNP NNPS Applications NNS Applied NNP VBN Applying VBG Appointed VBN Appropriations NNP NPS NNS Approximately RB April-July JJ NNP Apt JJ Arab JJ
+NNP Arab-sponsored JJ Arabian NNP JJ Arbitrage NN Arbitragers NNS Arbitraging VBG Arby NNP NN Architects NNPS NNS Are VBP NNP Area NNP NN Areas NNS Arens NNP Argentina NNP NN
+Argentine 33 Argentinian JJ Arguably RB Arguing VBG Arias NNP Arkansas NNP NNS Arkansas-based JJ Arm NN Armed NNP VBN Armenian JJ Armuelles NNP Army NNP NN Around IN Arps NNP
+Arraignments NNS Arrangements NNS Arrested VBN Art NNP NN Arteries NN Arthurian JJ Article NNP NN Artist NP NN Artists NNP NNS Arts NNP NNPS NNS As IN RB Asahi NNP NNS Asbestos
+NN Ashland NNP VBP Ashtabula NN NNP Asia NNP NN Asia-Pacific NNP J) Asia\/Australia JJ Asian J) NNP Asian-American JJ NNP Aside RB Ask VB Asked VBN VBD Assembly NNP NN
+Asset-backed J) Asset-management 1) Assets NNS NNPS Associate JJ Associates NNPS NNP NNS Association NNP NN Assume VB Assuming VBG Assurances NNP NNPS At IN Ate VBD Ateliers
+NP Athens NNP Athletics NNP Atkins NNP Atlanta-based J) Atlantic NNP 3) Atlantis NNP NNS Atlas NNP Atone VB Atop IN Attacks NNS Attempts NNS Attendants NNPS NNS Attention NN VB
+
+Attic J) Attitudes NNS Attorneys NNP Attracted VBN Au-Ag JJ NNP Auctions NNPS NNS Auditors NNS Australia-based J) Australian JJ NNP Australian-American JJ Austrian 3 Author NN
+Authorities NNS NNP Auto NN NNP Automated NNP VBN Automatic NNP JJ Automobiles NNS Automotive NNP 3) Average NNP JJ NN Avions NNP Avoiding VBG Aw UH Ayers NNP Aztec J) 8 NNP
+NN B-1 J) B-18 JJ NN B-2 JJ NN B-2s NNS B-3 JJ NNP B-cell-like 3) B-cell-specific 3) B-cells NNS B-flat NN B-lineage JJ B-locus NN FW B-lymphocyte JJ B-lymphocytes NNS B-lymphocytic JJ
+B-lymphoproliferative JJ B-precursor NN B. NNP LS B.A.T NNP NN B.C.-based J) 812-deficient J) B27-positive J 827-restricted 3) B-dependent JJ BACKED VBD BALANCES NNS BALLOT NN
+BALLOTS NNS BANKERS NNS NNPS BATTLED VBD BCG-vaccinated J) BE VB BEAT NN BECOME VB BEER NN BEING VBG BENEFITS NNS BEWARE VB BIGGER JIR BILLS NNS NNPS BIRDS NNS
+BIS-guided 1] BLAST NN BLOOD NN BLUES NNPS BMP NN NNP BMP-1 NN BMWs NNS BONDS NNS BONO FW BOOSTS NNS BOTH DT BRANDS NNPS BRCA-related J) BRCA1-mutation NN
+BRCA2-mutation NN BREADBOX NN BRIEFS NNS BRITISH 1] BROKERAGE NN BUSY J) BW15-positive J) Ba-2 J) Ba-3 CD JJ NN Ba3 JJ Baa-1 3) Baa2 J) Babelists NNS Babies NNS Bacillus NN
+Back RB NNP RP Backlog NN Backs VBZ Backseat NN Backup 3) Bailiffs NNS Baja NNP NN Bakes NNP Balloon NN NNP Ballot NN Baltic 3) NNP Baltimore-based JJ Bam UH Bancshares NNP Bank
+NNP NN VB Bankers NNPS NNP NNS Banking NNP NN Bankruptcy NNP NN Banks NNS NNP NNPS Barbados NNP Barclays NNP Bardet-BiedI J) NNP Barely RB Bargain NN Barge NN Barnabas NNP
+Barnes NNP Barneys NNP Barred VBN Barrels NNS Barring VBG Base-line NN VB VBP Baseball NN NNP Based VBN Bashers NNP Bashing VBG Basic J) NNP Basic-science NN Basically RB
+Basketball NN NNP Baskets NNS Batangas NNP Batch NN Bates NNP Battalion-2000 NN Battle NNP NN Battle-tested 3) Bay NNP NN Bay-area JJ Bcl-x SYM Bcr-Abl JJ NNP Be VB Beach NNP NN
+Bear NNP 3) Bearings NNP Bears NNPS NNS Beat NN Beatrice NNP NN Beauty NN Because IN Become VB Bedfellows NNS Beef NN Been VBN Beers NNP Before IN RB Before-after IN RB
+Before-and-after IN RB Beginning VBG NN Beheading VBG Behind IN Beijing-strain NN VB VBP Being VBG Belatedly RB Belgian JJ Belgium NNP NN BellSouth-LIN 3) NNP Bellas NNP Bellows NNP
+Bells NNP Beltway-itis NN Benchmark JJ Beneath IN Beneficiaries NNS Benefit NNP VB Berkeley NNP NN Berlin NNP JJ Bermuda-based J) Berry NNP NN Besides IN RB Best JJS Beta NN JJ
+Beta-adrenergic J) Beta-blocking JJ Bethle NN Bets NNS Better NNP RBR JJR Between IN Beware VB Bewkes NNP Beyond IN NNP Bias NNP Bids NNS Big NNP J) Bigger JJR Biggest 33S Biking
+NNP VBG Bill NNP NN Billiards NNP Billings NNS Billionaire NN Bills NNS BioSciences NNP NNPS BioVentures NNP Bioengineers NNS Bims NNP Birthday NN Biscuits NNP Bishops NNS Bit NN
+Bitten VBN Bjork-Shiley J) NNP Black NNP JJ NN Black-and-white JJ Black-white 33 Blacks NNS Blackstone NNP VBP Blaggs NNP Blancs NNP Blandings NNP NNPS NNS Bleach NN Blind J Blocked
+VBN Blondes NNPS NNS Blood-pressure NN VB VBP Blue NNP 3) Blue-chip J) Blues NNP NNPS NNS Board NNP NN Boardrooms NNS Bocas NNP Body NN Boeing NNP VBG Bofors NNP Boies NP
+Bolinas NNP Bolstered VBN Bond NNP NN Bonds NNS NNP NNPS Bone-marrow NN Bonfire NN NNP Bonniers NNP Book NNP NN Books NNPS NNS Booming JJ Booths NNS Boots NNP Bordetella
+NN Born VBN NNP Borrowed VBN Bosnia-Hercegovina JJ NNP Bosnia-Herzegovina J NNP Bosses NNS Boston-based 1) Both DT CC PDT Bourbon NN Bourse NNP FW Bourses NNP Bouygues NNP
+NNS Bowater NN Bowers NNP Bowes NNP Bowing VBG Bowles NNP Boys NNPS NNS Bragg-peak JJ Brahms NNP Branches NNS Brand NN Brand-Name NN Brands NNPS NNP NNS Brawls NNS
+Brazilian 1) Brazilians NNS Breakers NNP Breaking VBG Breast-cancer NN Breast-feeding J) Brechtian J) Breeders NNS Breuners NNP Breweries NNS Bribe NN Bridge NNP NN Bridgers NNP
+Bridges NNP NNPS Brief NN Briggs NNP Bright NNP JJ Brisk 3) Bristol-Meyers NNP Bristol-Myers NNP British JJ NNP NNPS NNS British-based 3) British-born 1) British-owned 33 Broad NNP JJ
+Broad-spectrum NN Broadcasters NNPS NNS Broadcasting NNP VBG Broader JJR Broiler NN Broken JJ NNP Brokerage NN NNP Brokers NNS NNPS Bronces NNP Bronfmans NNP Brookings NNP
+Brooks NNP Bros NNP Bros. NNP NNPS Brothers NNPS NNP Brown NNP JJ Brown-Norway 3) NNP Brown-tobacco JJ Browns NNP NNPS Brussels NNP Buccaneers NNS Bucking VBG Buckles NNP
+Budd-Chiari J NNP Budget NP NN Bug NN Bugs NNS Builders NNPS NNP NNS Building NNP NN VBG Buildings NNS Built VBN Bulgarian 3) Bullocks NNP Bulls NNPS NNS Bumpers NNP Bund NN
+Bureaucrats NNS Bureaus NNP NNPS Buried VBN Bui e JJ Burned VBN Buming NN Burns NNP Burroughs NNP Buruli-ulcer NN Business NNP NN Businesses NNS Businessmen NNS
+Bussieres NNP But CC IN NNP Butane NN Buy VB Buy-out NN Buyers NNS Buying VBG NN NNP By IN NNP RB C NNP $ C$ $ C'mon VB C-17 NN C-5B NN C-peptide NN C-reactive JJ C-spine NN
+C-terminal NN C-word NN C. NNP LS C.D.s NNS NNPS C.difficile-associated J) C1-inhibitor NN Cig-binding 3) C4A-free J) C4A-rich 33 C6-det
+CANADIAN 3) CAPITAL NN NNP CASE NN CATFISH NNS CB-radio-style JJ CBS-owned 3] CD NNP NN CD-ROM NN CD-type JJ CD1d-restricted 3) CD34-positive J) CD4-cell NN CD4-cell-count NN
+VB VBP CD4-lymphocyte JJ CD4-positive J} CDS-positive 3) CD8-positive JJ CDs NNS NNPS NNP CEA-positive J) CEO NNP NN CEOs NNS CERTIFICATES NNS NNPS CF-related J) CFCs NNP NNS
+NNPS CHANGED VED VBN CHIEF J) CHILDREN NNS CITIZENS NNS CLAIMANTS NNS CLAIMS VBZ CLAUSE NN CLUBBING VBG CMV-associated 3) CMV-induced 13 CMV-negative JJ CMV-positive
+3 CMV-seronegative J) CMV-seropositive J) CMV-specific J) CO-related J) COCOA NN CODE-NAMED VBN COFFEE NN COLLECTING NN COMMERCIAL JJ NNP NN COMMUTERS NNS COMPANIES
+NNS COMPARE VB COMPUTER NN NNP COMPUTERS NNP NNS CONGRESSIONAL JJ CONSUMER NN CONVICTION NN COOPERATION NN COPPER NNP NN CORPORATE 1] COTTON NN NNP
+COURTS NNS CP486 CD NNP CPAs NNS NNPS CRASHED VBD CREATIVE JJ CRIM-negative J) CRIMINAL J) CROSS-BRED VBD CRs NNS CT-guided 3] CURBING VBG Ca MD NNP JJ Caa NNP JJ
+Cadillac NNP NN Caesars NNP Cairo NNP NN CalMat NNP NN Calabasas NNP Calaveras NNS Calculating VBG Calgary-based 3) Calif.-based J) California NNP J) California-backed JJ
+California-based 3) Californian NN Call VB NNP NN Call-In NN Callable 33 Callas NNP Called VBN VBD Callers NNS Calls NNS Calmette-Guerin J) NNP Caltrans NNP Cambodian 33 Campaign NNP
+NN Campeau NNP NN Campeaucrelated J) Campylobacter-like J} Can MD Canadian JJ NNP NN Canadian-U.S. 33 Canale-Smith JJ NNP Candid 33 NNP Candy NN Canellos NNP Cannes NNP
+Capacitors NNP Capital NNP NN Capitalism NN Capitalizing VBG Capitol NNP NN Car NNP NN Caracas NNP Card NNP NN Cardenas NNP Cardiac-specific 1) Cards NNP Care NNP NN Careers NNS
+Caribbean NNP 33 Caribbean-born JJ Carlos NNP Carnival NNP NN Carolinas NNPS NNP Carried VBN Carrier NN Carriers NNP NNS Carrying VBG Cars NNPS NNS Carstens NNP Cartons NNS Case
+NN NNP Case-Control 3) NNP Case-control J) Case-fatality NN Case-finding JJ Case-series NN NNS Cases NNS Cash NNP NN Casinos NNS Caspita-brand JJ Cast VBN Castparts NNP Castro-led 33
+Catalog NN Cataracts NNS Catch-22 NN Catching VBG Cause-specific 3) Caution NN Cautious J) Cedars-Sinai JJ NNP Cell-mediated 13 Cementing VBG Cemetery NNP NN Censorship NN Center
+NNP NN Centers NNPS NNP Central NNP JJ Central-nervous-system NN Centronics NNP Century NNP NN Cereal NN Certain JJ Certainly RB Certificates NNPS NNS Cervantes NNP Chains NNS
+Chairman NNP NN Challenges VBZ Chalmers NNP Chambers NNP NNPS NNS Champagne NNP NN Champagnes NNS Champs NNP Change NNP VB Change-ringing NN Changes NNS Changing
+VBG Chans NNS Chaos NNP Chapman NNP NN Chapter NN NNP Character NN Characteristically RB Characters NNS Charge NNP VB Charges NNS Charities NNPS NNS Charles NNP Charls NP
+Cheap 0 Check NNP VB Chediak-Higashi J} NNP Cheers NNP Chekhovian J) Chekovian JJ Chemical NNP NN Chemicals NNP NNPS NNS Chemobyl-type JJ Chevrolet NNP NN Cheyne-Stokes JJ
+NNP Chicago-area J Chicago-based JJ Chicago-style 1) Chicken NNP NN Chickens NNS Chief NNP JJ Child NN NNP Child-Pugh J3 NNP Children NNS NNP Childs NNP Chilean 33 Chimicles NNP
+China-bound J) Chinese 33 NNP NNPS NN Chinese-herb NN Chip NN NNP Chips NNP Chivas NNP Choice NN NNP Choose VB Chore NN Chores NNS Chorrillos NNP Chrisanthopoulos NNP Christian
+NNP 3] Christians NNS Christie NNP NN Christies NNP Christmas NNP Churg-Strauss JJ NNP Cilcorp NNP NN Ci nN NP
+Circulations NNP Citing VBG Citizens NNPS NNP City NNP NN City-type J Civil NNP JJ Civilized 33 Claiming VBG Claims NNS Clarinet NN Class NNP NN Classes NNS Classic NNP 3) NN Classics
+NNS Clause NN Clays NNP Clean NNP 3) Clearly RB Clemens NNP Clements NNP Cleveland NNP NN Cleveland-based J) Clients NNS Climate NN Close NNP VB Closed 3) VBN Closely RB Closer
+RBR Closes VBZ Closing NN Clostridium-difficile-associated JJ Clothiers NNP Clubs NNP NNPS NNS Co-author NN Co-trimoxazole 1] Co. NNP NN Coach NNP VB Coal NN Coast NNP JJ Coates NNP
+Coats NNP Cobbs NNS Cocaine-induced 3) Cockcroft-Gault JJ NNP Codifying VBG Coffee-shop NN Coincident JJ Coke NNP NN Colder JJR Coles NNP Colinas NNP Coliseum NNP NN Collectibles
+NNP NNS Collectors NNS Colleges NNP NNS Collins NNP Colombian 33 Colony NN NNP Cols NNP Columbia-Presbyterian J) NNP Combatting VBG Combined VBN JJ NNP Combis NNPS Come VB
+VBN Comes VBZ Comfort NNP NN Commandment NN Comment NN NNP Commentators NNS Commenting VBG Comments NNS NNP Commercial NNP JJ NN Commercials NNS Commission NNP
+ning VBG Commissions NNS Committee NNP NN Committees NNS Commodities NNS NNP Commodity NNP NN Common NNP JJ Commons NNPS NNP Commonwealth NNP NN
+Communications NNPS NNP Communist NNP JJ Communists NNPS NNS Community NNP NN Community-based JJ Community-dwelling NN Companies NNS NNPS NNP Company NN NNP
+Comparable 3) Compare VB Compared VBN Compelled VBN Competes VBZ Competing VBG Competition NN NNP Competitors NNS Compiled VBN Complete 33 Completion NN Complex 33
+Compliance NN NNP Complying VBG Components NNP NNPS Composer NN Compound NN JJ Compounding VBG Compromises NNS Comptroller NNP NN Computations NNS Computer NNP NN
+Computer-assisted J) Computer-based JJ Computer-generated JJ Computer-guided 3 Computers NNS NNP NNPS Comtes NNP Con NN Conceivably RB Concern NN Concerned NNP VEN 33
+Conceming VBG Concerns NNS Concocts VBZ Concurrence NN Concurrent 33 Conduits NNS Confectionery JJ Conferees NNS Conference NNP NN Confidence NN NNP Confirming VBG Confronted
+VBN Confusion NN Confutatis FW Congolese 33 Congressional NNP J) Congressmen NNS Coniston NNP NN Conn.-based 3) Conn.based 3) Connection NN Connections NNP Conrades NNP
+Conradies NNP Consequence NN Consequently RB Conservationists NNS Conservative 3 NNP NN Conservatives NNS NNPS Consider VB Considering VBG Consistently RB Conspicuous J
+Construction NN NNP Constructions NNP Consultant NN Consultants NNP NNS NNPS Consumer NNP NN Consumers NNS NNPS NNP Contact NN NNP Containers NNPS NNP Continent NN NNP
+ental NNP JJ Continentals NNS Continued J VBN Continuing NNP VBG Contra NNP JJ Contract NN NNP Contracting VBG Contractors NNS Contracts NNS Contrary JJ Contras NNPS NNP
+NNNS Contrasts NNS Contributing VBG Controls NNP Convention NNP NN Conventional JJ Conversation NN Conversely RB Convertible J) NNP Coopers NNP Coors NNP Coplandesque JJ Copper NN
+NNP Copperweld NNP NN Copyright NN NNP Com NNP NN Coronary-artery NN Corp. NNP NN Corporate 3J NNP Corporations NNS NNP Corps NNP Corresponding VEG Corvettes NNS Cos NNP
+
+ity NN Costa NNP
+30 Costly 33 Costs NNS Cotton NNP NN Could MD Council NNP NN Count VBP Countered VBD Counterpoint NN Counting VBG Countries NNP NNPS Country NN NNP County-University 3 NNP
+Coupes NNP Court NNP NN Court-ordered J) Courtaulds NNP Courthouse NN Courts NNS NNPS Cowboys NNPS NNP NNS Cowboys-owned 3) Coxsackie-B-virus NN Coxsackie-8-virus-specific J)
+Crabs NNP Cracking VBG Craftsmen NNPS Cray-3 NNP CD Create VB Created VBN Creates VBZ Creation NN Ci NN Credit NNP NN Creditors NNS Cretaceous 33
+Creutzfeldt-Jakob 13 NNP Crigler-Najjar J) NNP Crime NN Criminal NNP JJ Crippling JJ Crises NNS Critical JJ Criticism NN NNP Critics NNS Cross-national J) Cross-reactivity NN Cross-sectional J
+Crotale 33 Crowd NNP NN Crown-Crisp 3) NNP Crude 3) NNP NN Cruise NP NN CsA-treated J) Cuban JJ NNP Cuban-American 33 NNP Cuban-Americans JJ NNP Cubs NNP Cuckoo NN Cummins
+NNP Cupboard NN Curb VB Curiously RB Currency NNP NN Current J) NNP Currently RB NNP Customarily RB Customer NN Customer-access NN Customers NNS Customized JJ Customs NNP
+NNS Cutbacks NNP Cy-treated J) Cycads NNS Czech 3) Czechoslovak 33 D-1alpha-hydroxylase JJ D-deficiency NN D-deficient JJ D-dimer NN D-glucose 3) D-lactic JJ D-mannose 3
+D-penicillamine 3) D-receptor NN D-xylose JJ D.C.-based J DALIS NNPS DC-8-62 NN DC10-30 NN DEBT NN DEET-based JJ DELAYS VBZ DELIGHT VBP DEPOSIT NN NNP DES-exposed J)
+DESIGN--Case-control J] DESIGN--Cost-effectiveness NN DESIGN--Cross-sectional J) DESIGN--Double-blind 3 DESIGN--Follow-up J] DESIGN--Meta-analysis NN DESIGN--Non-randomised
+DESIGN--Population-based J) DESPITE IN DIAPER NN DIED VBD DIGS NNS DIRECTORY NN DISAPPOINTMENTS NNS DISCOUNT NN NNP J) DM-prostaglandin NN DNA NNP NN DNA-amplification
+NN DNA-based J) DNA-binding JJ DNA-derived JJ DNA-hybridization NN DNA-positive J} DNA-repair NN VB VBP DNA-sequence NN DOGS NNS DON'T VB DOTS-plus J) DOWNSIZING NN
+DR4-positive J] DRAMS NNS NNPS DRG-based J) DRUG NN NNP DTP-a DT FW SYM IN LS NNP Daffynition NN NNP Daggs NNP Daily NNP 3) RB Daiwa NNP NN Dallas NNP Dallas-based 3)
+Damage NN Dane-particle-associated J) Daniels NNP Danish J) Dartboard NN Darwinian 3) Dass FW Data NNP NNPS DataTimes NNP Dataproducts NNP NNPS Dawkins NNP Day NNP NN Days
+NNS NNPS DeSoto NN NNP DeVillars NNP Deafening VBG Deal NNP NN Dealers NNS NNPS NNP Deaths NNP Debate NN Debates NNS Debenture NN NNP Debt NN NNP Debt-Burdened JJ Dec.
+NNP VB Decades NNS Decide VB Decisions NNS Decliners NNS Dediining VBG Dedication NN Deep JJ NNP Deeply RB Deer NNS Defect NN Defections NNS Defendants NNS Defenders NNS
+Defending VBG Defense NNP NN Delayed JJ Delayed-type NN Delchamps NNP Delegates NNS Deliver VB Delivery NN Dellums NNP Delors NNP Delta NNP NN Demand NN Democracy NNP NN
+Democratic 33 NNP Democratic-controlled J) Democrats NNPS NNS NNP Demograph ns NNS Denizens NNS Denrees NNP Denver-based JJ Departing VBG Department NNP.
+NN Departments NNP NNPS Departure NN Depending VBG Depo-Provera J) NNP Deposit NNP NN Deposits NNPS NNS Depression NNP NN Depression-era J Deputies NNPS NNS Deregulation NN
+Descendants NNS Describing VBG Design NNP NN Designer NN Designs NNS Desire NN Despair NN Desperately RB Despite IN Detached VBN Details NNS NNP Determining VBG Detroit-based JJ
+
+ 
+
+      
+
+       
+
+    
+
+ 
+
+ 
+
+     
+
+  
+
+ 
+
+ 
+
+         
+
+   
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+  
+
+       
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+   
+
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+      
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+   
+
+  
+ 
+
+ 
+
+     
+
+   
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+   
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+    
+
+       
+
+     
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+     
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+  
+
+      
+
+ 
+
+ 
+
+   
+
+  
+ 
+ 
+
+ 
+
+ 
+  
+
+jego NNP JJ Diego-based 13
+ing J) Disappointment NN Disaster NN
+Discount 33 Discounted 13 VBN Discouragement NN Discrepancies NNS Discussing VBG Disease-free J) Disease-specific J) Disgusted VBN Dishonesty NN Disk NN Dismal J Dismantle VB
+Disorderly 33 Dissident 33 NNP lents NNS Distiller NN Distributed VBN Di rict NNP NN Diversification NN Diversify VB Divesting VBG Divide VB
+Dividend-related 3) Division NNP NN Do VBP VB NNP Do-not-resuscitate VB Doctors NNS Doctrine NNP NN Documents NNS Dodgers NNP NNPS Does VBZ NNP Dogs NNS Doing VBG Dollar NN
+NNP Domestic 3) NNP Domestically RB Donbas NNP Donor-specific 3) Donuts NNP NNPS Dose-dependent JJ Dose-limiting 3) Dose-related J) Dose-response NN Double RB Double-blind 39
+Doubles NNP Doubts NNS Douglas NNP Down IN NNP RB Downgraded VBN Downtown NN Dozens NNS Drain NN Drawing VBG Dream VB Drexel-underwritten JJ Drilling NNP NN Drink NN Driver
+NNN Driving NNP VBG Drug NNP NN Drug-induced JJ Drug-related J) Drug-resistant JJ Drugs NNP NNPS NNS Ds NNS Dual JJ Dual-energy NN Dubbed VBN Duchenne-like J) Duck NN NNP Ducks
+NNS Duclos NNP Due 33 NNP Durable 33 During IN Dutch 33 NNP NNPS Dutch-based J) Dutch-descended JJ Dutch-elm-disease NN Dynamics NNPS NNP E NN NNP E-Z J) E-deficient 3) E-m:
+E-mediated J) E-rated JJ E-rosette NN E-rosette-forming 3) E-selectin NN EARNINGS NNS EARTHQUAKE NN EAST NNP NNS EB-virus-infected J) EBV-associated J) EBV-induced 3) EBV-infected 3)
+EBV-negative J) EBV-positive J) EBV-seropositive J) EBV-specific 3] ECONOMIC 3) EDUCATION NN EGA-VGA JJ EGF-like J) EGFR-positive 3) ELISA-positive J EMPLOYEE NN EMPLOYEES NNS
+ENDED VBD ENERGY NNP NN ENVIRONMENTAL 3) EPO-treated J) ER-negative J) ER-positive J) ESBL-producing J) ESPs NNPS NNS EST NNP NN RB EURODOLLARS NNS NNPS EXAMINE VB
+EXCHANGE NN EXECUTIVES NNPS NNS Each DT Eager 3) Earlier RBR RB JJR Early RB NNP Early-onset NN Earning NN Earnings NNS Earns VBZ Earth NNP NN Earthquake NN NNP
+Earthquake-related 1) East NNP JJ NNS NNPS RB East-West NNP J) Eastern NNP JJ Easterners NNS Easy J) Eavesdropping NN Echoing VBG Economic NNP 3) Economics NNP Economists NNS
+NIP Economy NNP NN Edge NN Edison NNP NN Editorials NNS Edmonston-Zagreb 3) NP Education NNP NN Educators NNP NNS Edwards NNP Effect NN Efforts NNS Egg NNP NN Egg-industry
+NN Eggers NNP Egyptian JJ Ehlers-Danlos J) NNP Eight CD Eight-foot-tall JJ Eight-year NN Eighteen CD Eighty-eight CD Eighty-five CD Eighty-four CD Eighty-nine CD Eighty-seven CD
+Eighty-three CD Either CC DT NNP Elaborating VBG Elders NNP NNPS Elected VBN Election NNP NN Elections NNS Electrical JJ NNP Electro-Optics NNP Electronic NNP JJ Electronics NNP NNPS
+Eleven CD Elias NNP Eliminate VB Eliminating VBG Else RB Elsewhere RB Embittered J) Emboldened VBN Embryo NN Emergency NNP NN Emerging VBG Emery-Dreifuss J] NNP Emirates NNPS
+NNP Emmons NNP Empire NN NNP Employee NNP NN Employee-benefit 3) Employees NNS NNP NNPS Employers NNS Employment NNP NN Empty JJ Encourage VB Encouraged JJ
+Encouragement NN End NN NNP VB End-Stage JJ NNP End-stage NN VB VEP Ending VBG Endless 3) Endothelium-dependent J) Ends NNS NNPS VBZ Energetic 3) Energy NNP NN Enforcement
+NNP NN Enforcers NNS Engineers NNPS NNP NNS English NNP JJ NNS English-language 3) NN English-speaking J) Enhancements NNP Enormous 3) Enough J) Enter VB Enterprise NN NNP NNPS
+Enterprises NNPS NNP Entertainment NNP NN Enthusiasts NNS Entrepreneurs NNS Environmental NNP JJ Environmentalists NNPS NNS Enzyme-linked JJ Epps NNP Epstein-Barr J) NNP
+Epstein-Barr-virus NN Epstein-Barr-virus-associated J) Epstein-Barr-virus-induced J) Epstein-Barr-virus-infected J) Epstein-Barr-virus-specific J) Equally RB Equipment NNP NN Equipped VEN
+Equitec NNP NN Equities NNS Era NNP NN Erbamont NNP NN Erdolversorgungs NNP Erdos NNP Erithmatic NN Eritrean J Escorts NNS Especially RB Essentially RB Esso NNP NN Establish VB
+Estates NNP Estimated VBN JJ E: ist NN Ethics NNP Ethiopia NNP NN Ethiopian JJ Eurobonds NNS Eurodebentures NNS Eurodollar J) NN Euroissues NNS Euronotes
+NNS Europa NNP NN European 13 NNP European-American 3J NNP European-minded 3) Europeans NNPS NNS Evaluating VBG Evaluations NNS Evans NNP Even RB JJ Event NN NNP Event-free JJ
+Events NNS Eventually RB Ever RB Every DT Everybody NN Everyone NN Everything NN NNP Everytime RB Everywhere RB Evidence NN Evidence-Based JJ NNP Evidence-based J) Evidently RB
+Exact J) Exactly RB Examiners NNS Examples NNS Except IN Excerpts NNS Exchange NNP NN Ex: n NN Excluded VBN Excluding VBG NNP Exclusive JJ Execu
+Exercise-induced J) Exhausted JJ Exhibit NN Exit NN Expansion NN Expect VB Expects NNS Expenses NNS Experience NN Experiments NNS Experts NNS Explains VBZ Exploration NNP NN
+Explosions NNS Export NNP NN Exports NNS Extensions NNS Extraordinary JJ Exxon NNP NN Exxon-owned 3) F NN NNP F-14 NN F-15 NN NNP F-16 NNP NN CD F-18 NN F-18s NNS F-cells NNS
+F-reticulocyte JJ F16s NNS FAILED VBD FAKE JJ FALL NN FAMILY NN FAN NN FAR RB FARM NN FARMERS NNS FAST-FOOD NN FDA-approved J) FEDERAL NNP J) FELLED VBD FEWER JR FFr SYM
+FG-repeated J) FG-single J) FINANCES NNS FIRM NN NNP FIRMS NNS FIVE CD FLIGHT NN FOES NNS FOR IN FORCE VBP FOREIGN JJ NNP FORMER 3) FOX NN FREED VBD FRINGE-BENEFIT 3)
+FROG-7B NN FUNDS NNS NNP NNPS F\/A-18 NN Fabric NN Fabrics NNP Face-to-face JJ Faced VBN Facilities NNPS NNP Facility-specific J) Factories NNS Factoring NN Factory NN NNP Fails VBZ
+Failure NN Fair NNP NN Fairfax NNP NN Falcon NNP NN Fall NN Falls NNP NNPS False-negative J Family-based J) Fans NNS Far NNP JJ RB Fares NNS Farm NNP NN Farm-machine NN Farmers
+NNP NNPS NNS Fashion NNP NN Fast-food NN Fatah NNP NN Fathers NNS Favored 33 Fax NN Fc-receptor NN Fc-receptor-mediated J) Fc-rosette NN Fear NN February-March J) NP Fedders NNP
+Federal NNP J) Feders NNP Feelings NNS Fees NNS Feltes NNP Feud NN Few 3) Fewer JJR Field NNP NN Fields NNP NNPS Fifteen CD Fifteen-year NN Fifth NNP JJ Fifty-eight CD Fifty-five CD
+-four CD Fifty-nine CD Fifty-seven CD Fifty-three CD Fight VB Fighting NN NNP Figure NN NNP Figures NNS Figuring VBG 0 NNP 33 1s NPS NNS Filmworks NNP Filtered VEN
+syn JJ Final 33 NNP Final-hour 39 \e-needle NN Fines NNP Fingers NP
+Finks NNP Finland NNP NN Finnish 33 Fire NNP NN Firearm-related JJ Firm NN 3) Firms NNS NNP First NNP JJ RB LS First-round JJ First-section J) First-trimester NN First-year NN Fiscal J) NN
+cal-year JJ Fish NN Fittingly RB Fitzsimmons NNP Fitz /e CD Five-City J) NNP Five-year NN Fla.-based JJ Flags NNS Flakes NNPS NNP Flanked VBN Flats NNP Flaws NNS Flemish
+3) Flesch-Kincaid 33 NNP Flesh NN Flexible JJ Flick NN Flight NNP NN Floating JJ VBG Floodlights NNP Floor NN NNP Flowers NNPS NNS Flush 3J Fly VB Foggs NNP Folgers NNP Folks NNS Follow
+VB Follow-Up JJ NNP Follow-up JJ Following VBG Food NNP NN Food-borne 3) Foods NNPS NNP Football NNP NN For IN For-profit NN VB VBP Forbes NNP Forecasting NN Forecasts NNS
+Foreclosed VBN Foreclosures NNS Foreign NNP 1) Foreign-exchange NN Foreigners NNS Foremost RB Foresight NN Forest-products NS Forget VB Form NN Formally RB Formed VEN Former
+NNP 33 Formerly RB Fortunately RB Forty-eight CD Forty-five CD Forty-four CD Forty-nine CD Forty-seven CD Forty-three CD Founded VBN Founders NNP NNS Founding VBG Four CD NNP
+Four-fifths NNS Four-year NN Fourth JJ Francaises NNP Frances NNP Franciscan JJ Franciscans NNP NNS Francisco-area J) NNP Francisco-based JJ Frankfurt NNP NN Frankly RB NNP Free NNP 3
+RB Freed NNP VBN Freedom NNP NN Freeze NN Freight NN NNP Freightways NNP NNPS French JJ NNP NNPS NNS French-franc NN French-language NN French-made JJ French-modeled 33 Freon
+NN Frequent JJ Frequently RB Freres NNP Freshman NN Friday-the-13th JJ NN Fridays NNS NNP NNPS Friedrichs NNP Friends NNPS NNS Fries NNP From IN Frontieres FW Fuel NN Fueling VEG
+Fuentes NNP Fuji NNP NNS Fuji-apple JJ Fujis NNPS Fukuyama-type NN Full-length NN Full-time J Fully RB Fund NP NN Funded VBN Funds NNS NNPS NNP Funny NNP JJ Furs NNP Further RB
+3) Furthermore RB Fury NN Future 3J NNP Futures NNPS NNS NNP G-2 NN G-7 NNP NN G-rated 3) GABA-ergic J) GBV-C-negative J) GBV-C-positive 1) GERMANS NNS GET VB GH-binding J
+GH-deficient J) GH-receptor NN GH-releasing J GIVE VBP GLITTER NN GM-Jaguar J) GM-Toyota J) GME-related J) GNP NNP NN GOLF NN GPI-anchored 3] GRAINS NNS NNPS GREAT J) GROWTH
+NN Gaelic 3) Gain NN NNP Gaines NNP Gains NNS Galles NNP Game NNP NN Ganes NNP Gardens NNPS NNP Gargantuan JJ Garish JJ Garpian JJ Gartner NNP JJR Gas NNP NN Gases NNS
+Gasoline NN Gate NNP NN Gates NNP Gatos NNP Gauloises NNP Geeks NNPS NNS GenProbe NN Gene-Spliced 3) Genentech NNP NN General NNP JJ Generales NNP Generalizations NNS
+Generally RB Genetic NNP J) Genetic-linkage JJ Genetics NNP Geneva-based JJ Genius NN Gentility NN Georgian JJ Germ-line NN VB VBP German 33 NNP German-built 1) German-language NN
+German-made J) Germans NNPS NNS NNP Germany-based JJ Gerstmann-Straussler JJ NNP Get VB Gets VBZ Getting VBG Ghostbusters NNP NNS Gi-proteins NNS Giant NNP JJ NN Giants NP
+NNPS NNS Gibbons NNP Giddings NNP Giemsa-stained J) Giles NNP Gillers NNP Gilts NS Gingerly RB Gitanes NNP Give VB Giveaways NNS Given VBN Givens NNP Gives VBZ Gla-protein NN
+Glamorous 3) Glasnost FW Glass NNP NN Glassworks NNP Global NNP JJ Glossy J) Gnu-Emacs NNP Go VB NNP Goes NNP VBZ Going VBG Gold NNP NN Golden NNP 3) Goliaths NNPS NNS Gone
+VBN Good JJ NNP Good-bye NN Goods NNP Goodyear NNP VBP Gorillas NNP Got NNP VBD Gouldoid 3 Govern VB Government NNP NN Governments NNS Governors NNP NNS Grace NNP NN
+Grads NNS Gradually RB Graduate NNP NN Graduate-student NN Graduates NNS Graft-versus-host NN VB Grain NN Grains NNS Gram-negative J) Gram-positive J) Gram-stained 33
+Gramm-Rudman-Hollings NNP Granges NNP NNS Granulocyte-macrophage JJ Graphics NNP NNPS NNS Gray-scale NN VB Grease NN Great NNP J) Greedily RB Greek 3) NNP Green NNP NN
+Greens NNP NNS Greenshields NNP Grievances NNP Grimes NNP Grimm NNP NN Grinned VBD Gross NNP 33 Ground NNP NN Groups NNS Growth NN NNP Growth-hormone NN Guarantee NN
+NNP Guaranteed VBN J) Guber-Peters NNP NNS Guber\/Peters NNP Guests NNS Guidelines NNS Guillain-Barre J) NNP Guinea-Bissau 3J NNP Gujarat NN NNP Guns NNS Guys NNS H NNP NN
+H--specific 3) H-pylori-positive JJ H. NNP NN H.D.L.-cholesterol NN H.pylori-positive J H1-receptor NN H2-antagonists NNS H2-blocker NN H2-receptor NN HAPE-susceptible J) HAS VBZ
+HBV-DNA-positive JJ HBV-associated 1] HBV-induced J) HBV-infected 3) HBV-related J) HBV-specific 1) HBeAg-negative J HBeAg-positive 3) HBsAg-negative J) HBsAg-positive J) HCFCs NNS
+HCV-antibody NN HCV-associated J) HCV-infected J HCV-negative JJ HCV-positive J) HCV-related J) HCV-seronegative J) HCV-specific 3) HCV-uninfected J HDL-cholesterol NN HDTV NN NNP
+HDTV-screen J) HDTVs NNS HE PRP HEALTH NN NNP HEALTH-CARE NN HEARS VBZ HEAVY JJ HER2-positive 3) HERE RB HFE-associated J) HGV-positive J) HHV-8-seropositive J) HIRING NN HIS
+PRP$ HIV-1-associated J) HIV-1-free JJ HIV-1-infected JJ HIV-1-infection NN HIV-1-negative JJ HIV-1-positive J HIV-1-related J) HIV-1-seronegative J) HIV-1-seropositive J) HIV-1-specific 33
+HIV-1-suppressive JJ HIV-1-uninfected J) HIV-2-infected 3) HIV-2-positive J) HIV-antibody NN HIV-associated J) HIV-attributable J} HIV-discordant J) HIV-exposed JJ HIV-induced 3
+HIV-infected J) HIV-infection NN HIV-negative J) HIV-positive J) HIV-prevention NN HIV-preventive J) HIV-protease JJ HIV-related JJ HIV-seronegative J HIV-seropositive JJ HIV-specific 33
+HIV-testing J) HIV-uninfected J) HIV/AIDS-related 3) HK$ $ HLA-A2-positive J] HLA-B27-associated J) HLA-B27-restricted JJ HLA-D-identical 33 HLA-DR-mismatched J) HLA-DR-posi
+HLA-antigen NN HLA-associated JJ HLA-compatible JJ HLA-haploidentical 3) HLA-identical JJ HLA-linked J HLA-matched J HLA-matching J) HLA-mismatched JJ HLA-non-identical 33
+HLA-restricted J HLA-typed J] HNPCC-associated 3] HOBBY NN HOLD VB HOLIDAY NN NNP HOME-SALE J] HOPES NNS HOT JJ NNP HPV-16-related J) HPV-18-associated 3) HPV-infected 39
+HPV-negative 1) HPV-positive J HPV-type NN HSV-2-seronegative J) HSV-2-seropositive J) HSV-2-specific J) HSV-seronegative J} HSV1-negative J) HTLV-I-specific 1) HTLV-III-specific 33
+HTLV-associated 1] HTLV-infected 3] HUNTING NN HUSBANDS NNS Haas NNP Had VBD Hageman-factor NN VB Haines NNP Half NN Half-year 3) Hallervorden-Spatz J) NNP Halls NNP Hambros
+NNP Hammacks NNP NNPS Hand-holding NN Hans NNP Hantaan-like J) Haole FW Happened VBD Happy JJ Hard NNP RB Hard-hitting 3) Hardly RB Harkins NNP Harms NNP Harrisburg NN NNP
+Hart-Scott-Rodino NNP JJ Has VBZ Haskins NNP Haste NN Hastings NNP Have VBP NNP VB Having VBG Hawaiian J) Hawaiian\/Japanese JJ Hawkins NNP Hawthorne NN Hayes NNP Hays NNP He
+PRP Headed VBN Health-care J Health-insurance NN Health-related 3) Healthy JJ Heard VBN NNP Hearing VBG Hearings NNS Heart-rate NN VB VBP Heating NN VBG Heavy NNP J) Hedges NNP
+Hees NNP Heightened J) Heights NNP Heimers NNP Helionetics NNP Hello UH Hells NNP Help NN VB Helped VBN Helps VBZ Hemoccult-negative J) Hemoccult-positive JJ Hence RB Henley NN
+Henoch-Schonlein JJ NNP Hens NNS Heparin-induced J) Her PRP$ Hercules NP Here RB Hermansky-Pudlak JJ NNP Hers JJ Hfe-knockout NN Hicks NNP Higgins NNP High NNP 33 High-Mono 33
+NNP High-Sat JJ NNP High-density NN High-density-lipoprotein NN High-dose NN High-end JJ High-grade 33 High-performance NN High-resolution NN High-risk NN VB VBP High-yield J) Higher
+JOR NNP Higher-income JJR Highlights NNS Highway NNP NN Highways NNS Hills NNP NNPS Him PRP Himself PRP Hines NNP Hippel-Lindau JJ NNP Hired VBN His PRP$ His-bundle JJ
+His-ventricular JJ Hispanic J) NNP History NN Hit VBN VBP Hodges NNP Hodgkin-disease NN Hoe VB Hogs NNS Hold VB VBP Holders NNS Holding NNP VBG Holdings NP NNPS NNS Hollings NP
+Holmes NNP Holt-Oram 3) NNP Holter-monitoring J) Home NNP NN HomeFed NNP VBN Homeless J Homerun NN Homes NNP NNPS Homo NN Homosexuals NNS Honda NNP NN Honduran JJ
+Hondurans NNS Honduras NNP NNS Honolulu-Asia 3) NNP Hooks NNP Hoping VBG Hopkins NNP Horizons NNP Hormats NNP Horses NNS Hoses NS Hosmer-Lemeshow JJ NNP Hospital NNP NN
+Hospital-acquired 33 Hospital-based 3) Hospitals NNS NNPS Hostile JJ Hot NNP 3) Hotel NNP NN Hotel-casino NN Hotels NNPS NNP House NNP NN House-Senate NNP 3} House-passed J) Housing
+NNP NN Housings NNS Houston NNP JJ Houston-based J) How WRB Howard NNP RP However RB WRB Hudson NNP NN Huge 3J Hugely RB Huggins NNP Hughes NNP Hulings NNP Human NNP JJ
+Humphreys NNP Humphries NNP Hundreds NNS NNP Hungarian JJ NNP Hungary NNP JJ Hungerfords NNP Hurricane NNP NN Hurts VBZ Hyde-to-Jekyll J Hypotheekkas NNP I PRP NN NNP CD
+T'm-coming-down-your-throat JJ 1-880 NNP NN I-converting JJ I. NNP NN IBC\/Donoghue NN NNP IBM-compatible 3) IBM-oriented J) ICA-negative JJ ICA-positive J) ICAb-positive 33
+ICSA-positive JJ ICU-acquired 3) IF IN IGF-binding 3) IGIV-maltose J) II-receptor NN II-restricted J) III/lymphadenopathy-associated J) IL-2-receptor NN IL-4 NN IMF-approved 3) IMF-guided 39
+IMG-dependent JJ IN IN INDUSTRIES NNP NNPS INTENSIVE JJ INTERBANK NNP 3) NN RB INTEREST NN IOUs NNS IPO NN IPOs NNS IRAs NNS NNPS IS VBZ ISSUES NNS IT PRP IUD-associated
+3) IUD-related JJ IVD-related 33 Id NN Idaho-based 3) Ideal NNP NN Ideally RB Ideas NNS Ideologues NNS Idle JJ If IN IgA-deficient JJ IgE-mediated J) IgG-capture VB IgG-class NN IgG-coated
+3) IgG-induced 3) 1gG-mediated 3) IgG-sensitized 3) IgM-negative J) Igaras NNP Ignore VB Image NN Imagine VB Immediately RB Impact NN Imperial NNP JJ Impetus NN Import NN Imports
+NNS NNP Impose VB Impressionist JJ Imprisoned VBN Improved 3] Improving NN VBG In IN NNP RB RBR In-Training 3) NNP In-depth NN In-hospital NN In-vitro NN Inc. NNP NN Included VBN
+Indudes VBZ Including VBG NNP Income NNP NN Increase VB Increases NNS Increasing VBG Increasingly RB Incrementally RB Indeed RB UH Indentical J) Independent NNP JJ Index NNP NN
+Index-arbitrage NN Indexed J) Indexes NNS Indexing NN Indian JJ NNP Indian-Alaska JJ NNP Indian-summer J) Indianapolis-based J Indies NNP Indirect 33 Indium-111-labelled J) Individual
+NNP 33 NN Individuals NNS Indo-Mediterranean JJ NNP Indomethacin-induced JJ Indonesian 3) Industrial NNP JJ Industrials NNP NNPS Industries NNPS NNP NNS Industry NNP NN Industrywide
+RB Inexplicably RB Infection-control JJ Inflation NN Inflation-adjusted VBN Influential JJ Information NNP NN Infrared 3J Ingalls NNP Initial 33 Initially RB Inject VB Inland NNP RB Inner 3) NNP
+Innocent JJ Innovative JJ Inside IN NNP Insiders NNS Insitutional 10 Insofar RB Installation NN Instead RB Institute-designated JJ Institute-sponsored JJ Institutes NNPS NNP Institutional 3] NNP
+Institutions NNS NNP NNPS Instruments NNPS NNP Insulin-like 3) Insurance NNP NN Insureres NNS Insurers NNS NNP Intelligence NNP NN Intense JJ Intent NN Intent-to-treat VB VBP NN
+Intention-to-treat VB VBP NN Inter-rater NN Interactive NNP JJ Intercepting VG Interest NN NNP Interestingly RB Interior NNP JJ Interleukin-3 NN Intemational NNP JJ Internet NN NNP
+Intemet-based 3) Interstate NNP NN Intervention NN Interview-Based J) NNP Interviews NNS Intra-European 1) Intra-abdominal JJ Intra-amniotic JJ Intra-arterial JJ Intra-articular J) Introduced
+VBN Introducing VBG Invariably RB Inventories NNS Investigation NNP NN Investigators NNS Investing VBG Investment NNP NN Investment-grade JJ Investments NNP NNPS Investor NNP NN
+Investors NNS NNPS NNP Involved VEN Iranian JJ NNP Iraqi JJ Irises NNS Irish 3) NNP Irish-Soviet J) Ironically RB Is VBZ NNP Isabella NNP NN Islamic NNP JJ Islands NNP NNPS Islet-cell NN
+Israeli J) NNP Israeli-Palestinian JJ Israeli-occupied 1) Israeli\/Palestinian 3) Israelis NNPS Issuance NN Issues NNS NNP NNPS Issuing NN It PRP NNP Italian JJ NNP Italian-American 33
+Italian-led J) Italianate 3) Items NNS Its PRP$ J&L NN J'ai FW J-shaped J) JAILED VBN JAPANESE JJ JAUNTS NNS JEV-negative J) JOIN VB JUDGE NN JURY NN JUST RB Jackals NNS Jackets NNS
+Jacobs NNP Jacques NNP Jacuzzi NN Jaguar NNP NN Jail NN Jake NNP NN Jakes NNP Jamaican JJ James NNP Jan. NNP VB January-July J NNP January-June JJ Japanese JJ NNPS NNP NNS NN
+VBP Japanese-American J) NNP Japanese-Americans NNPS NNS Japanese-made J) Japanese-owned J) Japanese-style 3) Japanese-supplied J) Jarisch-Herxheimer J) NNP Jazz NN Jean-Jacques
+NNP Jeep NN NNP Jefferies NNP Jenkins NNP Jenks NNP Jergens NNP Jerritts NNP Jersey-based J) Jets NNS Jeux FW Jewelers NNPS NNP Jewelry NN Jewish J) NNP Jews NNPS NNS Jittery J3
+Jobs NNP Johns NNP Johnson-era NN Joining VBG Joint-research JJ Jolas NNP Jolly JJ Jolt VB Jonas NNP Jones NNP Journal NNP NN Journalism NNP NN Journalists NNPS NNS Jovian JJ Judge
+NNP VB Judges NNP NNPS Judging VBG Juice NN Juilliard NNP NN Jukes NNP Jules NNP Jumping VBG June-July 33 NNP Junior NN NNP Junk NN Junk-Bond NN Junk-bond NN Junk-holders NNS
+Junk-portfolio NN Junkins NNP Jupiter-bound 33 Jurisprudence NN Jurors NNP Just RB Justice NNP NN Justices NNPS NNP K NNP NN K-dependent JJ KC-10 NN KHAD\VWAD NN
+Kaiser-Permanente JJ NNP Kan.-based 3) Kangaroo NN NNP Kansas NNP Kaplan-Meier 3J NP Karches NNP Karns NNP Karos NNP Kashin-Beck JJ NNP Keams-Sayre JJ NNP Keep VB Keeping VBG
+Kell-negative 3) Kell-positive J) Kellogg NNP NN Key NNP 33 Keynes NNP Keynesian JJ Keystone NNP NN Kid NNP NN Kids NNP NNS Kindertotenlieder FW King NNP NN Kingdom-based JJ Kissing
+VBG Kitchen NN Kloves NNP Knee NN Knowing VBG Knowledgeable 3) Known VEN Kodak NNP NN Kong-based J) Kong-dollar NN Koppers NNP Korean J) NP Korps NNP Koskotas NNP Krebs NNP
+Kruskal-Wallis J} NNP Kuhns NNP L-3-hydroxybutyrate JJ L-5-hydroxytryptophan JJ L-alanine J) L-argi \e J) L-cysteine JJ L- methionine J) L-phenylalanine 3) L-rhamnose JJ
+L-selectin NN L-shaped JJ L-thyroxine JJ L-tryptophan J) L-tryptophan-containing JJ L-tyrosine 33 L.D.L.-cholesterol NN L.P. NNP NN LABOR NN LATE JJ RB LAW NN NNP LAWMAKERS NNS
+LAWYERS NNP NNS LBO NNP NN LBOs NNS NNP LCME-accredited JJ LDL-apolipoprotein NN LDL-cholesterol NN LDL-lowering 33 LDL-lowering-antioxidant NN LDL-receptor NN LEADERS NNS.
+LEBANESE 3) LES-relaxing J) LHRH-agonist NN LIES VBZ LIMITED JJ NNP LONG-TERM JJ LOSSES NNS LOW RB LPF-toxoid NN LS-acetate J LVM-to-height NN La NNP FW Labeling VBG Labor
+NNP NN Laboratories NNPS NNP Laboring VBG Lack NN NNP Lackluster JJ Lag NN Lakes NNP NNPS Lambert-Eaton JJ NNP Lamos NNP Land NNP NN VBP Landfill NN NNP Langerhans'-cell NN
+Langerhans-cell NN Lantos NNP Laptops NNS Large JJ Large-scale NN VB Largely RB Larger-scale NN VB Laron-type NN Lassa-virus NN Last JJ Late RB JJ NNP Late-onset NN Later RB RBR
+Latest JS Latin NNP 3) NNPS Latin-American JJ NNP Latvian J) Lavaro NN Law NNP NN Law-enforcement 33 Lawful JJ Lawmakers NNS NNPS Lawsuits NN NNS Lawyers NNS NNP NNPS Lead JJ
+
+9 VBG JJ NNP Leads VBZ League-sponsored JJ Lean NNP VB Leaping VBG Learning NNP VBG Least-cost JJ Leave VB Leaving VBG Lebanese J) Led VBN Leery JJ Lees NNP Left NNP VBN
+VBD Left-ventricular JJ Leftist 3) Legal NNP 3) Legionella-like J) Legislating VBG Legislation NN Legislators NNS Legitimate JJ Leisure NN NNP Lemans NNP Lend VB Lenders NNS Lennox-Gastaut
+30 NNP Lens NNP Lentjes NNP Leonard NNP NN Lesch-Nyhan JJ NNP Less NNP RBR Lesson NN Let VB VBD Letting VBG Leverage NN Leveraged J) VBN Lewy-body NN Lexis-Nexis J) NNP
+
+-cell NN Li-Fraumer NNPS NNP Libyan 3) Lids NNS NNP NN Life-table NN Life-threatening J) LifeSavers
+NNPS NNP Light NNP NN Lights NNP NNS Like IN Likely JJ RB Likewise RB Likins NNP Lilly NNP RB Limit NN NNP Limited NNP 3) Limiting VBG Lincoln NNP NN Line NNP NN Lines NNPS NNP NNS
+ger NNP VB Link NN VBP Links NNP Lipid-Lowering 3) NNP Lipid-lowering JJ Lippens NNP Lipps NNP Liquidity NN List NN Listen VB Listeners NNS Literally RB Litigation NNP NN Little NNP JJ
+RB Live J) NNP VB Liver-biopsy NN VBP VB Liver-function NN VBP VB Lives NNS VBZ Livestock NN Living VBG Lloyd NNP NN Lloyds NNP Load NN Loan NNP NN Loans NNS Loathing NN Lobbyist
+NN Local NNP JJ Locally RB Located VEN Loews NNP Log-linear 33 Logic NN NNP Logistic-regression NN Logistics NNP Lomas NNP London NNP 3) London-based JJ Long NNP JJ RB Long-Term 33
+NNP Long-term JJ Longer JJR Longer-term NN Look VB Looking VBG Lorillard NNP NN Loss NN Losses NNS Lost VBD Lot NN Lotos NNP Loud 3) Louis-based JJ Loves NNP VBZ Low-Fat 3] NNP
+Low-density NN Low-density-lipoprotein NN Low-dose NN Low-grade NN Low-level 3) Low-molecular-weight NN VB Lower JJR NNP Lowndes NNP Loyalty NN Lucas NNP Lucky JJ Lucullan 33
+Luehrs NNP Lukes-Collins 33 NNP Lung-cancer NN Lure VBP Lux FW Luxembourg-based JJ Luxurious JJ Luxury NN Lymph-node JJ Lynes NNP Lyneses NNP Lyons NNP Lyrics NNS M$ $ M&A NNP
+NN M-types NNS M.I.T-trained 3) M.avium-intracellulare J] M2 CD MAKE VB MAKING VBG MANAGER NN MANEUVERS NNS MANUALS NNS MANY 3] MARKET NN NNP MAY MD MD-80 NN
+MDA-modified J MEASURES--In-hospital NN MEASURES--Self-reported J) MEATS NNPS MEMOS NNS MERGER NN MET-hours NNS METALS NNS NNPS MGM\/UA NNP NN MH-60K NN MHC-linked
+3) MIDDLEMAN NN MIG-1 3) MILEAGE NN MINOR JJ MINORITY NN MIPs NNS MONEY NN NNP MONITORED VBD MORE JJR RB MOVED VBD MOVES VBZ MPTP-induced JJ MRI-type 3) MUNICIPALS
+NNS MURDER NN MUTUAL 33 MX-missile NN Machine NN NNP Machines NNPS NNP Machinists NNS NNPS NNP Mad 3) Made VBN NNP Magazine NNP NN Magazines NNS Magnetic 3) Magnolias
+NNS Mail-order NN Mainland 3) Mainly RB Major NNP JJ Major-histocompatibility-complex JJ Make VB VBP NNP Making VBG Malay-based 3) Malays NNP Malaysia NNP NN Malaysian JJ
+Malaysian-based J) Malcolm NNP NN Male 33 NN Mallory-Weiss JJ NNP Maltese J Man NN NNP Managed VBN Management NNP NN Managers NNS NNPS NNP Managing VBG NNP Mancuso NP
+NN Manges NNP Manila-based 3) Mann-Whitney J3 NNP Mantel-Cox 33 NNP Mantel-Haenszel JJ NNP Manufacturers NNP NNPS NNS Many JJ DT PDT RB March-July JJ NNP Marcos NNP Margin NN
+Marginal J) Margins NNS Marine NNP NN Market NNP NN Market-if-touched J) Marketers NNS NNPS Marketing NNP NN Markets NNP NNPS NNS Marks NNP NNS Maroteaux-Lamy JJ NNP Married
+3) Mars NNP Marxist 3J Marxist-dominated JJ Maryland NNP NN Mass.-based JJ Massachusetts NNP Massage NN NNP Massive JJ Materials NNPS NNS Matemal-Fetal 3) NNP Matters NNS
+Matthews NNP Maturities NNS Maturity-onset NN May NNP MD Mayan 33 Maybe RB Mayhap RB McCaw NNP NN McClements NNP McDonald NNP NN VB McGwire NNP NN McInnes NNP McNally
+NNP RB McVities NNP Me PRP Mead NNP NN Mean VB Means NNP NNPS NNS VBZ Meantime RB Meanwhile RB Measure NN Measures NNS Measuring NN Meat NN Meats NNS Mecaniques NNP
+Mechanized 3) Medi-Cal JJ NNP Median 33 Medicaid-certified 3) Medicaid-covered 3) Medicaid~ insured 33 Medical NNP JJ Medical-supply 1] Medical-surgical 3) Medicare-entitled
+3] Medicine NNP NN Medicines NNP Medicis NNPS Medieval 3) Mediterranean-diet NN Mediterranean-inspired 3) Mediterranean-style NN Meet NNP VB Meeting VBG Mega J) Mega-hits NNS
+Mehrens NNP Meinders NNP Members NNS NNP Membership NN NNP Memories NNP NNPS Memory NN Men NNP NN NNS Mendes NNP Mercedes NNP NNPS NNS Mercedes-Benzes NNS Merchant
+NN Merchants NNP Merck NNP NN Meredith NNP NN Merger NN NNP Mergers NNP NNPS Merrill NNP NN Mess NN Messrs. NNP NNPS NNS NN Meta-Analysis 3) NNP Meta-analyses NNS.
+Meta-analysis NN Meta-regression NN Metal NNP NN Metallgeselischaft NN NNP Metals NNP NNPS NNS Metamorphosis NN Methicillin-resistant JJ Mexican J) NNP Mexican-American 3] NNP
+Mexican-Americans 33 NNP Mexican-style NN Mexicanos NNP Meyers NNP MiG-23BN NN MiG-29s NNS Miami-based 33 Mice NNS Mich.-based JJ Michigan NNP J) Micral-Test 3) NNP Micronite NN
+Microsystems NNPS NNP Mid-sized J) Middle NNP NN Middle-aged J) Mideast 1) NNP Midmorning NN Midwest NNP NN 33S 3) Midwestern JJ NN NNP Miklos NNP Milan-based J) Mild-to-moderate
+les NNP Military NNP JJ Milk NN Milligan-Morgan JJ NNP Million-dollar 3) Millions NNS Mills NNP NNPS Milos NNP Milpitas NNP Milwaukee-based J) Mind VB
+isters NNP Minitruck NN Minneapolis NNP NNS Minneapolis-St 3) NNP Minneapolis-based J) Minority NNP NN Minutes NNP NNPS Mips NNP Misanthrope NN Misery
+les NNP Misunderstanding VBG Mitsubishi NNP NNS Mitsui NNP NNS Mixtec JJ Mo.-based J) Mob NN Moffitt-Long JJ NNP Mohandas NNP Moines NNP Moises NNP Monday-moming 33
+Mondays NNP NNPS NNS Money NNP NN Money-fund NN Money-market NN Monopolies NNP NNPS Monster NN Montedision NN Montedison NNP NN Montgomery-Asberg J NNP Months NNS
+Montreal-based 3) Mood-Promoting J) NNP Moody NNP JJ NN Moon NNP NN Moonie NN More JJR RBR More-detailed JJR Moreover RB Morever RB Morning NN Mortgage NNP NN
+Mortgage-Backed 3] NNP Moscow-Shannon 1] Moscow-based JJ Moslems NNPS NNS Most JJS RBS Mostly RB Mother-to-infant J) Mothers NNP NNS Motors NNPS NNP Mourning VBG Moves NNS
+Much RB 33 Mueller-Hinton JJ NNP Mullins NNP Multivariable-adjusted 3) Multivariate-adjusted JJ Muni J) Munich-based J) Municipal 33 NNP Municipals NNS Murder NN Muscovites NNS Music NNP
+NN Musical JJ Must MD Mutual JJ NNP Muzzling J) My PRP$ NNP Myers NNP N'T RB N-acetyl-beta-D-glucosaminidase JJ N-acetyl-beta-glucosaminidase JJ N-acetylcysteine 0)
+N-acetylprocainamide JJ N-acetyltransferase J) N-diethyl-m-toluamide J) N-methyl-D-aspartate JJ N-methyl-thio-tetrazole JJ N-nitrosamine NN N-nitroso-compound JJ N-oxide NN N-substituted
+3) N-telopeptide 3) N-telopeptides NNS N-terminal NN N.J.-based J) N.M.-based JJ N.V NNP NN N.Y.-based JJ NATION'S NN NCI-sponsored J) NEATNESS NN NEW J) NNP NN NEWS NN NNP
+NEWSPAPERS NNPS NG-monomethyl-L-arginine JJ NO DT RB UH NORTHEAST NN NOT-GUILTY JJ NOTE VB NOTES NNS NOW RB NNP NSAID-associated J) NSAID-induced J) NSAID-related 33
+NUCLEAR NN NUMBER NN NURSING NN NZ$ $ Nagymaros NNP Nahas NNP Nal-Glu 3) NNP Name NN Name-dropping NN Named VBN Names NNS NNPS Namibian J) Naples NNP Narcotics NNP
+Narrowing VBG Nasty JJ National NNP 33 Nationalist J) Nations NNPS NNP Nationwide NNP 3) Natural NNP 33 Naturally RB Nature NNP NN Nautilus 3) Nazi 3J Nazi-occupied 3) Nazis NNPS NNS
+Neanderthal J3 Neanderthals NNS Near IN Nearby J) RB Nearly RB Neas NNP Needless J) Needs NNS Negas NNP Negative 3) Negotiable JJ Negotiations NNS Negotiators NNS Neinas NNP Neither
+DTCC IN Nekoosa NNP NN Nerds NNS NNPS Net 3) NN Netherlands NNP NNPS Network-access JJ Networks NNPS NNP NNS Never RB NNP Nevertheless RB New NNP JJ NNPS New-onset NN
+Newly RB News NNP NN NNS Newspaper NNP NN Newspapers NNP NNS Newsprint NN Newsstands NNS Next JJ NNP RB IN Nicaraguan JJ NNP Niche-itis NN Nicholas NNP NNS Nichols NNP
+Nicolas NNP Niemann-Pick 3J NNP Niles NNP Nine CD Nine-month 33 Ninety CD Ninety-eight CD Ninety-five CD Ninety-four CD Ninety-nine CD Ninety-seven CD Ninety-three CD Nipponese JJ
+Nissan NNP NN No DT RB UH NNP No. NN NNP JJ VB Nobody NN Nogales NNP Nomenklatura NN Nomination NN Nomura NNP NN Non-Hodgki D
+Non-executive JJ Non-insulin-dependent J) Non-interest JJ Non-invasive JJ Non-pharmacological JJ Non-pregnant JJ Non-residential JJ Non-significant 33 Non-smoking NN Non-specific 33
+Non-steroidal 33 Non-surgical J None NN NNP Nonetheless RB Nonperformers NNS Nonperforming JJ VBG Nonsense NN Nope UH Nor CC Nord-Trondelag 33 NNP Noriega NNP NN Noriegan JJ
+Normally NNP RB Norms NNS North NNP JJ NNPS North-East JJ NNP Northeast NNP NN Northern NNP 33 Norwalk-like J) Norwegian 33 Nos. NNS Not RB Not-held JJ Notably RB Note VB NN Notes
+NNS NNP NNPS Nothing NN Noticias NNP Noting VBG Notwithstanding IN Nov. NNP NN VB November-December JJ NNP Now RB Nowhere RB Ns-protein NN Numerous 3J Nux NN Nuys NP
+O-rings NNS VBZ 06-methylguanine J) OC-associated J) ODDITIES NNS OF IN OFFERED VBN NNP OFFICIALS NNS OK JJ UH OKT3-treated J) OKT4-positive JJ ON RP ONCE RB ONE CD ONE-DAY
+3) ORDERED VBN OTC NNP NN OUSTED VBN OVERHAUL NN Oakes NNP Oakland NNP NN Oaks NNP NNPS Oats NNP Obedience NN Objections NNS Observers NNS Obviously RB Occasionally RB
+Occupational NNP J) Oct. NNP NN Octel NNP NN October-November JJ NNP Odd-year JJ Oddly RB Odds NNS NNPS Odyssey NN Of IN Off IN RP Offering NNP VBG Office NNP NN Office-based JJ
+Officers NNS Offices NNS Official NNP J) Officially RB Officials NNS NNP Offsetting VBG Often RB Oh UH Ohio-based JJ Ohio-chartered J) Oil NNP NN Oil-related 3) Cil-tool NN Oils NNS Okay UH
+Old NNP 3) Old-time 33 Older JR NNP Olds NNP Olympic NNP 33 Olympics NNPS NNP Omaha NNP NN On IN NNP On-Li ine NN VB VBP Once RB IN Once-daily 3) One CD PRP NN NNP
+One-year NN Onlookers NNS Only RB JJ Open-label NN VB VBP Opening NN Operating VBG NN NNP Operat nally RB Operations NNP NNPS FW 0}
+NNS Opposition NN Option NN NNP Options NNPS NNP NNS Or CC Orange NNP NN Order NNP NN Orders NNS Ordinaries NNP Ordinarily RB Oregon NNP NN Organization-International J) NNP
+Organizations NNP NNPS Oriental 33 Originally RB Orioles NNP Orkem NNP VB Orleans NNP Osler-positive J) Other J NNP Others NNS NNPS Otherwise RB Otros NNP Our PRP$ NNP Out IN RB
+NNP Outflows NNS Outlays NNS Outplacement NN Output NN Outside JJ IN Outstanding 33 Over IN NNP Overall RB JJ NNP Overbuilt 3) Overhead NN Overseas JJ NNP RB Owings NNP Owners
+NNS NNP Ownership NNP NN Owning VBG Ozone NN P NN P-fimbriae JJ P-glycoprotein NN P-selectin NN P.R. NN P/Q-type NN PACS NNS PACs NNPS NNS PAF-induced J] PANHANDLER NN
+PAPER NN NNP NNS PAPERS NNS PAPNET-assisted J) PARENT NN PAY NN VB PAYS VEZ PBC-specific J) PBG-deaminase J) PC NN NNP PC-magazine J) PC20-histamine J) PCBs NNS PCR-based J)
+PCR-negative 3) PCR-positive 3) PCs NS PEG-uricase J) PENALTY NN PENCILS NNS PERFORMANCE NN PERIOD NN PETS NNS PG-13 NN PHI-like 1) PHOTOGRAPH NN PI-based JJ PID-associated
+3) PILING VBG PLANS VBZ PLANTS NNS PLASTIC NN PLEA NN PORTING VBG POTABLES NNS PPD-positive 1] PRECIOUS 3) NNP PRICES NN NNS PRIME JJ NNP NN PRO FW PRODUCTS NNS
+PROFITS NNS PROGRAM NN PROPERTIES NNPS PROPERTY NN PROPOSAL NN PROPOSALS NNS PROSECUTOR NN PROSECUTORS NNS PROSPECTS NNS PS-like J) PSA-based 3) PUTS NNPS
+PVL-negative JJ PVL-positive 3) PWA-owned 3) PWC-related JJ Pachinko NN Pacific NNP JJ Packaged-goods NNS Packages NNS Packaging NN Pagones NNP Paid VBN PaineWebber NNP NN
+Pakistani J) Palestinian JJ NNP NN Palisades NNP Palmaz-Schatz J) NNP Palmtops NNS Pan-American J) Panama-based JJ Panamanian 3) NNP Panda NN NNP Panglossian JJ Panic NN
+Panton-Valentine JJ NNP Pantyhose NN Papa NN Papanicolaou-stained 3) Paper NNP NN Papermils NNP Papers NNP Pappas NNP Parallel J) Paramedics NNS Paramount-MCA JJ NNP Parenthood
+NNP NN Parents NNS NNP Paribas NNP Paris-based JJ Park NNP VB Parkinsonism-dementia NN Parks NNP NNPS Parkways NNP Parsons NNP Part NN NNP Participants NNS Particularly RB Parties
+NNS Partisans NNS Partly RB Partners NNPS NNP NNS Partnerships NNS Parts NNP NNS Party NNP NN Passenger NN Passport NN Patent NNP NN Patents NNP Patient-controlled 33
+Patient-reported JJ Patient-specific J) Patients NNPS NNS Patrician NN Patterns NNS Paxus NNP NN Pay NN NNP Payers NNS Paying VEG Payment NN Payments NNS Payout NN Payouts NNS
+Peace NN NNP Peanuts NNP Peasants NNPS NNP NNS Pedigrees NNS Peebles NNP Peeking VBG Peer-reviewed J) PegaSys NNP Pencils NNS Pending NNP VBG Penney NNP NN
+Pennsylvania-based JJ Pension NNP NN People NNS NNP NNPS Peoples NNPS NNP Pepsi NNP NNS Per IN Per-capita J) Per-share JJ Percentage NN Perches NNP Peres NNP Perestroika FW
+Performance NN NNP Performing VBG Perhaps RB Periodically RB Periods NNS Peripheral-blood NN Perkins NNP Perpetual JJ Pershare JJ Person-to-person NN Personal NNP 1) Personal-computer
+NN Personally RB Personnel NNP NNS Persuading VBG Peruvian J) Pestered VBN Peters NNP Petroleos NNP Petroleum NNP NN Petronas NNP Petty JJ NNP Peutz-Jeghers JJ NNP Ph-negative JJ
+Ph-positive JJ Phi-positive JJ Pharmaceuticals NNP NNPS NNS Pharmics NNP Phase NN Phelan NNP NN Phelps NNP PI -chromosome-positive JJ Philippine 33 NP
+Philippine-studies NN Philippines NNPS NNP Philips NNP Phillies NNP Phillips NNP NNS Phineas NNP Phipps NNP Phoenix-based J) Phosphates NNP Photographers NNP Photographic JJ Photonics
+ian-assisted J) Physicians NNPS NNP Physicians-American JJ NNP Physics NNP Pichia NN Pick VB Pickens NNP Pickin VBG Pictures NNP NNPS NNS Pieces NNP Piers NNP
+
+ino NN Pilot NN Pilots NNP NNPS NNS Piovra FW PipeLines NNP Piping

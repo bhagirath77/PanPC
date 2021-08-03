@@ -1,0 +1,45 @@
+Main article: Environmental geography is the branch of geography that describes the spatial aspects of interactions between humans and the natural world. It requires an understanding of the
+traditional aspects of physical and human geography, as well as the ways in which human societies conceptualize the environment. Environmental geography Environmental geography has
+emerged as a bridge between human and physical geography as a result of the increasing specialisation of the two sub-fields. Furthermore, as human relationship with the environment has
+changed as a result of and a new approach was needed to understand the changing and dynamic relationship. Examples of areas of research in environmental geography include , , , and
+globalization technological change emergency management environmental management sustainability political ecology Geomatics Main article: Geomatics Digital Elevation Model (DEM) is a
+branch of geography that has emerged since the quantitative revolution in geography in the mid 1950s. Geomatics involves the use of traditional spatial techniques used in cartography and
+topography and their application to computers. Geomatics has become a widespread field with many other disciplines using techniques such as GIS and remote sensing. Geomatics has also led
+to a revitalization of some geography departments especially in Northem America where the subject had a declining status during the 1950s. Geomatics Geomatics encompasses a large area
+of fields involved with , such as , , , and . spatial analysis Cartography Geographic information systems (GIS) Remote sensing Global positioning systems (GPS) Regional geography Main
+article: Regional geography is a branch of geography that studies the regions of all sizes across the . It has a prevailing descriptive character. The main aim is to understand or define the
+uniqueness or character of a particular region which consists of natural as well as human elements. Attention is paid also to which covers the proper techniques of space delimitation into
+regions. Regional geography Earth regionalization Regional geography is also considered as a certain approach to study in geographical sciences (similar to or , for more information see )
+quantitative critical geographies History of geography Related fields , and : use the science of geography to assist in determining how to develop (or not develop) the land to meet particular
+criteria, such as safety, beauty, economic opportunities, the preservation of the built or natural heritage, and so on. The planning of towns, cities, and rural areas may be seen as applied
+geography. Urban planning regional planning spatial planning : In the 1950s the regional science movement led by Walter Isard arose, to provide a more quantitative and analytical base to
+geographical questions, in contrast to the descriptive tendencies of traditional geography programs. Regional science comprises the body of knowledge in which the spatial dimension plays 2
+fundamental role, such as, ,, and , and , , population distribution, , and environmental quality. Regional science regional economics resource management location theory urban regional
+planning transport communication human geography landscape ecology : While the discipline of geography is normally concemed with the , the term can also be informally used to describe the
+study of other worlds, such as the of the and even beyond. The study of systems larger than the earth itself usually forms part of or . The study of other planets is usually called . Alternative
+terms such as (the study of Mars) have been proposed, but are not widely used. Interplanetary Sciences Earth planets Solar System Astronomy Cosmology planetary science Areology
+Geographical techniques As spatial interrelationships are key to this synoptic science, are a key tool. Classical has been joined by a more modem approach to geographical analysis,
+computer-based (GIS). maps cartography geographic information systems In their study, geographers use four interrelated approaches: Systematic - Groups geographical knowledge into
+categories that can be explored globally. Regional - Examines systematic relationships between categories for a specific region or location on the planet. Descriptive - Simply specifies the
+locations of features and populations. Analytical - Asks we find features and populations in a specific geographic area.why Cartography Main article: Cartography Cartography studies the
+representation of the Earth's surface with abstract symbols (map making). Although other subdisciplines of geography rely on maps for presenting their analyses, the actual making of maps is
+abstract enough to be regarded separately. Cartography has grown from a collection of drafting techniques into an actual science. Cartographers must learn and ergonomics to understand
+which symbols convey information about the Earth most effectively, and to induce the readers of their maps to act on the information. They must leam and fairly advanced to understand how
+the shape of the Earth affects the distortion of map symbols projected onto a flat surface for viewing. It can be said, without much controversy, that cartography is the seed from which the
+larger field of geography grew. Most geographers will cite a childhood fascination with maps as an early sign they would end up in the field. cognitive psychology behavioral psychology geodesy
+mathematics Geographic information systems Main article: Geographic information system Geographic information systems (GIS) deal with the storage of information about the Earth for
+automatic retrieval by a computer, in an accurate manner appropriate to the information's purpose. In addition to all of the other subdisciplines of geography, GIS specialists must understand
+and systems. GIS has revolutionized the field of cartography; nearly all mapmaking is now done with the assistance of some form of GIS software. GIS also refers to the science of using GIS
+software and GIS techniques to represent, analyze and predict spatial relationships. In this context, GIS stands for Geographic Information Science. computer science database Remote sensing
+@ Main article: Remote sensing Remote sensing can be defined as the art and science of obtaining information about Earth features from measurements made at a distance. Remotely sensed
+data comes in many forms such as , and data obtained from hand-held sensors. Geographers increasingly use remotely sensed data to obtain information about the Earth's land surface, ocean
+and atmosphere because it: a) supplies objective information at a variety of spatial scales (local to global), b) provides a synoptic view of the area of interest, c) allows access to distant and/or
+inaccessible sites, d) provides spectral information outside the visible portion of the electromagnetic spectrum, and e) facilitates studies of how features/areas change over time. Remotely
+sensed data may be analyzed either independently of, or in conjunction with, other digital data layers (e.g., in a Geographic Information System). satellite imagery aerial photography
+Geographic quantitative methods Main article: Geostatistics deal with quantitative data analysis, specifically the application of statistical methodology to the exploration of geographic
+phenomena. Geostatistics is used extensively in a variety of fields including: , , exploration, weather analysis, , , and . The mathematical basis for geostatistics derives from , and , and a variety
+of other subjects. Applications of geostatistics rely heavily on , particularly for the (estimate) of unmeasured points. Geographers are making notable contributions to the method of quantitative
+techniques. Geostatistics hydrology geology petroleum urban planning logistics epidemiology cluster analysis linear discriminant analysis non-parametric statistical tests geographic information
+systems interpolation Geographic qualitative methods Main article: Ethnography Geographic qualitative methods, or ethnographical; research techniques, are used by human geographers. In
+there is a tradition of employing techniques also used in and . and in-depth interviews provide human geographers with qualitative data. cultural geography qualitative research anthropology
+sociology Participant observation History of geography

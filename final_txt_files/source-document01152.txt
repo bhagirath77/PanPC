@@ -1,0 +1,22 @@
+Make an Elftown ad Although you may be wanting this tutorial to add flames to a more complex image, I suggest you try it out first to get the hang of it; so open a new document, 400 pixels
+by 400 pixels should be plently. Fill the background in black. I'm going to show you how to produce the effect in this tutorial using text, you can use any shape you like, really, but I always find
+that writing gives you a nice amount of curves and points to work with later. So I write something in white (in this instance 'Gaudete) in the middle of the canvas, and . Rasterize the original
+text layer, and merge it with the background layer. (if you don't merge the layer with the black background you will run into problems later in the tutorial - liquifying will be very difficult, and
+you will be unable to change the hue & saturation) Here you can see what the image should look like; and what the layers pallet should look like: First of all, 'hide' the top layer (the one
+containing only the text) by clicking the little eye symbol nect to the layer in the layers pallet. Then, making sure you have selected the merged layer containing the writing and the black
+background, look to the top of the screen, open the filter drop down menu, select blur and then choose Gaussian blur. Adjust the radius to 1.0 pixels, and click okay. Next, open the filter
+menu again, but this time select liquify. This part will probably be easier if you have a tablet, however, I've used a mouse before and achieved exactly the same effect. Select an area of your
+shape to work on - points are usually easiest, such as the top of an A, W, or M. Move your mouse to the selected area, then click, and drag upwards in a wavy line. The effect should be as seen
+below. Keep repeating this, until you have a sufficient amount of 'flames' - vary the size and shape of each flame. When you're satisfied with your work, click okay. And that's the 'hard' part
+done. And hopefully what you have at the moment looks something like this: : Duplicate the layer you just liquified. From now on T'll refer to these layers as Flamesi and Flames2. Select either
+Flamesi or Flames2 (but bear in mind that if you select the bottom layer, you'll need to hide the top layer by unchecking the little eye to the left of that layer in the players pallet). Now click
+the 'Image' menu at the top of the screen, then adjustments and finally 'Hue/Saturation. check the 'colourise' option in the box that appears, then start playing with the top two sliders, ignore
+the Lightness slider, and leave it at zero. Slid the 'Hue' peg until you have a nice red colour, thought bear in mind the '0' is already a red colour, so you might decide not to adjust it. Then
+tweak the 'Saturation' peg. The Higher you slide it, the brigher your image will be. You can see my settings in the image below, but pretty much every time I create flames, I use different
+settings here, so play around until you have an effect comfortable with. Now select the other Flame layer and repeat the process above, however; this time, drag the 'hue' peg around until you
+get an orangey yellow colour, instead of a red. When you're happy with your colour, hit okay. Now, making sure you have the top of the two flame layers selected, go to the layers pallet and
+open the drop down menu to the left of the the opacity settings. Change the layer style to Colour dodge and you should find you have a fairly realistic flame effect. Other layer styles that work
+well are Linear dodge, Overlay and Hard Light - check out Difference and Exclusion as well, as they can give you pretty nifty effects. You will also get slightly different effects depending on
+whether the yellow flames layer or the red flames is on top, so try switching them around if you're not 100% happy with the effect. Realistic Flames in Photoshop For this tutorial I used
+Photoshop CS, however; I know the techniques used also work on Photoshop 7, and I'm pretty sure they work on older versions as well. If you have an older version please tell me if you can
+complete this tutorial or not. Step One:

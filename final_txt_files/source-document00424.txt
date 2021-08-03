@@ -1,0 +1,27 @@
+fr to en Paul Kienzle AboutTheAuthor: Originally an industrial designer, now a professor of production, he teaches CAD. Computer graphics, especially 3D graphics, is one of his passions.
+Abstract: Some very expensive commercial products, such as PainterS, let you "paint" with fire; others, such as Photoshop or Paint Shop Pro let you, using the tools at your disposal, create the
+illusion of an object on fire. The GIMP under Linux, considered as the free equivalent of Photoshop, should produce the same result. In this article we show a procedure in five steps and eleven
+images, easily adapted to Photoshop and Paint Shop Pro, on how to creat fire effects with The GIMP. Articlelllustration: ArticleBody: Create a text object A logo is easy to create in The Gimp
+because it is a base function of the program. Choose Xtns -> Script-Fu -> Logo -> Glowing Hot Preserving the default parameters, the colours and the font "Slogan" is evocative of fire (but it's
+up to you to decide if any other logo would do as well: try them!) Enter the text "Flammes', confirmed by OK (see Figure 1). Remove the unneeded elements We want a transparent
+background to integrate the text in another image. We must, then, remove the black background: Right click on the image ->Layers -> Layers & channels Select the Background layer Eliminate
+it by clicking the X in the dialog box. Merge the remaining layers Right click on the image -> Layers -> Merge Visibles Layers Then right click on the image -> Edit -> Copy The text object is in
+the dipboard, ready to be pasted: Prepare a background gradient The text object has the approximate dimension 560x200, so create an image capable of accepting it: File -> New >Width
+600 >Height 300 >RGB >Background ->OK The new image comes with a white background which we are going to paint with a Black/Yellow gradient Black is already available, you must
+replace white by yellow: Click on the white, then enter in the palette the values R255/G148/B0 ->OK Double click on "Fill with a color gradient. The default option will be Gradient Linear; if
+that's not the case, then select it. On the white background, draw a vertical from bottom to top. The white background is replaced by the gradient (see step 2) Put the text object into the
+"gradient" image Right click on the image -> Layers-> Layers & channels-> New Layer-> Layer Name: Text-> OK By default, the new layer is active Minimize the dialog box (or close it) Select
+the "gradient" image then right click -> Edit -> Paste Position the text object at the bottom of the image (in the dark area) Unselect it (see step 3) Prepare the fire effect You need two layers
+for this: one for the form of the flames, the other for the colour by combining with the preceding. Produce the form of the flames Create a layer "Fire" Paste the text object in the same
+position as the first. The layer "Fire1" will be active, select Keep Trans (to preserve the transparency) then select a very pale yellow R251/G247/B128 and a cirde brush of 19x19 by Files ->
+Dialogs -> Brushes Paint the layer "Fire1". Because of the Keep Trans option, only the text is painted Deselect Keep Trans when the painting is finished. Deform the text of "Fire1" with: Filters
+=> Distorts -> Shift -> Shift verticaly ->Shift Amount :50 -> OK Filters -> Distorts -> Waves -> Amplitude 12 -> Phase 0 -> Wavelength 50 -> OK At this point of the process, the contours
+are very good for the flames. (See Figure 4_1) Produce the colour of the flames Copy the layer "Fire1" (the layer will be active) Create a layer "Fire2", Paste the flames of "Fire1" on the layer.
+Select Keep Trans, and paint in red R247/G79/B56 Change the mixing mode of layers: depending on the desired flame colour, you could choose the mode: screen, overlay, lighten only or color.
+(see Figure 5). For the present example, we have chosen the mode "overlay" Refinement: Position the text object Raise the layer "Text" to the top in the Layers & channels dialog box (see
+Figure 6) Create the embers Select the layer "Background" Script-Fu -> Decor -> Lava (preserve the default values) -> OK A layer "Lava Layer" is automatically created just above the
+"Background" layer Mix them in mode Color Flatten the image by Layers -> Flatten Image (see Figure 7) Change the colours The flames may appear too pale (according to taste). You can
+change them by playing with the contrast and the colour itself by: Images -> Colors -> Color Balance -> Preserve luminisity -> Red 80 Yellow -40 Magenta10 Images -> Colors ->
+Brightness-Contrast -> Contrast 40 -> Brightness -20 (see Figure 8) Conclusion Beyond the spectacular effect and its didactic use, you may ask yourself what this procedure is good for. The
+image constitutes a response. It is an illustration from a poster for a dance course. The silhouette of the dancer is the outline, passed through the colour mill, from a photograph belonging to
+With permission. Example.jpg Sylvain Landry

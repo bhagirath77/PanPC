@@ -1,0 +1,39 @@
+This feature requires Javascript to be enabled. Baritones and Euphoniums Module by: Catherine Schmidt-Jones Baritones and euphoniums are tenor-range brass aerophones in the tuba
+family. They are mainly found in Western military, marching, and concert bands.Summary: Links Classifying Instruments Introduction Baritones and euphoniums are in the family. They are
+closely related instruments, both fairly large and with a medium-low range. They are generally not considered orchestral instruments, but are an important part of the band tradition,
+aerophones brass Western The Instruments Like other instruments in the brass family, baritones and euphoniums are played by buzzing the lips against a cup . The air then moves through the
+brass tubing and leaves through the at the other end of the instrument. The change the playing length of the instrument, making it possible to play several that together allow the instrument to
+play any note in its range. For more on how brass instruments work, please see , , and .) mouthpiece bell valves harmonic series chromatic Wind Instruments: Some Basics Standing Waves and
+Wind Instruments Harmonic Series Baritones and euphoniums are valved brass instruments that have a similar to the slide , higher than a and about an below the . The valved tenor-range
+brass instruments are a slightly confusing group of instruments. They are usually held upright, with the bell pointing either straight up or up-and-forward, but they may also be shaped like a
+very large trumpet, held horizontally with the bell pointing forward. They may have three, four, or sometimes even five valves. Baritone and euphonium are recognized in Britain as being two
+different instruments, but in the U.S. there is quite a bit of confusion as to the difference between them, and they are often treated as interchangeable. range trombone tuba octave trumpet
+The difference between the two is not a matter of the number of valves or of where the bell is pointing. Where a distinction between the two instruments is recognized, the important difference
+between the baritone and the euphonium is the . The euphonium has a much wider, more bore, which gives it a much mellower, richer , which some composers prefer for solo work. The
+baritone, with a narrower, more bore, has a lighter, brighter sound than a euphonium, but the timbre is still not quite as bright and direct as a trombone's (which also has a fairly cylindrical
+bore). bore conical timbre cylindrical History Smaller brass instruments, which can play in a where their are close together, have been around for many centuries in a valveless form. (Please
+see for more about this history, or for more about harmonics in brass instruments.) Slide is also an ancient instrument. Large valved brass instruments have a comparatively short history, for
+they did not become feasible until good-quality valves became available in the 1830's. range harmonics The French Horn Standing Waves and Wind Instruments trombone The euphonium is
+widely said to have been invented "in 1843 by Sommer of Weimar". Many instrument makers, players, and composers experimented with various medium-to-low-range valved brass in the
+nineteenth century, including alto horn, contralto hom, valved trombones, Wagner tubas, saxtrombas, and saxtubas. The baritone horn (baritone), euphonium, and various bass tubas are the
+only ones that are still in widespread use today. Although still very uncommon in orchestral music, euphoniums and baritones (along with their close relatives, the tubas) became an
+indispensable part of military, marching, and concert bands, replacing several other low-range instruments, including, in some traditions, marching bassoons! Western Repertoire British brass,
+band music is the best place to listen for baritones and euphoniums. They are also sometimes featured in marches and other band music, particularly by British composers (but not exclusively:
+try listening to Sousa's ). These instruments are also given prominent place in some dlassical-style wind ensemble music - again, particularly music by British composers - for example, Holst's
+or Graingers . Semper Fidelis First Suite in  Flat Children's March Baritone and euphonium are not standard orchestral instruments, but they can be heard in some orchestral recordings. In
+many cases, the score originally called for an instrument that has become rare, for example a Wagner tuba. Some easy-to-find examples are: Gustav Holst's (Listen especially for the solo in
+"Mars"); The Planets Ravel's orchestration of Mussorgsky's features a euphonium solo in the "Bydlo" movement. Pictures from an Exhibition Practical Information for Composers and
+Arrangers Figure 1: Range of the Baritone Not all groups have these instruments. Some that do will expect separate parts for baritones and euphoniums; other groups will expect only one
+part. You may want to check before writing parts for a particular group. Orchestras generally do not have baritones or euphonimums, but you can count on military and marching bands and
+wind ensembles to have them. Some groups treat the two instruments as interchangeable; others (particularly in Britain) do not. Of the two instruments, the euphonium is generally
+considered the solo instrument, because of its sweet, mellow timbre, which is very different from the more direct, brassy sound of the trombone, the other brass instrument that shares this
+range. Most of these instruments are pitched in B flat (in other words, their no-valves is based on a B fiat), but they may or may not be . Parts for these instruments may be written as parts in
+bass , or they may be written in treble clef for a transposing 8 flat instrument. In other words, if you write for baritone or euphonium in treble clef, you must the part, writing it a major ninth
+(an octave plus a whole step) higher than you want it to sound. Such treble clef parts were originally written for trumpet players who doubled on euphonium, to spare them from having to learn
+different fingerings. Many baritone and euphonium players will be comfortable reading either type of part, but, to be safe, you may want to provide each baritone or euphonium part both as a
+bass clef and as a treble clef part. If you are writing for a specific group, you may want to check on preferences. harmonic series transposing instruments non-transposing clef transpose These
+instruments have about the same as trombones, but 2 mellower . Like most lower brass, they are not as agile at fast notes as trumpets and woodwinds, but they can generally play extended
+passages of quick notes more easily than a trombone or tuba. They can also slur notes more smoothly than trombones and they have a clearet, more focussed sound than a tuba in the upper
+Considering their sweet sound and relative agility compared to other low brass, these instruments have definitely been underutilized, even by modern composers. range timbre register Further
+Study At the time of this writing, were a good source for more history, with lots of pictures. page also had quite a bit of basic information, including information that might interest students
+starting out on the instrument. Bob Beecher's Baritone and Euphonium pages Ohio University's Tuba and Euphonium Studio

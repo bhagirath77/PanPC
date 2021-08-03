@@ -1,0 +1,36 @@
+Pathfinder The Mars Pathfinder (formerly known as the Mars Environmental Survey, or MESUR, Pathfinder) is the second of NASA's low-cost planetary Discovery missions. The mission consists
+of a stationary lander and a surface rover known as Sojourner. The mission has the primary objective of demonstrating the feasibility of low-cost landings on and exploration of the Martian
+surface. This objective will be met by tests of communications between the rover and lander, and the lander and Earth, and tests of the imaging devices and sensors. The scientific objectives
+include atmospheric entry science, long-range and close-up surface imaging, with the general objective being to characterize the Martian environment for further exploration. The spacecraft will
+enter the Martian atmosphere without going into orbit around the planet and land on Mars with the aid of parachutes, rockets and airbags, taking atmospheric measurements on the way down.
+Prior to landing, the spacecraft will be enclosed by three triangular solar panels (petals), which will unfold onto the ground after touchdown. Mars Pathfinder was launched 1996 December 4
+and landed successfully on Mars on 1997 July 4. NEAR The Near Earth Asteroid Rendezvous (NEAR) mission promises to answer fundamental questions about the nature of near-Earth objects
+such as and . asteroids comets Launched on 1996 February 17 aboard a Delta 2 rocket, the NEAR spacecraft should arrive in orbit around asteroid 433 Eros in early January 1999. It will then
+survey the rocky body for a minimum of one year, at altitudes as close as 15 miles (24 kilometers). Eros is one of the largest and best-observed asteroids whose orbits cross Earth's path. These
+asteroids are closely related to the more numerous "Main Belt" asteroids that orbit the Sun in a vast doughnut-shaped ring between Mars and Jupiter. Lunar Prospector Lunar Prospector, the
+first NASA mission to the Moon in almost 30 years, was launched Jan 6th, 1998. Within a month it will begin returning answers to long-standing questions about the Moon, its resources, its
+structure and its origins. (, Lunar Prospector home page); from NSSDC Welcome to the Moon more Ongoing Missions Voyager 1 and 2 still operational after more than 15 years in space and
+are traveling out of the Solar System. The two Voyagers are expected to last until at least the year 2015 when their radioisotope thermoelectric generators (RTG) power supplies are expected
+for fail. Their trajectories give negative evidence about possible planets beyond Pluto. Their next major scientific discovery should be the location of the . Low-frequency radio emissions believed
+to originate at the heliopause have been detected by both Voyagers. heliopause Both Voyagers are using their ultraviolet spectrometers to map the heliosphere and study the incoming
+interstellar wind. The cosmic ray detectors are seeing the energy spectra of interstellar cosmic rays in the outer heliosphere Voyager 1 has passed the Pioneer 10 spacecraft and is now the
+most distant human-made object in space. Hubble Space Telescope launched April 1990; fixed December 1993. HST can provide pictures and spectra over a long period of time. This provides
+an important extra dimension to the higher resolution data from the planetary probes. For example, recent HST data show that is colder and drier than during the Viking missions; and HST
+images of indicate that its atmospheric features change rapidly. Mars Neptune Named for the American astronomer . Edwin Hubble Ulysses now investigating the 's polar regions (European
+Space Agency/NASA). Ulysses was launched by the Space Shuttle Discovery in October 1990. In February 1992, it got a gravity boost from to take it out of the plane of the . It has now
+completed its main mission of surveying both of the Sun's poles. Its mission has been extended for another orbit so that it can survey the Sun's poles near the maximum of the sunspot cycle,
+too. Its is 5.2 AU, and, surprisingly, its perihelion is about 1.5 AU-- that's right, a solar-studies spacecraft that's always further from the Sun than the Earth is! It is expected to provide a much
+better understanding of the Sun's magnetic field and the . Sun Jupiter ecliptic aphelion solar wind (Ulysses Home Pages from and ) JPLESA Wind After its November 1, 1994, launch, NASA's
+Wind satellite will take up a vantage point between the Sun and the Earth, giving scientists a unique opportunity to study the enormous flow of energy and momentum known as the solar wind
+ The main scientific goal of the mission is to measure the mass, momentum and energy of the solar wind that somehow is transferred into the space environment around the Earth. Although
+much has been learned from previous space missions about the general nature of this huge transfer, it is necessary to gather a great deal of detailed information from several strategic regions
+of space around the Earth before scientists understand the ways in which the planet's atmosphere responds to changes in the solar wind. The launch also marks the first time a Russian
+instrument will fly on an American spacecraft. The Konus Gamma-Ray Spectrometer instrument, provided by the Ioffe Institute, Russia, is one of two instruments on Wind which will study
+cosmic gamma-ray bursts, rather than the solar wind. A French instruments is also aboard. At first, the satellite will have a figure-eight orbit around the Earth with the assistance of the Moon's
+gravitational field. Its furthest point from the Earth will be up to 990,000 miles (1,600,000 kilometers), and its closest point will be at least 18,000 miles (29,000 kilometers). Later in the
+mission, the Wind spacecraft will be inserted into a special halo orbit in the solar wind upstream from the Earth, at the unique distance which allows Wind to always remain between the Earth
+and the Sun (about 930,000 to 1,050,000 miles, or 1,500,000 to 1,690,000 kilometers, from the Earth). Mars Surveyor Program Launched with a Delta IT expendable vehicle from Cape
+Canaveral, Fla., on November 7 1996, the spacecraft is now in orbit around Mars. The spacecraft circles Mars once every two hours, maintaining a "sun synchronous" orbit that will put the sun
+at a standard angle above the horizon in each image and allow the mid-afternoon lighting to cast shadows in such a way that surface features will stand out. The spacecraft will carry a portion
+of the instrument payload and will use these instruments to acquire data of Mars for a full Martian year, the equivalent of about two Earth years. The spacecraft will then be used as a data relay
+station for signals from U.S. and international landers and low-altitude probes for an additional three years. Mars Observer

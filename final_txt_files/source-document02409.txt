@@ -1,0 +1,135 @@
+Sheet Music Plus (Fr., It. ; Ger. ).TrombonetrombonePosaune A brass aerophone with a cup-shaped mouthpiece and predominantly cylindrical bore. In its most familiar form it is the
+tenor-baritone counterpart of the orchestral trumpet but it is characterized by a telescopic slide with which the player varies the length of the tube (except in the valve trombone): hence the
+term slide trombone (Fr. Trombone coulisse, Ger. Zugposaune, It. trombone a tiro; Fr. and Eng. up to the 18th century, saqueboute, sackbut). Both the Italian and German n me for trombone
+are derived from term- for trumpet: Trombone (large trumpet) from the Italian tromba (trumpet), and Posaune from the Buzune, derived in tum from the French buisine (straight trumpet). The
+etymology of saqueboute whence English 'sackbut', 'sagbut', 'shagbolt! etc.) is not certain but is probably from Old French sacquer. to draw out! (e.g. a sword), though a Spanish derivation,
+sacabuche, draw out the innards', has also been suggested. The structure of a slide trombone can be seen in fig.1. The two parallel inner tubers of the slide are connected at their upper ends
+by a cross-stay. The mouthpiece is inserted into the top of one tube; the bell joint fits on to the top of the other, the tube being either tapered externally or attached to the bell by means of a
+threaded collar. Over the stationary inner tubes runs the slide proper, which consists of two tubes joined at the bottom by a U-bow (with a water key for releasing condensed moisture) and at
+the top by a second cross-stay, which the player grasps loosely with the right hand. Friction is minimised by thickening the inner tubes slightly at their lower ends to provide running surfaces
+for the outer slide. Formerly these short sleeves or 'stockings' were of a different metal from that of the slide; in modem manufacture they are formed integrally with the inner tubes, which are
+of nickel alloy, or are omitted altogether, as the inner tubes can now be made of alloys producing much smaller frictional forces thebore of the instrument is cylindrical for about two thirds of its
+length and expands gradually through the bell. The bore is usually between 12*3 mm and 13*8 mm in diameter, though in bass trombones it may exceed 14 mm. The bell ranges from about
+178 cm across in a tenor trombone to about 24-6 cm in a bass. The U-bend of the bell joint is usually fitted with a tuning-slide and may include a counter-balance. The slide technique is based
+on seven positions that lower the pitch of the harmonic series progressively by semitones: the 1st (highest) position is with the slide fully retracted, the 7th (lowest) with it fully extended. The
+distance between adjacent positions increases as the slide is extended On the tenor trombone, for instance, from 1st to 2nd position is about 8 cm, from 6th to 7th position about 12 cm. The
+length of the slide is determined by the extension required to fill in the interval between the 3rd and 2nd harmonics (f and Bb on the tenor trombone). The modem trombone stands in 9' Bb"
+(total length of tubing. with the slide retracted, 9 feet) and is made in two principal forms: the simple trombone in Bb (fig.la); and the Bb/F trombone, which incorporates in the bell joint an 'F
+attachment to lower the pitch of the instrument by a 4th to 12' F (fig.lb). (A widely used variant of the 8b/F trombone is the Bb/F/E trombone, which has two attachments to lower the pitch to
+F' or to E'; fig. 1c.) The practice of using 8b and Bb/F trombones has almost done away with what survived in the 20th century of the ancient use of three different sizes of slide trombone: alto,
+tenor and bass. The 8b trombone, however, is still often called a tenor trombone. Wide-bore models of the Bb/F trombone are often termed 'bass trombone, and are used for the lowest of the
+three Trombone parts that have normally been written in orchestral and band music. The trombone is a non-transposing instrument; the tenor trombone is termed Bb because its natural series
+of harmonics is on Bb. The Bb trombone has always been the most typical; in 16th century Germany, for instance, it was often termed gemeine (ordinary), and the deeper-pitched
+instruments (Quartposaune etc.) were described by their pitch interval below the tenor. Table 1 shows how the scale is made on the tenor trombone. The harmonics chiefly used are from the
+2nd upwards, the 17th (f" in 1st position) being occasionally required. Because of the one adjustments possible with the slide, notes of the 7th harmonic can be brought into tune from the 2nd
+to 7th positions The fundamentals or 'pedals', from Bb' downwards (demanded with some frequency following Berlin's use of them in the Requiem). are obtainable when enough time is given
+for adjustment of embouchure. The fundamentals below C' are required only when playing contrabass trombone parts on the 13b/F trombone. Higher in the range, where the harmonics come
+closer together, low positions of the slide are used primarily as alternatives to avoid long shirts in fast passages and to allow variation in making slurs for legato playing. Alternative positions are
+also often needed for the first or last note of long glissandos. The 8b/F trombone was introduced in 1839 by the Leipzig maker C. F. Satire: in Paris Salary and Sax followed with similar
+instruments, though they were little used in France. The F attachment consists of a coil of about I metre of tubing placed between the two branches of the bell joint and connected with the
+main tube through a rotary valve operated by the left thumb ( see fig.Ib). The scale of the trombone is thus extended down low C. the lowest note in classical bass trombone parts. The F
+attachment also provides further alternative positions to avoid shins to the slide that are awkward on the Bb trombone, for example the semitone from Bb to B, 1st to 7th position. is reduced to
+Ast to 2nd position, allowing the progression to be played legato, if the B is taken with the valve tuned. When the attachment is switched in, the slide positions become those of a trombone in F,
+hence lying further down the slide than on a Bb instrument On most designs the full attention falls just short of that required for a 6th position. C is therefore a little sharp unless corrected by
+embouchure, and B is missing altogether as the instrument lacks the 7th position. Composers such as Bart and Stravinsky who have included this 8" in important works have obliged players to
+use an 'E slide in place other tuning-slide provided in the attachment. Alternatively, an additional thumb valve that transposes the instrument into E, Fb, or D can be provided This Bb/F/E (or
+Bb/F/Eb or Bb/F/D) trombone, popular first in the USA. has once spread low Europe (see fig. k ) Because the fundamentals are available down to E or lower, the instrument can also play
+contrabass trombone parts e.g. those of the Ring. During the second half of the 19th century it became regular practice in German orchestras for the second and third players to use Bb/F
+trombones (with a wider-bore instrument for the third part), while the first used the Bb instrument This practice has been extended to the USA and to other European countries. A recent trend
+has been for all three players to use 8b/F instruments (with Bb/F/E for the bass), because of the technical advantages offered by the attachment in the lover part of the compass. The F bass
+trombone formerly used in German and central European bands barely survived into the 20th century. In Britain. however, the G bass trombone, pitched a minor 3rd below the Bb instrument,
+was used in every orchestra and band from about 1815 up to the 1950s and still appears in some brass bands. Its bottom note. apart from pedals, is C#; for orchestral use a D attachment is,
+included, and when the instrument is used for contrabass parts a 'C slide is placed in the attachment contending the compass down to C#", with notes available ac pedals on the G trombone
+because of the long slide extensions necessary on F and G Trombone;, the stay of the outer slide is burnished with a handle by which the lowest positions can be reached. For a long time many
+German opera houses possessed a true contrabass Trombone in 18' 8b", provided with a double slide consisting of two parallel slides connected in series. (by two U-bows at the bass and one at
+the top) but moved as one (see fig.2h). As each shift on such an instrument requires half the movement necessary with a normal slide, the shifts are no greater than those of the ordinary Bb
+Trombone. Double slides were also fitted to some F trombones. Boosey & Co. made a trombone in 16' C for the London premiere of the Ring; as its double slide provided nine positions instead
+of the usual seven, Wagner's E' could be reached on in According to Arthur Falkner. however, it failed to earn Hans Richter's approval and the part was played on a tuba. A new contrabass
+designed by Hans Kunitz in 1959 and made by Alexander of Mainz is called Cimbasso' (after the parts so named in Verdi's operas). Pitched in F, it has two attachments: a valve operated by the
+thumb that lowers the instrument to C, and a valve operated by the tight middle finger that lower it to D'. Both together lower the pitch to Bb". By using these valves the single slide need Be
+moved beyond the 3rd position for only two notes (see fig.2a). Alto trombones in Eb or F. commonly used from the 1eth century to the 18th as the top voice in the brass choir (see fig.5 below),
+declined in popularity from the early 19th century, when trombone became an established pan of the symphony orchestra. The range of the parts can usually be covered with the Bb
+instrument; furthermore, players have become accustomed to the Bb trombone's slide shirts and mouthpiece and most prefer its sound to the brighter, thinner tone or the alto. (Indeed, even in
+the 17th century Praetorius recommended using the tenor instead of the alto.) Up to the end of the 19th century, however, some first trombone players regularly used the alto in parts so
+marked, It is now usually reserved for alto Trombone parts with exposed high notes, particularly where these must be taken softy, as for example in Britten's the Burning Fiery Furnace. The
+soprano trombone, usually in Bb an octave above the tenor, seems to have appeared in the late 17th century, the period from which the earliest surviving specimens date Its bell diameter is
+about 12 7 cm, it total length or lupine less than 1-5 metres, and its, slide extension usually limited to six positions Terry referred low its use at Leipzig to play the treble part in plain chorales,
+and in the 20th century American manufacturers such as C. G. Conn Ltd (Elkhan, Ind.) made a few soprano trombones. probably intended for jazz ensembles. but it has never been widely
+used. Although Heinrich Stzel, co-inventor of the valve, had considered its application to the trombone, the first valve trombone were produced during the 1820s in Vienna by other makers,
+employing the double-piston valve Made in alto, tenor (see fig.4d below) and bass pitches, valve trombones reached a peak of popularity soon after the mid-19th century. In 1890, according to
+Constant Pierre, German and Italian orchestras almost always used a valved bass trombone, and until the mid-20th century valve trombones (often alongside slide trombones) were common in
+bands and theatre orchestras in the Latin countries, eastern Europe and Asiatic countries. Valve trombones have normally kept the basic shape of the slide trombone, though in short! models
+the length is considerably reduced. A few models, including a Bb contrabass. have the bell raised to point at the audience while the valve section slants downwards in a comfortable position
+From about 1840 instruments intended principally for mounted bands were produced in upright (saxhorn) and circular (helicon) designs. Tenor and bass instruments are frequently fitted with a
+fourth valve that, as on other four-valved brass instruments, lower- the pitch by a 4th; but as three valves remain tuned to the Bb pitch. use of the fourth valve adds intonation difficulties to
+those inherent in the standard three-valve system. The constant need to correct intonation by embouchure and the lack of a sensitive vocal legato are shortcomings of the valve trombone.
+Further, there is the loss of that enlargement of the bore within the outer slide that occupies a progressively larger proportion of the windway as the slide is extended and no doubt contributes
+much to the tonal character of the slide trombone. Advantages are greater technical flexibility (e.g. on certain trills), compactness, and the fact that every instrument from alto to contrabass
+has an identical reel under the hand. A valve arrangement that offer better intonation is Sax's system of six independent pistons, which has had a long vogue in Belgium. Each valve controls a
+loop matching in length a given shirt on A slide; when lowered, a valve diverts the windway through its own loop, cutting off all those below it. The main windway leads through all the valves to
+a terminal loop and back through the valves to the bell. The first valve corresponds to the ist position. the sixth to the 6th position; with all valves raised the instrument gives the notes of the
+7th position. There are no combinations of valves (unless an extra valve is fitted to serve as the fourth valve of a normal valved instrument) and the intonation is correct throughout. The
+trombone appeared after the mid-15th century, evidently as an advance on the Renaissance slide trumpet, and was possibly first produced by Flemish makers who supplied wind instruments to
+the court of Burgundy. The first reliable depiction of the instrument occurs. just before 1490, in Italian church painting (see fig.3). Olivier de la Marche's Moires (1488) contain an earlier written
+reference to a trompette-saicqueboute used by one of the haut menestrels in a motet played at the wedding of the Duke of Burgundy with Margaret of York at Bruges in 1468. 'Sackbut', used in
+that context to qualify trumpet, stands on its own in Tinctoris's De inventione et usu musicae (c1486): having mentioned shawms, Tinctoris wrote '... however. for the lowest contratenor parts
+and often for any contratenor part one joins to the shawmists [tibicines] trompeters [tubicines] who play very harmoniously on that kind of tuba which is called trompone in Italy and
+sacque-boute in France. Virdung's Musica getutsht (1511) includes a woodcut of a trombone that closely resembles the earliest surviving instruments - tenor trombones by Erasmus Schnitzer
+(1551; now in Nuremberg, Germanishes Nationalmuseum fig.4a) and Jorg Neuschel (1557; formerly in the Galpin Collection, now owned by RenClemencic, Vienna). The bells of these
+instruments have virtually no terminal flare (thus resembling 16th-century trumpet bells); the diameter at the rim is only 12 to 13 cm. The slide bore of the Neuschel trombone is about 12 mm.
+in diameter, somewhat larger than other instruments of the period. There is no expansion of the tube until after the U-bow of the bell. The stays are flat and are secured to the slide branches
+by binged clasps lined with leather, which give flexibility and allow the whole instrument to be dismantled (most of its parts being fitted together without soldered joints). Surviving mouthpieces
+have hemispherical cups, wide rims and wide, sharp-angled throats. Neuschel's correspondence from 1541-2 (published by Eitner in Monatshefte f Musikgeschichte, 1877) mentions Grosse- or
+Quart-Posaune and Mittel-Posaune, indicating the existence of the bass trombone and suggesting that a smaller instrument than the tenor was also made. The terms alt and tenor seem to have
+been adopted late in the century; another name for the tenor at this time was gemeine, ordinary. Praetorius listed and illustrated (fig.5) four sizes of trombone: Alt or Discant Posaune
+(comparable to a modem alto), Cemeine Posaune (comparable to a modern tenor), Quart- and Quint-Posaunen (bass instruments a 4th and a Sth below the tenor), and Octav Posaune
+(contrabass, an octave below the tenor). The Octav Posaune could apparently be made with a double slide (Praetorius's wording on this point is not clear). A Swedish contrabass dated 1639
+(now at the Stockholm Musikhistoriska Museet; fig.46) has a normal slide. Other sizes mentioned in town and court inventories are Terzposaune and Secundposaune (a 3rd and a 2nd below the
+tenor), pethaps represented by two or three early 17th-century specimens that are larger than normal tenor . These may have been employed to avoid using crooks when playing music in
+downwards transposition. Inserted between slide and bell joint, a crook lowered the pitch of the tenor by a whole tone or more. According to Mersenne the tenor had a crook to lower its pitch
+by a 4th, enabling it to be used as a bass. Speer contributed information on slide technique. In the 17th and 18th centuries the positions were counted diatonic- ally, as tone, tone, semitone
+With the slide closed, Thetenor stood in A (nearly equivalent to modern B'). From the A harmonic sties the extensions were to G. F and E. chromatic notes were considered as half-positions
+and 8b was obtained by full extension of the slide (modern 7th positions. Speer also mentioned an alto in D and a bass in D. Several 17th- and 18th-century Nuremberg bass trombones
+incorporate a small slide in the bell joint. pushed backwards by a long rod (fig.4c). It could scarcely have been used while playing, but no doubt enabled the player to lower the Quart to Quint
+quickly without the diminished stability that insertion of a crook brings to a large instrument. Structural changes during the 16th and 17th centuries included enlargement of the bell and
+alterations to the stays. From about 1660, while the flat stay was retained on the bell joint, those on the slide were tubular, consisting of two sections, one end of each fixed rigidly to each limb
+of the slid and the other ends resting one inside the other in a loose fit to provide flexibility (this lasted until about 1850, when stockings and rigid slid stays were adopted). Throughout the
+16th century the trombone was a regular member of town and court bands (see fig.6). It was used with cornets, to support voices in churches (see Chorus (i), fig.4), and in mixed consorts like
+that depicted on the title-page of the last volume of Lassus's Patrocinium musices (Munich, 1589). consisting of violin, bass viol, flute, cornets, two trombones, lute and virginal (sec fig.7). As
+at that time music was arranged for the instruments ad hoc by the musician in charge, it is rarely possible to point to 16th-century compositions in which tr mbones were specified, although
+they were constantly required to participate. In the earliest works with specified instrumentation trombones figure prominently. They were the Gabriel's main vehicle for the lower parts, and
+one of Giovanni Gabrieli's canzonas requires 12 trombones which play every part from alto downwards in three juxtaposed choirs, the treble parts being taken by two cornets and a violin. Schz
+employed up to four trombone both in lively figuration in imitation of other instruments and in slow-moving polyphony. The 16th-and 17th-century trombone was designed as an instrument of
+medium sonority. Mersenne stated that it should not be sounded in imitation of the trumpet, but should approach the softness of voices to avoid spoiling the harmony of the other instruments
+and the voices with which it was blended. An instance of trombone combined with violin and organ is recorded in Aubrey's Lives of Eminent Men: Technically the trombone was considered
+hardly less agile than comet or violin, and Mersenne knew a player who could improvise divisions in semiquaves (trombone divisions with semiquavers occur in Francesco Rognone-Taeggio's
+Selva di varii passaggi, Venice, 1620). Some English and German 17th-century music for a band of two cornets and three trombones (alto, tenor and bass) survives. This includes pieces in
+Adson's Courtly Masquing Ayres (1621) marked for Cornets and Sagbuts', and Locke's Music for his Majesty's Sagbutts and Comets (1661; two pieces in manuscript score are in GB-Lbm, and
+the manuscript partbooks, without the alto are in GB-Cfm). Among the German examples Pezel's Fff-stimmigte blasende Music (Frankfurt, 1685) is particularly attractive. In England this type of
+band did not outlive the 17th century. Talbot (c1695) quoted the famous London trumpet maker William Bull as stating: In southern Germany and Austria, however, bandsmen continued to use
+trombones, and solo parts written by Fux and others at the imperial chapel at Vienna (in the late 17th century and the early 18th) show the adventurous treatment given to the instrument,
+especially the alto. Although used in church musk (particularly for doubling the lower voices,) and in small ensembles, the trombone did not become n part of the orchestra until the the 18th
+century. At this period the instrument had strong associations of the ecclesiastical of the supernatural. Gluck wrote for the traditional trio of alto, tenor and bass (e.g. in the oracle scene of
+Alceste), as did Gossec, who also scored for the single trombone joined to a bass part. Mozart used trombones only in his operas and sacred works; his dramatic use of the instrument is
+particularly well exemplified by the supper scene of Don Giovanni, and he provided a notorious solo for the instrument in the "Tuba mirum' of the Requiem (not without precedent in his earlier
+church music). In Germany the reorganisation of military bands gave the trombone the role of strengthening the bass line, though the trio was maintained in large infantry bands as well as in
+the orchestra. Technical changes included realignment of the old high A pitch (of the tenor) to concert and band pitch 8b. and acceptance or seven chromatic slide positions instead of the
+previous diatonic positions. At the same time the trend in France and Germany was towards performing all orchestral trombone parts on the Bb tenor instrument. Early in the 19th century in
+Germany Gottfried Weber and Frlich recommended playing the Bb trombone with a small mouthpiece for alto parts, and using a wider-bore Bb instrument with 8 large mouthpiece for bass. Up
+to the mid-century German tenor trombones usually retained the traditional bore of 11 4 mm, while the bass trombones were proportionately wider and had broadly expanding bells to add to
+the volume of their tone. The use of large-bore tenors (essentially tenor trombones built with the bore and bell of an F bass trombone) began after 1850, in military bands. Brahms wrote for
+large-bore instruments; consequently leading English players even into the early 20th century changed to instruments of wider bore for works by Brahms and Richard Strauss and for the later
+works of Wagner. Romantic composers considered the trombone capable of expressing a broad range of emotional situations: Berlioz said the instrument could portray everything from religious
+accent, calm and imposing ... to wild clamours of the orgy. With its formidable reserve of power it is not surprising that the trombone was sometimes, used as if loudness were its main
+attribute The military bard buccin, a freak design of trombone with a dragon-headed bell, typifies this image. According to Algernon Rose (Talks with Bandsmen, 1895) trombonists' propensity
+for playing too loudly was the reason one conductor, about 1850, employed trombones designed with the bell pointing back over the shoulder. Over-the-shoulder trombones were also used in at
+least one American band (the Boston Brass Band) to match the design of the other instruments, which were all over-the-shoulder horns. 19th century composers often limited themselves to a
+stereotyped usage of the trombone for reinforcement of tutti passages and for background harmonies in soft passages; because of the preponderance of 19th-century music in 20th-century
+concert programmes, it is with these least interesting sides of the trombone's character that audiences are most familiar. In dance music, however, arrangers have made liberal use of the
+trombone's inimitable cantabile, which dance band trombonists execute so well they are sometimes credited with having discovered new techniques. Other technical developments have been
+largely due to the influence of jazz musicians. Jazz trombonists, using a variety of mutes for expressive effects, have shown that a greater range of timbres is available than is usually employed
+even by modem symphonic composers. Vibrato - always a technical possibility has become part of the trombone soloist's style. Slide technique has become more flexible, and the instrument's
+range has been extended at both ends, making the feasible range of the tenor trombone from E, the lowest pedal note, to g" or above. Although the trombone is now seldom heard in the
+concert hall as a solo instrument apart from jazz, several 19th-century players made reputations as soloists, including C. T. Queisser and F. A. Belcke in Germany, and in France A. G Dieppo,
+whose Mhode (1840) indicates that he used a slide tenor of curiously slender proportions (a bore of 1 cm and bell of 12 cm). Very narrow bores are indeed found in some surviving French
+trombones of the period by Courtois and others. From , author: Anthony C. Baines, editor: Stanley Sadie (A really good book)

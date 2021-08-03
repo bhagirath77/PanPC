@@ -1,0 +1,5 @@
+Urban Tick - Research Results in Google Earth Imagine if you tracked your daily commute and every side trip for several months. What would your track reveal about the place you work? If you
+animated the track over time, what would it tell you about the daily flow of traffic in a city? Imagine using Google Earth to show the data and compare it to the underlying imagery and data GE
+provides? This is what a masters student named Fabian in the UK name Fabian is doing and sharing through his blog (see his about the project). Fabian has so far tracked three different cities
+where he's worked while recording his tracks. Hopefully he'll release some of his visualization files for Google Earth, but he is documenting and sharing some of the data through videos. See
+the example below of his travels in Plymouth in the UK through the course of the day from data for an entire year. Urban Tick introductory post

@@ -1,0 +1,97 @@
+<21503933. 123143250319 1.JavaMail.itxuser@homer> -~
+boundary="----=_Part_14611_31667064.1231432503170"
+
+Part_14610_4152515.1231432503170 Content-Type: multipart/alternative;
+=_Part_14611_31667064.1231432503170 Content-Type: text/plain; charset=us-ascii Content-Transfer-Encoding: 7bit
+
+__ SOCIAL SCIENCE RESEARCH NETWORK U.S. CENSUS BUREAU CENTER FOR ECONOMIC STUDIES RESEARCH
+SANG V. NGUYEN Senior Economist, U.S. Census Bureau SANG.V.NGUYEN@CENSUS.GOV
+
+BROWSE all abstracts in this subject: http://www.ssrn.com/link/US-Census-Bureau. html SEARCH entire
+eLibrary at: http://ssm.com/search If this document is misaligned, please set type face to a non-proportional font such as Courier 10
+
+TABLEOFCONTENTS "The Direct and Indirect Costs of Food Safety Regulation" MICHAEL E.
+OLLINGER U.S. Department of Agriculture (USDA) - Economic Research Service (ERS) "Linking Investment Spikes and Productivity Growth: U.S. Food Manufacturing Industry" PINAR CELIKKOL
+GEYLANI Duquesne University SPIRO E. STEFANOU Pennsylvania State University - College of Agricultural Sciences, Department of Agricultural Economics and Rural Sociology "Gender
+Differences in Business Performance: Evidence from the Characteristics of Business Owners Survey ROBERT W. FAIRLIE University of California, Institute for the Study of Labor (IZA), RAND
+Corporation ALICIA ROBB University of California, Santa Cruz "Computer Network Use and Firms' Productivity Performance: The United States vs. Japan" B.K. ATROSTIC U.S. Census Bureau -
+Center for Economic Studies KAZUYUKI MOTOHASHI University of Tokyo - Research Center for Advanced Science and Technology (RCAST) SANG V. NGUYEN U.S. Census Bureau
+
+"The Direct and Indirect Costs of Food Safety Regulation US Census Bureau Center for Economic Studies
+Paper No. CES-WP-08-31 Contact: MICHAEL E. OLLINGER U.S. Department of Agriculture (USDA) - Economic Research Service (ERS) Email: ollinger@ers.usda.gov Auth-Page:
+http://ssm.com/author=232171 Abstract: http://ssrn.com/abstract= 1272585 ABSTRACT: The cost of compliance with the Pathogen Reduction Hazard Analysis Critical Control Program
+(PR/HACCE) rule of 1996 has been controversial since it was first proposed. Surveys have provided some cost information but examined plant size and other indirect effects with limited data
+and did not make cost estimates of direct cost components, such as mandated tasks. This paper addresses those deficiencies with data from a national survey of meat and poultry plants on
+PR/HACCP costs. Results indicate that (1) mandated tasks are the most costly component of the PR/HACCP rule, (2) regulation favors large plants over small ones, and (3) private actions are
+nearly as costly as direct regulation. _ "Linking Investment Spikes and Productivity Growth: U.S. Food Manufacturing Industry" US Census Bureau Center
+for Economic Studies Paper No. CES-WP-08-36 Author: PINAR CELIKKOL GEYLANI Duquesne University Auth-Page: http://ssrn.com/author=1139057 Contact: SPIRO E. STEFANOU
+Pennsylvania State University - College of Agricultural Sciences, Department of Agricultural Economics and Rural Sociology Email: ttc@psu.edu Auth-Page: http://ssrn.com/author=230785 Full
+Text: http://ssrn.com/abstract= 1285592 ABSTRACT: We investigate the relationship between productivity growth and investment spikes using Census Bureau's plant-level data set for the U.S.
+food manufacturing industry. We find that productivity growth increases after investment spikes suggesting an efficiency gain or plants learning effect. However, efficiency and the learning
+period associated with investment spikes differ among plants productivity quartile ranks implying the differences in the plants investment types such as expansionary, replacement or retooling
+We find evidence of both convex and non-convex types of adjustment costs where lumpy plant-level investments suggest the possibility of non-convex adjustment costs and hazard estimation
+results suggest the possibility of convex adjustment costs. The downward sloping hazard can be due to the unobserved heterogeneity across plants such as plants idiosyncratic obsolescence
+caused by different R&D capabilities and implies the existence of convex adjustment costs. Food plants frequently invest during their first few years of operation and high productivity plants
+postpone investing due to high fixed costs "Gender Differences in Business Performance: Evidence from the Characteristics of Business Owners Survey
+US Census Bureau Center for Economic Studies Paper No. CES-WP- 08-39 Author: ROBERT W. FAIRLIE University of California, Institute for the Study of Labor (IZA), RAND Corporation Email
+rfairlie@ucsc.edu Auth-Page: http://ssm.com/author=457 Contact: ALICIA ROBB University of California, Santa Cruz Email: arobb@ucsc.edu Auth-Page: http://ssrn.com/author=889019 Full
+Text: http://ssrn.com/abstract= 1260987 ABSTRACT: Using confidential microdata from the U.S. Census Bureau, we investigate the performance of female-owned businesses making
+comparisons to male-owned businesses. Using regression estimates and a decomposition technique, we explore the role that human capital, especially through prior work experience, and
+financial capital play in contributing to why female-owned businesses have lower survival rates, profits, employment and sales. We find that female-owned businesses are less successful than
+male-owned businesses because they have less startup capital, and business human capital acquired through prior work experience in a similar business and prior work experience in family
+business. We also find some evidence that female-owned businesses work fewer hours and may have different preferences for the goals of their business,
+"Computer Network Use and Firms' Productivity Performance: The United States vs. Japan US Census Bureau Center for Economic Studies Paper No. CES-WP- 08-30 Contact: B.K. ATROSTIC
+U.S. Census Bureau - Center for Economic Studies Email: batrostic@ces.census.gov Auth-Page: http://ssrn.com/author=644252 Co-Author: KAZUYUKI MOTOHASHI University of Tokyo -
+Research Center for Advanced Science and Technology (RCAST) Email: motohashi-kazuyuki@rieti.go.jp Auth-Page: http://ssm.com/author=422469 Co-Author: SANG V. NGUYEN U.S. Census
+Bureau Email: sgnuyen@ces.census.gov Auth-Page: http://ssrn.com/author=364271 Full Text: http://ssm.com/abstract=1269425 ABSTRACT: This paper examines the relationship between
+computer network use and firms' productivity performance, using micro-data of the United States and Japan. To our knowledge, this is the first comparative analysis using firm-level data for
+the manufacturing sector of both countries. We find that the links between IT and productivity differ between U.S. and Japanese manufacturing. Computer networks have positive and
+significant links with labor productivity in both countries. However, that link is roughly twice as large in the U.S. as in Japan. Differences in how businesses use computers have clear links with
+productivity for U.S. manufacturing, but not in Japan. For the United States, the coefficients of the intensity of network use are positive and increase with the number of processes. Coefficients
+of specific uses of those networks are positive and significant. None of these coefficients are significant for Japan. Our findings are robust to alternative econometric specifications. They also are
+robust to expanding our sample from single-unit manufacturing firms, which are comparable in the two data sets, to the entire manufacturing sector in each country, as well as to the wholesale
+and retail sector of Japan. _ _S OLICITATIONOFABSTRACTS To submit your research to SSRN, log
+in to the SSRN User HeadQuarters, http://hq.ssrn.com, and click on the My Papers link on the left menu, and then click on Start New Submission at the top of the page.
+
+DISTRIBUTION SERVICES If your Institution is interested in learning more about increasing
+readership for its research by becoming a Partner in Publishing or starting @ Research Paper Series, please email: Management@SSRN.com.
+
+DISTRIBUTED BY Entrepreneurship Research & Policy Network (ERPN), a division of Social Science
+Electronic Publishing, Inc. (SSEP) and Social Science Research Network (SSRN) S UBS CRIPTI1O NMANAG EM ENT You can change your journal subscriptions by going to the SSRN
+User HeadQuarters: http://hq.ssrn.com, Please enter the email address where you received this email in the "Your Email Address" field and dick "Submit". Click on "Email me this information
+on the next screen, and your User ID and Password will be emailed to you. Once you have successfully logged in, you will be able to change your journal subscriptions. If you have questions or
+problems with this process, please email UserSupport@SSRN.com or call 877-SSRNHelp (toll free). Outside of the United States, call 00+1+585+4428170. SITE LICENSE MEMBERSHIP Many
+university departments and other institutions have purchased site licenses covering all of the journals in a particular network. If you want to subscribe to any of the SSRN journals, you may be
+able to do so without charge by first checking to see if your institution currently has a site license. To do this please click on any of the following URLs. Instructions for joining the site are
+included on these pages. Accounting Research Network http://www.ssrn.com/update/arn/am_site-licenses.html Economics Research Network
+
+http://www. ssrn.com/update/em/ern_site-licenses.html Entrepreneurship Research & Policy Network http://www.ssmn.com/update/erpn/erpn_site-licenses.htm| Financial Economics Network
+http://www. ssrn.com/update/fen/fen_site-licenses. html NEW Health Economics Network NEW http://www.ssrn.com/update/hen/hen_site-licenses.html Information Systems & eBusiness
+Network http://www.ssrn.com/update/isn/isn_site-licenses.html Legal Scholarship Network http://www. ssrn.com/update/Isn/Isn_site-licenses. html Management Research Network
+
+http://www. ssrn.com/update/mrn/mm_site-licenses.html Political Science Network http://www.ssrn.com/update/psn/psn_site-licenses.html Social & Environmental Impact Network
+http://www. ssrn.com/update/sein/sein_site-licenses.html Social Insurance Research Network http://www.ssmn.com/update/sim/sim_site-licenses.html HRN Classics Research Network
+http://www. ssrn.com/update/crn/crn_site-licenses. html HRN English & American Literature Research Network http://www.ssrn.com/update/lit/lit_site-licenses.html HRN Philosophy Research
+Network http://www.ssrn.com/update/pm-/prn_site-licenses.html| If your institution or department is not listed as a site, we would be happy to work with you to set one up. Please email
+Site@SSRN.com for more information. INDIVIDUAL MEMBERSHIP (for those not covered by a site license) Join a site license, request a trial subscription, or purchase a subscription within the
+SSRN User HeadQuarters: http://www.ssrn.com/subscribe FINANCIAL HARDSHIP SSRN understands there is financial hardship in certain countries (for example the former Soviet Union and
+Eastern Bloc countries). If you are undergoing financial hardship and you cannot pay for a journal, please email a detailed explanation to Subscribe@SSRN.com
+
+To ensure delivery of this journal, please add Entrepreneurship Research Network to your email contact list.
+REDISTRIBUTION Individual and professional subscriptions to the journal are for single users. It is a violation of copyright to redistribute this document electronically or otherwise without the
+explicit permission of Social Science Electronic Publishing, Inc. Site licenses for organizations are available by emailing Site@SSRN.com
+
+_ __ Copyright 2009 SSEP, Inc., all rights reserved. _Part_14611_31667064.12314325031 70 Content-Type:
+text/html; charset=us-ascii Content-Transfer-Encoding: quoted-printable =20 _Part_14611_31667064.1231432503170- Part_14610_4152515.1231432503170-- =20 if this
+message does not dis= play correctly, click here ;"> U.S. CENSUS BUREAU CENTER = ;FOR ECONOMIC STUDIES RESEARCH PAPER SERIES Vol. 3, No. 1: Jan 08, 2009 SANG V. NGUYEN,
+EDITOR Senior Economist, U.S. Census Bureau
+
+ 
+
+ 
+
+ 
+
+ 
+
+PAPER SERIES Vol. 3, No. 1: January 8, 2009 Editor:

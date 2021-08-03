@@ -1,0 +1,20 @@
+[] edit Design The small, winged AGM-86B/C missile is powered by a that propels it at sustained subsonic speeds and can be launched from both high and low altitudes. After launch, the
+missile's folded wings, tail surfaces and engine inlet deploy. The nuclear AGM-868 is then able to fly complicated routes to a target through use of a terrain contour-matching guidance
+system (). The conventionally armed AGM-86C uses an onboard (GPS) coupled with its (INS) to fly. This allows the missile to guide itself to the target with pinpoint accuracy. , and were
+the guidance contractors for the C-model. Williams F107 turbofan jet engine TERCOM Global Positioning System inertial navigation system Litton Guidance and Control Interstate Electronics
+Corp. AGM-868/C missiles increase flexibility in target selection. AGM-868 missiles can be air-launched in large numbers by the bomber force. B-52H bombers carry six AGM-86B or
+AGM-86C missiles on each of two externally mounted pylons and eight internally on a rotary launcher, giving the 8-52H a maximum capacity of 20 missiles per aircraft. The AGM-86C
+CALCM differs from the AGM-868 air launched cruise missile in that it carries a conventional blast/fragmentation payload rather than a nuclear payload. An enemy force would have to
+counterattack each of the missiles, making defense against them costly and complicated. The enemy's defenses are further hampered by the missiles' small size and low-altitude flight
+capability, which makes them difficult to detect on . radar [1] [] edit AGM-86A/B AGM-868 ALCM In February , the entered into contract to develop and flight-test the prototype or
+proof-of-concept vehicle AGM-86A air-launched cruise missile, which was slightly smaller than the later 8 and C models. The 86A model did not go into production. Instead, in January
+1977, the Air Force began full-scale development of the AGM-86B, which greatly enhanced the B-52's capabilities and helped the USA maintain a strategic deterrent. 1974 U.S. Air Force
+Production of the initial 225 AGM-868 missiles began in fiscal year and production of a total 1,715 missiles was completed in October 1986. The air-launched cruise missile had become
+operational four years earlier, in December . More than 100 launches have taken place since then, with a 90% approximate success rate. The missile's flight path is pre-programmed and it
+becomes totally autonomous after launch. 1980 1982 In June 1986 a limited number of AGM-86B missiles were converted to carry a high-explosive blast/fragmentation warhead and an
+internal GPS. They were redesignated as the AGM-86C CALCM. This modification also replaced the B model's terrain contour-matching guidance system () and integrated a capability with
+the existing inertial navigation computer system. TERCOM GPS [1] [] edit AGM-86C/D The AGM-86C is a Conventional Air-Launched (CALCM) and is a conventional blast/fragmentation
+derivative of the nuclear armed AGM-868. The AGM-860 is the Penetrator version of the CALCM which is designed to attack deeply buried targets. Cruise Missile In 1996 and 1997, 200
+additional CALCMs were produced from excess ALCMs. These missiles, designated Block I, incorporate improvements such as a larger and improved conventional payload (3,000 pound
+blast class), a multi-channel GPS receiver and integration of the buffer box into the GPS receiver. The upgraded avionics package was retrofitted into all existing CALCM (Block 0) so all
+AGM-86C missiles are electronically identical. [1]

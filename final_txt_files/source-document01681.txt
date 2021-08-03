@@ -1,0 +1,46 @@
+| Previous Article Next Article The chemokine receptors CXCR4 and CCR7 have beensuggested to play an important role in cancer invasion and metastasis.The expression of these receptors
+in human cervical cancer,however, has seldom been characterized. Tumor cell invasion and subsequent dissemination via the bloodstreamand lymph vessels are critical steps in the progression
+of malignanttumors, including cervical cancer. The mechanisms involved inlymph node metastasis, however, are not fully understood. Ina previous study, we demonstrated that the expression
+of vascularendothelial growth factor-C is involved in the promotion oflymph node metastasis in cervical cancer []. The determinationof such a predictive molecular marker that is correlated
+withlymph node metastasis might be important in elucidating themechanism of metastasis. In this study, we examined 174 patients presenting with thelnternational Federation of Gynecology
+and Obstetrics (FIGO)stages IBDIIIB cervical cancers. Each of these patientsunderwent radical hysterectomy and pelvic lymphadenectomy atthe Department of Obstetrics and Gynecology of the
+Okayama UniversityMedical School. Tumor specimens were obtained at the time ofsurgery and were immediately fixed in 10% neutral-buffered formalinand embedded in paraffin. Informed
+consent was obtained fromeach patient before sample collection. Histological cell typingwas conducted according to the World Health Organisation classificationsas follows: 102 were classified
+as squamous cell carcinomas,49 as adenocarcinomas, and 23 as adenosquamous carcinomas. Clinicalstaging was assessed based on the FIGO staging system as follows:92 were allocated to
+stage IB, four to stage ITA, and 78 tostage IIB. The median age at the time of surgery was 46 years(range 250167 years). Patients with lymph node metastasis,parametrial involvement, deep
+stromal invasion, or marked lymphCivascularspace involvement were treated with an adjuvant external whole-pelvicirradiation, combination chemotherapy, or chemoradiation.
+Disease-freesurvival (DFS) and overall survival (OS) rates were definedas the interval from the initial surgery to clinically or radiologicallyproven recurrence and death, respectively. The end
+date of thefollow-up study for conducting the analysis was 31 March 2006,and the median duration of the follow-up was 56.5 months (range1[1131 months). shows the representative
+immunostainingprofiles of CXCR4 in cervical cancer specimens. In normal cervicaltissues, we found no distinct CXCR4 staining. Of the 174 tumorsamples examined, 110 (63%) were positively
+stained and 64 (37%)were negatively stained. The association between CXCR4 expressionand dlinicopathological factors is shown in . CXCR4 expressionwas significantly higher in elderly
+patients ( = 0.025) andin FIGO stage II tumors ( = 0.024); it was also significantlyelevated in patients with cancers showing large tumor size (= 0.010), deep stromal invasion ( = 0.0004),
+lymphOivascularspace involvement ( = 0.0002), or lymph node metastasis (< 0.0001). Furthermore, no significant association was observedbetween CXCR4 immunoreactivity and histological
+type, vaginalinvasion, parametrial invasion, or ovarian metastasis. shows the characteristic immunostaining profilesof CCR7 in cervical cancer specimens. In normal cervical tissues,we found
+no distinct CCR7 staining. Of the 174 tumor samples,102 (59%) were positively stained and 72 (41%) were negativelystained. The association between CCR7 expression and
+clinicopathologicalfactors is shown in . CCR7 expression was significantlyhigher in FIGO stage II cases ( < 0.0001) and squamous cellcarcinomas ( = 0.010); it was also significantly increasedin
+patients with cancers showing large tumor size ( < 0.0001),deep stromal invasion ( < 0.0001), vaginal invasion ( =0.047), lymphCvascular space involvement ( = 0.012),or lymph node
+metastasis ( < 0.0001). Furthermore, no significantassociation was observed between CCR7 immunoreactivity and age, parametrial invasion, or ovarian metastasis. We noticed nuclear CCR7
+staining in 24 samples (14%). shows the representative immunostaining profile of nuclear CCR7in cervical cancer. The association between nuclear CCR7 expressionand clinicopathological
+factors is shown in . NuclearCCR7 expression was significantly lower in patients with cancersshowing vascular space involvement ( = 0.039). There was nosignificant association between
+nuclear CCR7 immunoreactivityand any other clinicopathological factor. The predictors of lymph node metastasis were determined by stepwiselogistic regression analysis. Pelvic lymph node
+metastasis wascorrelated with tumor size, stromal invasion, parametrial invasion, lymphOvascular space involvement, ovarian metastasis,and CXCR4 and CCR7 expression status ().
+Multivariateanalysis revealed that deep stromal invasion ( = 0.017) andCXCR ( = 0.016) and CCR7 ( = 0.022) expression were the independentfactors that influenced pelvic lymph node
+metastasis. presents the DFS curves of the 174 patients with cervicalcancer on the basis of the CXCR4 expression status. Both theDFS and OS rates of patients exhibiting CXCR4 expression
+weresignificantly lower than those of patients lacking CXCR4 expression( = 0.025 and = 0.0001, respectively). presentsthe DFS curves of the 174 patients with cervical cancer on thebasis of
+the CCR7 expression status. Both the DFS and OS ratesof patients exhibiting CCR7 expression were significantly lowerthan those of patients demonstrating the lack of CCR7 expression|
+0.006 and = 0.038, respectively). Furthermore, the DFSand OS rates of patients exhibiting both CXCR4 and CCR7 expressionwere significantly poor ( < 0.0001) (). There wasno association
+between nuclear CCR7 expression and patient outcome. The results of the univariate survival analyses of other variablesare shown in We examined the prognostic value of both CXCR4
+and CCR7 expressionusing the Cox proportional hazard model. Multivariate analysisshowed that lymph node metastasis was the only independent prognosticfactor for DFS [95% confidence
+interval (CI) 1.20010.87; = 0.022]. In addition, non-squamous cell carcinoma was thestrongest independent prognostic factor for OS, followed byboth CXCR4 and CCR7 expression (95% CI
+1.091110.20, =0.035, and 95% CI 1.030117.86, = 0.046, respectively). This is the first study analyzing CXCR4 and CCR7 protein expressionsin a large series of human cervical cancer
+specimens. We demonstratedthat both CXCR4 and CCR7 expression is significantly higherin patients with cancers displaying large tumor sizes, deepstromal invasion, lymphCvascular space
+involvement, orlymph node metastasis. Furthermore, CXCR4 expression was significantlyhigher in elderly patients, while CCR7 expression was significantlygreater in patients with cancers
+exhibiting vaginal invasion. The stepwise logistic regression analysis revealed that bothCXCR4 and CCR7 expression influenced pelvic lymph node metastasisindependently. This finding indicates
+that both CXCR4 and CCR7expression is up-regulated in cases with positive nodes andmay contribute to the lymph node metastasis occurring in cervicalcancers. The present data are consistent
+with previous reportsthat describe a positive correlation between CXCR4 expressionand lymph node metastasis in cases of non-small-cell lung cancer(NSCLC), nasopharyngeal cancer, colorectal
+cancer, and esophagealcancer [01]. Positive correlation has also been reportedbetween CCR7 expression and lymph node metastasis in cases ofNSCLC, breast cancer, gastric cancer, colorectal
+cancer, esophagealcancer, prostate cancer, and oral and oropharyngeal squamouscell carcinoma [, 1]. Although the role of chemokinesand their receptors in human cancers is complex, the
+chemokinereceptors CXCR4 and/or CCR7 may have a critical role in determininglymph node metastasis in these kinds of tumors. We would like to Chisae Kodera for her help with
+histochemistryand in the preparation of sections. 1. Hashimoto I, Kodama J, Seki N, et al. (2001) Vascular endothelial growth factor-C expression and its relationship to pelvic lymph node
+status in invasive cervical cancer. 930197. Annals of Oncology Advance Access originally published online on October 10, 2006 Annals of Oncology 2007 18(1):70-76;
+doi:10.1093/annonc/mdl342 This Article

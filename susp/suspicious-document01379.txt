@@ -1,0 +1,176 @@
+10 External links [] edit Types of water heating appliance Water for space heating can be heated by fossil fuels in a boiler. Potable water may be heated in a separate appliance: this is
+common practice in the where warm-air space heating is usually employed. USA [] edit Gravity system Where a space-heating water boiler is employed the traditional arrangement in
+the is to use boiler-heated ("") water to heat ("") water in a cylindrical vessel (usually made of copper) containing potable water supplied from a cold water , usually in the space of the
+building. This produces a fairly steady supply of DHW at low but usually with a good . Water heating appliances in most other parts of the world do not use cold water storage tanks but
+heat water at pressures close to that of the incoming supply. UK primarysecondary storage tank roof static pressure head flow mains water [] edit Instantaneous water heaters
+Stand-alone appliances for instantaneously heating water for DHW (Domestic Hot Water) are known in North America as heaters, elsewhere as , or . In Australia and New Zealand there
+was a similar wood fired appliance known as the .tanklessmultipoint heatersgeysersAscots chip heater A common arrangement where hot-water space heating is employed is for the
+boiler to also heat potable water giving a continuous supply of DHW without any extra equipment required. Appliances capable of supplying both space-heating and DHW are known as (or
+"") boilers.combinationcombi Although instantaneous heaters can give a continuous supply of DHW the rate at which they can produce it is limited by the thermodynamics of heating water
+from the available fuel supplies. [] edit Storage systems Another popular arrangement where higher flow rates are required (although for limited periods) is to heat water in a pressure
+vessel capable of withstanding a close to that of the incoming mains supply. (A is usually employed to limit the pressure to a safe level for the vessel.) hydrostatic pressure pressure
+reducing valve In North America these vessels are known as and may incorporate a gas or oil burner heating the water directly.tanks Where hot-water space heating boilers are used
+DHW cylinders are usually heated indirectly by primary water from the boiler, or by an electric (often as backup to the boiler). In the UK these vessels are known as (or commonly as s
+after the of a widely-used model). In the US, when connected to a boiler they are known as . immersion heater unvented cylindersMegaflo brand name indirect-fired water heaters [] edit
+Thermodynamics and economics Water enters residences in the US at about 10 (50 ) (varies with latitude and season). Adults generally prefer shower temperatures of 40 49 C (105 120
+F), requiring the water temperature to be raised about 30 C (55 F) or more, if the hot water is later mixed with cold water. The Uniform Plumbing Code reference shower flow rate is 2.5
+gpm (gallons per minute); sink and dishwasher usages range from 13 gpm. CF Natural gas in the U.S. is measured in CCF (100 cubic feet), which is converted to a standardized heat
+content unit called the , equal to 100,000 . A BTU is the energy required to raise one pound of water by one degree Fahrenheit. A U.S. gallon of water weighs 8.3 pounds. So, to raise a
+40-gallon tank of 55 F water up to 105 F would require 40 x 8.3 x (105 55) / 100,000 BTU, or approximately 0.17 CCF, at 100% efficiency. A 40,000 BTU (per hour) heater would take 25
+minutes to do this, at 100% efficiency. At $1 per therm, the cost of the gas would be about 17 cents. therm British thermal units In comparison, a typical electric water heater has a 4500
+watt heating element, which if 100% efficient results in a heating time of about 1.1 hours. Since 16,600 BTU is roughly 4.9 , at 10 cents/kWh the electricity would cost $0.49. Operating a
+shower at 2.5 gpm and 104 degrees Fahrenheit is equivalent to operating a 13.2 kW appliance . In the UK, domestic electric immersion heaters are usually rated at 3 kilowatts . kwh [1]
+[2] Energy efficiencies of tank water heaters in residential use can vary greatly, particularly based on manufacturer and model. However, electric heaters tend to be slightly more
+efficient with recovery efficiency (how efficient energy is transferred to the water) reaching about 98%. Gas fired heaters have maximum recovery efficiencies of only about 86% (the
+remaining heat is lost with the flue gasses). Overall energy factors can be as low as 80% for electric and 50% for gas systems. [3] A tankless water heater operating at those same
+power levels (at 100% efficiency) would be able to supply 1.6 gpm continuously, raising the temperature by 50 F. The same unit could supply 1.3 gpm while raising the temperature by
+
+60 F. To be able to handle a full house load of multiple uses (at least 5 gpm) with a centralized tankless water heater would require three to four times this power level somewhat
+difficult to achieve with natural gas, and very difficult to achieve with electricity. Many tankless water heaters can use over 100,000 BTU/h during high flow, and so require especially large
+power supplies. Unfortunately, it takes a great deal of energy to heat water, as one may experience when attempting to boil a gallon of water on a stove. For this reason, tankless
+on-demand water heaters need to have a very large energy source to be usable. A wall outlet, by comparison, can only source enough energy to warm a disappointingly small amount of
+water: about 0.17 gpm at 40 C temperature elevation. [] edit Tank-type water heaters A storage water heater In household and commercial usage, most water heaters in North America
+are of the tank type. Also called , these consist of a cylindrical tank in which water is kept continuously hot and ready for use. Typical sizes for household use range from 75 to 400 litres
+(20 to 100 U.S. gallons). These may use , , , , , or other energy sources. Natural gas heaters are most popular in the and most European countries, since the gas is often conveniently
+piped throughout cities and towns and currently is the cheapest to use. Compared to tankless heaters, storage water heaters have the advantage of using energy (gas or electricity) at a
+relatively slow rate, storing the heat for later use. Larger tanks tend to provide hot water with less temperature fluctuation at moderate flow rates.storage water heaters electricity natural
+gas propane heating oil solar United States Storage water heaters in the United States and New Zealand are typically vertical, cylindrical tanks, usually standing on the floor or on a
+platform raised a short distance above the floor. Storage water heater tanks in Spain are typically horizontal. In India, they are mainly vertical. In apartments they can be mounted in the
+ceiling space over laundry-utility rooms. In western countries, where ambient temperature is colder, tiny electric storage water heaters with capacities ranging from 8 to 32 litres (2 to 6
+gallons) are made for installation in kitchen and bath cabinets or on the wall above a sink. They typically use low power heating elements, about 1 kW to 1.5 kW, and can provide hot
+water long enough for hand washing, or, if plumbed into an existing hot water line, until hot water arrives from a remote high capacity water heater. They are sometimes used when
+retrofitting a pump and recirculating plumbing in a building is too costly or impractical. Since they maintain water temperature thermostatically, they will supply hot water at extremely
+low flow rates, unlike tankless heaters.point-of-use In tropical countries, like Singapore, India: An ideal storage water heater may vary from 10 L to 35 L Usage of 6 L tanks is not
+uncommon, Smaller tanks are sufficient as ambient weather and water temperature are moderate. The inner tank of the Water heater is the single most important feature of a water
+heater. The best heaters have a copper container. The second most important feature may be the type of heating element. The cartridge elements score over tubular elements. [] edit
+Insulation and other improvements In general, the more tank the better, since it reduces standby heat loss. Tanks are available with insulation ratings ranging from to R-24. It may be
+possible to add an extra insulating blanket or jacket on the outside of a poorly insulated tank to reduce heat loss. The most common type of water heater blanket is insulation with a film
+on the outside. The insulation is wrapped around the tank and the ends are taped together. It is important that the blanket be the right size for the tank and not block air flow or cover
+safety and drainage valves, the controls, or block airflow through the exhaust vent, if any. In very humid locations, adding insulation to an already well-insulated tank may cause
+condensation problems, potentially causing rust, mold, or operational problems. insulation R-6 [1] fiberglass vinyl Modern water heaters have PUF (Polyurethane Foam) insulation. In
+countries where serviceability is very important, PUF capsules are kept between the inner tank and the outer body. Depending upon the insulation efficiency, star rating is given in India
+Other improvements include check valve devices at their inlet and outlet, cycle timers, electronic in the case of fuel-using models, sealed air intake systems in the case of fuel-using
+models, and pipe insulation. The sealed air-intake system types are sometimes called "band-" intake units. "High efficiency" condensing units can convert up to 98% of the energy in the
+fuel to heating the water. The exhaust gases of combustion are cooled and are mechanically either through the roof or through an exterior wall. At high efficiencies a drain must be
+supplied to handle the water condensed out of the combustion products which are primarily carbon dioxide and water vapor. ignition joist ventilated combustion In traditional in the the
+space-heating boiler is set up to heat a separate or for potable hot water. Such tanks are often fitted with an auxiliary electrical for a quick temperature boost. Heat from the
+space-heating boiler is transferred to the potable water tank by means of a heat exchanger, and the boiler operates at a higher temperature than the potable hot water supply. Most
+potable water heaters in North America are completely separate from the space heating units. plumbing United Kingdom hot water cylinderhot water tankimmersion heater Residential
+combustion water heaters manufactured since 2003 in the United States have been redesigned to resist ignition of flammable vapors and incorporate a thermal cutoff switch, per . The first
+feature attempts to prevent vapors from flammable liquids and gasses in the vicinity of the heater from being ignited and thus causing a house fire or explosion. The second feature
+prevents tank overheating due to unusual combustion conditions. These safety requirements were made based on homeowners storing, and sometimes spilling, or other flammable liquids
+near their water heaters and causing fires. Since most of the new designs incorporate some type of flame arrestor screen, they require monitoring to make sure they don't become
+clogged with lint or dust, reducing the availability of air for combustion. If the flame arrestor becomes clogged, the thermal cutoff may act to shut down the heater. ANSI Z21.10.1 gasoline
+A or is the name (used in at least) for a simple household secondary using incidental heat. It typically consists of a hot water pipe running behind a or (rather than ), and has no facility to
+limit the heating. In the UK, this is called a . Modern wetbacks may run the pipe in a more sophisticated design to assist .wetback stovewetback heater New Zealand water-heater fireplace
+stove hot water storage back boiler heat-exchange [] edit Maintenance It is important that a water heater, particularly a combustion type, be properly installed to avoid safety hazards.
+The area around it must be kept clear. The T&P (Temperature and Pressure) relief valve must be tested at least once a year by lifting the lever provided and allowing water to flow. Failure
+to do so may result in the valve jamming which could result in a dangerous pressure buildup and potential rupture of the tank, or premature failure of the tank or other plumbing
+components. Areas with high mineral content or valves which have not been maintained correctly may leak for some time after clearing. If the valve does not stop dripping, or it is noticed
+to be dripping continually on its own and the water temperature and pressure are within prescribed limits, it should be replaced. Most valves have attached literature to this effect. [2] [3]
+Although not required by code in all areas, any hot water storage/heating system should be combined with an expansion tank or thermal expansion relief valve whenever the water system
+incorporates any sort of or backflow prevention, eg or as will cause pressure within a system to increase (most noticeably when there is no hot water being drawn) which will also cause
+intrusion of warm potentially contaminated water to backflow into the cold water side of the system and again may result in premature failure of the hot water tank or other plumbing
+components. [4] [5] check valve water meter pressure reducing valve thermal expansion [6] Sediment that accumulates in the bottom of the tank should be drained out at least yearly, to
+maintain heating efficiency and to make the tank last longer. [7] [8] [9] [10] In the past, tanks were made out of and were very resistant; they could last for decades. Now tanks are
+made out of steel lined with glass or porcelain. A steel tank can rust and leak. To prevent this, rods of or themselves undergo to reduce corrosion of the steel tank. Tanks with longer
+guarantees have increased material when the anode is used up, the tank will rust. It may be possible to check the anode condition, and replace it if it is wearing out. Modern US water
+heater tanks last about ten years. The tank should have a tray underneath to contain leaks and channel them into a drain. A variety of alarms are available that alert the homeowner to
+leaks, with some devices having the capability of shutting the water off or alerting a remote location by telephone. All water heaters might eventually leak, so it is important to know
+where the water supply shutoff valve is located. copper corrosion [11] sacrificial anode magnesium aluminium alloy galvanic corrosion anode [12] [13] [14] Electric water heaters made
+with plastic tanks (e.g., polybutylene) are available. Designed with corrosion-free and corrosion-resistant materials, they can conceivably last the life of a dwelling. The only maintenance
+requirement would be to periodically clean sediments from the bottom of the tank and clean mineral scale off the heating elements. [15] [] edit Electric water heating For small electric
+boilers see Electric water boiler In the UK, electric water heating is often done by an fitted near the bottom of the hot water tank. The immersion heater is a metal tube containing an
+insulated which is usually rated at 3 kilowatts.immersion heater electric resistance heater Because tank-type water heaters store , electrical water heaters can be a good match for an
+intelligent electrical power distribution system, heating when the electrical grid load is low and turning off when the load is high. This could be implemented by allowing the power supplier
+to send load-shedding requests, or by the use of real-time energy pricing. See . heat Economy 7 [] edit Tankless heaters Tankless water heaters, also called or , instantaneous,
+continuous flow, inline, flash, on-demand or instant-on water heaters, are also available and gaining in popularity. These water heaters heat the water as the water flows through the
+device, and do not retain any water internally except for what is in the heat exchanger coil. Tankless heaters are often installed throughout a household at more than one point-of-use
+(POU), far from the central water heater, or larger models may still be used to provide all the hot water requirements for an entire house. The chief advantages of tankless water heaters
+are a continuous flow of hot water and energy savings (as compared to a limited flow of continuously heating hot water from conventional tank water heaters).combinationcombi boilers []
+edit Various types and their advantages Point-of-use tankless water heaters are located right where the water is being used, so the water is almost instantly hot, which saves water. They
+also save even more energy than centrally installed tankless water heaters because no hot water is left in the pipes after the water is shut off. However, point-of-use tankless water
+heaters are usually used in combination with a central water heater since they are usually limited to under 6 litres/minute (1.5 U.S. gallons/minute), as the expense of buying a heater for
+every , , , or can outweigh the money saved in water and energy bills. In addition, point of use water heaters until recently were almost always electrical, and is often substantially more
+expensive than or . kitchen laundry room bathroom sink electricity natural gas propane Tankless heaters can ideally be somewhat more efficient than storage water heaters. In both kinds
+of installation (centralized and POU) the absence of a tank saves as conventional water heaters have to reheat the water in the tank as it cools off, called standby loss. There is a
+misconception that the energy lost by a tanked heater stored inside a home merely helps to heat the home. This is true of an electric unit, but for a gas unit most of this wasted energy
+leaves through the exhaust vent. However, if the building needs to be cooled to maintain normal temperatures this results in a loss in efficiency With a central water heater of any type,
+water is wasted waiting for water to heat up because of the cold water in the pipes between the and the water heater. This water waste can be avoided if a recirculating pump is installed,
+but at the cost of electricity to run the pump and wasted energy to heat the water circulation through the pipes. energy faucet Tankless water heaters can be divided into two categories:
+full on/full off" and "modulated". Full on/full off units do not have a variable output level; the unit is either on or off. Modulated tankless water heaters base the heat output on the flow of
+water running through the unit. This is usually done through the use of a flow sensor, modulating gas valve, inlet water temperature sensor and an outlet water temperature sensor-choke
+valve and means that the occupants should receive the same output of water at differing velocities, usually within a close range of 2 C. power temperature The high efficiency condensing
+combination boiler provides both space heating and water heating, an increasingly popular choice in UK houses. In fact, combination boilers now account for over half of all the new
+domestic boilers installed in Britain. [16] [17] In certain parts of South America as well as Costa Rica and Puerto Rico, a point of use style water heater commonly referred to as the
+"Electric Shower Head" is used in many residential and some commercial installations. As the name implies, an electric heating element is incorporated into such shower heads to heat the
+water. However, many of these units are often poorly installed, often with exposed wiring in wet locations. Under current North American conditions, the most cost effective configuration
+from an operating viewpoint is usually to use a central tankless water heater for most of the house, and install a point of use tankless water heater at any distant faucets or bathrooms.
+However, this may vary according to how much electricity, gas and water costs in the area, the layout of the house, and how much hot water is used. Only electric tankless water heaters
+were available at first and they are still used for almost all point of use heaters, but natural gas and propane heaters are now common. When consumers are considering a whole house
+gas tankless unit, they are advised to look at how the unit functions when raising the water temperature by about 42 C (75 77 F). Thus, if they live in a cold weather climate, they are
+advised to look at the unit's capacity with 3-10 C (38 50 F) inlet water temperatures, and find a size that produces approximately 15 litres/minute (4 gpm) even in winter if they have a
+typical-sized house and desire what is called a 2-appliance heater. This same unit may produce 25-30 litres/minute (6.3 6.9 gpm) in summer with higher inlet temperatures, but there is
+greater interest in year round production and usability. [] edit Advantages There are certain advantages to tankless water heaters : Although a tankless water heater might cost more
+initially it will result in both energy and cost savings in the long term. Since water is only heated when it is needed there is no wasteful heating of water. With a tank water will be kept hot
+all day even if it never gets used and heat loss through the tank walls will result in a continual energy drain. Even in homes or buildings with a high demand for hot water a tankless water
+heater will provide some level of savings. In a typical home these savings are quite substantial.Long term energy savings: Since water is heated while passing through the system an
+unlimited supply of hot water is available with a tankless water heater. Although flow rate will determine the amount of hot water that can be generated at one time it can be generated
+indefinitely.Unlimited hot water: Most tankless water heaters can be mounted on a wall or even internally in a building's structure. This means less physical space has to be dedicated to
+heating water. Even systems that can't be mounted on wallls take up less space than a tank-type water heater.Less physical space: No stored water means there is no risk of water
+damage from a tank failure or rupture. Improper piping in either the hot or cold water lines to the tankless water heater can result in water damage though.No risk of water damage: []
+edit Disadvantages Tankless heaters also have several disadvantages: Installing a tankless system comes at an increased cost, particularly in retro-fit applications. They tend to be
+particularly expensive in areas such as the US where they are not dominant, compared to the established tank design. If a storage water heater is being replaced with a tankless one, the
+size of the or gas pipeline may have to be increased to handle the load and the existing vent pipe may have to be replaced, possibly adding expense to the retrofit installation. Many
+tankless units have fully modulating gas valves that can range from as low as 10,000 to over 1,000,000 . For electrical installations (non-gas), 10 or 8 wire, corresponding to 10 or 6 mm ,
+is required for most POU (point of use) heaters at North American voltages. Larger whole house electric units may require up to 2 wire. In gas appliances, both pressure and volume
+requirements must be met for optimum operation. Installation cost: electrical wiring BTUs AWG AWG There is a longer wait to obtain hot water. @ tankless water heater only heats water
+upon demand, so all idle water in the piping starts at room temperature. Thus there is a more apparent "flow delay" for hot water to reach a distant faucet.Start-up delay: There is a
+short delay between the time when the water begins flowing and when the heater's flow detector activates the heating elements or gas burner. In the case of continuous use applications
+(showers, baths, washing machine) this is not an issue. However, for intermittent use applications (for example when a hot water faucet is turned on and off repeatedly) this can result in
+periods of hot water, then some small amount of cold water as the heater activates, followed quickly by hot water again. The period between hot/cold/hot is the amount of water which
+has flowed though the heater before becoming active. This cold section of water takes some amount of time to reach the faucet and is dependent on the length of piping. Intermittent use:
+Since a tankless water heater is inactive when hot water is not being used, they are incompatible with passive ( -based) hot water recirculation systems. They may be incompatible with
+active hot water recirculation systems and will certainly use more energy to constantly heat water within the piping, defeating one of a tankless water heater's primary
+advantages.Recirculation systems: convection Tankless water heaters often have minimum flow requirements before the heater is activated, and this can result in a gap between the cold
+water temperature, and the coolest warm water temperature that can be achieved with a hot and cold water mix.Achieving cooler temperatures: Similarly, unlike with a tank heater, the
+hot water temperature from a tankless heater is inversely proportional to the rate of the water flow -- the faster the flow, the less time the water spends in the heating element being
+heated. Mixing hot and cold water to the "right" temperature from a single-lever faucet (say, when taking a shower) takes some practice. Also, when adjusting the mixture in mid-shower,
+the change in temperature will initially react as a tanked heater does, but this also will change the flow rate of hot water. Therefore some finite time later the temperature will change
+again very slightly and require readjustment. This is typically not noticeable in non-shower applications. A temperature compensating valve tends to eliminate this issue.Maintaining
+constant shower temperature: Tankless systems are reliant on the water pressure that is delivered to the property. In other words, if a tankless system is used to deliver water to a
+shower or water faucet, the pressure is the same as the pressure delivered to the property and cannot be increased, whereas in tanked systems the tanks can be positioned above the
+water outlets (in the loft/attic space for example) so the force of gravity can assist in delivering the water, and pumps can be added into the system to increase pressure. Power showers,
+for example, cannot be used with tankless systems because it cannot deliver the hot water at a fast enough flow-rate required by the pump.Operation with low supply pressure: [] edit
+Solar water heaters Main article: Solar hot water Direct-gain solar heater panels with integral storage tank In some locales, water heaters are used. Their solar collectors are installed
+outside dwellings, typically on the roof or nearby. Nearly all models are the direct-gain type, consisting of flat panels in which water circulates. Other types may use dish or trough mirrors
+to concentrate sunlight on a collector tube filled with water, brine or other heat transfer fluid. A storage tank is placed indoors or out. Circulation is caused by natural or by a small electric
+pump. At night, or when insufficient sunlight is present, circulation through the panel can be stopped by closing a valve and/or stopping the circulating pump, to keep hot water in the
+storage tank from cooling. Depending on the local climate, freeze protection, as well as prevention of overheating, must be addressed in their design, installation, and operation. solar
+powered convection Another type of solar water heater is the . It is usually mounted on a roof, and has a row of glass tubes containing heat conducting rods, typically copper. The rods act
+as heating elements in a circulating loop of . The captured heat is transferred into the domestic hot water system by a heat exchanger. This design is smaller and more efficient than
+traditional flat plate collectors, and works well in very cold climates. The description refers to air having been removed from the glass tubes to create a vacuum. This results in very low
+heat loss, once the inside coating has absorbed solar radiation.evacuated tube collector antifreeze evacuated [] edit Geothermal heating In countries like and , and other volcanic regions,
+water heating may be done using , rather than combustion. Iceland New Zealand geothermal heating [] edit Water heater safety Water heaters potentially can explode and cause
+significant damage, injury, or death if certain safety devices are not installed. When the water temperature exceeds 100 (212 ), the water will remain a liquid inside the tank, but when the
+pressure is released as the water comes out the tap the water will boil, potentially inflicting steam burns. Water above about 88 C (190 F) will cause burns on contact. A safety device
+called a (T&P or TPR) valve, is normally fitted on the top of the water heater to dump water if the temperature or pressure becomes too high. Most plumbing codes require that a discharge
+pipe be connected to the valve to direct the flow of discharged hot water to a drain, typically a nearby , or outside the living space. Some building codes will allow for the discharge pipe to
+terminate in the garage. C F temperature and pressure relief floor drain If a gas or propane fired water heater is installed in a , it is recommended, and many codes require, that it be
+elevated at least 18 inches (0.46 m) above the floor to reduce the potential for fire or explosion due to spillage or leakage of combustible liquids in the garage. Furthermore, some local
+codes mandate that tank-type heaters in new and retrofit installations be braced to an adjacent wall with a strap to prevent them from tipping over and breaking the water and gas pipes in
+the event of an . garage earthquake For older houses where the water heater is part of the space heating boiler, and plumbing codes allow, some will install a "Watts 210" device in place
+of a TPR valve. When the device senses that the temperature reaches 99 C (210 F), it will shut off the gas supply and prevent further heating. In addition, an or exterior pressure relief
+valve must be installed to prevent pressure buildup in the plumbing from rupturing pipes, valves, or the water heater. plumbers expansion tank Scalding is a serious concern with any
+water heater. Human skin burns quickly at high temperature, e.g., only 60 C (140 F), but also at lower temperatures, e.g., 50 C (120 F), if the exposure times are sufficient. Older
+people and children often receive the most serious scalds due to disabilities or slow reaction times. In Australia and elsewhere it is common practice to put a tempering valve on the outlet
+of the water heater. A tempering valve mixes enough cold water with the hot from the heater to keep the outgoing water temperature fixed, often set to 50 C. Without a tempering valve,
+reduction of the water heater's setpoint temperature is the most direct way to reduce scalding. However, for sanitation, hot water is needed. Most residential dishwashing machines, for
+example, include an electric heating element for increasing the water temperature above that provided by water heaters. The result of mixing hot and cold water via a tempering valve is
+also referred to as tempered water. [18] There are two seemingly conflicting safety issues around water heater temperature the risk of scalding from excessively hot water, and the risk
+of incubating bacteria colonies, particularly , in water that is not hot enough to kill them. Both risks are potentially life threatening and are balanced by setting the water heater's
+thermostat to at least 50 C (120 F). The European Guidelines for Control and Prevention of Travel Associated Legionnaires Disease recommend that hot water should be stored at 60 C
+(140. F) and distributed such that a temperature of at least 50 C and preferably 55 C is achieved within one minute at outlets. If there is a dishwasher without a booster heater, it may
+require a water temperature within a range of 57 C (134.6 F) to 60 C (140 F) for optimum cleaning, in which case tempering valves set to no more than 55 C can be applied to faucets
+to avoid scalding. (Note: Tank temperatures above 60 C may produce calcium deposits, which could later harbor bacteria, in the water tank. Temperatures above 60 C may also cause
+gradual erosion of glassware in a dishwasher.) Legionella [4] [5]

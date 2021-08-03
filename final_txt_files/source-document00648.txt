@@ -1,0 +1,4 @@
+Exploring Virtual Worlds Seminar Virtual skeet shooting with the Hiball tracker is one of the many interesting projects resulting from this dass UNC comp. sci. class 239 "" created many
+interesting and different VR projects. Many with interactive haptic feedback devices like the virtual skeet shoot to your left. Exploring Virtual Worlds Seminar _ In this example, we have
+mounted one hiball on an HMD and the other on a toy shotgun. This setup was used for a project by for a skeet shooting simulation. Many others from force feedback clay sculpturing, virtual
+root canal, haptic baseball catching added to the diversity of projects in this course. Arun Neelamkavil This page updated on April 30, 1998.

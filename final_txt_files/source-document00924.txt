@@ -1,0 +1,9 @@
+| PRODUCT BROCHURE The Vega Prime FX module is a cross-platform and extendable development environment that delivers the functionality required to simulate a wide variety of special
+effects in real-time 3D applications. All effects can be accessed, modified, and added to an application using either the Lynx Prime GUI configuration tool or directly through the API. Vega
+Prime FX also allows you to customize the display, timing, triggering, and performance characteristics of effects within scenes by pre-defining and adjusting a number of visual attributes. Vega
+Prime FX Vega Prime provides atmospheric effects, including time of day, date, sun, stars, moon, cloud layers, wind, visibility, sky color, and fog. more... Offering optimized rendering that is
+fully customizable and scalable, Vega Prime FX allows you to easily construct and customize particle special effects. Configurable attributes include velocity, gravity, particle size, and particle
+life span. In addition to building customized special effects, you can leverage immediate access to pre-defined and optimized effects within any Vega Prime application. And, the combination of
+a GUI configuration tool, including wizards, and advanced API functionality provides an infrastructure ideally suited for quick and easy creation and deployment of real-time 3D applications
+
+Vega Prime FX features the following special effects: Explosion

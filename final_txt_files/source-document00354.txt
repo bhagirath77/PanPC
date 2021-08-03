@@ -1,0 +1,79 @@
+[] edit Flushing mechanisms Retrofit direct flush installation in which the flushometer has been replaced with a sensor-operated system that automatically flushes the fixture when a user
+departs. The system uses an infrared proximity sensor to detect a user approaching the fixture, then it waits until the user departs. A solenoid is used to actuate the flush from a 6 volt battery
+inside the unit that also powers the sensor circuit. The bowl siphon described above is triggered by a large flow of water into the bowl, which is provided by the flushing mechanism. This is
+usually of one of the following designs: [] edit Direct flush (flushometer) In the old-style manual flush systems, the user presses a button, which opens a flush allowing mains-pressure water
+to flow into the bowl, or sometimes the user presses directly on a flush lever (a handle connected directly to a flushometer). The valve contains a pneumatic mechanism that closes it after a
+preset time. This system requires no storage tank, but requires high volume water for a very brief time period. Thus a 3/4 inch (19 mm) pipe at minimum, and preferably a 1 inch (25 mm)
+pipe, must be used, but the high volume is used only for a short duration so very little water is used for the amount of flushing efficacy delivered. Direct valves are regulated by a device called
+a "flushometer" that meters out a certain controlled amount of water per flush. Direct flush makes the most efficient use of water, because it uses the water at full pressure and volume. The
+ability of water to perform the work in removing waste matter from the toilet bowl is given by pressure times volume. Typical pressure in an urban commercial building where flushometers are
+usually used is around 60 pounds per square inch (400 kPa) which is enough pressure to raise the water 137 feet (42 m) above the toilet bowl. Thus, in some sense, the effectiveness of direct
+flush is like having the tank 137 feet (42 m) above the bowl (lots of "flush energy"). valve [] edit Valve tank type A storage tank, or cistem, collects between 6 and 17 litres of water over a
+period of time. This system is suitable for locations plumbed with smaller diameter pipes. The actual water inlet is a 1/2" threaded connector in the UK and 3/8" on the Continent (an unusual
+example of an surviving). The storage tank is kept full by a or . An outlet in the bottom of the tank is covered by a buoyant plastic cover (the ) which is held in place by water pressure. To flush
+the toilet, the user pushes a lever, which lifts the flush valve from the outlet. The valve then floats clear of the outlet, allowing the tank to empty quickly into the bowl. As the water level drops,
+the floating flush valve descends back to the bottom of the tank and covers the outlet pipe again. This system is common in homes in the . Tank type toilets waste the energy in the water by
+converting the potential energy of 137 feet (42 m) (the "head" of pressure in typical North American city water mains) times acceleration due to gravity, into around 18 inches (460 mm) above
+the bowl. Some older style toilets mitigate this waste of energy to some degree by having the tank be as high as possible (up near the bathroom ceiling), but modern tank-type toilets waste
+the energy in the water, and therefore either use more water than necessary for a given flushing job, or for the same amount of water, flush less effectively than direct flush. imperial standard
+float valve ball cock flush valve USA Tanks near the ceiling are flushed by means of a dangling pull chain, often with a large omate handle, connected to a flush lever on the cistern itself.
+"Pulling the chain" remains a British euphemism for flushing the toilet, although this type of cistern is now relatively uncommon. [] edit Low-flow and High Efficiency toilets The conventional
+fiush-toilet or toilet uses 13 litres (3.4 US gallons or 2.8 imperial gallons) or more per flush. In 1992, the passed the , which mandated that, from 1994, the common flush-toilet use only 1.6 US
+gallons (6 litres) of water per flush. In response to the Act, manufacturers produced toilets, which many consumers did not like. Manufacturers responded to consumers complaints by
+improving the toilets. The improved products are generally identified as or HETS. HETs possess an effective flush volume of 4.8 litres (1.28 US gallons) or less. HETS may be or . A dual-flush
+toilet permits its user to choose between two amounts of water. Some HETs are (or or or ). The performance of a flush-toilet may be rated by a Maximum Performance (MaP) score. The low end
+of MaP scores is 250. The high end of MaP scores is 1000. A toilet with a MaP score of 1000 should provide trouble-free service. It should remove all waste with a single flush; it should not
+plug; it should not harbor any odor; it should be easy to keep clean. The United States uses a MaP score of 350 as the minimum performance threshold for HETS.gravity-fed United States
+Congress Energy Policy Act of 1992 low-flowhigh efficiency toilets [6] single-flushdual-flush [7] pressure-assisted power-assistedpump-assistedvacuum-assisted Environmental Protection
+Agency [6] [] edit American Standard Timed Cup Flush Valve The flush valve is responsible for quickly emptying the tank (cistern) and driving the waste from the bowl. It is sometimes
+referred to as the American Standard Tilting Flush Valve. In 1958 (citation: patent date), introduced a unique flush valve which differed from the conventional "flapper". Though no longer used
+in new toilets, this valve design remains an extremely popular upgrade when repairing an existing toilet. American Standard The American Standard timed cup flush valve incorporates two
+cylinders mounted , attached to a flushing disk. orthogonally Operation is best understood as follows: 1. Prior to flushing, the tank (cistern) is full of water. Both cylinders are submerged, and
+the flushing disk remains tightly shut due to the weight of the water pushing it against its seat. 2. with a flush, the disk is pulled away from the seat. Water escapes to the bowl. The horizontal
+cylinder provides to hold the disk away from the valve seat. The vertical cylinder remains full of water. 3. As the tank empties, the buoyancy of the horizontal cylinder is compromised, but the
+vertical cylinder remains full of water which provides sufficient counterbalance to the flushing disk, holding it open. 4. After the tank has emptied, the water in the vertical cylinder drains
+through a 3/16" hole in the bottom of the cylinder. At some point after the tank has emptied, the mass of the flushing disk and horizontal cylinder exceeds the mass of the vertical (timing cup)
+cylinder, causing the flushing disk to fall back onto its seat. 5. The fill valve refills the tank for the next flush cycle. A stellar benefit of the American Standard Timed Cup flush valve is that an
+incomplete flush is virtually impossible. Repairs are easy, generally requiring only a flushing disk. [] edit One-Piece Fill Valve The fill valve is responsible for refilling the tank (cistern) with
+water. Toilets manufactured prior to 1990 are likely to include a "Hoover-style" ballcock, which is a fill valve employing a ball-type float mounted on an arm. As the float rises, so does the arm.
+The arm is connected to a linkage which blocks the water flow into the toilet tank, and thus maintains a stable level in the tank. A one-piece fill valve consists of a tower which is encircled by a
+plastic float assembly. Operation is otherwise the same as a conventional Hoover ballcock, though the geometry is different. By virtue of the more compact layout, interference between the
+float and other obstacles (tank insulation, flush valve) is greatly minimized, thus reducing reliability issues (stuck floats, etc). [] edit Valveless siphon tank type This system, invented by Albert
+Giblin and common in the , uses a storage tank similar to that used in the flush valve system above. The user pushes a lever or button, forcing the water up into a siphon (not to be confused
+with the bowl siphon, "S-bend") which empties the entire tank into the bowl. The advantage of a siphon over the flush valve is that is has no sealing that can wear out and cause leaks, so it is
+favoured in places where there is a need to conserve water. Until recently, the use of siphon-type cisterns was mandatory in the UK to avoid the potential waste of water by millions of leaking
+toilets. UK washers Older installations used a high-level cistem, or , fitted above head height, that was operated by pulling a chain hanging down from a lever attached to the cistern. Some
+people still refer to the act of flushing a toilet (even a new low-cistern, or , type) as "pulling the chain or "flushing the chain". Modem versions have a neater-looking low-level cistern with a
+lever that the user can reach directly, or a 'close-coupled cistern that is even lower down and integrated with the bowl. This lower level results in loss of potential energy in the water, as the
+potential energy of water pressure is converted to the potential energy of height in a less advantageous manner, due to very little height, as described above. Consequently modern toilets
+usually do not flush as effectively.high suitelow suite{] citation needed [] edit Pressure-assisted Not uncommon in the United States, this system used the water pressure within a structure to
+compress air within a closed vessel located within the vitreous enclosure. When flushed, the compressed air pushes into the bowl at a velocity (flow rate in gallons per minute or liters per
+second) significantly higher than gravity flow. This system is more water efficient than a tank type and can be installed into the same fittings as the latter. It also costs 10% less than the new
+3" (75 mm) gravity flapper equipped tank-type toilets. Pressure assist toilets are used in both private (single and multiple and lodging) bathrooms as well as light commercial installations
+(offices, etc.) They hardly ever clog and so require less maintenance, but tend to be noisier - a concer for residential settings. The inner bowl stays cleaner (in appearance) than gravity
+counterparts because of the larger water surface area and the toilet's forceful flush. [] edit Automatic flush "Automatic flush" refers to a triggering mechanism, rather than a water propulsion
+mechanism, although is usually implemented together with direct flush systems. Autoflush systems, as the name suggests, flush automatically once the user has left. Typically, an override
+button is provided if the user wishes to trigger flushing earlier of, when the system has true mechanical manual override, it can be pushed if the power source to the flush valve has failed. In
+retrofit installations, a self-contained battery-powered or hardwired unit can be added to an existing manual flushometer, which can automatically flush when a user departs. There are two
+main kinds of machine vision systems used for sensor operated flush: passive and active. Passive systems such as passive infrared (PIR) detect given off by a body warmer than its
+surroundings. Active vision systems illuminate the target (the user of the fixture) with (e.g., or infrared) and detect energy reflected by the target. Although units usually ship with a factory-set
+sensor range, installers can adjust the setting to accommodate special needs or circumstances, such as for restrooms primarily used by children. infrared radiation electromagnetic radiation
+microwave Automatic flushing cisterns may also be of the siphonic pattem, where a siphon is activated once water fills the tank and begins to run through the siphon tube; this is the most
+common form of automatic operation in the UK. [] edit Manual operation If the flush mechanism should fail in any of these systems, the bowl siphon can be activated by emptying a large of
+water into the bowl. A domestic hose pipe will not work, as it cannot supply water fast enough to fill the siphon tube. A larger hose, or small firehose, even a 3/4 inch (2 cm) garden hose
+thread (GHT) firehose, provides sufficient water to flush without a bucket. bucket [] edit Flush Repair For North American Valve Tank type toilets, if the handle should have to be held down to
+achieve a complete flush an adjustment might need to be made in the handle-float-stopper mechanism. The handle of a toilet is typically attached to a stopper via a chain. A float is attached to
+the chain between the handle lever and the stopper. The float acts as a counter-balance to allow a certain amount of water to escape through the flush hole in the tank. The float mechanism on
+the chain should be some distance under the water level of the tank so it can keep the stopper open during a flush until the tank level reaches a certain level. At a certain level the float will pop
+to the top of the water and the stopper will close. The float should be at a position on the chain where it is under water and does not have so much buoyancy to allow water to leak through the
+stopper. For British toilets, the siphon's hidden, oblong, plastic diaphragm will tend to split after around 10 years. The effectiveness of the flush can deteriorate suddenly or gradually as the
+number and size of splits increase. This will often prompt owners to replace much of the system. However, the diaphragms are of a standard design and are cheap (50p) and simple to replace.
+Inside the cistern, unhooking the flush-handle's s-link allows the plunger and diaphragm to be removed, once the lower part of the siphon is unscrewed (it is not necessary to remove the whole
+assembly with some multiple part syphons -- the main outlet pipe can be left in place. Most are one piece and require removing from the cistern completely. There is also a small rubber
+diaphragm in the ballcock inlet assembly, which can deteriorate over a period of around 10 years -- if adjusting the water level becomes problematic, it is worth changing this inexpensive item
+(50p). [] edit "The Flush" Flushometer type toilets are much more common in commercial installations; they're almost never seen in residential installations, except for dormitory and areas.
+barracks [] edit Water closet (WC) The water closet was the original term for a room with a toilet, since the bathroom was where one was to take a bath. This term is still used today in some
+places, but might be a room that has both toilet and bath. Plumbing manufacturers often use the term to delineate toilets from . urinals [] edit Flushing direction It is a commonly held
+misconception that when flushed, the water in a toilet bowl swirls one way if the toilet is north of the equator and the other way if south of the equator, due to the . Usually, counter clockwise in
+the northern hemisphere, and clockwise in the southern hemisphere. In reality, the direction that the water will take is much more determined by the geometry of the bowl and other factors
+and can flush in either direction in either hemisphere. Coriolis effect

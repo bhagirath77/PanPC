@@ -1,0 +1,19 @@
+[] edit Infantile bradycardia For infants, bradycardia is defined as when the baby's heart rate slows down to less than 100 beats per minute (normal is around 120-160 beats per minute).
+Premature babies have apnea and bradycardia spells more often than full-term babies, It's not clearly understood what causes these spells. Some researchers think the spells are related
+to centers inside the brain that regulate breathing and that may not be fully developed. Touching the baby gently or rocking the incubator slightly will almost always get the baby to start
+breathing again, which increases the heart rate. Medications (theophylline or caffeine) can be used to treat these spells in babies if necessary. standard practice is to electronically monitor
+the heart and lungs for this reason. NICU [] edit Causes This can be underlain by several causes, which are best divided into cardiac and non-cardiac causes. Non-cardiac causes are
+usually secondary, and can involve use or ; or issues, especially in the ; an imbalance; factors; autonomic reflexes; situational factors such as prolonged ; and . Cardiac causes include
+acute or chronic , vascular , valvular heart disease, or degenerative primary electrical disease. Ultimately, the causes act by three mechanisms: depressed automaticity of the heart,
+conduction block, or escape pacemakers and rhythms. cardiac arrhythmia drug abuse metabolic endocrine thyroid electrolyte neurologic bed rest autoimmunity ischemic heart disease
+heart disease There are generally two types of problems that result in bradycardias: disorders of the (SA node), and disorders of the (AV node). sinoatrial node atrioventricular node With
+sinus node dysfunction (sometimes called ), there may be disordered or impaired conduction of the impulse from the sinus node into the surrounding atrial tissue (an "exit block"). It is
+difficult and sometimes impossible to assign a mechanism to any particular bradycardia, but the underlying mechanism is not clinically relevant to treatment, which is the same in both
+cases of sick sinus syndrome: a permanent . sick sinus syndrome automaticity pacemaker Atrioventricular conduction disturbances (aka: AV block; , , , ) may result from impaired
+conduction in the AV node, or anywhere below it, such as in the bundle of HIS. 10 AV block 20 type I AV block 20 type II AV block 30 AV block Patients with bradycardia have likely
+acquired it, as opposed to having it . Bradycardia is more common in older patients. congenitally [] edit Management There are 2 main reasons for treating any . With bradycardia, the
+first is to address the associated symptoms, such as , limitations on how much a person can physically exert, (syncope), or lightheadedness, or other vague and non-specific symptoms
+The other reason to treat bradycardia is if the person's ultimate outcome (prognosis) will be changed or impacted by the bradycardia. Treatment depends on whether any symptoms are
+present, and what the underlying cause is. cardiac arrhythmias fatigue fainting dizziness [] edit Treatment Drug treatment is not needed if the patient is asymptomatic. In symptomatic
+patients, draw a and to assess electrolytes and blood gases. An may provide temporary improvement in symptomatic patients. Chem 12 arterial blood gas atropine IV For symptomatic
+patients: 0.5-1 mg IV or q3-Smin [maximum dose is 3 mg total] (0.04 mg/kg) Atropine ET

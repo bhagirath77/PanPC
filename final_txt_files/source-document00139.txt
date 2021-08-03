@@ -1,0 +1,10 @@
+Planning a website Once you have decided on the type of site you need, you can start planning it. if you use a free web gallery, this is not really necessary as the design is usually more or less
+fixed. The same goes for hosted photo blogs. If you decide to install a blog software, you normally can chose between some quite attractive standard designs and then modify these and add
+to them. The real challenge is starting your own website from scratch. Of course, you have already seen many other photo pages and you have an idea what you want to do. Still, before you
+fire on your PC, it may be better to write down your ideas on paper. A good way of doing this is jotting down a little diagram starting with the homepage showing what subpages you want to
+link to from there. Some web design software (eg. NetObjects Fusion) works exactly this way: you draw a sort of diagram and then add in the actual contents of your site. A pen and paper will
+do nicely though. Typically, a photo site would include photo galleries, a contact form (much preferable to directly listing your mail address as this will almost certainly be arvestedby
+spammers), links to sites you like, maybe a guestbook, a forum and some information on yourself and the equipment you use. To give you an idea, here the. sitemap of Travel Photo Net Oh,
+and it never too early to think about promoting your site: if you use some technologies like Macromedia Flash or just plain HTML rames you make it much more difficult for search engines to
+index your site. The result may be a beautiful site that has no visitors... By the way: a itemaplisting all the major sections of the site is not only a help to your human visitors, - search engines
+love it too!

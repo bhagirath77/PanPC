@@ -1,0 +1,4 @@
+Printable Version The Crystalline Silicon Solar Cell Pv cells can be made of many different semiconductors. But we'll use crystalline silicon as an example, for three reasons. First, crystalline
+silicon was the material used in the earliest successful PV devices. Second, and more important, it's still the most widely used PV material. And third, although other PV materials and designs
+exploit the photoelectric effect in slightly different ways, if you know how the effect works in crystalline silicon, then you'll have a basic understanding of how it works in all PV devices. See
+these pages for more information on crystalline silicon solar cells:

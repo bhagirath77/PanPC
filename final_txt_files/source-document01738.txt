@@ -1,0 +1,42 @@
+/ PVCDs physical properties What is PVC? PVCLIs physical properties Administrator User 21/08/2008 4:22 pm PVC, PE, PP and PS are general purpose plastics. The features of the particular
+plastic are determined by its chemical composition and type of molecular structure (molecular formation: crystalline/amorphous structure) PVC has an amorphous structure with chlorine atoms
+in the molecular structure. Having chlorine atoms and the amorphous molecular structure are inseparably related. Although plastics seem very similar in the context of daily use, PVC has
+completely different features in terms of performance and functions compared with olefin plastics which have only carbon and hydrogen atoms in their molecular structures. polar Molecular
+structures of general purpose plastics Chemical stability is a common feature among substances containing halogens such as chlorine and fluorine. This applies to PVC resins, which
+furthermore possess fire retarding properties, durability, and oil/chemical resistance. PVC has inherently superior fire retarding properties due to its chlorine content, even in the absence of fire
+retardants. For example, the ignition temperature of PVC is as high as 455 C, and is a material with less risk for fire incidents since it is not ignited easilyFire retarding properties Furthermore,
+the heat released in burning is considerably lower with PVC, when compared with those for PE and PP. PVC therefore contributes much less to spreading fire to nearby materials even while
+burning .Therefore, PVC is verysuitable for safety reasons in products close to peopleCls daily lives. Under normal conditions of use, the factor most strongly influencing the durability of a
+material is resistance to oxidation by atmospheric oxygen. PVC, having the molecular structure where the chlorine atom is bound to every other carbon chain, is highly resistant to oxidative
+reactions, and maintains its performance for a long time. Other general purpose plastics with structures made up only of carbon and hydrogen are more susceptible to deterioration by oxidation
+in extended use conditions (such as, for example, through repeated recycling). Measurements on underground 35 year-old PVC pipes taken by the Japan PVC Pipe & Fittings Association showed
+no deterioration and the same strength as new pipesDurability Research in Germany (60 Jahre Erfahrungen mit Rohrleitungen aus Weichmachfreiem PVC, 1995, KRV) has shown that soil
+buried pipes dug up after 60 years of active use when analysed were proven to be fit for purpose and likely to have a further life expectancy of 50 years! Almost no deterioration was observed
+upon recovery of three kinds of automobile exterior accessories (flexible PVC products using plasticisers) from end-of-life cars after 13 years of use and upon comparison of physical properties
+with new products Change of physical properties of recovered automobile accessories The shortened time for thermal decomposition is due to the heat history in the re-converting process,
+and can be brought back to that of the original products by adding stabilisers. Recovered products can in fact be recycled into the same products through re-converting, regardless of whether
+they are pipes or automobile parts. The physical properties of these re-converted products are almost the same as with products made from virgin resin, and there is also no problem upon
+actual use. PVC is resistant to acid, alkali and almost all inorganic chemicals. Although PVC swells or dissolves in aromatic hydrocarbons, ketones, and cyclic ethers, PVC is hard to dissolve in
+other organic solvents. Taking advantage of this characteristic, PVC is used in exhaust gas ducts, sheets used in construction, bottles, tubes and hoses.Oil/Chemical resistance PVC is a
+chemically stable material, which shows little change in molecular structure, and also exhibits little change in its mechanical strength. However, long chain polymers are and can be deformed by
+continuous application of exterior force, even if the applied force is well below their . This is called creep deformation. Although PVC is a viscoelastic material, its creep deformation is very low
+compared with other plastics due to limited molecular motion at ordinary temperature, in contrast to PE and PP, which have greater molecular motion in their amorphous sections. Mechanical
+stability viscoelastic materials yield point A European study on very early PVC pipes Cl produced from the 1930s to 1950s 1] showed a service life of 50 years and excellent durability
+characteristics (T Hulsmann, European Vinyls Corporation, and R Novak ALPHACAN Omniplast GmbH). More modem PVC pipes would be expected to last significantly longer 0 probably up to
+or in excess of 100 years. Source: PVC and environmental issues by Tetsuya Makino, Seikei Kakou (a journal of the Japan Society of Polymer Processing), Vol.10, No.1 (1998) Circumferetial
+stress by internal pressure and breaking time of rigid pipes The processability of a thermoplastic material depends largely on its melt viscosity. PVC is not suitable for injection moulding of
+large sized products, since its melt viscosity is comparatively high. On the other hand, the viscoelastic behaviour of molten PVC is less dependent on temperature and is stable. Therefore PVC is
+suitable for complex shaped extrusion profiling (e.g., housing materials), as well as calendaring of wide films and sheets (e.g., agricultural films and PVC leather). The exterior surfaces of PVC
+products are excellent, and display superior embossing performance - enabling a wide variety of surface treatments with textures ranging from enamel gloss to the completely de-lustred suede.
+Since PVC is an amorphous plastic with no phase transition, moulded PVC products have high dimensional accuracy. PVC also exhibits excellent secondary processability in bending fabrication,
+welding, high-frequency bonding, and vacuum forming, as well as on-site workability. Paste resin processing such as slush moulding, screen printing and coating are a convenient processing
+techniques that are feasible only with PVC. These processing methods are used in flooring, wall covering, automobile sealants and undercoating.Processability and mouldability PVC has polar
+groups (chlorine), and is amorphous, therefore mixes well with various other substances. The required physical properties of end products (e.g., flexibility, elasticity, impact resistance,
+anti-fouling, prevention of microbial growth, anti-mist, fire retarding) can be freely designed through formulation with plasticisers and various additives, modifiers, and colouring agents. PVC is,
+the only general purpose plastic that allows free, wide and seamless adjustment of the required physical properties of products such as flexibility, elasticity, and impact resistance, by adding
+plasticisers, additives, and modifiers. Since the physical properties of end products are adjustable through compounding with additives, only a few types of resin are required to cover all
+applications (fibre, rigid and flexible plastic, rubber, paint, and adhesive). This controllability is also extremely beneficial for recycling. Other properties that make PVC versatile Comparison of
+physical properties of PVC materials with polyolefin materials The polar groups in PVC contribute to ease of colouring, printing and adhesion. PVC products do not require pre-treatment, which
+enables a wide variety of designs. PVC is used in various decorative applications taking full advantage of its superior printability, adhesion properties and weatherability. Patterns such as wood
+grain, marble, and metallic tones are possible. Familiar examples include wall coverings and floorings, housing materials, furniture, home electric appliances, or signboards and ads on airplanes,
+trains, buses and trams. More pages on this subject

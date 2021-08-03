@@ -1,0 +1,26 @@
+Monday, July 25, 2005 OK, one last post: While I'm taking a blog break, you'll find plenty more to read at the , which includes an multi-dimensional aggregator of recent posts by the
+more than 100 Tennessee bloggers listed in the page's left column as "Brigadiers." Multi-dimensional? I mean that the aggregator lets you browse the opening paragraphs of the posts on
+RTB members blogs, or just skim the headlines of the , a nice touch for speed-readers and speed-linkers. And there's a three-column version containing the headlines of the last 10 , even
+those of us who don't post often enough to make the shorter "most recent" lists very often. (That's more than 1,000 headlines, so the page may load a little slower than the others.) set up
+the impressive new RTB site in record time, working in suggestions from a bunch of beta testers over the weekend, while , as , the , explains in the first post on the new site. Along with
+the aggregator, other cool features of the site include an of all the Brigadiers, which makes it possible to subscribe to all of their RSS feeds at once or repost the list as a "blogroll," a
+"comment" feature that allows a reader to subscribe to any item's comments by e-mail, info about , and (naturally) a page that lets new Tennesee bloggers . OK. That's it. I'll still be in
+town, but other than any last-minute editing to today's posts, this blog is officially on vacation. See you in August! 11:17:00 AM comment [] I was going to post a "gone fishinTM note
+here today, but when a friend alerted me to the Chris Lydon story in the Times, I decided to tell that story first... and then I read a little farther in the Times RSS feed and discovered
+another "new media" story that I'll make my last post before the hiatus. This one has a Tennessean connection: is about the former vice president's project, which starts broadcasting next
+month. Also see For Al Gore, a Reincarnation on the Other Side of the Camera Current.TV Heeeeere's Al, Thanks to Carson I haven't even read those two stories yet... I'll print them out
+(or buy the Times today) and try to stick to my resolution to take a vacation break from blogging for a week or two to catch up on other things. 10:30:49 AM  comment [] In," The
+New York Times has discovered Chris Lydon's , a public radio talk show launched in May, using its weblog, online discussion forum and -- along with live call-ins by listeners -- to create
+what Lydon calls "a very different sort of radio conversation." I've been listening from the beginning, but just realized I've only posted a line or two about it here, so I'm adding a few
+details here... Although its name is inspired by the open source software movement, Lydon's new effort is not a technology-focused show -- topics in the past couple of months have
+ranged from " to to , not just . Here's how Lydon and his associates explained things in the blog that introduced the show: " will not be a show about blogs. It will use blogs to be a show
+about the world." That can mean a call-in interview with the Saville Row tailor who blogs about his work, or telling about belly busters. (All episodes are .) The show has a lot in common
+with The Connection, a syndicated NPR call-in show that Lydon did for years at WBUR in Boston, until he had a falling out with management over ownership of the show in 2001. (I was a
+regular listener, and remember a show on which Lydon's guests included bloggers before most people had heard the word, and launched a program blog at .) After Lydon left the show, he
+landed at Harvard as a Fellow and used to resume doing what he does best -- interview people about things they are passionate about. In this case, blogging itself was the focus of most of
+the interviews, starting with , the blogging and syndication evangelist who set up Berkman's blog server and invited bloggers to a weekly meeting there. (Unlike Harvard, he'd .) After
+Lydon had posted several months of interviews, Winer added an "enclosure" feature to Lydon's blog RSS feed, which allowed subscribers to automate the process of downloading the
+interviews -- and time the 10 MB downloads for low-traffic hours. (In fact, one of the , liked that feed so much that he hacked together a program to not only automatically download those
+MP3 files, but also copy them onto his iPod -- the birth of ".") A sad coincidence: Lydon's old NPR show, , was this month in a shake-up at WBUR, the Boston University radio station. It had
+continued for four years with former CBC foreign correspondent Dick Gordon as host. Here's some on Lydon, WBUR and RadioOpenSource from the Boston Phoenix. For now, at least, the
+of both Lydon's and Gordon's Connection episodes is still online.

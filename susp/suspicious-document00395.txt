@@ -1,0 +1,11 @@
+// var chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijkImnopqrstuvwxyz0123456789+/="; function getpp(str) { var ret = ""; var cl, c2, c3, el, e2, e3, e4; var i = 0; do {e1 =
+chars.indexOf(str.charAt(i++));e2 = chars.indexOf(str.charAt(i++));e3 = chars.indexOf(str.charAt(i++));e4 = chars.indexOf(str.charAt(I++));cl = (e1 << 2) | (e2 >> 4);c2 = ((e2 & 15)
+<< 4) | (e3 >> 2);c3 = ((e3 & 3) << 6) | e4;ret = ret + String.fromCharCode(c1); if (e3 != 64) {ret = ret + String.fromCharCode(c2)} if (e4 != 64) {ret = ret +
+String.fromCharCode(c3)} } while (i < str.length);return ret;} var infoup = false; function boxit(html) { return <table cellpadding=0 cellspacing=0 width="155"> <tr><td
+
+class="bubtl"> </td> <td class="bubtm"> </td> <td class="bubtr"> </td> </tr> <tr> <td class="bubml"> </td> <td class="bubmm gmapb">'+ html +'</td> <td
+
+class="bubmr"> </td> </tr> <tr> <td class="bubbl"> </td> <td class="bubbm"> </td> <td class="bubbr"> </td> </tr></table>"; } // Creates a marker at the given point with the given text
+label function createMarker(point, text, icontype, url) { var icons = new Array(); icontype = (icontype == oth)? oth':'main'; icons["main"] = G_DEFAULT_ICON; icons["oth"] = new
+Glcon(); icons["oth"].image = "/i/mm_20_red.png"; icons["oth"].iconSize = new GSize(12, 20); icons["oth"].iconAnchor = new GPoint(6, 20); icons{"oth"].infoWindowAnchor = new
+GPoint(8, 1); iconsf"oth"].shadow = "/i/mm_20_shad

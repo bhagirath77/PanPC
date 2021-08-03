@@ -1,0 +1,37 @@
+Newsletter Adware is software that presents banner ads or in pop-up windows through a bar that appears on a computer screen. Those advertising spots usually can't be removed and are
+consequently always visible. The connection data allow many conclusions on the usage behavior and are problematic in terms of data security. A backdoor can gain access to a computer by
+going around the computer access security mechanisms. A program that is being executed in the background generally enables the attacker almost unlimited rights. User's personal data can be
+spied with the backdoor's help, but are mainly used to install further computer viruses or worms on the relevant system. The boot or master boot sector of hard drives is mainly infected by boot
+sector viruses. They overwrite important information necessary for the system execution. One of the awkward consequences: the computer system cannot be loaded any more& A Bot-Net is
+collection of softwarre bots, which run autonomously. A Bot-Net can comprise a collection of cracked machines running programs (usually referred to as worms, Trojans) under a common
+command and control infrastructure. Boot-Nets server various purposes, including Denial-of-service attacks, etc., partly without the affected PC user's knowledge. The main potential of
+Bot-Nets is that the networks can achieve dimensions on thousands of computers and its bandwidth sum bursts most conventional Internet accesses. A dialer is a computer programm that
+establishes a connection to the Internet or to another computer network through the telephone line or the digital ISDN network. Fraudsters use dialers to charge users high rates when dialing
+up to the Internet without their knowledge. The EICAR test file is a test pattern that was developed at the European Institute for Computer Antivirus Research for the purpose to test the
+functions of anti-virus programs. It is a text file which is 68 characters long and its file extension is .COM all virus scanners should recognize as virus. An exploit (security gap) is a computer
+program or script that takes advantage of a bug, glitch or vulnerability leading to privilege escalation or denial of service on a computer system. A form of an exploit for example are attacks
+from the Intemet with the help of manipulated data packages. Programs can be infiltrated in order to obtain higher access. Grayware operates in a way similar to malware, but it is not spread
+to harm the users directly. It does not affect the system functionality as such. Mostly, information on the pattems of use is collected in order to either sell these data or to place advertisements
+systematically. The users have obtained virus alerts from the Internet for a few years and alerts against viruses in other networks that are supposed to spread via email. These alerts are spread
+per email with the request that they should be sent to the highest possible number of colleagues and to other users, in order to warn everyone against the "danger". A honeypot is a service
+(program or server), which is installed in a network. It has the function to monitor a network and to protocol attacks. This service is unknown to the legitime user - because of this reason he is
+never addressed. If an attacker examines a network for the weak points and uses the services which are offered by a Honeypot, it is protocolled and an alert sets off. Keystroke logging is a
+diagnostic tool used in software development that captures the user's keystrokes. It can be useful to determine sources of error in computer systems and is sometimes used to measure
+employee productivity on certain clerical tasks. Like this, confidential and personal data, such as passwords or PINs, can be spied and sent to other computers via the Internet. Macro viruses
+are small programs that are written in the macro language of an application (e.g. WordBasic under WinWord 6.0) and that can normally only spread within documents of this application.
+Because of this, they are also called document viruses. In order to be active, they need that the corresponding applications are activated and that one of the infected macros has been
+
+executed. Unlike "normal" viruses, macro viruses do consequently not attack executable files but they do attack the documents of the corresponding host-application. Polymorph viruses are the
+real masters of disguise. They change their own programming codes - and are therefore very hard to detect. A computer virus is a program that is capable to attach itself to other programs
+after being executed and cause an infection. Viruses multiply themselves unlike logic bombs and Trojans. In contrast to a worm, a virus always requires a program as host, where the virus
+deposits his virulent code. The program execution of the host itself is not changed as a rule. Such viruses are extremely easy to program and they can spread - if the required technology is on
+hand - within a few hours via email round the globe. Script viruses and worms use a script language such as Javascript, VBScript etc. to infiltrate in other new scripts or to spread by activation
+of operating system functions. This frequently happens via email or through the exchange of files (documents). A worm is a program that multiplies itself but that does not infect the host.
+Worms can consequently not form part of other program sequences. Worms are often the only possibility to infiltrate any kind of damaging programs on systems with restrictive security
+measures. Spyware are so called spy programs that intercept or take partial control of a computer's operation without the user's informed consent. Spyware is designed to expolit infected
+computers for commerical gain. Typical tactics furthering this goal include delivery of unsolicited pop-up advertisements. AntiVir is able to detect this kind of software with the category "ADSPY"
+or "adware-spyware". Trojans are pretty common nowadays. We are talking about programs that pretend to have a particular function, but that show their real image after execution and carry
+out a different function that, in most cases, is destructive. Trojan horses cannot multiply themselves, which differenciates them from viruses and worms. Most of them have an interesting name
+(SEX.EXE or STARTME.EXE) with the intention to induce the user to start the Trojan. Immediately after execution they become active and can, for example, format the hard drive. A dropper is a
+special form of Trojan that drops' viruses, i.e. embeds viruses on the computer system. A Zombie-PC is a computer that is infected with malware programs and that enables hackers to abuse
+computers via remote control for criminal purposes. The affected PC, for example, can start Denial-of-Service- (DoS) attacks at command or send spam and phishing emails. Virus Science

@@ -1,0 +1,9 @@
+thats right folks... you can have your own genuine website for less than the cost of a new egronomic keyboard... lets start with some hardware... you will want: 1 Computer 1 copy of apache
+
+server 1 highspeed intenet connection 1 disk with atleast 10gb STEP1 Acquire a computer, i got mine from a local comunity collece, its a COMPAQ IPAQ, 800 MHZ celeron processor, 512 mb
+ram, 10 gb hdd, windows xp profressional. <no cd drive> once you have your compuer, all you need to do is install apache web server... not to hard, its a great step by step installer... <i have
+no idea how to make links here, so just google it...> step 3 design your website, and post it into your apache webserver folder, wherever it is supposed to go... i think it is HT DOCS step 4:
+plug in your network cable. and make sure that your computer has its own STATIC IP, and that you have either a VNC installed, or REMOTE DESTKOP enabled ( i did both) step 5: poke a hole
+in your routers firewall to allow a webserver step 6: get a dynamic dns address from www.dyndns.com step 7, remove your monitor, mouse, and any other cable you can that still allows it to
+start (j have a keyboard controller on a usb dongle to keep it from crashing on boot up, because it does not boot without keyboard) step 8: post your site here, so that others can see it <end
+of dumb tutorial>

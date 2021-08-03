@@ -1,0 +1,120 @@
+[] edit Tenor trombone Tenor trombone in B flat The tenor trombone has a of B flat (though tenor trombones with C as their fundamental note were almost equally popular during the
+mid-19th century in Britain and France) and is usually treated as a (see below). As the trombone in its simplest form has neither crooks, valves nor keys to lower the pitch by a specific interval,
+trombonists use seven chromatic , each of which progressively increases the length of the air column, thus lowering the pitch. fundamental note non-transposing instrument slide positions
+Extending the slide from one position to the next lowers the pitch by one . Thus, for each note in the a downwards of up to a may be added to the first position note, making the lowest note of
+the standard instrument an E natural. However, most experienced trombonists can play lower "falset" notes and much lower pedal notes (first partials or fundamentals, which have a peculiar
+metallic rumbling sound) on the instrument. It may be noted that these positions are subject to adjustment, compensating for imperfections in the tuning of different harmonics. The fifth
+partial is rather flat on most trombones and usually requires a minute shortening of the slide position to compensate; other small adjustments are also normally required throughout the range
+Note that trombonists also make frequent use of alternative positions to minimize slide movement in rapid passages; for instance, B flat may be played in first or fifth positions. Alternative
+positions are also needed to allow a player to produce a to or from a higher note on the same partial. While the lowest note of the tenor trombone's range (excluding fundamentals or pedal
+notes) is therefore E2, the trombone does not have an exact upper limit to its range. It is sometimes considered to be F5, although DS would be a more conservative top note. Some players are
+able to produce notes as high as F6. semitone harmonic series interval tritone glissando A distinctive form of tenor trombone was popularized in France in the early 19th century. Called the , it
+featured a tenor trombone slide and a bell that ended in a zoomorphic (serpent or dragon) head. wrote for the buccin in his of 1824. buccin Hector Berlioz Messe solennelle [] edit F attachment
+Many modern tenor trombones include an extra attachment of tubing - about 3ft or 1m in length - which lowers the fundamental pitch from B flat to F, there are two different forms of this
+tubing, open wrap and traditional wrap. The traditional wrap is curved and fits inside the main tuning slide. For this reason it is also known as closed wrap. An open wrap sticks out past the
+main tuning slide and only has one curve in it. The reason that the open wrap F attachment was conceived was because whenever there is a sharp bend in the tubing, the trombone's tone
+becomes "drier." The F attachment is engaged by using a trigger or valve (these instruments are not to be confused with the three-valved ). This type of trombone is typically built with a larger
+bore size (0.525" or 0.547") and is known as a B fiat/F trombone, F-attachment trombone, or trigger trombone. Trombones without this feature have become known as trombones. valve
+trombone straight The F attachment originated in an instrument developed by German instrument maker Christian Friedrich Sattler during the late 1830s and patented in 1839. It gained
+popularity at a time when the older German E flat and F bass trombones had fallen out of favour with orchestral players and were being replaced by a B flat tenor trombone with a wide bore
+and large bell proportions. This instrument was known as the trombone (German ), since it was a tenor trombone in 8 flat with the bore and bell dimensions of a . It was used to play both
+tenor and bass trombone parts.tenorbassTenorba posaune bass trombone Tenor trombone with a traditional wrap F attachment Sattler used the rotary valve attachment to provide a way to
+play the notes between the fundamental 8 flati (first position) and the second partial E2 (seventh position). The valve allowed players to produce low E flat, D, D flat, C (and, with adjustments,
+B), thus making the full range of the old in 12' F available and extending the chromatic range of the through the fundamentals to E1. bass trombone tenor trombone Sattler's intention was not
+to create a trombone that would replace the older F and E flat bass trombones, but rather to provide an instrument with the ability to cover the range of the bass and tenor trombones
+seamlessly. The tenorbass trombone did replace the older bass trombones, however, and the bore and bell size were increased later in the nineteenth century to allow for models designed
+specifically to cope with bass trombone parts; modem are derivatives of these late nineteenth century 6 flat/F trombones that are used to play parts originally intended for the bass trombone in
+G, F or E flat. Since engaging the valve changes the tubing length, additional alternate positions for notes become available. The resulting increase in facility and the addition of the low E flat,
+D, D flat and C make these instruments popular among experienced orchestral tenor trombonists. bass trombones As the tubing length increases by a factor of one third, the distance between
+each position must be one third longer when the valve attachment is engaged. This results in only six positions being available, as the slide is too short for what is effectively a bass trombone in
+12' F It should be noted that on this variation of the instrument, the B two ledger lines below the bass staff is impossible to play without tuning the attachment to E or loosening the
+embouchure slightly. The range of the trombone is therefore E1 to B flat, then C2 to D5.tenorbass [] edit Bass trombone Bass trombone in B flatF/D The modern bass trombone is pitched in
+B flat. It is identical in length to the 9' 8 flat tenor trombone and was developed from the 19th century trombone, but has a wider bore to aid in the production of a fuller, weightier tone in the
+low register and one or two valves which, when engaged, lower the key of the instrument to 12' F (and if a second valve is fitted, to G, G flat, E, E flat or D, depending on the design), allowing
+the player to bridge the gap between the first partial (fundamental) with the slide in first or closed position and the second partial with the slide fully extended in seventh position. 19th and
+early 20th century examples of the modern bass trombone were sometimes made with a valve attachment in E rather than F, or with an alternative tuning slide for the attachment tubing
+enabling the pitch to be lowered to E flat. Bore sizes of the bass trombone are generally slightly larger than those of the largest tenor trombones. Typical specifications include a bore size of
+0.562" in the slide and 0.580" through the valve attachment tubing, with a bell from 9" to 10.5" in diameter.tenorbass The configuration of the valves falls into one of three categories on the
+modern bass trombone: a simple 8 flat/F instrument (of larger dimensions than the B flat/F tenor trombone) equipped with one valve; a 6 flat/F instrument equipped with a second valve, which
+relies on the first to be engaged before the ancillary tubing is deployed; a B flat/F instrument equipped with a second or valve, which acts independently from the first and may be used to lower
+the pitch to G or G flat individually, or to E flat or D when used in combination with the first valve.dependentindependentin-line The range of the modern bass trombone is fully chromatic from
+the lowest fundamental with the valve attachment tubing deployed, potentially as low as C1 or B fiat, up to C5 or higher, depending on the player. It is usually scored in the range B flat2 to B
+flatS. There is usually one bass trombone in a standard symphony (some works call for two) and it is also seen in military bands, brass bands, jazz bands, wind ensembles, and a variety of
+brass groups; the bass trombone is usually played by the third or fourth trombonist in a trombone section, the first two or three parts usually being for tenor (and possibly alto) trombones
+orchestra [] edit Bass trombones in G, F, E flat, etc. Bass trombone in F Bass trombone in E flat Older, now obsolete versions of the bass trombone were of smaller bore than the modern
+bass trombones described above. They were pitched in G, F, E, E flat, D or C and had a longer slide and a handle attached to the outer slide stay to allow for full extension of the slide. These
+older types of bass trombone were used in Europe and the British Empire. The oldest of these instruments were the E, D and C bass trombones, which were used in Europe during the
+Renaissance and early Baroque periods; by the 18th century the F and E flat bass trombones were used in Germany, Austria and Sweden and the E flat bass trombone in France, though these
+fell out of favour in the early nineteenth century and began to be replaced by the tenor trombone, later (after 1840) the trombone with F rotary valve attachment.tenorbass The bass trombone
+in G (the orchestral version was in G equipped with a rotary valve attachment actuating D or C, extending the range to A2 or A flati) enjoyed a period of extended popularity in France during
+the second half of the nineteenth century, and in Great Britain and the British Empire from approximately 1850 to the 1950s, though it lingered on in some parts of Britain until the 1970s and
+1980s and is still occasionally to be seen there in brass bands and period instrument orchestras. The range of the E flat bass trombone is A2 to B flatS, that of the F bass trombone is B2 to CS
+and that of the G bass trombone is D flat2, or A2 or A flati with a D or C valve attachment (the C attachment being used expressly for playing parts written for the ), to DS. contrabass
+trombone [] edit Contrabass trombone Contrabass trombone in 8 flat/F The contrabass trombone is usually pitched in 12' F a perfect fourth lower than the modern tenor or bass trombone
+and has been through a number of changes in its history. Its first incarnation during the Renaissance was in 24' F, one octave below the modern pitch of 12' F, or 18" 6 flat. During this period it
+was built as an oversized bass trombone with a long slide and extension handle to reach the lower positions. The innovation of the double slide, in which the slide is wound back on itself to
+produce four tubes, each of which moves in tandem with its partner and halves the usual length of the slide shifts, took place towards the end of this period and was applied to the bass and
+contrabass trombones. During the nineteenth century, the contrabass trombone enjoyed a revival and it was constructed according to the double slide principle. 's (1876) employed the
+contrabass trombone for the first time in the opera house and was followed by 's in 1902-3, in 1905, in 1906 and in 1915, in 1919-21, ' in 1908, 's mammoth (scored for a section of seven
+trombones including alto and contrabass) in 1913 and his . 's operas (1887) and (1893), as well as's last opera (1924) also employed the contrabass trombone, albeit that they were scored for
+the Italian valved contrabass instrument (the ), and although generally the contrabass trombone has not proven to be a permanent addition to the opera or concert orchestra and is only
+required in a small number of mainly 20th century works, it has become increasingly used in film scores in recent years. Wagner Der Ring des Nibelungen D'Indy Symphony No. 2 in B flat, Op
+57Jour d' t la montagne, Op. 61Souvenirs, Op. 62Symphony No. 3 (Sinfonia Brevis - de bello gallico), Op. 70Po me des rivages, Op. 77 Strauss Elektra Schoenberg cantata Gurre-Lieder Pelleas
+und Melisande Verdi Otello Falstaff Puccini Turandot "" Cimbasso Contrabass trombone in F In 1921 Emst Dehmel, a German inspector of orchestras and bass trombonist from Berlin, patented
+a new design of contrabass trombone utilising the old German military band bass trombone in F equipped with two independent rotary valves to replace the handle required on the long slide
+and to fill in the missing notes between the first partial (fundamental) in closed position and the second partial with the slide fully extended. This bass-contrabass instrument is the precursor of
+the modern contrabass trombone, which is still largely constructed according to the same principles and to all intents and purposes completely replaced the older double slide variety, which is
+very rarely seen today. Bore sizes for the slide of the contrabass trombone are typically in the 0.567" to 0.635" range; the most common sizes on contrabass trombones in F are between 0.567"
+and 0.580" as the larger sizes are usually reserved for the contrabass trombone in low B flat. The bell diameter is typically 10"-11". Since World War II the contrabass trombone in F with two
+valve attachments has been primarily in use in orchestras, though the 18' B flat version is still used by many. Originally due to reasons of limited space conditions in opera orchestra pits, the
+bell section was provided with a coil to reduce the length of the bell bow, but since the 1970s the long, straight form has taken precedence. Through the combination of both valves the
+extension handle on the outer slide also became redundant and the instrument is provided with five or six working positions on the slide. Valve tuning combinations are E flat/B flat, D/8 flat, or
+more rarely D/C. The range of the contrabass trombone (excluding fundamentals or pedal notes) demanded by is from E1 to 4, though composers since then have required even lower notes -
+even as low as 6 flat0. Given that the older 8 flat contrabass is less common nowadays in professional ensembles, the F contrabass trombonist produces notes below G flat as fundamentals,
+allowing full access to the range of the older B flat contrabass trombone and extending the range even lower. Wagner The use of a contrabass trombone almost always requires the addition of
+a fourth player to the trombone section and while in the past parts for the instrument were sometimes played on a tuba or, more recently, a bass trombone, it is nowadays considered
+unacceptable to use anything but a contrabass trombone to play these parts, at least in professional settings. Most opera house orchestras and some symphony orchestras require the bass
+trombonist to double on the contrabass trombone. [] edit Alto trombone E flat alto trombone by Arno Windisch The alto trombone is pitched in E flat (occasionally with a D or 8 flat rotary
+valve attachment) or F, a perfect fourth or fifth higher than the tenor trombone and was commonly used from the 16th to the 18th centuries as the highest voice in the brass choir, though it
+declined in popularity from the early 19th century, when the trumpet acquired valves and trombones became an established section in the symphony orchestra, and it was replaced by a tenor
+trombone as the range of the parts can usually be covered by the tenor instrument. While some first trombonists have used the alto trombone as indicated, it was unfashionable from the
+mid-19th century to the late 20th and has only recently enjoyed something of a revival. As the slide is shorter, the positions are different from the tenor and bass trombones and as most
+players are familiar with the slide positions of the B flat trombone, it is easy to appreciate why the instrument fell out of favour, especially with the increase in upper range and flexibility
+cultivated by and demanded of first trombonists in the 19th and 20th centuries. The tone of the alto is more brilliant than that of the tenor or bass trombone. The bore of an alto trombone is,
+similar to that of a small tenor trombone - usually around 0.450"-0.500", with a 6.5" or 7" bell. The range of the E flat alto trombone (excluding fundamentals or valve attachments) is A2 to B
+flatS, though it is typically not scored any higher than F5, this being already quite an exalted region for this instrument. [] edit Soprano trombone Soprano trombone The soprano trombone is
+usually pitched in B flat an octave above the tenor and built with a bore size of between 0.450" and 0.470" and a -sized bell. It appears to have been created in the late 17th century, from
+which the earliest surviving examples date. It was used in German-speaking countries to play the treble part in chorales, and this tradition survives in the at Bethlehem, Pennsylvania. During
+the 20th century some manufacturers made soprano trombones as doubling instruments for jazz cornet players, dubbing them , or as a novelty, but the instrument has never been widely used
+or enjoyed much popularity. It rather lacks its own character and historically had little validity as it was easily replaced by the cornet or woodwind instruments and the short shifts make it
+difficult to play in tune. Soprano trombone slides being so short, there are often only six positions on the slide rather than seven. The soprano trombone is usually played by a trumpeter owing
+to the high pitch of the instrument and similar required . trumpet Moravian trombone choir slide cornets embouchure The range of the B flat soprano trombone is 3 to C6, though it is not
+usually written higher than 8 flat. [] edit Sopranino and piccolo trombones The sopranino and piccolo trombones are even smaller and higher instruments than the soprano; they are also
+extremely rare. Sopranino and piccolo are pitched in high E flat and B flat respectively, one octave above the alto and soprano trombones. They are called for in some trombone choir literature,
+the sopranino, for example, being used in the Moravian trombone choirs in the USA. Bore sizes vary between 0.430" and 0.400" respectively, with bells approximately 4" in diameter. Owing to
+the very high pitch of these instruments and their use of trumpet mouthpieces, they are played primarily by trumpeters. The range of the E flat sopranino trombone is A4 to E fiat6; that of the
+B flat piccolo trombone is E4 to F7. [] edit Valve trombone A valve trombone The valve trombone has been built in every size from alto to contrabass, though it is the tenor valve trombone
+which has seen the most widespread use. They are built in either short or long form. The valve trombone enjoyed its greatest popularity in the 19th century when the technology of and
+instruments was developing rapidly. By the end of the 19th century, mass production of reliable, higher quality slide trombones led to a return of its popularity. Despite the continuing popularity
+of the slide trombone, valve trombones have remained popular in, for example, ,,, ,,, , and , almost to the exclusion of the slide trombone. rotary valve piston valve Austria Italy Bohemia
+Moravia Slovakia Spain Portugal South America India A bass or contrabass version of the valve trombone is the and is used mainly in operatic works by and . cimbasso Giuseppe Verdi Giacomo
+Puccini Some passages, particularly fast musical figures, are easier to execute on a valve trombone than on a slide trombone. Many players consider the tone of a valve trombone to be stuffier
+and less open, and it is not common in orchestral settings, though in particular made extensive use of the ability of the valve trombone to negotiate its way through fast passages in his works
+As the B flat tenor valve trombone uses the same fingering as the 6 flat trumpet, it is occasionally a doubling instrument for trumpeters. Notable jazz musicians who play the 6 flat tenor valve
+trombone indude , of the Orchestra, and . Giuseppe Verdi jazz Bob Brookmeyer Juan Tizol Duke Ellington Rob McConnell Bob Enevoldsen A valve trombone made by has a different system
+from that which is normally used. Instead of three valves in the style of the , it has one for each position on the trombone slide. Adolphe Sax trumpet Main article: Superbone This unusual
+variation of the trombone has both a slide and valves. Different types of valve-slide trombone hybrid combinations were first manufactured in the early 20th century. One of the best known
+early types was the invented by jazz trombonist and reedist Brad Gowans, which featured a slide on the inside on the valves which did not lock, forcing the player to actively use both hands.
+The most popular valve-slide trombone combination today is the , which achieved fame and popularity thanks to the influence of jazz musician , who used it in his band. The Superbone has a
+slide on the outside of the valves which locks, meaning its use is optional, and the player can play the Superbone valves with either hand.valide trambonesuperbone Maynard Ferguson [] edit
+References Herbert, Trevor (2006). London: Yale University Press. .The Trombone ISBN 0-300-10095-7 ed. Sadie, Stanley and Tyrrell, John (2001). . London: Macmillan. . The New Grove
+Dictionary of Music and Musicians ISBN 0-19-517067-9 Adey, Christopher (1998). . London: Faber & Faber. Orchestral Performance ISBN 0-571-17724-7 ed. Herbert, Trevor & Wallace, John
+(1997). . Cambridge: Cambridge University Press. .The Cambridge Companion to Brass Instruments ISBN 0-521-56522-7 Blatter, Alfred (1997). . Belmont: Schirmer. .Instrumentation and
+Orchestration ISBN 0-534-25187-0 Wick, Denis (1984). . Oxford: Oxford University Press. .Trombone Technique ISBN 0-19-322378-3 Del Mar, Norman (1983). . London: Faber & Faber.
+Anatomy of the Orchestra ISBN 0-520-05062-2 Montagu, Jeremy (1981). . London: David & Charles. .The World of Romantic & Modern Musical Instruments ISBN 0-7153-7994-1 Baines,
+Anthony (1980). . London: Faber & Faber. .Brass Instruments: Their History and Development ISBN 0-571-11571-3 Montagu, Jeremy (1979). . New York: The Overlook Press. .The World of
+Baroque & Classical Musical Instruments ISBN 0-87951-089-7 Bate, Philip (1978). . London: Ernest Benn. .The Trumpet and Trombone ISBN 0-510-36413-6 Montagu, Jeremy (1976). . New
+York: The Overlook Press. .The World of Medieval & Renaissance Musical Instruments ISBN 0-87951-045-5 Gregory, Robin (1973). . London: Faber & Faber. .The Trombone: The Instrument
+and its Music ISBN 0-571-08816-3 Maxted, George (1970). . London: John Baker. .Talking about the Trombone ISBN 0-212-98360-1 ed. Bluhme, Friedrich (1962). . Kassel: B renreiter.Die
+Musik in Geschichte und Gegenwart Kunitz, Hans (1959). . Leipzig: Breitkopf & H rtel. .Die Instrumentation: Teil 8 Posaune ISBN 3-7330-0009-9 ed. (1927). . Paris: Delagrave. Lavignac,
+Albert Encyclop die de la musique et Dictionnaire du Conservatoire

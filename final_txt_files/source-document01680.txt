@@ -1,0 +1,55 @@
+This feature requires Javascript to be enabled. Orchestral Instruments An introduction to the instruments of the modern Western orchestra.Summary: Links Baritones and Euphoniums
+Introduction The modern orchestra first developed in Europe over a period of several centuries, but in modern times it has become widely adopted all over the world. Various types of bands
+and smaller ensembles composed mainly of orchestral instruments are also very popular. So many people are familiar with the "orchestra section" method of classifying musical instruments.
+Here are the sections of the orchestra and the instruments commonly found in them. Western The Sections of the Orchestra The typical orchestra is divided into four groups of instruments:
+strings, woodwinds, brass, and percussion. The typical Western marching band, school band, or wind ensemble (woodwinds and brass together are ) leaves out the strings, but otherwise uses
+most of the same instruments as the orchestra. winds Strings There are four stringed instruments commonly used in the modern orchestra: the violin, viola, cello, and bass. All are made of
+wood and have four strings. all are usually played by drawing a bow across the strings, but are also sometimes played by plucking the strings. The is smallest, has the highest sound, and is
+most numerous; there are normally two violin sections (the first violins and second violins), but only one section of each of the other strings. violin The is only a little bit bigger than a violin,
+with a slightly deeper and mellower tone. A nonmusician can have trouble telling a viola from a violin without a side-by-side comparison. viola The is technically the "violoncello", but few
+people call it that anymore. There is no mistaking it for a violin or viola; it is much bigger, with a much lower, deeper sound. Whereas violins and violas are held up under the chin to be played,
+cellos and basses have to rest on the floor to be played. cello The , also called the "double bass" (its official name), "standing bass" or "string bass", is so big that the player must sit on a high
+stool or stand up to play it. It has a very low sound. bass Woodwinds The woodwind members of the orchestra are the flute, oboe, clarinet, and bassoon. There can be two, three, or four, of
+any of these woodwinds in an orchestra, depending on the size of the orchestra and the piece being played. All of the modern orchestral woodwinds are played by blowing into them and
+different notes using keys that cover various holes. Most, but not all, are made of wood and have at least one piece of reed in the mouthpiece. fingering You may be surprised that the is not
+here. This is the one instrument that is always found in bands and wind ensembles, but only very rarely plays in the orchestra. Note: saxophone Although may be made of wood, the
+orchestral flute is usually made of metal. It also does not have a reed. It is grouped with the woodwinds partly because it is in fact more closely related to those instruments than to the brass
+(please see ), but also because the of its sound fits in the woodwind section. The sound is produced when the player blows across a hole in the side (not the end) of the instrument. It has a
+clear, high sound that can be either gentle or piercing. An even higher-sounding instrument is the , a very small flute that is much more common in bands than in orchestras. flutes Wind
+Instruments: Some Basics color piccolo The is the instrument that traditionally sounds the first "A" that the orchestra tunes to. It is black, made of wood, and at sight can be mistaken by the
+nonmusician for a clarinet. But its sound is produced when the player blows in between two small reeds, and its high "double-reed sound is not easily mistaken for any other instrument. The ,
+or , is a slightly larger double reed instrument with a deeper, gentler tone, that is sometimes called for in orchestral music. oboe cor anglais English horn The is also black and normally made
+of wood, although good plastic clarinets are also made. It uses only a single reed. It is a versatile instrument, with a very wide range of notes from low to high, and also a wide range of
+different sound available to it. In the orchestra, clarinets are no more numerous than the other woodwinds, but it is usually the most numerous instrument in bands and wind ensembles
+because of its useful versatility. There are many sizes of clarinet available, including bass and contrabass clarinets, but the most common is the 6 flat clarinet. The clarinet is the only common
+orchestral woodwind that is usually a , although there are less common woodwinds, such as English hom, that are also transposing instruments. clarinet colors transposing instrument The is
+the largest and lowest-sounding standard orchestral woodwind. (Bass clarinet and contrabassoon are used only occasionally.) It is a long hollow tube of wood; you can often see the tops of the
+bassoons over the rest of the orchestra. Like the oboe, the bassoon is a - the player blows between two reeds - but the player does not blow into the end of the bassoon. The air from the reeds,
+goes through a thin metal tube into the middle of the instrument. bassoon double reed Brass The orchestral brass are all made of metal, although the metal can be a silvery alloy instead of
+brass. The sound is actually produced by "buzzing" the lips against the mouthpiece; the rest of the instrument just amplifies and refines the sound from the lips so that it is a pretty, musical
+sound by the time it comes out of the at the other end of the instrument. A slide, or three or four valves, help the instruments get different notes, but players rely heavily on the of their
+instruments to get the full range of notes. (Please see for more on the subject.) The orchestral brass instruments are the trumpet, French horn, trombone, and tuba. As with the woodwinds, the
+number of each of these instruments varies depending on the size of the orchestra and the piece being played. There are usually two to five each of trumpets, horns, and trombones, and one
+or two tubas. bell harmonic series Wind Instruments: Some Basics The is the smallest, highest-sounding orchestral brass instrument. Its shape is quite cylindrical (it doesn't flare much until
+the very end), giving it a very clear, direct sound. Trumpets may read in C or may be B flat . The , which is more common in bands than in orchestras, is very similar to the trumpet and the two
+instruments are often considered interchangeable. The cornet has a more conical, gently-flaring shape and a slightly mellower sound. trumpet transposing instruments cornet The, or , is
+much more conical than the trumpet and has a much mellower, more distant sound. It has a wide range that overlaps both the trumpet and trombone ranges, and in the orchestra is often used
+to fill in the middle of the brass sound. Its long length of tubing is wrapped into a circular shape and the bell faces backward and is normally rested on the player's leg. It is a that usually reads
+music in French hom horn transposing instrument The is the only valveless brass instrument in the modern orchestra. One section of its tubing - the - slides in and out to specific to get
+higher and lower , but, as with the other brass, it uses the to get all the notes in its range. Its range is quite a bit lower than the trumpet, but it also has a brassy, direct (cylindrical-shape)
+sound. trombone slide pitches harmonic series There are a few instruments in the middle and low range of the brass section that are commonly found in bands, but very rare in the orchestra
+The play in the same range as the trombone, but have the more cylindrical shape and a very mellow, sweet sound. In marching bands, the horn players often play mellophone and the tuba
+players play the sousaphone. The is an E flat or F with a forward-facing bell that is more suitable for marching bands than the French horn. The was also invented for use in a marching band;
+its tubing is wrapped so that the player can carry it on the shoulders. baritone and euphonium mellophone transposing instrument sousaphone The is the largest, lowest-sounding orchestral
+brass instrument. It is a conical brass instrument, with a much mellower, distant sound than the trombone. Its bell (and the bell of the baritone and euphonium) may either point straight up or
+upward and forward. tuba Percussion In a orchestra or band, anything that is not classified as strings, woodwinds, or brass goes in the percussion section, including whistles. Most of the
+instruments in this section, though, are various drums and other instruments that are hit with drumsticks or beaters. Here are some of the more common instruments found in an orchestra
+percussion section. Western are large kettledrums (drums with a rounded bottom) that can be tuned to play specific . An orchestra or wind ensemble will usually have a few tympani of various
+sizes. Timpani pitches Other common drums do not have a particular pitch. They are usually cylindrical, sometimes with a drum head on each end of the cylinder. They include the small ,
+which often has a that can be engaged to give the drum an extra rattling sound, the medium-sized , and the large . All orchestral drums (including tympani) are played using hard drum sticks
+or softer beaters. Drums that are played with the hands, like bongos, are rare in traditional orchestras and bands. side drum tenor drum bass drum can be clashed together, hit with a beater,
+or slapped together in "hi-hat" fashion. For smaller ensembles, various cymbals and drums may be grouped into a so that one player can play all of them. are usually larger and thicker than
+cymbals and are usually hit with a soft beater. Cymbals drum set Gongs There is only one group of common percussion instruments on which it is easy to play a. In these instruments, bars,
+blocks or tubes are arranged in two rows like the black and white keys of a piano keyboard. Orchestral and use wooden bars arranged over hollow tubes that help amplify their sound. The uses
+metal bars (like the familiar children's xylophone), and use long, hollow, metal tubes. melody xylophones glockenspiel tubular bells Common percussion extras that add special color and
+effects to the music include the tambourine, triangle, maracas and other shakers, castanets, claves and various wood blocks, and various bells and scrapers

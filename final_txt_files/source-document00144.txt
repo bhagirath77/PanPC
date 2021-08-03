@@ -1,0 +1,155 @@
+A (octave below tenor) B (octave below tenor) The pitch of the trombones has (notionally) moved up a semi-tone since the 17th century, and this is explained in the section on Pitch. Because
+the tenor instrument is described as "Gemeine" (common or ordinary), this is probably the most widely used trombone. The basses, due to their longer slides, have a hinged handle on the
+slide stay, which is used to reach the long positions. The giant Octav-Posaun / double bass trombone / contra-bass trombone in the style of the those made in 1eth/17th centuries is,
+represented by only two instruments in existence. There is an original instrument made by Georg Nicolaus Oller built in Stockholm in 1639 and housed in the Musikmuseet . In addition, Ewald
+MeinI has made a modem copy of this instrument, and it is currently owned and played by Wim Becu. [1] [] edit Construction The bore size of renaissance/baroque trombones is
+approximately 10mm and the bell rarely more than 10.5cm in diameter (). This compares with modern tenor trombones which commonly have bores 12.7mm (0.500in) or 13.9mm (0.547in).
+Fischer 1984 Compared to modern trombone mouthpieces, early mouthpieces had narrow, flat rims, shallow cups and narrow apertures (, p. 16). Herbert 2006 Modern reproductions of
+sackbuts sacrifice some authenticity to hamess manufacturing techniques and inventions that make them more comfortable for modem players, whilst retaining as much of the original
+character of the old instruments. Some original instruments could be disassembled into the constituent straight tubes, bowed tubes, bell flare, and stays, with ferrules at the joints. Mersenne
+has a diagram. (Little imagination is needed to see how it could be reassembled - with an extra tube - into something approaching a .) There is a debate as to whether they used tight fittings,
+wax or another joining substance. Modem sackbut reproductions are usually soldered together. Some modem sackbut reproductions use glue as a compromise to give a loose fitting for high
+resonance whilst knowing it won't fall apart. natural trumpet Tuning slides came in during the very late 18th century. Early trombonists adjusted pitch with the slide, and by adding variously
+shaped and sized . Modern reproductions often have a bell bow tuning slide or telescopic slide between the slide and bell sections. Crooks are still used, as are variously sized bell bow sections
+for larger changes (, p. 22). crooks Herbert 2006 The stays on period sackbuts are flat. While the bell stay remained flat, from about 1660 the slide stays became tubular. On many modem
+reproductions round slide stays are much more comfortable to play and easier to make. A loose connection between the bell stay and the bell is thought to be key to a resonant bell and thus a
+better sackbut sound. Original instruments have a hinge joint. Modern copies which have a tuning slide in the bell can need more support for operation of the slide, so either an extra stay by
+the tuning slide is provided or a joint without play in only one axis is employed. The original way to make the slide tubes was to roll a flat piece of metal around a solid cylinder mandrel, and
+the joining ends soldered together. Modern manufacturers now draw the tubes. They also tend to have stockings, which was only invented in around 1850. In addition modem made slides are
+usually made of nickel silver with chrome plating, giving a smoother finish and quieter action than simply the brass that would have been used originally. The was added in the 19th century,
+but modern reproductions often have them (, p. 21). water key Herbert 2006 [] edit Pitch It has been found that fellow church instruments which are fixed pitch - cornetts and organs - were
+at approximately A=460-480Hz ("Chorton") across Europe in the Renaissance and baroque eras. This is also seen in Renaissance wind band music. pitched 's (c. 1600) teaches trombonists
+that first position gives A, E, A, C, E and G (, p. 35). In 1687, Daniel Speer's concurs with these notes for the slide all the way in (whilst describing pushing the slide out a bit to get the C)
+Praetorius describes an alto in D, tenor in A, and bass in D. Aureleo Virgiliano I! dolcimelo Herbert 2006 Grund-richtiger The tenors that survive are pitched closest to Bb at A=440Hz. This,
+tallies with the historical evidence suggesting tenor trombones were pitched in A and that was about one half-step higher than A we know today at 440. So what we now think of as a tenor
+trombone with Bb in first position, pitched at A=440 was actually thought of as a trombone in A (in first position), pitched at A=466. Surviving basses in D at A=466 (Eb at 440) - for example:
+Ehe, 1612 (Leipzig) and Hainlein, c.1630 (Nuremburg) confirm Praetorius description. It is also worth noting that Rognonis "Suzanne ung jour" setting descends repeatedly to BBb, which is a
+tone lower than the lowest note playable on a bass in F; on a bass in D, it falls in (modern) fifth position. Some groups now perform at A=466 Hz for the sake of greater historical accuracy. []
+edit Timbre The sackbut was described as suitable for playing with the loud ensembles in the outdoors, as well as the soft ensembles inside. The bands are seen in drawings as entertaining
+outside with ensembles including shawms, trumpets and trombones. When pushed, sackbuts can easily make a loud and brassy sound. alta capella The sackbut also responds very well to
+rather soft playing - more so than a modem trombone. The sound is characterized by a more delicate, vocal timbre. The flat rims and shallow cups of the older mouthpieces are instrumental in
+providing the player with a much wider palette of articulations and tonal colours. This flexibility lends itself to a vocal style of playing and facilitates very characterful phrasing. Mersenne wrote
+in 1636, "It should be blown by a skillful musician so that it may not imitate the sounds of the trumpet, but rather assimilate itself to the sweetness of the human voice, lest it should emit a
+warlike rather than a peaceful sound." The Lorenzo da Lucca was said to have had "in his playing a certain grace and lightness with a manner so pleasing" (, p. 64). Haar 2006 [] edit
+Performance Practice Musicians of the 16th and 17th centuries were expected to have many skills that are not required by performers today. They would have to improvise new music. In the
+Middle Ages to the Renaissance, various music treatises include in their tuition improvising at sight fast moving melody over a cantus firmus, or extra contrapuntal lines to a plainchant. In a
+non-liturgical setting, an alta capella group (in which a slide trumpet or trombone often featured) would involve the tenor playing the main tune in long tones whilst two others improvised florid
+counterpart tunes. These traditions continued into the baroque with musicians expected give expression to the written music by with a mixture of one-note "graces" and whole passage
+"divisions" (also known as "diminutions"). The suggestions for producing effective omaments without disrupting the line and harmony are discussed alongside countless examples in the 16th
+and early 17th century Italian division tutors. Graces such as the accento, portar della voce, tremolo, groppo, trillo, esclamationo and intonatio are all to be considered by performers of any
+music in this period. ornamenting Along with the improvisation, many of these tutors discuss articulation. Francesco Rognoni in 1620 describes the tonguing as the most important part of
+producing "a good and beautiful effect in playing wind instruments, and principally the cometto" (which of course had a very similar role to the trombone). The treatises discuss the various
+strengths of consonants from "le" through "de" to "te". But the focus of the text is for playing rapid notes "similar to the gorgia of the human voice" with "soft and smooth" double tonguing
+("lingua riversa") using "Ie re le re". This is opposed to using "te che te che" which is described as "harsh, barbarous and displeasing". The natural pairing of notes these articulations provide is
+similar to the instructions for string players who are instructed to slur ("lireggiar") pairs of eighth notes with one bow stroke per quarter beat. Another aspect to consider is the musical
+temperament. Music in the middle-ages favours interval of the 4th and Sth, which is why was used. The interval of a third was used as a clash (and it does in Pythagorean!) until the
+Renaissance, when it became consonant in compositions, which went hand-in-hand with the widespread use of temperament. During the 17th century, began to become more and more popular
+as the range of keys increased. Use of these temperaments with their appropriate music produces far more beautiful and colourful music than the so prevalent in modern performers.
+Pythagorean tuning Meantone Well temperament equal temperament These old tunings can come naturally on a sackbut. As the bell is smaller than a modern trombone, the harmonic series is
+closer to a perfect harmonic series, which is the basis for just tuning. Without adjusting the slide, the 1st to 2nd harmonic is a perfect octave, 2nd to 3rd harmonic is a Sth slightly wider than
+equal temperament and 4th to Sth harmonic is a major 3rd slightly narrower than in equal temperament. These adjusted intervals make chords ring and are the basis of meantone. In fact
+Speer says "once you have found a good C (3rd position), this is also the place you will find your F#", Playing C and F# in exactly the same position on a modem orchestra sounds out of tune,
+but it tunes perfectly well on a sackbut if everyone plays meantone. Plenty of musical understanding can be gathered from reading the original music print. Publishers such as SPES and
+Amaldo Forni Edition provide facsimile copies of plenty of music for trombone from this era. To read these it one needs to become familiar with the old clefs, ligatures and notational conventions
+of the era. [2] When reading sackbut music, it is important to consider , to help solve some of the controversial pitches. The scores are unclear and composers were embarrassed to point out
+accidentals they felt were obvious to performers. For example there are occasions where a leading note should be sharpened to a major 7th as you go into a cadence. There also are often
+questions about which notes accidental markings apply to. There are differences of opinion between editors and performers now, just as there were between performers then. Musica ficta []
+edit before 1600 The sackbut replaced the slide trumpet in the 15th century wind bands that were common in towns throughout playing music. See . alta capella Europe courtly dance Waits
+Another key use of the trombone was in ceremonies, in conjunction with the trumpet. In many towns in Germany and Northern Italy, " bands were employed by local governments throughout
+the 16th century to give regular concerts in public squares and would lead processions for festivals. Piffari usually contained a mix of wind, brass and percussion instruments and sometimes
+viols (). piffari Selfridge-Field 1994 Venice's doge had his own piffari company and they gave an hour-long concert in the Piazza each day, as well as sometimes performing for services in St.
+Mark's. Each of the six confraternities in Venice also had their own independent piffari groups too, which would all play at a lavish procession on the feast of Corpus Domini. These groups are in
+addition to the musicians employed by St. Mark's to play in the balconies with the choir (the piffari would play on the main level) (). Selfridge-Field 1994 It also was used in both for
+instrumental service music and as a doubling instrument for . The treble and high alto parts were most often played by or , with the sometimes replacing the cornett in 17th century (). church
+music choral music comets shawms violin Italian music Selfridge-Field 1994 The first record of trombones being used in churches was in Innsbruck 1503. Seville Cathedral's records show
+employment of trombonists in 1526, followed by several other Spanish cathedrals during the 16th century, used not only for ceremonial music and processionals, but also for accompaniment of
+the liturgical texts as well, doubling voices (, p. 101). Herbert 2006 The sacred use of trombones was brought to a fine art by the family and their contemporaries c.1570-1620 and there is also
+evidence of trombonists being employed in churches and cathedrals in Italy at times during the second half of the 16th century in Bologna, Rome, Padua, Mantua and Modena (, p. 101).
+Gabrieli Venice Herbert 2006 Since ensembles had flexible instrumentation at this time, there is relatively little music before 's publication (1597) that specifically mentions trombones. The
+only example currently known is the music by for the Medici wedding 1539 (, p. 91). Giovanni Gabrieli Symphoniae sacrae Francesco Corteccia Herbert 2006 [] edit Solo The seventeenth
+century brings two pieces of real solo trombone repertoire. wrote (Musikverlag Max Hieber, MH6012) the earliest known piece for accompanied solo trombone. It comes from Cesare's collection
+published in Munich 1621 of 28 pieces for a mixture of violins, cornetts, trombone, vocal soloists and organ continuo. The collection also contains for four trombones. Giovanni Martino Cesare
+La Hieronyma,Musicali Melodie per voci et instrumenti a una, due, tre, quattro, cinque, e seiLa Bavara The other solo trombone piece of the 17th century, (modem edition by H Weiner,
+Ensemble Publications), was written around 1665. This anonymous piece is also known as the 'St. Thomas Sonata because it was kept in the library of the Saint Thomas Augustinian Monastery
+in Brno, Czech Republic.Sonata trombone & basso was another composer who specified the trombone in a set of divisions (variations) on the well-known song (London Pro Musica, REP15)
+Rognoni was a master violin and gamba player whose treatise (Milan 1620 and facsimile reprint by Arnaldo Forni Editore 2001) details improvisation of diminutions and Suzanne is given as one
+example. Although most diminutions are written for organ, string instruments or comett, Suzanne is "per violone over Trombone alla bastarda". With virtuosic semiquaver passages across the
+range of the instrument, it reflects Praetorius comments about the large range of the tenor and bass trombones, and good players of the Quartposaune (bass trombone in F) could play fast
+runs and leaps like a viola bastarda or cornetto. The term "bastarda" describes a technique that made variations on all the different voices of a part song, rather than just the melody or the
+bass: "considered illegitimate because it was not polyphonic (, p. 309). Francesco Rognoni Suzanne ung jourSelva di Varie passaggi secondo I'uso modemo Selfridge-Field 1994 [] edit
+Chamber music (art music) In the 17th century, a considerable repertoire of using sackbut with various combinations of violins, comets and , often with , appeared. Composers induded , , , ,
+and . chamber music dulcians continuo Dario Castello Giovanni Battista Fontana Giovanni Paolo Cima Andrea Cima Johann Heinrich Schmelzer Matthias Weckmann_, organist of S. Celso wrote
+the oldest known trio sonata and solo violin sonata. Contained in his (Milan 1610) is his brother 's for cornett and trombone or violin and violone'. Giovanni Paolo Cima Concerti ecclesiastici
+Andrea Capriccio wrote several trio sonatas for 2 violins, trombone and bass continuo in the mid 17th century. One such is freely available in facsimile form from the D ben Collection website
+hosted by . A "Sonata a3 in C" is published by Musica Rara and attributed to Biber, although the authorship is unclear and it is more likely to have been written by Bertali . Antonio Bertali
+Sonata a 3 Uppsala universitet [3] [4] , a wind player at St. Mark's Venice in the early 17th century had two books of published in 1621 and 1629. The sonatas of 1-4 parts with bass continuo
+often specify trombones, as well as cornett, violin and bassoon. The numerous reprints during the seventeenth century affirm his popularity then, as perhaps now. Dario Castello Sonate
+Concertate wrote a Canzona for eight trombones, published in Raverii's 1608 collection. Tiburtio Massaino wrote several sonatas which included trombones. For example, his for two cornetts,
+two trumpets, three trombones and basso continuo. Johann Heinrich Schmelzer Sonata 7 in his 1687 publication provides two three part sonatas for trombones and a four part sonata in
+(1685). Daniel Speer Grund-richtiger...Neu-gebachene Taffel-Schnitz An English work of note from this period is 's , a suite for Charles II's coronation 1661 (, p. 98). Matthew Locke Music for
+His Majestys Sagbutts and Cometts Herbert 2006 [] edit Light music Non-serious music, often based on dances for festive occasions, rarely had specified instrumentation. Often you find
+something like "per diversi musici". Indeed the groups that would perform them would often be full of multi-instrumentalists. (, p. 98-99) Herbert 2006 wrote for with his (1670), containing
+sonatas, as well as (1685) which five-part intradas and dance pieces. Johann Pezel Stadtpfeifer Hora decima musicorumF nff-stimmigte blasende Music Well known pieces from Germany
+includes 's (1621) and 's (1617) (, p. 98-99). Samuel Scheidt Ludi Musici Johann Hermann Schein Banchetto musicale Herbert 2006 The first English piece scored for trombone is 's (1611).
+Another light collection suitable for including trombones is 's (1599). John Adson Courtly Masquing Ayres Anthony Holborne Pavans, Galliards, Allmains, and other short Aeirs both Grave and
+Light in Five Parts for Viols, Violins or Other Musicall Winde Instruments [] edit Venice Trombonists were in the regular ensemble at St. Mark's Venice from its formation in 1568 until they left
+the payroll in 1732 (, pp. 15-21). The first two ensemble directors - - (1568-1601) and (1601-1617) - were comet players and the nucleus of the group was 2 cometts and 2 trombones,
+although for the larger ceremonies many extra players were hired. During a mass attended by the Doge, evidence suggests they would have played a canzona in the Gradual after the Epistle
+and the Agnus Dei, a sonata in the Offertory as well as reinforcing vocal parts or substituting for absent singers (, pp.22-23). Selfrige-Field 1994 maestro di concerti Girolamo Dalla Casa
+Giovanni Bassano Selfridge-Field 1994 This ensemble was used extensively by in pieces substantially for brass, voices and organ in Venice up until his death in 1612. He was greatly influential
+in Venetian composers in other churches and confraterities, and his early baroque and cori spezzati style is seen in contemporaries like and . Giovanni Gabrieli Giovanni Picchi Giovanni Battista
+Grillo. It is suggested that wrote his (1610) as a pitch for employment at St. Mark's as successor to . In addition to the Magnificat, two movements specify trombones: the opening is for 6
+voices, 2 violins, 2 cometts, 3 trombones, 5 viola da braccio and basso continuo; is for soprano, 2 violins, 2 cornetts, 3 trombones (one of which can be a viola da braccio), viola da braccio and
+basso continuo. Monteverdi also leaves the option to use trombones as part of the "sex instrumentis" of the and in the instrumental between verses of (). Monteverdi Vespro della Beata Vergine
+Giovanni Gabrieli Deus in adiutoriumSonata sopra Sancta Maria, ora pro nobisDixit DominusRitornello a SAve maris stella Grove - Monteverdi From around 1617, when the at St. Marks changed
+to violinist and correspondingly the ensemble changed from basically a brass ensemble to being more evenly mixed with brass, wind and string instruments ().maestro de! concerti Francesco
+Bonfante Selfridge-Field 1994 arrived at St. Mark's in 1613 and it is unsurprising that he includes trombones and strings for several more sacred works during his time here, published in his,
+1641. Of the c.40 items in this collection, six specify three or four trombones (or viola da braccio, ad lib): SV268 Beatus vir I, SV263 Dixit Dominus I, SV263 Dixit Dominus II, SV261 Et iterum
+venturus est, SV258 Gloria in excelsis Deo, SV281 Magnificat I. Each is for 3-8 voices with 3 violins (apart from $V261), the trombones/violas and basso continuo. Monteverdi also specified
+trombones in two more sacred works: SV198 Laetatus sum (i) (1650) for 6 voices, 2 violins, 2 trombones and bassoon and SV272 Laudate Dominum omnes gentes I (1641) for 5 voices
+concertato , 4 voice chorus ad lib, 4 viola da braccio or trombones and basso continuo (). Monteverdi Selva Morale e Spirituale Grove - Monteverdi [] edit Germany/Austria A prolific composer
+for trombones in Germany in the 17th century was . His (SWV 269) and (SWV 270), are both scored for bass voice, four trombones (of which two are optionally violins) and basso continuo, are
+well known. They are part of his first collection dating from 1629 and commentators have noted that the style reflects his studies in Venice with 1609-1612. The other pieces which specify
+trombones (according to Grove) are (grouped by the collection they were published in): Concert mit 11 Stimmen (1618): SWV 21, Psalms of David Op.2 (1619): SWV 38, 40-46, Symphoniae
+Sacrae I Op.6 (1629): SWV 259, 269-271, 274, Symphoniae Sacrae II Op.10 (1647): SWV 344, Symphoniae Sacrae III Op. 12 (1650): SWV 398a, Historia (1664): SWV 435, 448, 449, 453,
+461, 452, 466-470, 473, 474-476, Schwanengesang Psalm 119 (1671): SWV 500, although many others are suitable for trombones too . Heinrich Sch tz Fili me, AbsalonAttendite, popule
+meusSymphoniae Sacrae Giovanni Gabrieli [5] specified trombones in some of his sacred vocal works in the collection (Leipzig, 1626). For example, is scored for violino, traversa, alto
+trombone, tenor voice, fagotto and basso continuo. uses Canto 1: violino, cornetto, flauto picciolo e voce, Canto 2: voce e traversa, Alto: Trombone e Voce, Tenore: Voce e Trombone, Basso:
+Fagotto Trombone e Voce and Basso Continuo, during which solos for each of the trombonists are specified. Of particular interest is which uses soprano and tenor voices, alto trombone, 2 tenor
+trombones and on the bass line "trombone grosso" which goes down to pedal A, and a couple of diatonic scale passages from bottom C. Johann Hermann Schein Opella nova, ander Theil,
+geistlicher ConcertenUns ist ein Kind geborenMach dich auf, werde licht, ZionMaria, gegr sset seist du, Holdselige [6] German composer wrote some notable sacred pieces for voices and
+trombones. uses five favoriti singers, two ripieno choirs (which double other parts at intense moments) and seven trombones, with basso continuo. And his most famous (1657-65) contains
+several sacred works with 3 or 4 trombones, including for SATB soloists, cornet, 3 trombones and continuo and for bass, 4 trombones and continuo. Johann Rudolf Ahle H re,
+GottNeu-gepfianzte Th ringische Lust-Garten..Magnificat a Herr nun | ssestu deinen Diener a 5 [7] specifies trombones in a few sacred concertos using style derived from polychoral Venetian
+works and one secular piece. For example, (BuxWV33 from CW v, 44) is scored for SSB voices, 2 vn, 2 va, trbn, 2 cornetts, 2 tpt, bn and bc. Dieterich Buxtehude Gott f hret auf mit Jauchzen
+[8] There are a few vocal works involving trombones in works by . These include for 9 voices, 5 tpt, 3 trbn, 5 va and bc (Freiberg, 1652). There is also for 5 voices, 2 vn, 2 trbn, bn and bc.
+Andreas Hammerschmidt Lob- und Danck Lied aus dem 84. PsalmHochzeitsgesang fr Daniel Sartorius: Es ist nicht gut, dass der Mensch allein sei [9] has numerous sacred vocal works that
+use trombones. For instance is scored for soprano, tenor, SSATB choir, 2 violins, 2 violas, 2 cornetts, 3 trombones, 2 trumpets, timpani, basso continuo, and is for two choirs of SSATB and
+similar instruments to the previous work. Johann Schelle Vor Himmel kam der Engel ScharLobe den Herm, meine Seele [10] The lesser known Austrian composer , Kapellmeister to the
+Habsburg Emperor Mathias 1616-1620, wrote two important collections for trombones, comets and voices. His motets published in Nova ac diversimoda sacrarum cantionum composition, seu
+motettae (Vienna, 1613) are in a similar tradition to Gabrieli's music. Of the sixteen motets in the collection, all are titled "concerto" apart from the "sonata for 6 trombones, cantus voice and
+tenor voice. In 1631 he published a number of masses which were much more baroque, with basso continuo, rhetorical word painting and obligato usage of instruments. Christoph Strauss
+Expectans Expectavi Dominum [11] Later in the 17th century, composed sacred works for voices and orchestra featuring trombones. His mass (1692) uses an orchestra of strings, 3 trombones
+and basso continuo. A similar ensemble accompanies 8 vocal lines in his (c1673), and three more similar works in the 1690's. Heinrich Ignaz Franz von Biber RequiemLux perpetua [12] [] edit
+Theatre ushers sackbuts into the first great opera - " 1607. The orchestra at the first performance, as shown in the first publication, the list of "stromenti" at the front of the score specifies
+four trombones, but at one point in Act 3, however, the score calls for five trombones. Monteverdi L'Orfeo [] edit 1700-1750 There is relatively little repertoire for the trombone in the late
+baroque. But uses trombones in fourteen of his church cantatas - BWV 2, 3, 4, 21, 23, 25, 28, 38, 64, 68, 96, 101, 121, 135 as well as motet BWV 118. He uses the trombone sound to reflect
+the (by now) archaic sounds of the Renaissance trombones doubling voices (with playing the soprano line), yet he also uses them independently, which John Eliot Gardiner says prepares the
+way for their use in 's . The cantatas were either composed in Leipzig during 1723-1725, or (for BWV 4, 21 & 23) the trombone parts were added to the existing cantata during the same
+period. The cornett and trombone parts would have been played by the . Johann Sebastian Bach comett Beethoven Symphony No. 5 [13] Stadtpfeifer [14] In England, includes trombones in
+three of his oratorios: (1738), (1738) and (1741). There are no other documented groups or performances with trombone players in England at this time, and it has been suggested that the
+premiers took place with a visiting group from Germany, as was the custom in Paris at this time. George Frideric Handel Saullsrael in EgyptSamson Vienna's Imperial court used trombones in
+church music: was Hofkapellmeister in Vienna from 1715 until 1741. Many of his masses use the choir strengthened by strings, cornetts and trombones, often with independent moments for
+the instrumentalists and sometimes. uses two choirs which again points to the traditions going back to Gabrieli. His highly successful Requiem is for five vocal parts, two cometts, two
+trombones, strings and continuo. He also uses the trombone in smaller motets and antiphons, such as his setting of for soprano, alto trombone, strings and continuo. Some of his chamber
+music involves trombones, as do many of his operas, used as an obbligato instrument. Johann Joseph Fux Missa SS TrinitatisAlma Redemptoris mater [15] Also in the Vienna court was ,
+vice-kapellmeister 1717-1736. Among his output are two Holy Week settings as Da Capo arias: for soprano, unison violins, bassoon, two trombones and organ and for soprano, trombone,
+bassoon and basso continuo. Antonio Caldara Deh sciogliete, o mesti lumiDio, qual sia [16] [] edit 1750-1800 Again this period suffers from a lack of trombone players. Most of these works
+derive from Vienna and Salzburg. uses trombones in, ,, , , and secular cantata choruses. Joseph Haydn II rotomno di TobiaDie Sieben Letzten Worte The_Creation Die Jahreszeiten Der
+SturmOrfeo de Euridice_uses trombones in connection with death or the supernatural. This includes the (K626, 1791), (K423, 1783), (K317, 1779), several other masses, (K339, 1780), , his,
+arrangement of 's plus two of his three great operas: (K527, 1787) and (K620, 1791). Mozart's first use of the trombone was an obligato line in the oratorio (K35, 1767) Wolfgang Amadeus
+Mozart Requiem 'Great' C minor mass Coronation Mass (C major)Vesperae Solennes de ConfessoreVesperae de Dominica Handel Messiah Don Giovanni Die Zauberfl te Die Schuldigkeit des
+ersten und f rnehmsten Gebots includes trombones in five of his operas: (1774), (1774), (1776), (1779) and (1779), as well as ballet (1761). Christoph Willibald Gluck Iphig nie en Aulide
+Orfeo ed Euridice Alceste Iphig nie en Tauride Echo et NarcisseDon Juan [17] Some chamber music in this period includes trombone in an obligato role with voice, and also as a concerto
+instrument with string orchestra. Composers include the likes of ,,, and. Leopold Mozart Georg Christoph Wagenseil Johann Albrechtsberger Michael Haydn Johann Ernst Eberlin For works for
+trombone post-1800, please see . trombone

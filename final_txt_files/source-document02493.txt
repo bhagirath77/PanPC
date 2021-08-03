@@ -1,0 +1,20 @@
+Clean Your Disk Drives If you don't have anti-virus software on your computer, then immediately purchase and install a product. Now. Doing any kind of computing on any computer that has
+contact with the outside world (internet connection, floppy disks, network, ) is like not practicing safe sex. And, as far as your computer is concemed, it could be just as fatal.anything I cannot
+stress this enough. There are many people in the world who do not seem to have enough to do, are angry, experimenting or plain just don't care. These people create viruses and unleash
+them to the world. This is very important also - your job is not finished just because you've installed anti-virus software. You must update the virus definitions (and occasionally the software)
+as new viruses come out all of the time. If you do not perform these updates, it will give you a false sense of security as you will not be protected from the newer, often more dangerous
+
+viruses. What is a computer virus? A virus is a small piece of software designed to operate on your computer without your knowledge or consent. Most viruses are benign - they cause no
+damage other than annoying the operator. Some viruses cause minor damage or embarrassment. A few of the worst can destroy a computer, erase files or disk drives, or send sensitive data
+to outsiders without your knowledge. Viruses are spread through infected emails, documents and programs. A virus MUST be executed to be "triggered". Sometimes this is as simple as
+running an attachment to an email message. Some of the newer viruses can be inserted into your system via HTML email messages. When these small pieces of code execute on your system
+they can do simple things like display an annoying message, or more complicated tasks such as re-mailing themselves to everyone on your contact list (these are more properly called
+
+"worms"). They can allow hackers to remotely control your system (this is a "Trojan Horse") and some of them even destroy data or format your hard drive. All of them are undesirable and all
+of them must be stopped before they do any damage or replicate themselves. And, in a nutshell, that's why you need to install anti-virus software and why you must keep the virus definitions
+up to date. Descriptions of Recent Common Viruses Sircam Additional Information Backup may seem to be a pain, but it's one of the most important things that you can do to protect your
+system. Backing Up Your stuff - Part 1 Backups are extremely critical to keep your system secure. If your system is damaged by a virus or an intruder you have a way to recover. Remember,
+however, that you must think through and test your scheme. Backing up your system is an essential part of your security scheme If you run Outlook and you want to protect yourself, you
+should install the Outlook security patch. Outlook Security Patch You need antivirus protection for your computer. Norton Antivirus is by far and away the best solution for the desktop. Products
+= Norton Antivirus ZoneAlarm Pro is quite possibly the best firewall product for personal home use that currently exists. Highly recommended. Products - ZoneAlarm Pro Learn how to protect
+your computer and your hard work. Start with a backup plan, install antivirus software and subscribe to newsletters. The Ultimate In Virus Protection Connect with me

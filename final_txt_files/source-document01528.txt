@@ -1,0 +1,18 @@
+Click here to learn about other NIGMS Glue Grants Site Version 04.10.0197 is a large-scale research program supported by the National Institute of General Medical Sciences (NIGMS), 2
+division of the National Institutes of Health. This collaborative program aims to uncover the biological reasons why patients can have dramatically different outcomes after suffering a traumatic
+injury. It is the first large-scale interdisciplinary program to attempt to solve the life-threatening problem of inflammation following major trauma or burn injury. brings together major medical
+and research institutions with researchers in the fields of surgery, genomics, proteomics, biostatistics, bioinformatics, computational biology, and genetics to focus on the molecular biology of
+inflammation. The program, funded initially in 2001, was successfully renewed through 2011 to continue the work of understanding the genomic and proteomic markers that predict ultimate
+outcomes both good and bad, and suggest new areas for research, as well as possible targets for drug and other interventions. Inflammation and the Host Response to Injury Inflammation and
+the Host Response to Injury <Publications list - PDF format> The Trauma-Related Database Concept One of the principal products or deliverables of our planned 10-year award, the Trauma
+Related Database (TRDB) is a large, relational database warehouse containing clinical, proteomic, cell biology, and gene expression data from our trauma and burns patients and healthy control
+subject studies. The TRDB provides a browser interface for downloading complete datasets, and more importantly, user-selected data subsets. Data can be downloaded as tables (i.e., relational
+format) and as binary or text files for use in various data analysis applications. Data collection for TRDB is ongoing with planned enrollment through 2010. Refinements to enhance the query
+and report-writing capabilities of TRDB are also a component of our funded research program. The program data warehoused in TRDB undergoes a vigorous process of scientific annotation,
+validation, and curation to insure that the data are of maximum usefulness to the scientific community. While the development of the TRDB as a work product is a work in progress through
+2011, access to the data in TRDB is available now to our Consortium Members to meet the NIH requirements of timely and responsible release of data. curated More... has been written up in
+Environmental Health Perspectives, the monthly magazine of the National Institute of Environmental Health Sciences. Doctors Ron Tompkins, Perren Cobb and Linc Moldawer of the Glue Grant
+were interviewed for the article, and they explain the need for an understanding of the body's mechanisms of inflammation in fighting infection after trauma or bum injury. Inflammation plays 2
+major role in these injuries, and an understanding of the individual genome will ultimately enable treatment tailored to that specific genome. Click on a link below for the full
+
+article. Inflammation: @ Major Unifying Syndrome. Inflammation and the Host Response to Injury Contents  2004-2007 Massachusetts General Hospital

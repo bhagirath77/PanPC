@@ -1,0 +1,185 @@
+Euclid and the Egyptian Rope-stretchers Gordon Fisher 105 Oakridge Drive South Salem, NY 10590 914-533-7206 gmfisher7@optonline.net 1. Prospectus. The purpose of this artidle is to
+discuss the extent to which Euclid may have been based on his desire to put into words directions for practical measurements of the kinds carried out in ancient Egypt by people known as
+rope-stretchers. This is not to say that this was Euclid only motivational source. In an article called eometry Outside the Formal Euclidean Mould", David W. Henderson and Daina
+Taimidistinguish four strands of early human activity which have contributed to the development of geometry from early to now (Henderson & Taimia. 2005. Ch. 0):Elementsnan . To produce
+decorations for their weaving, pottery, and other objects, early artists experimented with symmetries and repeating patterns. Later the study of symmetries and patterns led to tilings,
+group theory, crystallography, and finite geometries. Early artists also explored various methods of representing physical objects, and living things. These explorations . . . led to the study of
+perspective and then later to projective geometry and descriptive geometry. Art/Pattern Strand For astrological, religious, agricultural, and other purposes, ancient humans attempted to
+understand the movement of heavenly bodies (stars, planets, sun, and moon) in the apparently hemispherical sky. They used this understanding to solve problems in navigation and in
+attempts to understand the shape of the Earth. Ideas of trigonometry apparently were first developed by Babylonians in their studies of the motions of heavenly bodies. Even Euclid wrote an
+astronomical work, [trans. Berggern] in which he studied properties of curves on a sphere. Examples most closely associated with this strand in the last two centuries are the study of
+surfaces and manifolds, which led to many modem spatial theories in physics and cosmology. Navigation/Stargazing Strand.Phaenomena As humans built shelters, altars, bridges, and
+other structures, they discovered ways to make circles of various radii, and various polygonal/polyhedral structures In the process they devised systems of measurement and tools for
+measuring. Building upon geometric knowledge from Babylonian, Egyptian, and early Greek builders and scholars, Euclid (325-265 BC) wrote his, [which] started what became
+known as the axiomatic method in mathematics. Building Structures Strand.Elements Early human societies used the wheel for transportation, making pottery, in pulleys, and in pumps.
+There was an interaction between mathematics and mechanics that led to marvelous machine design and continues to the modern mathematics of rigidity and robotics.Motion/Machines
+Strand. Henderson says further:The abstract systematic aspects of geometry were primarily within the Building Structures Strand, but intuition has been drawn from all four historical strands
+of geometry. In the light of a story told by Herodotus, it may be fitting to add a fifth strand, called the . Proclus says in :Land Measurement StrandA Commentary on the First Book of Euclid
+Elements (Proclus, pp. 51-52) we say, as have most writers of history, that geometry was first discovered among the Egyptians and originated in the remeasuring of their lands. This was
+necessary for them because the Nile overflows and obliterates the boundary lines between their properties. It is not surprising that the discovery of this and the other sciences had its origin in
+necessity, since everything in the world of generation proceeds from imperfection to perfection. Thus they would naturally pass from sense-perception to calculation, and from calculation to
+reason, Just as among the Phoenicians, necessities of trade and exchange gave the impetus to the accurate study of number, so also among the Egyptians the invention of geometry came
+about from the cause mentioned. On this, Thomas Heath says in (Heath, vol. I, p. 121):A History of Greek Mathematics Many Greek writers besides Proclus give a similar account of the origin
+of geometry. Herodotus says that Sesostris (Ramses II, 1300 B.C.) distributed the land among alll the Egyptians in equal rectangular plots, on which he levied an annual tax; when therefore the
+river swept away a portion of a plot and the owner applied fir a corresponding reduction in the tax, surveyors had to be sent down to certify what the reduction in the area had been. "This, in
+my opinion", he continues, was the origin of geometry, which then passed into Greece." The same story, a little amplified, is repeated by other writers, Heron of Alexandria, Diodorus Siculus,
+and Strabo. True, all these statements (even if that in Proclus was taken directly from Eudemus [lost] ) may all be founded on the passage of Herodotus, and Herodotus may have stated as his
+own inference what he was told in Egypt.circaHistory of Geometry More skeptically, David Fowler writes in (1999), pp. 279 -281):The Mathematics of Plato Academy (Fowler, pp. 279-281)It
+has been an oft-repeated story since antiquity that the origins of Greek geometry are to be found in Egyptian land measurement. The earliest such possible reference comes from Herodotus, ii
+109, written in the fifth century BC Another version of this story is given in Proclus , written and compiled from various source materials a thousand years later. But, within a
+tradition of non-arithmetised geometry and given Plato attitude to practical mathematics the issue of land measurement would have held little interest for them [the Greeks]. Did,
+then, the Greeks discover geometry from Egyptian land measurement? We have so little reliable information about this question that we shall probably never be able to give a sure answer, but I
+very much doubt the story. HistoriesCommentary on the First Book of Euclid Elements In connection with what Fowler says, I note that the proposition that the Greeks did not geometry from
+Egyptian land measurement is different from the proposition that to some extent Euclid used land measurement as a guide in some of the formulations at the beginning of the . Even more,
+Fowler seems to assume that Euclid attitude to "practical geometry" would be like that of Plato, which I take it is highly unlikely. Euclid lived in Alexandria, Egypt, and was no doubt acquainted
+with Egyptian traditions, as well as work of pre-Euclidean Greek geometers, whose attitudes toward geometry were not so Platonic.discoverElements 2. Euclid and ropes. James Gow writes,
+in (1884):A Short History of Greek Mathematics (Gow, pp. 129-130)The philosopher Democritus (. 460-370 B.C.) is quoted by Clement of Alexandria as saying, "In the construction of plane
+figures [lit. composition of lines] with proof no one has yet surpassed me, not even the so-called of Egypt." Prof. [Moritz] Cantor has first pointed out that their name is compounded of
+two Greek words and means simply ope-fastenersor ope-stretchers.cirHarpedonaptae After a discussion of the development of geometry in classical Greece, Gow says: (Gow, pp. 132-133)It
+remains only to cite the universal testimony of Greek writers, that Greek geometry was, in the first instance, derived from Egypt. and that the latter country remained for many years
+afterwards the chief source of mathematical teaching. The statement of Herodotus on the subject has already been cited [i.e., division of lands in Egypt about 1400 8.C. for taxation purposes
+into rectangular plots and use of geometry to measure parts of lands flooded by the Nile in order to reduce taxes proportionally]. So also in Plato Socrates is made to say that the Egyptian god
+Theuth first invented arithmetic and geometry and astronomy. Aristotle also (I. 1) admits that geometry was originally invented in Egypt, and Eudemus expressly declares that Thales studied
+there. Much later Diodorus (B.C. 70) reports an Egyptian tradition that geometry and astronomy were the inventions of Egypt, and says that the Egyptian priests claimed Solon, Pythagorus,
+Plato, Democritus, Oenopides of Chios as their pupils. Strabo gives further details about the visits of Plato and Eudoxus. He relates that they came to Egypt together, studies there thirteen
+years, and that the houses where they lived were still shown in Heliopolis. Later writers, of course, have the same tale, and it is needless to collect further evidence/ Beyond question, Egyptian
+geometry, such as it was, was eagerly studied by the early Greek philosophers, and was the germ from which in their hands grew that magnificent science to which every Englishman is
+indebted for his first lessons in right seeing and thinking.PhaedrusMetaph. It is often said that Euclid developed geometry on an axiomatic basis of the sort described by Aristotle. Of this,
+Abraham Seidenberg writes: Historians are fond of repeating that Euclid developed geometry on an axiomatic basis, but the wonder is that any mathematician who has looked at would agree
+with this, Could it be that, by insisting on the axiomatic bases, we are viewing from a false perspective and see its accomplishments in a bad light? This is precisely what I intend to
+prove.The ElementsThe Elements (Seidenberg, 1974/1975)The Greeks of Euclid time had the axiomatic method; Aristotle description of it can be considered a close approximation to our own.
+Or better yet, one may consider Eudoxustheory of magnitude as presented in Book V of : the procedure there disclosed is pretty much in accordance with our view of what an axiomatic
+development should be. It is known, however, that is a compilation of uneven quality, so that even with the definitions, postulates, and common notions of Book I, it is unwarranted to assume
+that Book I is written from the same point of view as Book V:The ElementsThe Elements Euclid is a piece for Greek language and diagrams which uses points which have no parts, lines which
+have length but no breadth, lines which are straight because they lie evenly on themselves, surfaces which only have length and breadth, and solids which have length, breadth and depth. (See
+Heath, ).ElementsThe Thirteen Books of Euclid Elements Since we never see the elements with which Euclid built his system with our outward looking eyes, there has been commotion about
+how we do see these elements, if we can properly say that we do them. Plato proposed, in the and elsewhere, that these elements of Euclid somehow exist, but that beings in our world can
+ever perceive them, Aristotle criticized such views, for example in the .seeRepublicMetaphysics Some say that we can approximate Euclid points with perceptible dots. This is a tricky way of
+describing what we do when we consider dots to be Euclidean points, since one might infer from this way of speaking that Euclidean points exist in some way analogous to the way perceptible
+dots do. Similarly, some say that we can approximate Euclid lines with lines that we can see when we look at them with our outward looking eyes, and perhaps visualize them inside of us with
+some inner apparatus. Some people call such an inner apparatus a mind eye, and speak of seeing lines without using our outward looking eyes. However, as far as I know, no one seriously
+claims that with a mind eye, a person can lines of the sort Euclid defines, unless perhaps they happen to be using to mean in a certain sense, not like the sense of vision.seeseeunderstand
+Rather than worrying about the ontological status of Euclid points, lines, etc., I propose instead to regard Euclid to have had in mind measurements. People can on occasion measure the
+separation of two visible objects to get a length without breadth. For example, we can measure the bottom edge of one face of an Egyptian pyramid by stretching a piece of rope so it lies
+evenly above and parallel to the edge. That much of the piece of rope which is between the two points may then be taken to be a measure of that edge. By ignoring the breadth and depth of
+the rope, we can view the part of the rope just above the edge as one of Euclid straight lines. We may wonder how it is that we can ignore breadth and depth of what we look at, but we don
+have to puzzle ourselves about how it is that there can entities with length but without breadth and depth, like there can pyramids like there are in Egypt. If we wanted to build another pyramid
+with a bottom edge like that of the one we measured, we could tie knots in a piece of stretched rope lying just above the two ends of the edge, and use that much of the rope between the two
+knots as a guide. The knots may be understood as one of Euclid points by ignoring its length, breadth and depth.bebe While it also possible to think of the edge of the existing pyramid as itself
+being one of Euclid lines, this is not necessary. One need not consider how it is that one of Euclid lines can exist in a visible pyramid or as a Platonic eternal Form , but only how it is that people
+can ignore the breadth and depth of rope they are looking at, paying attention only to length. One may imagine some sort of ideal length to which this technique only gives an approximation,
+but why bother, unless like Plato you want to draw analogies between ideal lengths and ideals of the Good, the True, the Beautiful, and the gods? _Here is a picture of Egyptian rope stretchers
+in action, found in the tomb of Menna at Luxor (ancient Thebes) on the west bank of the Nile. The date of the building of this tomb is said to have been about 1200 BCE. 3. Onward with
+Euclid. Euclid proceeds to use the points, lines, etc., that he has introduced to show how to construct various plane figures. His first proposition uses two circles to construct an equilateral
+triangle. I choose to imagine the circles being constructed by Egyptian rope-stretchers. For example, two people might have done this. A first one could hold a rope and tum around in the same
+place, while a second one holds the rope taut at some distance. and walks around the first person traces out a circle, perhaps with a stick. They would be acting as a kind of compass of the sort
+we use to draw circles. Of course, or perhaps I should say unfortunately, Euclid says nothing about such a procedure. He simply postulates that a circle can be described with any center and
+radius, however you manage to do this. In his Proposition 1, Euclid states that to construct an equilateral triangle, start with a straight line segment whose length is what you want each side of
+your triangle to have, describe a circle with center at one end of the segment, and radius equal to this length, and then repeat the operation using the other end of the segment as center. If
+you construct straight line segments from each end of the given segment to one of the points where the circles meet, you will have your equilateral triangle. You may be able to see with your
+mind eye a mental image which will convince you that this procedure works. However, lacking this, looking at an illustrative diagram with your outward looking eyes may convince you.
+Your acquaintance with circles may be such that you can see by just looking at the diagram that the segments CA, BC, and AB are all equal in length since they are all radii of circles of the
+same length. If not, you may read what Euclid says about the diagram. On the next page is a copy of an English translation of what Euclid says, taken from the book by Thomas Heath
+(1908).The Thirteen Books of Euclid Elements An interesting thing has happened here in the . Using a phonetically based alphabetized form of Greek language, Euclid was able to what to do if
+you want to construct an equilateral triangle. For example to construct a frame made of pieces of wood for sides which forms such a triangle, you could carry out the operations I described
+above without following Euclid written directions. The frame would then be a physical object, but by ignoring the width and depth of the pieces of wood, you could view it as a triangle with sides
+given by straight lines as Euclid defines them. Suppose, though, that someone wanted to be sure that the operations of drawing circles and connecting points I described above really does give
+an triangle. If it were a big enough triangle, one might be unable to handily view it from some height so as to that the sides were equal, or close enough. In this case, one could convince
+oneself that the construction works the way you want it to by reading through and following Euclid written set of directions.lementswrite downequilateralsee These directions proceed step by
+step in such a way that if you grant each step, and justify each step by citing some previously agreed on assumptions, you may be led to conclude that the construction works as advertised.
+The steps, when each of them is justified by some previous assumption, make up a that such a construction does produce an equilateral triangle. The steps connect together in such a way that
+most people will grant that they form a kind of chain whose links are secure.proof This is rather startling. For one thing, a person may wonder why or how it is that the statements making up
+the steps of the proof, as mentally received by the person, are linked together the way they are. One might ask whether the linking in the person mind in some way corresponds to connections
+of the parts of the physical object obtained when such a procedure is carried out. Or one might ask how is that one can make a three-dimensional physical object by following directions
+presented using letters of an alphabet laid out in straight line segments, which may be read as if they all lay on one straight line made by successively connecting the segments together in the
+way people do when they read. If one wants to ignore the breadth and depth of the pieces of the frame in the manner of Euclid, and to visualize the frame as lying on a plane surface with only
+length and width, then one has one-dimensional directions for making a two-dimensional Euclidean object. Here is a picture of an isosceles right triangle of the sort said to have been used by
+ancient Egyptians in leveling the base area or plateau for a pyramid. This shows that ancient Egyptians did make use of triangular frames made of wood. _Isosceles triangle made from wood
+with plumb-line and plumb bob, which points to the mark on the cross beam. From:http://www.cheops-pyramide.ch/khufu-pyramid/pyramid-alignment.html I expect that by now you are
+convinced that Euclid Proposition 1 does indeed give directions for constructing an equilateral triangle. It may come to you as a bit of shock to be told that long ago some people pointed out
+that from among the preliminary 23 definitions, 5 postulates, and 5 common notions stated by Euclid before he gives a written proof of Proposition 1, nothing convincing can be extracted which
+justifies several steps in the proof. Here is a discussion of this situation from http://alephO.clarku.edu/~djoyce/java/elements/bookI/propIi htmibona fide Critiques of the proof It is surprising
+that such a short, dear, and understandable proof can be so full of holes. These are logical gaps where statements are made with insufficient justification. Having the first proof in the Elements
+this proposition has probably received more criticism over the centuries than any other. Why does the point exist? Near the beginning of the proof, the point is mentioned where the circles are
+supposed to intersect, but there is no justification for its existence. The only one of Euclid's postulate that says a point exists the parallel postulate, and that postulate is not relevant here. Thus,
+there is no assurance that the point actually exists. Indeed, there are models of geometry in which the circles do not intersect. Thus, other postulates not mentioned by Euclid are required. In
+Book III, Euclid takes some care in analyzing the possible ways that circles can meet, but even with more care, there are missing postulates.CCC Why is a plane figure? After concluding the
+three straight lines and are equal, what is the justification that they contain a plane figure ? Recall that a triangle is a plane figure bounded by contained by three lines. These lines have not
+been shown to lie in a plane and that the entire figure lies in a plane. It is proposition XI.1 that claims that all parts of a line lie in a plane, and XI.2 that claims that the entire triangle lie in
+plane. Logically, they should precede 1.1. The reason they don't, of course, is that those propositions belong to solid geometry, and plane geometry is developed first in the also, no doubt, plane
+geometry developed first historically.ABCAC, AB,BCABCElements, Why does contain an equilateral triangle? Proclus relates that early on there were critiques of the proof and describes that of
+Zeno of Sidon, an Epicurean philosopher of the early first century B.C.E. (not to be confused with Zeno of Elea famous of the paradoxes who lived long before Euclid), and whose criticisms,
+Proclus says, were refuted in a book by Posidonius. The critique is sound, however, and the refutation faulty.ABC Zeno of Sidon criticized the proof because it was not shown that the sides do
+not meet before they reach the vertices. Suppose AC and BC meet at E before they reach C, that is, the straight lines AEC and BEC have a common segment EC. Then they would contain a
+triangle ABE which is not equilateral, but isosceles. Zeno recognized that in order to destroy his counterexample it was necessary to assume that straight lines cannot have a common segment.
+Proclus relates a supposed proof of that statement, the same one found in proposition XI.1, but it is faulty. Proclus and Posidonius quoted properties of lines and circles that were never proven
+and never explicitly assumed as postulates. The possibilities that haven't been excluded are much more numerous than Zeno's example. The sides could meet numerous times and the region
+they contain could look like a necklace of bubbles. What needs to be shown (or assumed as a postulate) is that two infinitely extended straight lines can meet in at most one point. Of course, if
+a builder were to follow the directions given in Euclid proof by marking out the circles using a piece of a rope, he would that the circles meet as claimed, and would not expect to have to justify
+what is in front of his eyes. Oddly enough, looking at the diagram which accompanies Euclid Proposition 1 can mislead you into concluding that all of the steps of Euclid written proof have been
+linked to what he has presented so as to be justified by written premises which he asks you to accept, perhaps because you can interpret them as corresponding to actions you can perform
+using such instruments as pieces of rope and people who use the rope to make something you can see. That you can be misled in this way has often been taken as evidence that looking at
+pictures can deceive you, and it would be nice not to have to rely on pictures at all when composing a written proof.see Here is another analysis by Abraham Seidenberg of what Euclid does
+with Proposition 1 of Book 1: [a circle can be drawn with any center and radius]Let us see how Euclid uses Postulate 3. The very first proposition of Book Tis , say With centers and , circles
+are drawn with radius . The circles intersect in a point and is a required triangle. But the question as to the existence of is not raised. And here the polemic begins. We are invited to believe that
+Euclid had some subtle insight into the nature of geometry (or of reasoning) when he postulated that circles can be drawn, yet overlooked the obvious in Book I, Proposition I.To construct an
+equilateral triangle on a given straight lineAB.ABABCABCC Let us look at Proposition 1 and what Euclid says in a straightforward way. Postulate 3 says nothing about existence: it says one can
+a circle. And Proposition 1 does not ask us to prove the existence of an equilateral triangle, but to one. Anyone who has thought about a construction problem knows very well that there is a
+difference between and Even granted that an equilateral triangle on exists, there is still a trick to finding one: and Euclid shows us this trick.drawdrawexistenceconstruction.AB A proposition of
+the form: is a, whereas a proposition of the form: is a We recognize the difference between a theorem and a problem, and so did Euclid. He does not label his propositions as theorems or
+problems, but each proposition ends either with the words "which was to be proved" or the words "which was to be done", so we have but to look at the last words of Proposition 1 to have
+incontestable evidence that Euclid considered it a problem.There exists an equilateral triangle on any given straight linetheoremTo construct an equilateral triangle on a given straight
+lineproblem. Proposition 1 does indeed (if we allow the intersection) give the existence, but it also gives something more. As to the existence itself, there already were in ancient times
+opposing views. According to the school of Menaechmus, geometric objects, say equilateral triangles, exist because we produce them: just as a chair exists because an artisan has constructed
+it, so an equilateral triangle exists because the geometer constructs it. The followers of Speusippus, the successor of Plato at the Academy, on the other hand, held that geometric objects are
+eternal things, and hence not brought into being: it is better to say these objects exist.If we follow Speusippus, then the circles meet, and Euclid is vindicated of every fault, at least through
+Proposition 1. The followers of Speusippus, however, in accordance with the view just expressed, insisted on calling all propositions "theorems" (rejecting the designation "problem" for the
+constructions). Hence it looks as though Euclid was inclining toward Menaechmus. In any event the issue as to whether the circles meet was not contemplated in ancient times.will
+(Seidenberg, 1974/1975)For axiomatic purposes with modem intentions there would have been no use for Postulate 3 : wherever Euclid says to draw a circle with center and through one has
+but to say instead: "Consider the circle with center that passes through ". Hubert, who in Chapter I of his follows Euclid pretty closely, has no axiom corresponding to Postulate 3, or anything
+like it.ABABFoundations of Geometry Beginning in the 19 century, a number of people have supplied systems of written assumptions designed to link all of Euclid propositions to explicitly
+written assumptions in such a way that justifications of the propositions do not depend in any way on looking at pictures, or on actually building triangles using pieces of wood or other material
+and looking at them, Like Euclid, these people prove propositions using definitions, axioms (i.e. postulates), and analogues of Euclid common notions as previous assumptions, along with any
+proposition which has been proved before the one to be proved. These already (supposedly) proved propositions are called . One of the most successful and enduring systems of this sort was
+written by David Hilbert. The first edition of his was published in 1899. The tenth revised and supplemented edition was published in 1968, and the fourteenth edition in 1999. A translation into
+English of the first edition by E. J. Townsend, , appeared in 1902.ththeoremsGrundlagen der GeometrieThe Foundations of Geometry 3. Only logical. Aristotle (384 B.C.-322 B.C.), composed
+a system of useful rules for making true statements out of other statements known or believed or assumed to be true. This is known as Aristotelian or classical logic, or as syllogistics. A
+commonplace tradition has it that there is some connection between Euclid manner of writing down proofs in the , and Aristotelian logic based on syllogisms. This viewpoint has been challenged
+by Ian Mueller (1974) In his article, Mueller gives a recapitulation of his arguments, which I quote here:Elements (1) Aristotle's formulation of syllogistic in the fourth century is basically
+independent of Greek mathematics. There is no evidence that he or his Peripatetic successors did careful study of mathematical proof. (2) Similarly, the codification of elementary mathematics
+by Euclid and the rich development of Greek mathematics in the third century are independent of logical theory. (3) Likewise, Stoic propositional logic, investigated most thoroughly by
+Chrysippus in the third century, shows no real connection with mathematical proof. [the young ones](4) Subsequent to Chrysippus,hoi nedteroiconsidered various new forms of argument,
+including the unsystematically conclusive. Some of these new forms of argument may have come from mathematics. However, as the name 'unsystematically conclusive suggests, no attempt
+was made to provide a logic for these arguments. (5) Around the end of the second century B.C. Zeno of Sidon (and perhaps other skeptics and Epicureans) tried to undermine mathematics by
+pointing out gaps in proofs. Posidonius replied to Zeno, in many cases denying the existence of the gaps. But Posidonius also recognized that some geometric arguments, which resemble
+unsystematically conclusive arguments, depended on unstated principles. He considered the unstated principles self-evident and therefore called the arguments valid on the strength of an
+axiom. However, he made no progress in developing a logic to apply to these arguments. The debate over the need for further axioms in geometry continued for centuries and affected the text
+of the itself.Elements (6) The reawakening of interest in Aristotle's works in the first century B.C. produced a Peripatetic reaction to Posidonius's analysis of ordinary mathematical argument.
+Aristotle's general remarks about the universality of the categorical syllogism became a dogma to be defended at all costs. Unsystematically conclusive arguments were made systematic by
+adding a universal premiss and attempting to transform the result into a categorical syllogism. The attempt was uniformly a failure.81 [Mueller, pp. 35-70](7) In Galen's there is a more
+balanced view of unsystematically conclusive arguments, which Galen calls relational. Relational arguments depend for their validity on an additional axiom which is usually universal and
+usually categorical, but relational syllogisms are distinct from both categorical and hypothetical syllogisms. However, there is no evidence that Galen made any attempt to formulate a logic of
+relational syllogisms.Institutio Logica My main point in quoting Mueller conclusions is to indicate how already in antiquity it was recognized that some of Euclid proofs are "unsystematically
+conclusive". I take it that the "unsystematically" refers to the fact that there are gaps in the proofs with respect to the techniques of written formulations of logic of the time, based on explicitly
+stated axioms and explicitly stated syllogistic derivation of theorems. But how was it that a theorem of Euclid could have been considered "conclusive" if its proof was not securely based on
+logic of the time? As a person who taught university mathematics for 40 some years, it seems to me to be obvious that people of the time who found Euclid proofs conclusive, albeit not fully
+supported by logic, were convinced by what they saw with their own eyes and by diagrams modeled after what they saw in the manner of Euclid and other geometers what they saw either by
+outward looking or by imagination (inward imaging). In this connection, Nathaniel Miller says in his (2007):Euclid and His Twentieth Century Rivals Euclidean geometry in general, and Euclid
+proofs in particular, have mostly fallen out of the standard mathematics curriculum. This is at least in part because Euclid , which was viewed for most of its existence as being the gold standard
+of careful reasoning and mathematical rigor, has come to be viewed as being inherently and unsalvageably informal and unrigorous.Elements One key reason for this view is the fact that Euclid
+proofs make strong use of geometric diagrams. For example, consider Euclid first proposition, which says that an equilateral triangle can be constructed on any given base. While Euclid wrote
+his proof in Greek with a single diagram, the proof that he gave is essentially diagrammatic, and is shown in Figure 1. Figure 1. [Note: The successive diagrams in this figure correspond
+strikingly, step by step, to the proof given by Euclid in the , as quoted above from the translation by Heath.]Elements A formal proof is one in which all of the rules that can be used are set
+out in advance so carefully as to leave no room for interpretation or subjectivity, and in which each step of the proof uses one of these rules. This idea of a proof is a descendant of the
+idea which found its first enduring expression in Euclid ; that proofs should proceed in logical sequence from axioms set out in advance Most formal proof systems have therefore been
+sentential that is, they are made up of a sequence if sentences in some formal language. Such a sentential axiomatization was given by David Hilbert in 1899, and since then, his
+axiomatization has replaced Euclid as the commonly accepted foundation of geometry.Elements [Miller, pp. 1-5]However . . . most informal geometric proofs still use diagrams and more or less
+follow Euclid proof methods. The formal sentential proofs given in a system like Hilbert are very different from these kinds of informal proofs. So, while Hilbert system provides a
+formalization of the theorems of geometry, it doesn provide a formalization of the use of diagrams or of many commonly used proof methods. The central aim of the present book is to
+show that they can. In fact, the derivation contained in Figure 1 is itself a formal derivation in a formal system called FG, which willl be defined in the following sections of this book, and which
+has also been implemented in the computer system CDEG (Computerized Diagrammatic Euclidean Geometry). The philosophical views of the foundations of mathematics known as propose
+that mathematics, or at least so-called pure mathematics, can be based on sentential formal logic of the sort pioneered by Bertrand Russell and Alfred North Whitehead in their (1911-1913),
+and earlier by Gottlob Frege. These views may be characterized as attempts to found mathematics on languages, albeit formal or perfect languages in the tradition of the of Gottfried Leibniz.
+The work of Miller points the way to a forma foundation of mathematics based on certain kinds of pictorial diagrams of a sort that can be drawn, and which may be based on visualizations
+visualized internally by people equipped to do so. The aim of the present paper has been to lend support to the view that diagrams of this kind can be based on looking at and working with
+physical objects, as Euclid or some of his predecessors did when building such structures as the pyramids of ancient Egypt.logicismprincipia Mathematicacharacteristica univeralis,

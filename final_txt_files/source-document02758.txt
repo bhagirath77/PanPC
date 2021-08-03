@@ -1,0 +1,140 @@
+Part II: Hamlet on the Holodeck? We return to the question raised by Aldous Huxley at the moment movies began to speak: Will the stories brought to us by the new representational
+technologies "mean anything" in the same way that Shakespeare's plays mean something, or will they be "told by an idiot"? We have seen that the emerging cyberdrama entertainment forms
+need not resemble Huxley's "feelies" but could instead offer satisfactions continuous with those we receive from establish narrative formats. Can we also imagine a cyberdrama that would
+develop beyond the pleasures of a compelling entertainment to attain the force and originality we associate with art? We often assume that stories told in one medium are intrinsically inferior
+to those told in another. Shakespeare and Jane Austen were once considered to be working in less legitimate formats than those used by Aeschylus and Homer. One hundred years after its
+invention, film art still occupies a marginal place in academic circles. The very activity of watching television is routinely dismissed as inherently inferior to the activity of reading, regardless of
+content, But narrative beauty is independent of medium. Oral tales, pictorial stories, plays, novels, movies, and television shows can all range from the lame and sensationalist to the
+heartbreaking and illuminating. We need every available form of expression and all the new ones we can muster to help us understand who we are and what we are doing here. >1 The real
+literary hierarchy is not of medium but of meaning. We focus so inappropriately on the worth of the various media in part because the last quarter of the twentieth century has brought a
+general crisis of meaning. As Toni Morrison has so aptly put it, we are living in a time when "to mean anything is not in vogue." Commercial forces favor simplistic stories over more authentic
+engagement with the world. Academic theorists reduce literature to a system of arbitrary symbols that do not point to anything but other texts. But in our ordinary lives, we do not experience
+the world as a succession of signifiers any more than we experience it as a succession of car chases. In our ordinary lives, we turn to stories of every kind, again and again, to reflect our
+desires and sorrows with the heightened clarity of the imagination. We will bring these same expectations to digital narrative. >2 In trying to imagine Hamlet on the holodeck, then, I am not
+asking if it is possible to translate a particular Shakespeare play into another format. I am asking if we can hope to capture in cyberdrama something as true to the human condition, and as
+beautifully expressed, as the life that Shakespeare captured on the Elizabethan stage. The most important element the new medium adds to our repertoire of representational powers is its
+procedural nature, its ability to capture experience as systems of interrelated actions. We are now engaged in establishing the building blocks of a procedural medium, the musical figures that
+may someday grow into a symphonic form. We are learning how to create characters by modeling their behaviors, how to create plots by establishing the rules by which things should happen,
+and how to structure the participation of the interactor into a repertoire of expressive gestures.Procedural Authority The notion of a procedural medium that provides the satisfactions of art
+takes some getting used to. We will need time to grow accustomed to combining participation with immersion, agency with story, and to perceiving the patterns in a kaleidoscopic fictional
+world. Most of all, the procedural medium will challenge our notions of authorship. In a print model, we think of an authored environment as fixed and not open to variation. A mutable,
+kaleidoscopic world can feel to some like an unauthored world. We like to know that there is a ruling power in control of an imaginary universe, and it makes us uncomfortable if the author
+seems to abdicate the role. Some experiments with nonlinear form in linear media have violated this expectation. When the movie was released in multiple versions, each with a different
+solution to the murder, viewers felt cheated rather than intrigued. When Italo Calvino mutates his plot and characters with every chapter of , my students lose interest in the story. People who
+get great pleasure from books and film are often hostile to the very idea of digital narrative because they expect it to be disappointing in just this way.Cluelf on a Winter's Night a Traveler Yet
+once we understand stimulations as interpretations of the world, the hand behind the multiform plot will feel as firmly present as the hand of the traditional author. With familiarity we will come
+to realize that the procedural author can shape a juxtaposition or a branch point in a multiform story as artfully as a traditional author shapes a speech in a play or a chapter in a novel. Already
+in the gaming world there are clear auteurs, creators with characteristic and original style as well as strong technical mastery. To play or or is to open ourselves to the vision of the shaping
+author in the same way we open ourselves to the author's voice in a novel. Just as we have only recently learned to think of the solitary reader as playing an active role through imaginative
+engagement with the story, so too are we just beginning to understand that the interactor in digital environments can be the recipient of an externally authored world.Mario Brothersking's
+QuestMyst >3. A George Eliot or Leo Tolstoy or William Shakespeare of the future could create kaleidoscopic worlds of dazzling variety that will display the coherence and unified vision we
+associate with great fiction. Cyberdramatists will exercise authorial control through the techniques of procedural authorship (described in chapters 7 and 8), which would let them dictate not
+just the words and images of the story but the rules by which the words and images would appear. But would we feel silly playing a role within an environment created by a great artist? will we
+feel called upon to act like Olivier or to produce Bard-like lines? Not necessarily. Future audiences will take it for granted that they will experience a procedural author's vision by acting within
+the immersive world and by manipulating the materials the author has provided them rather than by only reading or viewing them. They will welcome the choice-points in the narrative as
+dramatically heightened moments shaped for them with the same artistry that we now expect in the editing of a film. They will accept their exercise of agency as part of the aesthetic
+experience in the same way that we now take it for granted that we have to walk around a Degas sculpture to experience its full beauty rather than merely stand in front of it as we do with his
+paintings. The model of authorship I have just elaborated is that of the single genius, the here-writer celebrated by the Romantic poets, a model we have come to associate most strongly with
+the figure of Shakespeare, just as we have come to associate him with the noblest achievements of culture, achievements many feel to be threatened with oblivion by the "brave new world" of
+technology. We forget that Shakespeare did not write books; he wrote plays and spent his life in the collaborative medium of the theater, shaping his characters to fit the strengths of his acting
+company. Traditions of Virtuosity The Shakespearean stage, with its thrillingly scripted text and single author, is often contrasted with the other great theatrical achievement of the time, the
+Italian commedia dell-arte, which derived its power from the improvisational performance skills of its actors. In a high culture model of art, what gets preserved is a particular story in a fixed
+form, to be repeated verbatim. In a folk model, like the bardic tradition discussed in chapter 8, it is the forms that get passed down, to be altered and repurposed by each succeeding
+generation. Shakespeare's plays are still performed and read. Although they reflect the formulaic theater of his time and the acting strengths of particular members of his company, and
+although they exist in variant versions and are full of appropriated material, we recognize them as expressing the vision of a single virtuoso mind. The commedia dell'arte plays are now rarely
+performed, but the theatrical traditions of the commedia can be seen in Mozart's or in a Marx brothers skit or in the improvisational moviemaking of Robert Altman or Mike Leigh. Its artistry
+took the form not of the single controlling genius but of virtuoso collaboration.Figaro >4 Cyberdrama presents us with the possibility for both kinds of virtuoso authorship and for many
+mixtures of the two. Today's role-playing environments (electronic and live action) are like the commedia in that they base their dramatic improvisations on written materials. For though the
+commedia was a folk form, it was very much a product of the age of print in that it was performed by highly literate actors who had memorized passages of poetry and prose, which they
+repeated verbatim or used as models for improvised creation. Like the role-playing interactors in the MUDs, the commedia dell-arte actors used their literary models as quarries from which to
+draw material that helped them elaborate their characters. Shakespeare is our touchstone for literary art because his stories move us across centuries and even across cultures. But a tradition
+of narrative art is also fed by stories that enjoy a much more circumscribed audience, such as a small circle of friends or family members. The Bronte children began by making up their
+imaginary kingdoms for one another. Without Angria and Gondal there would have been no Thomfield or Wuthering Heights. Orally transmitted stories often have a stronger resonance for
+members of their originating culture than they can ever have for outsiders. The stories that people make up collaboratively in virtual environments are of this tribal nature; they may seem trite
+or derivative to an outsider, but they can be riveting and emotionally resonant for the participants. Like other folk traditions, the role-playing tradition aims for ephemeral performance that
+preserves not particular scenes but the conventions of interaction. Over the next century these conventions may rapidly evolve into a more expressive repertoire of improvisational structures.
+We may come to think of cyberdrama in all its variations as an essentially collaborative art form. Perhaps a group of role-players will be like a commedia dell-arte troupe, more skillful in
+combination than any of them would be alone. Perhaps such groups will coalesce around a few star performers whose invention and dramatic force provide creative direction for the less skillful
+interactors. Perhaps, in time, role-playing might experience a Homeric transition: a consolidation of a collectively improvised tradition into a single repeatable work. But whether or not this
+happens, the on-line role-playing contributions of amateur improvisers will lead to new formulas of interactions that will feed into the general expressiveness of the medium. In thinking about
+both narrative traditions and computational environments, we have necessarily been thinking in terms of formulas. The creation and refinement of narrative formulas are the necessary
+preconditions for the creation of any great work of art. Without those repetitive revenge plays that are now only read in graduate school, we would not have . Nor could 's psychological realism
+exist without the simplistic gothic tradition of menaced heroines locked up in spooky castles. Literary stereotypes are like rough sketches of the world, which the next generation or the more
+capable artist can modify and elaborate. The eighteenth century, confronting the demons of the psyche for the first time in a postreligious framework, created salacious stories of blaspheming
+villains imprisoning virgins; the nineteenth century drew on these story elements to express the courage of the nascent feminists. Entertainment forms try to give energy and novelty to
+stereotypical formulas, but art reshapes the formulaic to conform more closely to the world of experience. Yet these activities are closely intertwined and dependent upon one another. We could
+not have the breakthrough achievement of a work of lasting art without the originality and inventiveness of less ambitious stories. Formulaic entertainment and form-shattering art are both
+embedded in a cultural repertoire of story patterns. Electronic narrative will only translate that repertoire into a new arena.Formulaic Invention and Originality HamletJane Eyre Charlotte
+Bronte's adolescent stories were powerfully moving to her and her brother. The characters of Angria were so strong for her that she sometimes experienced them as a hallucination. But if she
+had died before she wrote , her visions would not have passed into the great culture. The difference between the Bronte juvenilia (discussed in chapter 6), and is the difference between
+derivative and rigidly formulaic expression and an original work of transforming genius. When Caroline Vernon carries her mother upstairs, it is powerful expression of Bronte's own conflicts
+and a sharply rendered fantasy. When Jane Eyre cries out, "I care for myself!" and rushes from Rochester's mansion, it is a powerful expression of Victorian social realities and of the enduring
+human conflict between passion and autonomy. Charlotte Bronte could not have written solely within the formulas of her juvenilia any more than she could have written it solely within the form
+of the courtship novel as Jane Austen had perfected it. Her work survives because it transcended both kinds of restrictions: the limitations of privatized, formulaic expression and the limitations
+of a preexisting exemplary narrative format.Jane EyreJane EyreJane Eyre We may be at the juvenilia stage of electronic narrative for some time yet, as we gain practice in procedural virtuosity.
+But we have come far enough in establishing the traditions that will nourish future storytellers that we can begin to speculate on what the medium might someday offer us in a more realized
+art. Every age seeks out the appropriate medium in which to confront the unanswerable questions of human existence. We cannot limit ourselves to Elizabethan or Victorian forms any more
+than Shakespeare could have written within the conventions of the Aristotelian tragedy or the medieval passion play. When Hamlet stands alone on the stage, pondering whether "to be or not
+to be," he personifies, among other things, the Renaissance fascination with thinking itself and with the separateness of the individual life. Shakespeare's extensive use of soliloquy in is an
+appropriate technical innovation to capture this newly experienced solitude. Soliloquy on the Elizabethan stage was used mostly for letting the villain or revenge seeker tell the audience what
+he was up to, but in Shakespeare uses it to make what his protagonist is thinking more dramatic than what he is or is not doing. Although Hamlet is not the first character to reveal his thoughts
+on stage or to utter a soliloquy, his particular expression of meditative self-consciousness is both original and universal. It represents a truth about human experience that could not be told
+before.New Beauty, New Truth HamletHamlet >5 Hamlet's soliloquies, like Jane Eyre's rush away from Thomfield, epitomize what a new narrative format can offer us. What similarly revealing
+construction of the world might we expect from a fully realized cyberdrama? What aspects of our inner and outer lives await the expression of a future cyberbard? The most ambitious promise
+of the new narrative medium is its potential for telling stories about whole systems. The format that most fully exploits the properties of digital environments is not the hyper-text or the
+fighting game but the simulation: the virtual world full of interrelated entities, a world we can enter, manipulate, and observe in process. We might therefore expect the virtuosos of cyberdrama
+to create simulated environments that capture behavioral patterns and pattems of interrelationships with a new clarity. The tragic story of the suicide described in chapter 6 suggests the kinds
+of subject matter that might be appropriate for expression as a complex system: the thought pattems of a particular mind, the web of family relationships. But perhaps the new medium can
+take us even further in both directions, looking deeper into the human mind and encompassing even more of the external social world. One major trend in literary history from the time of
+Shakespeare onward can be imagined as a camera tracking in from a medium shot to an extreme close-up on human consciousness itself. After reading the wildly digressive monologue of
+Steme's or the exquisite moral discriminations of a Henry James heroine or the richly textured stream of consciousness captured by Virginia Woolf, it is hard to believe that we could penetrate
+any further into the workings of the mind. But twentieth-century science has challenged our image of ourselves and has perhaps outrun our ability to imagine our inner life. A linear medium
+cannot represent the simultaneity of processing that goes on in the brain - the mixture of language and image, the intimation of diverging possibilities that we experience as free will. It cannot
+capture the secrets of organization by which the inanimate somehow comes to life, by which the neural passageway becomes the thought.Tristram Shandy Perhaps a great procedural virtuoso
+of the next century will be able to bring these elusive pattems of the mind into sharper focus. A stream-of-consciousness cyberdrama (like the exploration of Rob's mind, described in chapter 6)
+could perhaps center on the miracle of conversion, on how we can sometimes shift our perceptions of the world from a momentary revelation, or on how we manage to transform ourselves by
+redescribing who we are at just the right level of self-awareness. Perhaps a James Joyce of the electronic age will find a way to take us so deeply into a single particular consciousness that we
+will be able to trace the exact border between what we think of as brain and what we think of as mind. Perhaps a future Dickens will create a set of chatterbots so comically expressive of the
+mechanical nature of human thought and yet so endearing that the humblest circuits of the amygdala will come to hold a whimsical charm for us. We fear the computer as a distorting fun
+house mirror of the human brain, but with the help of the narrative imagination it might become a cathedral in which to celebrate human consciousness as a function of our neurology. >6 The
+narrative imagination has the power to play leapfrog with analytical modes of understanding. Ancient myths described the power of the sun god before we understood photosynthesis or the
+physics of light. Shakespeare created without benefit of Freud. In the same way, the coming cyberdrama may help us reconcile our subjective experience of ourselves with our rapidly
+expanding scientific knowledge of biology. It may come up with the metaphors of process that will restore the sense of human individuality to our model of the mind. A computer-based
+literature might help us recognize ourselves in the machine without a sense of degradation.Hamlet The kaleidoscopic powers the computer offers us, the ability to see multiple patterns in the
+same elements, might also lead to compelling narratives that capture our new situation as citizens of a global community. The media explosion of the past one hundred years has brought us
+face-to-face with particular individuals around the world without telling us how we are to connect with them. The exploration of space has taught us that we are all part of a single society but
+not how to find our place in it. The capaciousness and specificity of the computer offers us a way to model the behavior of single individuals within great groups of people, to make up fictional
+worlds in which we can enact the confusions of membership in a newly visible yet overwhelmingly various worldwide humanity. D. H. Lawrence argued that "the novel is the highest example of
+subtle inter-relatedness that man has discovered. Everything is true in its own time, place, circumstances, and untrue out of its own time, place, circumstances." The novel can put things in
+their place, can let us figure out what is right and wrong by offering us a specific context for human behaviors. But in a global society we have outgrown our ability to contextualize. We are
+tormented by our sense of multiple conflicting frameworks for every action. We need a kaleidoscopic medium to sort things out. >7 Not only is the computer the most capacious medium ever
+invented, but it also allows us to move around the narrative world, shifting from one perspective to another at our own initiative. Perhaps this ability to shift perspectives will lead to the
+technical innovation that will rival the Shakespearean soliloquy. Cyberdramatists of the future could present us with a complex world of many characters (like a global Victorian novel) and allow
+us to change positions at any moment in order to see the same event from the viewpoint of another character. Or they could let us enter a particular town over and over again in the guise of
+many different individuals, enabling us to see how differently the same people present themselves to us. We might be given a compelling role within the environment that confers upon us the
+ability to fluidly switch between viewing the world through our own character's eyes and viewing our character through the eyes of others. Or perhaps a cyberdramatist of the future will find a
+way to show us not just the large battlefield and the single soldier (as Tolstoy does in ) but also the processes by which large historic events emerge as the sum of many much smaller causes
+(as Tolstoy strove to convey in his interpolated essays but could not dramatically capture). All of these story patterns would be ways of enacting the contemporary human struggle to both affirm.
+and transcend our own limited point of view.War and Peace Finally, the experience of the Habitat community described in chapter 9 suggests that the collective virtuosity of the role-playing
+worlds may provide a tradition of stories around the themes of violence and community. The violent gaming culture that now characterizes much of cyberspace is likely to spread as the Internet
+gains speed and bandwidth. Teams of combatants from every corner of the globe will blast each other's avatars with ever more macho digital weapons; the narrative formulas of combat tied to
+disturbingly lurid images will continue to proliferate. At the same time, the communal aspects of cyberspace are also growing rapidly, with people eager to construct utopian fantasy worlds that
+they can share with one another. The Internet is therefore likely to serve as a global stage for conflicts between these two groups, turning the struggle between the blasters and the builders
+into a kind of worldwide morality play. There are probably not two more difficult things to predict in this world than the future of art and the future of software. These visions of the future can
+only be speculations, extrapolations from the current environment, which is shifting even as I write. The computer is chameleonic. It can be seen as a theater, a town hall, an unraveling book,
+an animated wonderland, a sports arena, and even a potential life form. But it is first and foremost a representational medium, a means for modeling the world that adds its own potent
+properties to the traditional media it has assimilated so quickly. As the most powerful representational medium yet invented, it should be put to the highest tasks of society. Whether or not we
+will one day be rewarded with the arrival of the cyberbard, we should hasten to place this new compositional tool as firmly as possible in the hands of the story-tellers. >Part 1 footnotes For
+instance, Neil Postman (, 331) considers good television more dangerous than bad: "We would all be better off if television got worse, not better. and are no threat to our public health. , and
+
+re." >1.Amusing Ourselves to DeathThe A-TeamCheers60 MinutesEye-Witness NewsSesame Street  Toni Morrison in speech to the American Writers Congress, October 9, 1981, New York
+City. See Morrison, "Writers Together," 397. >2. * The Mario Brothers games, produced by Nintendo, were developed by Shigeru Miyamoto. As Edward Rothstein of the has pointed out, his
+games "were something apart: they created a new genre out of deceptively simple ideas. A character moves from left to right across a scrolling universe, jumping, hitting and kicking. The
+opponents are odd, whimsical creatures in a tricky, puzzle-filled world. The real challenger was Mr. Miyamoto himself; virtuosos match themselves against his inventiveness." The , with seven
+games published since 1986 by Sierra On-Line, is designed by Roberta Williams. follows the adventures of a set of continuing characters-including King Graham, Queen Valanice, and Princess
+Rosella-in the whimsical Kingdom of Daventry. >3.New York Times King's Quest seriesking's Quest  A commedia troupe could revolve around a particular star actor of actor/director, but the
+success of the play rested on skillful team work. See Nicole, , especially pp. 24-39. >4.The World of Harlequin  For a discussion of the novelty of Shakespeare's use of the soliloquy in Hamlet,
+see Kermode, "Introduction to ," 1139. See Shakespeare's and Marlow's for other examples of the soliloquy form moving from plot exposition to psychological revelation. In all three plays, the
+soliloquy format enacts the dangerous isolation of the protagonist from the society in which he moves. >5.Hamlet, Prince of DenmarkRichard IIIFaust  Psychoanalysis can be viewed as a form
+of narrative art in which patients retell the story of their life in order to discover a version that allows for a more open-ended future. See Schafer, "Narration in the Psychoanalytic Dialogue." >6.
+* D.H. Lawrence, "Morality and the Novel (1925)," 108-13. >7.

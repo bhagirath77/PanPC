@@ -1,0 +1,14 @@
+Newsletter ParetoLogic is an international software development company headquartered in Victoria, British Columbia, Canada. A member of SIIA, we specialize in providing advanced security
+applications for enterprise, business and personal computer use as well as providing custom software solutions for business and government. Amanda Cooper, Marketing Communications
+Specialist ParetoLogic Inc. media@paretologic.com Press Release Income Tax Season Opens the Floodgates to Identity Theft Victoria, BC February 9, 2006 ~- If you cringe at the thought of
+losing your shirt at tax time, imagine the implications of having your identity stolen as well. The just-released prepared by ParetoLogic outlines the risks of using tax preparation software and
+online filing programs as well as the best ways to mitigate those risks. One third of all North Americans, plan to prepare and/or submit their taxes electronically and are vulnerable to identity
+theft and the theft of confidential financial information. A world-wide problem, the proliferation of sophisticated spyware has resulted in a staggering increase in identity theft through tax fraud.
+whitepaper Spyware, software that installs without the user's knowledge that may capture keystrokes (keyloggers) and personal information, operates silently and reports your information
+back to a third party. Tax season is a lucrative time for identity thieves because the personal information entered into tax filings is exactly the type of information that they need in order to take
+over your identity for their own purposes. Despite the fact that electronic filings are high-profile targets for spyware and keylogger developers, the most popular individual tax filing software
+programs on the market do not include embedded anti-spyware security features. At this time, the only way to secure yourself from this threat is by using a dedicated anti-spyware application.
+Many people using tax software and electronic filing systems have some familiarity with the Internet and its inherent risks but very few use security tools in conjunction with their tax
+preparation activities. Under the illusion that anti-virus applications solve all of their security needs, many computer users operate under a false sense of security, believing that viruses are their
+biggest threat. Unfortunately, spyware (specifically keyloggers) is far more likely than viruses to intercept information that could steal your identity. An informed and proactive computer user
+can minimize this risk by implementing the steps outlined in : Online Filing, Tax Software, and Keylogger Vulnerability. ParetoLogics Whitepaper About ParetoLogic

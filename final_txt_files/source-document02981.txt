@@ -1,0 +1,7 @@
+Mr Minghai Jia, National Mapping Division, Geoscience Australia Funding Sources Australian Research Council, Large Grant Division of Engineering and Science Postgraduate Scholarship
+Intemational Postgraduate Research Scholarship Status Started 1998, ongoing Generic, off-the-shelf GPS processing software packages, however, do not take advantage many of the specific
+algorithmic issues that can be implemented to increase levels of precision to that required for the monitoring of geometrical deformations. When this monitoring takes place in or around steep
+slopes, syetematic errors such as slope induced multipath can significantly degrade position solutions. As such, dedicated software is required to exctract the most from the GPS
+observations.Summary As a result, a number of application-specific software packages have been developed to target the specific area of GPS positioning for the monitoring of geometrical
+deformations. Both the software application GPS Mailbox, and Gather GPS make use of a base called This processing engine offers the following features:Results processing engine(PS/LONASS
+essing oftware)GGProcSGGProcS. Accumulated Least Squares Carrier-phase Double Difference Processing Multi-Reference Station Processing Capabilities

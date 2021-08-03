@@ -1,0 +1,32 @@
+Brief Statement Concerto Model C154DWK and Virtuoso Models D154AWG/D154VWC (DR/VR) Concerto is indicated for ventricular antitachycardia pacing and ventricular defibrillation for
+automated treatment of life-threatening ventricular arrhythmias. The system is also indicated for the reduction of the symptoms of moderate to severe heart failure (NYHA Functional Class III
+or IV) in those patients who remain symptomatic despite stable, optimal medical therapy, and have a left ventricular ejection fraction < to 35% and a prolonged QRS duration.Indications for
+Concerto: Virtuoso DR/VR devices are indicated to provide ventricular antitachycardia pacing and ventricular defibrillation for automated treatment of life-threatening ventricular arrhythmias in
+patients with NYHA functional class II/III heart failure. The Virtuoso DR device is also indicated for use in the above patients with atrial tachyarrhythmias, or those patients who are at
+significant risk of developing atrial tachyarrhythmias. Atrial rhythm management features, available on the Virtuoso DR, such as Atrial Rate Stabilization (ARS), Atrial Preference Pacing (APP),
+and Post Mode Switch Overdrive Pacing (PMOP) are indicated for the suppression of atrial tachyarrhythmias in ICD-indicated patients with atrial septal lead placement and an ICD indication.
+Due to the addition of the Optivol diagnostic feature, the Virtuoso indication is limited to NYHA functional class II/III heart failure patients who are indicated for an ICD. The dinical value of the
+Optivol fiuid monitoring diagnostic feature has not been assessed in those patients who do not have fluid retention related symptoms due to heart failure.Indications for Virtuoso: Concerto is
+contraindicated in patients whose ventricular tachyarrhythmias may have transient or reversible causes; patients with incessant VT or VF; and patients who have a unipolar
+pacemaker.Contraindications for Concerto: Virtuoso DR/VR devices are contraindicated for patients experiencing any of the following conditions: tachyarrhythmias with transient or reversible
+causes, incessant ventricular tachycardia or ventricular fibrillation, present implant of a unipolar implantable pulse generator, and primary disorder or bradyarrhythmia. Virtuoso DR is also
+contraindicated for patients who have a primary disorder of chronic atrial tachyarrhythmia with no concomitant VT or VF. Additionally, Virtuoso VR is contraindicated for patients who have a
+primary disorder of atrial arrhythmia. Contraindications for Virtuoso: Changes in a patient's disease and/or medications may alter the efficacy of the device's programmed parameters. Patients
+should avoid sources of magnetic and electromagnetic radiation to avoid possible underdetection, inappropriate sensing and/or therapy delivery, tissue damage, induction of an arrhythmia,
+device electrical reset or device damage. Do not place transthoracic defibrillation paddles directly over the device. Certain programming and device operations may not provide cardiac
+resynchronization.Warnings and Precautions: Potential complications include, but are not limited to, rejection phenomena, erosion through the skin, muscle or nerve stimulation, oversensing,
+failure to detect and/or terminate tachyarrhythmia episodes, acceleration of ventricular tachycardia, and surgical complications such as hematoma, infection, inflammation, and
+thrombosis.Potential Complications: Model 27901 Conexus Activator The Conexus Activator is intended for use by clinicians to enable Conexus wireless telemetry in a Conexus compatible
+heart device. After Conexus telemetry has been enabled, a session can be conducted with a CareLink programmer without the use of a programming head. The Conexus Activator determines if
+a Medtronic heart device is Conexus compatible and enables Conexus wireless telemetry in the Medtronic heart device. Contraindications: There are no known contraindications for the Conexus
+Activator.Intended Use: Model 2090 CareLink Programmer The Medtronic CareLink programmer is a portable, microprocessor-based instrument used to program Medtronic implantable
+devices. See device manuals for detailed information regarding the implant procedure, indications, contraindications, warnings, precautions, and potential complications/adverse events. For
+further information, please call Medtronic at 1-800-328-2518 and/or consult Medtronics website at . www.medtronic.com Federal law (USA) restricts these devices to sale by or on the order of
+a physician.Caution: Model 2490C CareLink Monitor The Medtronic CareLink Monitor and the Medtronic CareLink Network are indicated for use in the transfer of patient data from some
+Medtronic implantable cardiac devices based on physician instructions and as described in the product manual. These products are not a substitute for appropriate medical attention in the event
+of an emergency and should only be used as directed by a physician. Do not use a cellular phone while the antenna is positioned over the implanted device. The Medtronic CareLink Network is
+currently available in the continental United States, Alaska and Hawaii.Intended Use: Warnings and Precautions: Model 2020A CardioSightReader The Model 2020A CardioSight Reader is
+intended for use in a clinical setting. The CardioSight Reader is indicated for use to interrogate compatible Medtronic implantable devices to collect patient and device data and send the
+information to the clinician. The Model 2090A CardioSight Reader cannot be used to change therapy. There are no contraindications for the Model 2020 CardioSight Reader. The CardioSight
+Reader must only be used for interrogating compatible Medtronic implantable devices. Do not use a cellular phone while the antenna is positioned over the implanted device. The CardioSight
+Reader is designed for use in the continental United States , Alaska, and Hawaii.Intended Use:Contraindications:Wamings and Precautions:

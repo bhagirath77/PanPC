@@ -1,0 +1,14 @@
+Mapping Services Map Design for the Internet The Internet allows non-cartographic specialists in various fields to collect, modify and publish geospatial information for an increasing number of
+applications. This widespread use can be problematic since these new information technologies allow end-users to quickly produce maps which are not necessarily compliant with cartographic
+design standards. In addition, the Internet has many limitations and constraints as a mapping environment. This section of the site addresses cartographic design strategies for the World Wide
+Web, some of which are also under discussion by the Design Group of the . British Cartographic Society Technical problems: limitations to the medium; standards and implications for
+cartographic variables such as colour matching, along with text placement, scale, and screen size Multimedia presentation: strategies for integration of maps, graphics, text, audio narratives,
+sounds, etc. in the Web environment Cartographic communication: maps as interfaces, preservation of communication, cognitive and decision-support functions of maps (level of detail,
+interactivity, data quality, accuracy, etc.) This map of Nunavut lets the user hear place names pronounced in Inuktitut. The inclusion of these pronunciations has a transformative effect on the
+map; with the cartographic image firmly established, the map moves away from the graphic to embrace an alterate medium. This way, the traditional cartographic vocabulary is extended, and
+the communication value of the map is multiplied. The picture map shows a slight departure from the other maps discussed in this section. Here we see how the palette was explored to
+minimize competition to the most dominant information on the map: type. The air travel map demonstrates the freedom that is available when the rigidity of the grid is rejected as an absolute.
+The road map uses textures which demand less of the colour palette (which is continued from other maps in this section). The shoreline vignette lends emphasis to the figure/ground
+relationship. The Nunavut locator map uses the Web palette to great advantage. Greens and blue are the foundation of this map, with textures playing against the smooth colours to command
+the attention of the viewer. The Iqaluit base map is derived from the map files generated to produce the . The commemorative map served as the starting point to craft the base map used for
+several applications on this site. Iqaluit commemorative map Date Modified: 2008-12-31

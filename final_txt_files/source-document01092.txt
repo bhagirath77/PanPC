@@ -1,0 +1,69 @@
+Mixed polygenic Dominant-recessive inheritance provide a clear example of a dominant-recessive relationship among alleles. Every dog has two genes at the black/brown locus. If both genes
+are for black, or if one is for black and one is for brown, the dog is black, most readily identified by nose color. If both genes are for brown, the dog is brown, again most readily identified by
+nose color. BB cannot be distinguished from Bb without genetic tests or breeding tests. Black and brown Many genetic diseases, especially those that can be traced to an inactive or wrongly
+active form of a particular protein, are inherited in a simple recessive fashion. van Willebrand's disease (vWD) for instance, is inherited as a simple recessive within the Shetland Sheepdog
+breed. Intermediate inheritance Warning! Although this type of inheritance is common, it has a variety of names (incomplete dominance and overdominance are two common ones) some of
+which are also used for other things entirely. Here I will use it to refer to the type of inheritance in which the animal carrying two identical alleles shows one phenotype, the animal carrying two
+different identical alleles shows a different phenotype, and the animal carrying one copy of each of the alleles shows a third phenotype, usually intermediate between the two extremes but
+clearly distinguishable from either. In dogs, merle color is a good example of this type of inheritance. If we define M as merle and m as non-merle, we find we have three genotypes: mm.
+non-merle, with normal intense color Mm merle, with normal color diluted in a rather patchy fashion MM homozygous merle, extreme dilution, dog mostly white if a white-spotting gene is also
+present, and often with anomalies in hearing, vision and/or fertility. Note that there is really a continuum between dominant-recessive and intermediate inheritance. In Shetland Sheepdogs, for
+instance, sables carrying one gene for tan-point have on average more dark shading than dogs with two sable genes. However, the darkest shading on dogs pure for sable is probably darker
+than the lightest shading on dogs carrying a gene for tan-point. In practice, intermediate inheritance is often treated as if it were a special case of dominant-recessive inheritance, as can be
+seen by the symbols used for merle and non-merle - usually the capital letter refers to a dominant gene and the lower-case letter refers to a recessive gene. I think a separate name is justified
+because it could be equally well argued that homozygous merle is an undesirable recessive for which the merle color is a marker that the dog carries the merle gene. Many of the standard
+color genes normally treated as dominant-recessive do in fact have intermediate inheritance, the heterozygote generally much more similar to one homozygote than the other, between at least
+some alleles in the series. Coat color gene loci with at least some allele pairs leaning toward intermediate inheritance include A (agouti, patterning of black and tan), C (color, intensity of color),
+and S (white spotting). I suspect the same is true for T (ticking), G (graying) and even D (dilution) if another diluting gene, such as merle, is present. This may be much more generally true
+than is recognized. Co-dominant inheritance The dividing line between intermediate inheritance and co-dominant inheritance is fuzzy. Co-dominance is more likely to be used when
+biochemistry is concemed, as in blood types. Co-dominance means that both alleles at a locus are expressed. Co-domininance in X-linked genes is a special case that will be treated under
+sex-linked inheritance. Sex-limited autosomal inheritance Please, don't confuse sex-limited inheritance with sex-linked inheritance. They are two totally different things. Sex-linked inheritance
+is discussed below. I do include sex-influenced traits under the sex-limited heading, though some genetics texts separate sex-influenced and sex-limited traits. A classic example of a
+sex-limited trait in dogs is unilateral or bilateral cryptorchidism, in which one or both testicles cannot be found in their usual position in the scrotum. Since a bitch has no testicles, she cannot
+be a cryptorchid - but she can carry the gene(s) for cryptorchidism, and pass them to her sons. Likewise, genes affecting milk production are not normally expressed in a male. The main
+problem with sex-limited inheritance is that it is impossible to know even the phenotypes of the unaffected sex in a pedigree, which makes it difficult to determine the mode of inheritance. In
+sex-influenced inheritance, the genes behave differently in the two sexes, probably because the sex hormones provide different cellular environments in males and females. A classic example in
+people is male early-onset pattern baldness. The gene for baldness behaves as a dominant in males but as a recessive in females. Heterozygous males are bald and will pass the gene to about
+50% of their offspring of either sex. However, only the males will normally be bald unless the mother also carries the pattern baldness gene without showing it (female heterozygote.) If the
+mother is affected with baldness (homozygous) but the father is not, all of the sons will be affected and all of the daughters will be non-affected carriers. A bald man may get pattern baldness
+from either parent; a bald woman must have received the gene from both parents. Sex-linked inheritance In order to understand sex-linked traits, we must first understand the genetic
+determination of sex. Every mammal has a number of paired chromosomes, that are similar in appearance and line up with each other during gamete production (sperm and eggs). In addition,
+each mammal has two chromosomes that determine sex. These are generally called X and Y in mammals. Normal pairing of chromosomes during the production of gametes will put one or the
+other in each sperm or ovum. In mammals, XY develops testicles which secrete male sex hormones and the fetus develops into a male. An XX fetus develops into a female. Thus sperm can be
+either X or Y; ova are always X. Sex linked inheritance involves genes located on either the X or the Y chromosome. Females can be homozygous or heterozygous for genes cartied on the X
+chromosome; males can only be hemizygous. :X-linked recessive The most common type of sex-linked inheritance involves genes on the X chromosome which behave more or less as
+recessives. Females, having two X chromosomes, have a good chance of having the normal gene on one of the two. Males, however, have only one copy of the X chromosome - and the Y
+chromosome does not carry many of the same genes as the X, so there is no normal gene to counter the defective X. An example of this type of inheritance is color blindness in human beings.
+Using lower case letters for affecteds, we have Affected male: xY Color blind Non-affected males XY Normal color vision Affected female xx Color blind Carrier female xx Normal color vision
+@ Clear female Xx. Normal color vision Now the possible matings: xY to xx (both parents affected) xx females and xY males, all offspring affected. xY to Xx (affected father, carrier mother)
+half the females will be xX and carriers, half will be xx and affected. Half the males will be XY and clear, half will be xY and affected. xY to Xx (affected father, clear mother) all male offspring
+XY clear, alll daughters Xx carriers. Note that the daughters of an affected male are obligate carriers or affected. The unaffected sons of an affected male cannot carry the problem. XY to xx
+(father clear, mother affected) xY males (affected) and xx daughters (cartiers.) XY to Xx (father clear, mother carrier) half the males affected (xY) and half clear (XY); half females clear (Xx)
+and half cartiers (Xx) XY to Xx (father and mother both genetic clears) all offspring clear. Note that all female offspring of affected males are obligate carriers (if not affected.) Likewise, any
+female who has an affected son is a carrier. Non-affected sons of affected fathers are genetically clear. This type of inheritance may be complicated by the sublethal effect of some X-linked
+genes. Hemophilia A in many mammals (including dogs and people) is a severe bleeding disorder inherited just like the color-blindness above. Many affected individuals will die before breeding,
+but for those who are kept alive and bred for other outstanding traits, non-affected sons will not have or produce the disease. All daughters, however, will be carriers. :X-linked dominant Here
+I will use X for the dominant gene on the X chromosome, and X for the gene on the normal X chromosome. The actual possibilities are similar to those for an X-linked recessive, except that Xx
+females are now affected. In X-linked dominant inheritance, more females than males will show the trait. Possible matings are:++ Affected to homozygous affected (XY to XX): All offspring
+affected.+++ Affected to heterozygous affected (XY to XX): All daughters affected; half of sons affected.++ Affected to homozygous normal (unaffected female): (XY to Xx): All daughters
+affected, all sons normal.+ Normal to homozygous affected (XY to XX): all offspring affected, but daughters are heterozygous affected. ++ Normal to heterozygous affected: (XY to XX): Half
+of offspring affected, regardless of sex. Affected daughters are heterozygous.+ Normal to normal (XY to XX) all offspring clear. :X-linked co-dominant Mammalian cells, even in females, get
+along fine with just one X chromosome. In fact, more than one X chromosome within a cell seems to be a problem if both are active. So in female cells, one or the other X chromosome must be
+inactivated. This occurs more or less at random, so any female mammal has patches of cells with one X chromosome inactivated, and patches with the other not active. If the gene being
+discussed codes for an enzyme that is spread throughout the body, it may not be obvious that the different patches of cells are behaving differently, and we will get what looks like dominant,
+recessive, or intermediate inheritance. However, if the gene is expressed directly within the cell, the mosaic nature of the female may become obvious. The tortoiseshell cat provides an
+excellent example of this. In cats, the orange color is on the X chromosome. It is designated as O, and the "wild-type" gene that allows black (eumelanin) to appear in the coat is designated +
+Note that a cat homozygous or hemizygous (male) for + may be solid or tabby with the eumelanin pigment showing only in the tabby stripes, ticks and blotches (in extreme cases only on the
+tips of the hairs) and the "black" may just as well be chocolate or blue. A cat with only O genes will be some shade from cream to deep red., with no black/blue/chocolate pigment in the coat,
+but usually with tabby markings. However, a cat with the gene for orange on one X chromosome and the gene for non-orange on the other is neither orange nor non-orange, but has patches of
+both colors. This color is known as tortoiseshell, and I am going to use the broad definition, including blue/cream or chocolate/yellow tortoiseshells. Most of the time cats with two X
+chromosomes are female, and since two X-chromosomes are required for tortoiseshell, most tortoiseshell cats are female. Now and then a cell does not divide properly when it is making a
+germ cell, and you might, for instance, get an XY sperm cell. This would produce an XxY male, which would look male (he has a Y chromosome) but also have two versions of X and thus could
+be a tortoiseshell. However, the XXY makeup, corresponding to Klinefelters syndrome in human beings, is believed to produce sterility. A similar syndrome involving females with only one X
+chromosome but no Y is called Turner's syndrome in human women, and again appears to produce sterility. We will therefore consider only matings between animals with two sex
+chromosomes. Non-orange male to non-orange female (+ to ++): all non-orange offspring. Non-orange male to tortoiseshell female (+ to +0): Males 50% orange and 50% non-orange;
+females 50% non-orange and 50% tortoiseshell. Non-orange male to orange female (+ to 00): all males orange; all females tortoiseshell. Orange male to non-orange female (O to ++): All
+males non-orange; all females tortoiseshell. Orange male to tortoiseshell female (O to 0+): males 50% orange and 50% non-orange; females 50% orange and 50% tortoiseshell. Orange
+male to orange female (0 to 00): All offspring orange. :Y-linked inheritance The Y chromosome in most species is very short with very few genes other than those that determine maleness.
+-linked inheritance would show sons the same as their fathers, with no effect from the mother or in daughters. In humans, hairy ears appear to be inherited through the Y chromosome.
+Padgett does not list any known problem in dogs as being Y-linked.

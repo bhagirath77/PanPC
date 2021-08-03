@@ -1,0 +1,6 @@
+First Edition: Large-area solar simulators: critical tools for module manufacturing Email By Harvey B. Serreze & Roger G. Little, Spire Corporation, Bedford, MA, USA ABSTRACT The
+importance of rapid and accurate measurement of the electrical power output and related characteristics of photovoltaic (PV) modules or panels concluding the manufacturing process cannot be
+overemphasized. Even though these modules will likely be deployed under a variety of outdoor solar illumination conditions, they must be tested under a set of standard conditions to assure
+consistency of results demanded by both the manufacturer and the customer. The ability to provide a measurement tool for this critical manufacturing step that possesses the proper
+specifications and qualities, ranging from spectral accuracy to ease-of-use, is imperative. Please login to download: First Edition: Large-area solar simulators: critical tools for module
+manufacturing

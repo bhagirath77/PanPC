@@ -1,0 +1,41 @@
+( 1998 ;98:1756-1761.)  1998 American Heart Association, Inc.Circulation. Clinical Investigation and Reports Cardiac Autonomic Patterns Preceding Occasional Vasovagal Reactions in
+Healthy Humans Raffaello Furlan, MD Massimo Pagani, MD Alberto Malliani, MD From the Centro Ricerche Cardiovascolari, CNR; Medicina Interna II e Medicina Interna III (S.P.), Ospedale L.
+Sacco, Universita di Milano; Divisione di Cardiologia (S.D.), Ospedale Uboldo, Cernusco S/N; Medicina del Lavoro (F.8.), Ospedale di Novara; and Dipartimento di Bioingegneria (A.B., L.M.,
+S.C.), Politecnico di Milano, Milano, Italy. Correspondence to Dr Raffaello Furlan, Medicina Interna II, Ospedale L. Sacco, Universita di Milano, Via G.B. Grassi, 74, 20157 Milano, Italy.
+E-mailrfurlan{at}planet.it_ The wide range of clinical presentation of orthostaticvasovagal syncope suggests different underlying changes in thecardiac autonomic modulation. Background
+
+Dio evaluate the beat-by-beat modificationsin the neural control of heart period preceding a syncopal event,we studied RR interval variability in 22 healthy subjects whoexperienced fainting for
+the first time during a 90 head-uptilt and in 22 control subjects by means of time-variant powerspectral analysis. Sympathetic and vagal modulations to thesinoatrial node were assessed by
+the normalized power of thelow-frequency (LF, 0.1-Hz) and high-frequency (HF, 0.25-Hz)oscillatory components of RR variability. When the patientswere supine, no differences were observed in
+the hemodynamicand spectral parameters of the 2 groups. During the tilt procedure,RR, LF, and HF (NU=normalized units) values were relativelystable in control subjects. During early tilt (T),
+subjectswith syncope had reduced RR intervals compared with controlsubjects. In 13 subjects with syncope, RR decreased while LFand LF/HF increased in the last minute of tilt before
+syncope(T). Conversely, in the remaining 9 fainters, LF and LF/HFdecreased from T to T and HF increased slightly. Methods and Results NUNU1NU2NU12NU CiTwo different patterns may be
+recognized inthe cardiac autonomic changes preceding an occasional vasovagalevent, namely, one characterized by a progressive increase ofthe marker of cardiac sympathetic modulation up to
+the onsetof syncope, the other by a sympathetic inhibition with an impendingvagal predominance. The recognition of different pathophysiological mechanismsin fainters may have important
+therapeutic implications.Conclusions syncope Oi nervous system, autonomic Oi spectroscopy Key Words: This article has been cited by other articles: J. A. Nowak, A. Ocon, I. Taneja, M. S
+Medow, and J. M. Stewart Am J Physiol Heart Circ Physiol, January 1, 2009; 296(1): H171 - H179. Multiresolution wavelet analysis of time-dependent physiological responses in syncopal
+youths M. Iacoviello, P. Guida, C. Forleo, S. Sorrentino, L. D'alonzo, and S. Favale Europace, October 1, 2008; 10(10): 1170 - 1175. Impaired arterial baroreflex function before nitrate-induced
+vasovagal syncope during head-up tilt test I. Taneja, M. S. Medow, J. L. Glover, N. K. Raghunath, and J. M. Stewart Am J Physiol Heart Circ Physiol, July 1, 2008; 295(1): H372 - H381,
+Increased vasoconstriction predisposes to hyperpnea and postural faint J. Mehlsen, M. N. Kaijer, and A.-B, Mehlsen Europace, January 1, 2008; 10(1): 91 - 95. Autonomic and
+electrocardiographic changes in cardioinhibitory syncope C. Schroeder, A. L. Birkenfeld, A. F. Mayer, J. Tank, A. Diedrich, F. C. Luft, and J. Jordan J. Am. Coll. Cardiol., August 1, 2006; 48(3;
+516 - 522. Norepinephrine Transporter Inhibition Prevents Tilt-Induced Pre-Syncope A. Kamiya, J. Hayano, T. Kawada, D. Michikami, K. Yamamoto, H. Ariumi, S. Shimizu, K. Uemura, T.
+Miyamoto, T. Aiba, Am J Physiol Heart Circ Physiol, October 1, 2005; 289(4): H1758 - H1769.et al. Low-frequency oscillation of sympathetic nerve activity decreases during development of
+tilt-induced syncope preceding sympathetic withdrawal and bradycardia. S. Prakash and Madanmohan Advan Physiol Educ, March 1, 2005; 29(1): 15 - 20. When the heart is stopped for
+good: hypotension-bradycardia paradox revisited D. S. Goldstein, B. Eldadah, C. Holmes, S. Pechnik, J. Moak, and Y. Sharabi Circulation, February 22, 2005; 111(7): 839 - 845
+Neurocirculatory Abnormalities in Chronic Orthostatic Intolerance M. P. Tulppo, H. V. Huikuri, E. Tutungi, D. S. Kimmerly, A. W. Gelb, R. L. Hughson, T. H. Makikallio, and J. Kevin Shoemaker Am
+J Physiol Heart Circ Physiol, February 1, 2005; 288(2): H710 - H715. Feedback effects of circulating norepinephrine on sympathetic outflow in healthy subjects S. M. Romano, C. Lazzeri, M.
+Chiostri, G. F. Gensini, and F Franchi J. Am. Coll. Cardiol., November 2, 2004; 44(9): 1891 - 1897. Beat-to-beat analysis of pressure wave morphology for pre-symptomatic detection of
+orthostatic intolerance during head-up tilt CC. Lu, A. Diedrich, CS. Tung, S. Y. Paranjape, P. A. Harris, D. W. Byme, J. Jordan, and D. Robertson Circulation, November 25, 2003; 108(21):
+2660 - 2665. Water Ingestion as Prophylaxis Against Syncope D. S. Goldstein, C. Holmes, S. M. Frank, R. Dendi, R. 0. Cannon III, . Sharabi, M. D. Esler, and G. Eisenhofer Circulation,
+October 29, 2002; 106(18): 2358 - 2365. Cardiac Sympathetic Dysautonomia in Chronic Orthostatic Intolerance Syndromes P. Alboni, M. Dinelli, P. Gruppillo, M. Bondanelli, K. Bettiol, P.
+Marchi, and E. C. d. Uberti Europace, January 1, 2002; 4(3): 333 - 338. Haemodynamic changes early in prodromal symptoms of vasovagal syncope R. Furlan, G. Jacob, L. Palazzolo, A.
+Rimoldi, A. Diedrich, P. A. Harris, A. Porta, A. Malliani, R. Mosqueda-Garcia, and D. Robertson Circulation, December 11, 2001; 104(24): 2932 - 2937. Sequential Modulation of Cardiac
+Autonomic Control Induced by Cardiopulmonary and Arterial Baroreflex Mechanisms A. Lagi, S. Cencetti, V. Corsoni, D. Georgiadis, and S. Bacalli Circulation, November 27, 2001; 104(22):
+2694 - 2698. Cerebral Vasoconstriction in Vasovagal Syncope: Any Link With Symptoms?: A Transcranial Doppler Study V. Accurso, M. Winnicki, A. S.M. Shamsuzzaman, A. Wenzel, A. K.
+Johnson, and V. K. Somers Circulation, August 21, 2001; 104(8): 903 - 907. Predisposition to Vasovagal Syncope in Subjects With Blood/Injury Phobia R. Mosqueda-Garcia, R. Furlan, J. T. MD,
+and R. Fernandez-Violante Circulation, December 5, 2000; 102(23): 2898 - 2906. The Elusive Pathophysiology of Neurally Mediated Syncope W.-K. Shen, P. A. Low, R. F. Rea, C. M. Lohse, D
+. Hodge, and S. C. Hammill J. Am, Coll. Cardiol., May 1, 2000; 35(6): 1470 - 1477. Distinct hemodynamic profiles in patients with vasovagal syncope: a heterogeneous population R. Furlan,
+A. Porta, F. Costa, J. Tank, L. Baker, R. Schiavi, D. Robertson, A. Malliani, and R. Mosqueda-Garcia Circulation, February 29, 2000; 101(8): 886 - 892. Oscillatory Patterns in Sympathetic Neural
+Discharge and Cardiovascular Variables During Orthostatic Stimulus C. A. Swenne, J. Frederiks, A. V.G. Bruschke, R. Furlan, S. Piazza, S. Dell'Orto, F. Barbic, A. Bianchi, L. Mainardi, S. Cerutti,
+Circulation, October 12, 1999; 100 (15): e67 - 67.et al. Cardiac Neural Changes Before Vasovagal Syncope Response J. Freitas, S. Pereira, P. Lago, O. Costa, M.J. Carvalho, and A. FalcaO de
+Freitas Europace, January 1, 1999; 1(4): 258 - 265. Impaired arterial baroreceptor sensitivity before tilt-induced syncope

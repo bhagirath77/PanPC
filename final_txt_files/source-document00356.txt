@@ -1,0 +1,29 @@
+GridWise Vision DOE GridWise Program GridWise Alliance "GridWise" Industry leaders, along with DOE and Pacific Northwest National Laboratory, use the term GridWise to represent the
+concept of an advanced electric power grid for the 21st century. An historic Memorandum of Understanding between the DOE Office of Electricity Distribution and Energy Reliability GridWise
+Program (then Office of Electric Distribution and Transmission) and the GridWise Alliance was signed on March 25, 2004, HOW DID GRIDWISE START? The nation's prosperity and the
+American way of life depend upon efficient and affordable energy. Without a major shift in the way the energy system is planned, built and operated, the U.S. will invest nearly $500 billion in
+conventional electric infrastructure over the next 20 years to meet expected growth. Minimizing the cost of new electric infrastructure is key to strengthening the U.S. economy. In the spring of
+2000, technical leaders at PNNL began to think about how energy systems would evolve in the first decades of the 21st Century. Experts in the electric power grid, skilled in transmission
+system dynamics and analyses of blackouts, had also been engaged in trying to understand and shape the potential influence of broadly integrated distributed resources, such as distributed
+generation and load management. In parallel, energy scientists had seen the enormous opportunity for automated diagnostic systems to identify energy waste in commercial building energy
+systems. The backdrop of California's electricity crisis highlighted how existing energy markets frustrated the introduction of new technologies that could really make a difference. The
+convergence of these ideas led to the notion that information technology is the key catalyst and enabler for realizing the potential of new energy technologies to transform the electric power
+system. Information technology is vital to transforming the electric power system from a rigid, hierarchical system to a collaborative, distributed, commerce-driven "society" of devices that
+would enhance the utilization of expensive assets and simultaneously increase reliability and security. Shortly thereafter, PNNL began its internally funded Energy System Transformation
+Initiative (ESTI). Working with DOE's Advanced Communication and Control Program, PNNL assisted with a number of cross-industry workshops and road-mapping sessions to refine this vision
+of the grid of the future. In parallel, PNNL's ESTI began investing in research to build the basic science and technology foundation to support the transformation and identify the characteristics
+of the technologies and policies involved. The term GridWise was selected to represent the vision for an advanced electric system based on the accumulated knowledge gained from these
+efforts. The foundation of the GridWise vision for the future electric system is the assertion that information technology can revolutionize the electric system as it has other aspects of U.S.
+business because, fundamentally, "bits are cheaper than iron." Bringing the electric system into the information age would allow the nation to realize the benefits already achieved by
+leading-edge industries that use real-time information, distributed e-business systems, and market efficiencies to minimize the need for inventory and infrastructure, and to maximize
+productivity, efficiency, and reliability. With the help of information technologies, the creation of a distributed, yet integrated system will empower consumers to participate in energy
+marketsthe key to stabilizing prices. Market participants from utilities to new third parties to consumers will create value by developing and deploying solutions that cross enterprise and
+regulatory boundaries. At the same time, this transformation of the energy system responds to the urgent need to enhance national security. A distributed, network-based electric system will
+reduce single-point vulnerabilities and allow the grid to become "self-healing," by incorporating autonomic system reconfiguration in response to human-caused or natural disruptions. While
+this vision is revolutionary in the degree of transformation it represents, it also is the culmination of other historic efforts such as . The intent of GridWise is to transform these pioneering efforts
+and ideas into business as usual for elements of the power system, at levels, from central generation, transmission and distribution to customer systems. integrated resource planning,
+distributed generation, distributed utility, and demand response/load managementallall_GridWise efforts are now branching well beyond PNNL. The terrorist attack of September 11, 2001, the
+August 2003 power blackout in the Northeast and the power outages caused by Hurricane Isabel one month later focused attention on the importance and the vulnerabilities of our nation's
+existing energy infrastructure. Subsequently, GridWise was proposed as a new DOE program for fiscal year 2005 as a Presidential Initiative. The GridWise Alliance was established to formalize
+industry involvement and realize the GridWise vision in partnership with DOE, and in 2004 the GridWise Architecture Council was formed to define an overall framework for interoperable,
+transactive communications. | || || ||

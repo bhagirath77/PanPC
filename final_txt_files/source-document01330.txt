@@ -1,0 +1,30 @@
+Reviewed by: Jamie Bsales Review Date: January 2009 $499 The HP Mini 2140 keeps everything we loved about the [ithe sturdy aluminum shell, the comfortable keyboard, the compact
+dimensionsCland fixes its shortcomings (SuSe Linux OS, smallish screen). The result is as near a perfect netbook as current technology will allow, at a $499 price thatCls right in line with lesser
+rivals in the class. HP 2133 Mini-Note PC The Airstream-esque metal skin of HP's earlier Mini 2133 and models carties over to the Mini 2140. The casing looks and feels fantastic and makes
+the Mini 2140 lighter and more impervious to scratches than plastic-bodied models. Measuring 1.0x10.3x6.5 inches (HWD) and weighing 2.6 pounds, the Mini 2140 is both smaller and lighter
+than our other favorite 10-inch netbooks, the and the . Port selection is typical for a netbook, with one notable addition: Along with two USB ports, Ethernet, VGA, headphone and mic jacks,
+and an SD slot, you also get a 54mm ExpressCard slot for a wider assortment of expansion possibilities (most notably an ExpressCard wireless-broadband card to augment the machineCIs
+standard 802.11a/b/g/n Wi-Fi). EliteBook ASUS Eee PC 1002HA Samsung NC10 But the real surprise is under the lid: a roomy keyboard (for a netbook) with a perfect layout. The square,
+flat-top keys are just 8 percent smaller than those on a full-size notebook keyboard. More important, ancillary keys are in the expected places, and the right Enter and Shift keys seem.
+positively huge by netbook standards, making the Mini 2140 a comfortable fit for touch typists and those with larger hands. The keys also have HPLIs DuraKey coating, which the company
+claims makes them less prone to wear. The small 2.5x1.3-inch touch pad is typical for netbooks, though not as roomy or comfortable as the larger gesture-enabled pad found on the Eee PC
+1002HA. We have mixed feelings about the Mini 2140Cs 10.1-inch display. The 16:9 aspect ratio gives the panel a resolution of 1,024x576Cijust shy of the 1024x600 resolution of the Eee
+PC 1002HA and Samsung NC10. We think those extra pixels would make a difference. When rendering smaller type, like the words in Windows dialog boxes or the application names in its All
+Programs list, the panel cannot produce fully black text. Instead, the letters have a bluish halo effect and seem less distinct and a bit hard to read. This isn't a deal breaker, but it is noticeable,
+especially when you view the same menus side by side with the machine's Asus and Samsung competitors Otherwise, the LED-backlit screen is fine, producing rich colors and very good
+video reproduction. The Mini 2140C1s audio system is also pretty good. As is typical of both budget and ultraportable machines, the speakers could use more bass and sound a bit tinny. But
+thereCs plenty of volume, and the Mini 2140 sounds much less like a transistor radio than other budget machines weClve tested. As for other features, HP includes a 160GB, 5,400rpm drive
+standard. A 160GB, 7,200rpm model is also available, and under Windows both drives come with HPCIs 3D DriveGuard, an active-protection system that features an accelerometer that senses
+whether the machine is falling or jostling and signals the drive to park the heads to prevent head-to-platter impact (and possible data loss or head damage). ItCs a feature we feel should be
+standard on all netbooks, since these on-the-go companions will ikely see rougher handling than their desktop-replacement cousins. HP will also offer a crashproof 80GB solid-state drive (SSD)
+as an option; pricing is not yet set, but its likely to double the cost of the machine. The Mini 21400)s performance is right in line with that of other Intel Atom N270 machines weClve tested
+recently. Futuremark PCMark0S failed to return a result (2 problem weCive had with other Atom netbooks), but the machineCIs score of 133 on Cinebench 9.5 and 815 on Cinebench 10 are
+average for Windows XP-based netbooks. The Mini 2140 needed 27 minutes and 11 seconds to complete our Windows Media Encoder 9 test and 22 minutes and 35 seconds for our iTunes test.
+Those results are in line with others in its class, but as weClve said before, theyDire glacially slow compared with even bargain-basement traditional notebooks. The machine could not
+complete the Futuremark 3DMark06 graphics benchmark, but given the double-digit scores weClve seen from other netbooks that use the same Intel 945 chipset integrated graphics, we doubt
+we missed much. The included three-cell battery delivered 2 hours and 13 minutes of runtime on our video-loop test, which is below average compared with other netbooks weLlve tested
+(some of which, admittedly, came with extended batteries). HP also offers an optional six-cell power pack, effectively doubling the machineCIs AC-free abilities. And speaking of options, HP also
+offers a USB-powered external optical drive that shares the Mini 2140's sleek look, as well as an optional Bluetooth mouse and Bluetooth headset. You can order the Mini 2140 with Windows XP
+(Pro or Home), FreeDOS, SuSe Linux, or even Vista Business or Home Basic (at which point you would want to upgrade the standard 1GB of RAM to the machineL]s maximum of 2GB). In the
+burgeoning ranks of netbook portables, each seemingly more impressive than the last, the HP Mini 2140 manages to stand out. It has a winning design and feature set, yet it doesnCIt
+command a price premium. Price (at time of review):

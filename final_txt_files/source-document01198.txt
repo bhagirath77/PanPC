@@ -1,0 +1,25 @@
+IP: 4/March/2000 NA: 26/October/2000 EU: 24/November/2000 AU: 30/November/2000 Initial Price: JP: 39,800 NA: {{{naprice}}} EU: {{{euprice}}} AU: {{{auprice}}} Discontinued:
+Other games available (temporary link) The Playstation 2 is the successor to the popular console, developed by . It was released in Japan on 4th March 2000 and in the United States on 26th
+October 2000. Europe and Australia followed on 24th November and 30th November 2000 respectively. It has been rumoured to be a difficult platform to develop on but has sold the largest
+number of consoles of its generation. This may be partly due to the same reasons as the original Playstation, firstly the Sony name which is recognisable to a broad section of the population
+and is regarded particularly highly by casual gamers as it is seen as sophisticated, cool or safe rather than arguably nerdy like Microsoft or supposedly child-oriented like Nintendo. Secondly, a
+minimalist design which fits in with 1990s design tastes. Thirdly, a broad range of games, particularly ones that are relatively simple to get in to, such as 'Singstar', or that give the freedom to
+do what you want, especially activities that would be illegal in real life, such as those allowed in the Grand Theft Auto series. Fourthly, backward compatibility with previous Playstation games
+will be of particular interest to the space-conscious (ie those who aren't children). Another possible reason is the ease of illegally pirating games. Sony PlayStation Sony Contents The
+specifications of the PlayStation 2 console are as follows, with hardware revisions: : 128 bit " clocked at 294 MHz (later versions 299 MHz) CPU Emotion Engine System Memory: 32 MB Direct
+Rambus or RDRAM (note that some computers use this type of RAM) Memory Bus Bandwidth: 3.2 GB per second Main processor: MIPS R5900 CPU core, 64 bit Co-Processor: FPU (Floating
+Point Multiply Accumulator x 1, Floating Point Divider x 1) Vector Units: VUO and VU1 (Floating Point Multiply Accumulator x 9, Floating Point Divider x 1), 128 bit Floating Point Performance:
+6.2 GFLOPS 3D CG Geometric Transformation: 66 million polygons per second (1) Compressed Image Decoder: MPEG-2 I/O Processor interconnection: over a serial link, DMA controller for
+bulk transfer Remote Procedure Call Graphics: "Graphics Synthesizer" clocked at 150 MHz DRAM Bus bandwidth: 48.0GB per second DRAM Bus width: 2560 bits Pixel Configuration:
+RGB:Alpha:Z Buffer (24:8, 15:1 for RGB, 16, 24, or 32-bit Z buffer) Maximum Polygon Rate: 75 million polygons per second (1) Dedicated connection to: Main CPU and VU1 Sound:
+"SPU1+SPU2" Number of voices: 48 hardware channels of ADPCM on SPU2 plus software-mixed channels Sampling Frequency: 44.1 kHz or 48 kHz (selectable) I/O Processor CPU Core:
+Original PlayStation CPU (MIPS R3000A clocked at 33.8 MHz or 37.5 MHz) Sub Bus: 32 Bit Connection to: SPU and CD/DVD controller. Interface Types: 2 proprietary PlayStation controller
+ports, 2 proprietary Memory Card slots using , Expansion Bay (DEV9 or PCMCIA on early models) port for Network Adaptor, and Hard Disk Drive, (2), remote control port (2), and 2 1.1 ports
+with an OHCI-compatible controller. MagicGate encryption Modem IEEE 1394 Infrared USB Disc Media: DVD-ROM (CD-ROM compatible) with copy protection. 4.7GB capacity, a few are DVD-9
+(8.5 GB) (1) Polygons per second under ideal circumstances (e.g. no texturing, lighting, or vertex colors applied). Some criticize these figures for being unrealistic, and not indicative of
+real-world performance. The true polygons per second figure with full textures, effects etc. is around 13 million. (2) IEEE 1394 removed in SCPH-50000 and later hardware versions, and
+Infrared remote port added. Trivia The PlayStation 2 sold 630,552 consoles during its first weekend on sale inJapan. Games A full list of PlayStation 2 games documented on GamerWiki can
+be found at . the Sony Playstation 2 category Altematively, a manually created list is - this is to be deprecated, . also available so please add any further games to the games to be added page
+Websites See Also other possible headings: Versions (different versions of the hardware, e.g. Master System I & II) Peripherals (notable peripherals unique to the system) Magazines
+(dedicated magazines) Emulation (how to emulate this system) This article uses source material obtained from The original article can be found at Wikipedia
+http://en.wikipedia.org/wiki/Playstation_2

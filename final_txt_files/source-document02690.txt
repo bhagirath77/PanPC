@@ -1,0 +1,8 @@
+CMMI Workshop Annual Reporting Appraisals to the SEI - Form ) form can be completed one of three ways: The SEI Appraisal System: Record of Entry ( SAS ROE Online using a Web browser.
+@ Using Microsoft Word after saving the Web form. By hand, after printing a paper copy of the Web form We highly suggest reading the instructions provided and printing a copy of the form to
+become familiar with it attempting to complete it.before SEl-authorized SCAMPI Lead Appraisers and CBA IPI Lead Assessors can fill out the SAS ROE Web form through the SEI .SM Partner
+Web Center The SAS Web can be used to: Set up SCAMPI appraisals or order CBA IPI for SW-CMM assessment kits. Assign team members to the appraisal or assessment. Complete the
+Requirements Checklist form (if required). Complete the Team Leader Feedback form. Complete appraisal or assessment feedback forms by the sponsor or team members. Access the link to
+the SAS ROE Web form to report the appraisal or assessment to the SEI and send in the required artifact documents. All other individuals reporting appraisals or leads of CBA IPI for SA-CMM,
+Software Capability Evaluation, Interim Profile, or other variations of appraisal methods may access the SAS ROE Web form directly at: . http://sas.sei.cmu.edu For More Information return to
+| Profile | Appraisal Program top main page main page |

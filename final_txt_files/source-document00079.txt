@@ -1,0 +1,17 @@
+Printable Version The Photoelectric Effect To broaden their scientific perspective on a new generation of silicon PV devices, the U.S. Department of Energy's National Renewable Energy
+Laboratory has pioneered a new class of materials   which may have application in the photovoltaic and microelectronics industries. To date, the scientists have deposited and characterized
+50 microcrystalline silicon films.microcrystalline silicon alloys In 1839, Edmond Becquerel discovered the process of using sunlight to produce an electric current in a solid material. But it took
+more than another century to truly understand this process. Scientists eventually learned that the photoelectric or photovoltaic (PV) effect caused certain materials to convert light energy into
+electrical energy at the atomic level. The photoelectric effect is the basic physical process by which a PV cell converts sunlight into electricity. When light shines on a PV cell, it may be reflected,
+absorbed, or pass right through. But only the absorbed light generates electricity. The eneray of the absorbed light is transferred to electrons in the atoms of the PV cell. With their newfound
+energy, these electrons escape from their normal positions in the atoms of the semiconductor PV material and become part of the electrical flow, or current, in an electrical circuit. A special
+electrical property of the PV cellwhat we call a "built-in electric field"provides the force, or voltage, needed to drive the current through an external "load," such asa light bulb. To induce
+the built-in electric field within a PV cell, two layers of somewhat differing semiconductor materials are placed in contact with one another. One layer is an "n-type" semiconductor with an
+abundance of electrons, which have a negative electrical charge. The other layer is a "p-type" semiconductor with an abundance of "holes," which have a positive electrical charge. Although
+both materials are electrically neutral, n-type silicon has excess electrons and p-type silicon has excess holes. Sandwiching these together creates a p/n junction at their interface, thereby
+creating an electric field. When n- and p-type silicon come into contact, excess electrons move from the n-type side to the p-type side. The result is a buildup of positive charge along the
+n-type side of the interface and a buildup of negative charge along the p-type side. Because of the flow of electrons and holes, the two semiconductors behave like a battery, creating an
+electric field at the surface where they meetwhat we call the . The electrical field causes the electrons to move from the semiconductor toward the negative surface, where they become
+available to the electrical circuit. at the same time, the holes move in the opposite direction, toward the positive surface, where they await incoming electrons.p/n junction How do we make the
+p-type ("positive") and n-type ("negative") silicon materials that will eventually become the photovoltaic (PV) cells that produce solar electricity? Most commonly, we add an element to the
+silicon that either an extra electron or an electron. This process of adding another element is called doping.haslacks To learn more about PV physics, see:

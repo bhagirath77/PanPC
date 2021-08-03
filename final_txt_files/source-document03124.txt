@@ -1,0 +1,12 @@
+A S Instatistical terms, a poker hand is a of size 5 drawn without replacement and without regard to order from the population . For more on this topic, see the chapter on . random sample D
+Finite Sampling Models The Value of the Hand There are nine different types of poker hands in terms of value. We will use the numbers 0 to 8 to denote the of the hand, where 0 is the type
+of least value (actually no value) and 8 the type of most value. Thus, the hand value is a random variable taking values 0 through 8, and is defined as follows: value . The hand is of none of
+the other types. No Value . The hand has 2 cards of one kind, and one card each of three other kinds. One Pair . The hand has 2 cards of one kind, 2 cards of another kind, and one card of a
+third kind. Two Pair . The hand has 3 cards of one kind and one card in each of two other kinds. Three of a Kind . The kinds of cards in the hand form a consecutive sequence but the cards
+are not all in the same suit. An ace can be considered the smallest denomination or the largest denomination. Straight . The cards are all in the same suit, but the kinds of the cards do not
+form a consecutive sequence. Flush . The hand has 3 cards of one kind and 2 cards of another kind. Full House . The hand has 4 cards of one kind, and 1 card of another kind. Four of a
+Kind . The cards are all in the same suit and the kinds form a consecutive sequence. Straight Flush Run the 10 times in single-step mode. For each outcome, note that the value of the
+random variable corresponds to the type of hand, as given above. poker experiment The Probability Density Function Computing the probability density function of is a good exercise in
+combinatorial probability. In the following exercises, you will need to use the two fundamental rules of to count the number of poker hands of a given type: the multiplication rule and the
+addition rule. You will also need to remember some basic , particularly combinations. We give some hints on constructing an algorithm for generating the poker hands of the given type. V
+Show that the number of different poker hands is S

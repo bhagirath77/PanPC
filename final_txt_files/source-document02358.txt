@@ -1,0 +1,16 @@
+Beyond Tv SDK SnapStream Beyond TV is personal video recording (PVR) software that adds television recording capabilities to ordinary home PCs. In addition to basic PVR features like
+time-shifting live television and recorded shows, there are numerous other features that are unique to the Beyond TV software. With features such as SmartSkipTM, ShowSqueezeTM,
+multiple-tuners and Beyond TV Link support, Beyond TV is unsurpassed in the industry. Software developers can take advantage of what our software has to offer through Beyond TVs rich
+Software Developer Kit. The SDK allows automation and extension of Beyond TV on local PCs or across the home network. Get the Beyond TV SDK The Beyond TV SDK is an amazingly
+powerful set of methods and web services that you can use to access, customize and control every aspect of your Beyond TV server. Features Proven PVR architecture and technology With
+the Beyond TV SDK, you're getting access to the same web service calls that the developers at SnapStream use to develop their products. The framework is a carefully abstracted solution that
+makes high level PVR technology concepts easy for any developer to use. We've done the work so that you can focus on solving your particular set of problems. Cross platform, network
+enabled The Beyond TV SDK is built entirely on top of standards based Web Services. It's easy to access Beyond TV over any network and from any operating system. Explicit tutorials with
+the newest development tools and languages Tutorials in Visual Studio .NET 2003 based on C# help any developer get off to a running start in a productive environment and programming
+language. You'll be developing in no time flat. Common scenarios Use the Beyond TV SDK to... Display information about upcoming recordings on an HTPC front end LCD panel. Import,
+manipulate, and export metadata from Beyond TV recordings. Build a PVR frontend or interface for any networked device (including thin clients such as digital media adapters). Manipulate
+Beyond TV settings and control the server's operation. Anything that can be done with Beyond TV Link can also be done by any developer using the Beyond TV SDK, record more than one
+show at a time, or watch one show while recording another when multiple tuners are installed. Extensive documentation All web services are thoroughly documented according to MSDN
+standards. Tutorials Getting started Get a brief description on how to get up and running with the SDK using Visual Studio .NET 2003. This may be old hat to some experienced developers,
+but for those of you who are new to web services or Visual Studio .NET in general, it should help to get you up and running in no time. There are plenty of good reasons to read and write your
+own media properties. This tutorial shows you just how easy it is to read out all the media properties in a recording and how to add your own. SnapStream Developer Network:

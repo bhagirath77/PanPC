@@ -1,0 +1,10 @@
+[] edit Overview All can be considered part of brain mapping. Brain mapping can be conceived as a higher form of , producing brain images supplemented by the result of additional
+(imaging or non-imaging) data processing or analysis, such as maps projecting (measures of) behaviour onto brain regions (see ). neuroimaging neuroimaging fMRI Brain Mapping
+techniques are constantly evolving, and rely on the development and refinement of image acquisition, representation, analysis, and interpretation techniques. Functional and structural are
+at the core of the aspect of Brain Mapping. visualization neuroimaging mapping [] edit History In the late 1980s in the United States, the Institute of Medicine of the National Academy of
+Science was commissioned to establish a panel to investigate the value of integrating neuroscientific information across a variety of techniques. [1] Of specific interest is using structural
+and functional magnetic resonance imaging (), electroencephalography (), (PET) and other non-invasive scanning techniques to map , , , function and of the human brain. Both healthy and
+brains may be mapped to study , , , and effects in various populations such as people with , , and . This led to the establishment of the Human Brain Project. fMRI EEG positron emission
+tomography anatomy physiology perfusion phenotypes diseased memory learning aging drug schizophrenia autism clinical depression [2] Following a series of meetings, the International
+Consortium for Brain Mapping (ICBM) evolved. The ultimate goal is to develop flexible . [3] computational brain atlases [] edit Current atlas tools Harvard Whole Brain Atlas, 1995 [4]
+MNI Template, 1998 (the standard template of SPM and International Consortium for Brain Mapping)

@@ -1,0 +1,7 @@
+Sensors & Electronics Electronics & Systems Electronics Electronic circuits are commonly used to transform the sensor output to useful signals for data interpretation or process control
+Electronics are routinely required to bring many of our sensor and measurement system concepts into practical applications and to the functional requirements of our clients. In many cases,
+this may build on PNNL-developed sensors or measurement ideas. However, it also includes the incorporation of commercial sensors and measurement instruments or subsystems into
+integrated systems to meet client requirements. We also develop and deliver specialized electronics designed to meet specific client requirements. System Integration Integrated systems are
+often required for applications that involve robust measurement methods, automated data acquisition, and effective process monitoring and control. We routinely perform system integration
+functions to ensure that complex systems are designed, effectively reviewed at the design stage, fabricated and assembled, tested and validated, and delivered to the client. PNNL has
+delivered electronics and systems to serve reliably in a variety of application environments ranging from laboratories, field tests, factories, and space flight. Sensors & Electronics

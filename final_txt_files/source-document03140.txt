@@ -1,0 +1,8 @@
+Newbie Karma: +0/-0 Posts: 2 Offline Color on Screen  September 03, 2007, 09:50:51 AM on: I just recently bought a PC to TV converter from Radioshack and the image is working fine
+except for there is no color on my TY, it's all in black and white. I'm using a Dell Inspiron 8600 Notebook with a 54' Sony TV with a S-video connection. What gives? Logged Administrator
+Nerd Supreme Karma: +4/-0 Posts: 183 Sewell Tech Support Offline Re: Color on Screen  September 03, 2007, 11:15:41 AM Reply #1 on: Have you checked the S-Video cable to make
+sure there are not any bent pins? If there aren't any then the problem probably is with the converter itself. I'd take it back and return it. Also, if you are running a 54' HDTV I would STRONGLY
+recommend getting a PC to TV converter that uses a better signal than S-Video. S-Video is not a High Definition connection. Using VGA, HDMI, or Component would give you a much clearer
+picture on your TV. Of course this all depends on what kind of connections your TV has on it. If both your computer and TV have VGA (like a lot do these days) you can just use a between the
+two. That will provide a very nice picture. If your TV has HDMI and your computer has DVI, again you can just run . If you don't have either of those options I would recommend going from
+VGA to Component. Component would require a conversion box, but is still an HD quality signal, unlike S-Video. You could use this:

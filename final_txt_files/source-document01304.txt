@@ -1,0 +1,90 @@
+8.1. Introduction X Windows seems to be working fine. The touch screen is also now supported, but it probably needs a bit more development. Touch screen will sometimes just stop working
+for no apparent reason, requiring a reboot to fix, and it will behave erratically all too often. You can use a mouse with the netBook using the onboard or PCMCIA serial port. There is a section in
+this HOWTO about how to do that. Using a Mouse See the section on in this HOWTO for an alternate X server that can drive a PCMCIA VGA out cards (Colographic Voyager; Hewlet-Packard
+F1252A). The PCMCIA VGA out cards are supported by only the server xserver-tiny-h3600_4.2.20030126-14_arm.ipk from handhelds.org, although that server does not support touch screen
+Making Presentations Using a VGA-out PCMCIA Card to the "Device" Section of the file and restarting X windows. A rotated screen can be useful for some applications, e.g., some games. The
+XF86Config configuration file can be set up to support a on a PCMCIA serial card, as well as touchscreen; the XF86Config example given here is set up for a mouse. 8.2. A Working X Server At
+this point, for overall usefulness, including touch screen support, the ordinary XFree86 server (framebuffer) from Debian seems to be the most functional. In addition to the VGA out X server
+mentioned above, the chapter at the end of this section describes other X servers that do not work so well. For installing X, if you have a Debian system you can just install the appropriate
+*.deb packages for XFree86. If you have a handhelds.org system (ipk/Xipaq), you may have to kludge the X server installation. I kept installing required libraries from handhelds.org until it
+worked. Giving me a potentially awkward mixed handhelds/Debian X server system. Only the XFree86 X server from Debian uses the /etc/X11/XF86Config file; all the others get the
+information they need from the command line or by auto probing. The touch screen support therefore works only for the Debian XFree86 X server at present. XFree86 from Debian.org is the
+the ordinary X server with fodev driver. One nice thing about this server, is that it has built in keyboard extensions let you use your keyboard to control the mouse; see the section on "Keys"
+below. Of the available X server binaries, the Debian server has the largest memory footprint at about 4 MB; the others are around 2 MB. With the Debian server, you can rotate the X windows
+screen by 90 degrees by adding Option "Rotate" "CW" XF86Config serial mouse The Voyager VGA-out card is not supported at all by the Debian X server. The major number will likely
+be 254. Adjust the following if you don't get 254. Then GPM or the X server should be able to "connect" to this device. And an addition to "ServerLayout": On my malaybook I needed: min-x
+375, max-x = 3490, min-y = 295, and max-y = 3750 for a reasonable calibration. The values can be changed with commands like Once you've calibrated your netBook, you can add these
+commands to a small script in the /etc/rc2.d, so that your netBook will be properly calibrated after each boot up. 8.3. Touch Screen To get the touch screen to work, you first need a kernel
+with the latest patch to support the touch screen. For touchscreen and X windows, you will have to use the ordinary XFree86 fbdev X server. The touchscreen driver is known to have a number
+of lingering problems, e.g., erratic pointer behaviour is altogther too common; so sorry. The touchscreen driver uses the Summa protocol in absolute mode (or enough of the protocol to get
+gpm to work), and dynamically allocates a character device major number (probably 254). This number is given at boot up time; this major number can be found by: dmesg | grep
+touchscreen You'll need to make a character device in your filesystem that connects to the driver. I'l call it "tscreen" here to be more descriptive. mknod /dev/tscreen c 254 0 In the
+
+ 
+
+ 
+
+/etc/X1 1/XF86Config file you'll need to have sections like: Section "InputDevice" Identifier "Touchscreen" Driver "summa" Option _"Device" "/dev/tscreen" # or whatever
+Option "Mode" "absolute" # Other options that might be useful: # Option "Cursor" "stylus" # Compatible (driver is now compatible enough to not need this), # Resolution,
+XSize, YSize, XOffset, YOffset EndSection Section "ServerLayout" _# Other things here # # InputDevice "Touchscreen" "CorePointer" EndSection To use the
+
+touchscreen, with gpm: gpm -t summa -m /dev/tscreen The position of the pointer on the touch screen can be calibrated by adjusting the values in the files in /proc/netbook/touchscreen. The
+values of min-x, max-x, min-y, and max-y can be adjusted prior to starting X11: min-x - calibration along the left edge of the screen. (default 375). If the mouse pointer is being draw too far
+to the right when near the left edge of the screen, then you should increase this value. _min-y - calibration along the top edge of the screen (default 255). If the mouse pointer is being draw
+too low here, then you should increase this value. max-x - calibration along the right edge of the screen (default 3575). If the mouse pointer is being draw too far to the right here, then you
+should increase this value. max-y - calibration along the bottom edge of the screen (default 3750). I'll leave you to work this one out ;-) A hint that might save you some time: The two min-
+values can be changed while X is running - note that doing this will throw the calibration off for the rest of the screen until you restart X, but when you restart, the top/left edge calibration will
+be as you have just set them, and the X-server will re-read the bottom/right calibration from the driver, so these will be restored to what they were like before you started fiddling.
+Unfortunately to get the max values to have an effect you will need to restart the X server. /proc/netbook/touchscreen/offset-x was added to expand the active touchscreen to cover the icons
+down the left side of the screen. offset-y was then added for orthogonality. Unless you have some purpose in mind, it's probably best to leave both of these offsets as zero (which means that
+touching the icons down the left of the screen will send a pen event on the left edge of the LCD, and hence to the right of the icons). If you do change these offsets, then it's better to already
+have a set of good calibration values, since calibrating with nonzero offsets is rather fiddly. To use, you'll need to set the XOffset value in the Touchscreen section in XF86Config-4 - I did this
+very roughly with Option "XOffset" "0.5" then setting the value with echo 260 > /proc/netbook/touchscreen/offset-x "echo 375 > /proc/netbook/touchscreen/min-x" The value in the file
+/proc/netbook/touchscreen/buttons can also be set to 1, 2, 3 (or 4) in a similar way, which will set the default mouse button that is clicked when the screen is tapped. The keylaunch program,
+described below can be used to toggle the pointer button when the screen is tapped. You can use a nice GUI application called XRmouse to control and set the default mouse button. This
+application is based on GTK+. The ARM binary of this application is located at . http://projects.gnome. hu/xrmouse/index.en.html http://projects.gnome.hu/xtmouse/XRmouse will work to
+make Ctri-1 set the screen tap to be mouse button 1; Ctri-2 set the screen tap to be mouse button 2; and Ctrl-3 set the screen tap to be mouse button 3. [See also "Keys" below"] and
+<Alt>-<s> will take a snapshot of the root X window and save it to the file screendump. Any other applications or commands can be implemented; you get the idea. 8.4. Using Keylaunch You
+can use the "keylaunch program, available as a Debian package, to launch applications or commands by keystrokes. In particular, set mouse clicks 1, 2, or 3 to be the screen touch. The X
+server or summa driver seems to support four pointer keys (I forget the details of this). A .keylaunchrc file with lines that looks like key=.*.1:xmodmap -e "pointer = 1234"
+key=.*.2:xmodmap -e "pointer = 2341" key=.*.3:xmodmap -e "pointer = 3 4 1 2" Add a line like 8.5. X modules X comes with a number of "bells and whistles" modules. You can
+exclude a number of these by appropriate entries in the X configuration which seems to save considerable memory. Which modules to leave out, I could not say, however - I am not altogether
+sure which ones are very useful and which ones can be left out. so that Fn-p will "Pointer_EnableKeys". This means that, for example, KP_S (keypad 5, Fn-Esc here) will act as a mouse click.
+So with this .Xmodmap file (after Fn-p is pressed), Fn-Escape will act as a mouse click, Shift-arrows will act to move the mouse, and In addition, Shift-Menu will enable NumLock so that just
+the arrows will move the mouse around, and Shift-arrows will resize the windows. You get the idea. 8.6. Keys The netBook's keys are not entirely defined according to any standard keyboard,
+so some care is needed to define the various keys properly. In addition with the ordinary XFree86 framebuffer X server from Debian, the "x Keyboard (XKB) Extension" can be used to control
+mouse functions. TinyX does not enable this extension, as far as I know. To set up all the keys and define the mouse functions, I have for my .Xmodmap file: keycode 9 = Escape Escape KP_5
+keycode 10 = 1 exclam KP_Divide keycode 11 = 2 quotedbl KP_Multiply keycode 12 = 3 sterling KP_Subtract keycode 13 = 4 dollar EuroSign keycode 14 = 5 percent grave keycode 15 = 6
+asclicircum apostrophe keycode 16 = 7 ampersand braceleft keycode 17 = 8 asterisk braceright keycode 18 = 9 parenleft bracketleft keycode 19 = 0 parenright bracketright keycode 20
+minus underscore numbersign keycode 28 = t T bar keycode 39 = s keycode 33 = p P Pointer_EnableKeys keycode 55 = v keycode 65 = space keycode 66 = Alt_L keycode 67 = Mode_switch
+Num_Lock keycode 80 = Up KP_Up Prior keycode 88 = Down KP_Down Next keycode 85 = Right KP_Right End keycode 83 = Left KP_Left Home Incidentally, in console mode the exterior
+button (we'll call it Ext) of the netBook (in front) is defined as F1. Then Shift-Ext is F2, Ctrl-Ext is F3, Menu-Ext is F4, and Fn-Ext is FS. These are probably not defined in X windows without
+some configuration to the .xmodmap. The power switch just gives "p" for now (for "power", get it?) until we figure out how to tum the netBook off. 8.7. X Window Managers There are several
+possible lightweight window managers to try out. Blackbox, Afterstep, FVWM, WindowMaker, ICEWM, and XFCE4, are all possibilities. Which one works best on the netBook with 8-bit/256 colors
+is not certain yet. You can see a set of performance benchmarks for various window managers . I like XFCE4, but it appears to be a little too demanding of the netBook's resources for comfort.
+FVWM has special keys inherent in it that allow the mouse to be controled by the keyboard, even if you don't have the "x Keyboard (XKB) Extension" described above. All in all, the
+WindowMaker manager seems to work pretty well. Some people like the simpler Blackbox (or Fluxbox) manager because it uses fewer colors and applications look better on it; it also uses a
+little less cpu resources than WindowMaker. here The autorepeat key problem in WindowMaker can be solved by adding "xset r rate 500 50" to your .xinitrc file. The delay (500) and interval
+(50) rates, usually set in the XF86Config file, don't seem to get through to WindowMaker until you execute this command. Figure 2. on a 640x480 screen, 256 colors XFCE4 8.8. Alternate
+Window Systems - Microwindows, Opie, Picogui, Minigui There are a number of interesting light-weight alternatives to X windows, some may work o.k., some not so o.k.. I've not tried any of
+these. Packages available from Debian.org I don't know how this system works, but I think it is meant to be an X windows compatible windowing system.Microwindows. Opie, e.g., from
+OpenEmbedded, may have to be modified and recompiled for 8-bit (256 colors) color. No success yet with Opie, although people are poking around with this, e.g., see: . This is probably the
+most advanced windowing system altemative suitable for PDAs. Opie may be much more suited to the end user market, seems to me.Qtopia or Opie. this link Picogui at has been developing
+slowly. It has a limited number of applications that run on it.Picogui. http://picogui.org/ One interesting possibility is minigui at This package is being actively developed in Beijing,
+China.Minigui. http://www.minigui.org/ 8.9. Debugging Notes One potential problem, which perhaps still lingers for some X servers, although not the ordinary X server from Debian, has to do
+with the LCD controller and the fact that X windows will sometimes start up with very odd, often unworkable, colors (generally dark blue). If this happens, you can probably start X with the
+correct colors by ssh or rsh'ing to localhost before starting the X server. Apparently being on a pseudoterminal rather than a virtual terminal can resolve some issues. It may be that the kernel
+LCD driver is not quite 100% with X windows. Sometimes the netBook gets stuck with its blank screen and unresponsive keyboard when X is started. The screen/keyboard can be restored by
+ssh'ing into the netBook from the desktop and starting X windows again - a hard reboot is not required. Similarly, if X windows crashes, you'll still see what appears to be X windows, but you'll
+have an unresponsive keyboard. Log in by ssh and restart X. 8.10. Alternate (not altogether working) X Servers There are several other X servers that you can try with your netBook. All of
+them seem to behave a little differently, some work better than others, some have very useful features, but other drawbacks. TinyX/kdrive find the mouse by following where the /dev/mouse
+link takes them (if it exists) and then auto probing the mouse type. This means, among other things, that touchscreen is not supported by these drivers since the summa touchscreen is not set
+up properly. In some cases, the only servers that worked with proper colors used Taneli's fb patch that sets cmap_static=1 in the kernel framebuffer driver. In the case of Debian's ordinary
+XFree86 server, the cmap_static flag is not required, which is a good thing. If you have a handhelds.org system, you may have to kludge the X server installation. I kept installing required
+libraries from handhelds.org until it worked. Giving me a mixed handhelds/Debian X server system. Here is a list of other servers I have tried, and some comments on what happened for me:
+ TinyX/kdrive from http://ipkgfind. handhelds.org/ extracted from xserver-kdrive-fbdev_6.6.1-14_arm.ipk It does not recognize or drive the Voyager VGA card, although it has the "-card
+pemcia option.X server #1: The kdrive server from http://www.netbook-linux.org/packages/latest/ipk/ extracted from xserver-kdrive-fbdev_0.1cvs20040706-r0_arm.ipk This server also
+worked, but inexplicitly gave a completely black screen (black screen, black font?) for the rxvt terminal; the terminal was working however, it just didn't show anything. This server seemed to
+offer a nicer color rendering, however. But because of the rxvt issue, I can't use this X server at the moment. It does not recognize or drive the Voyager VGA card, although it has the "-card
+pemcia" option.X server #2: Xipaq from http://www.fairlite.demon.co.uk/handhelds.html Download Xipaq.gz Does not work for X windows on the netBook - a blank screen. BUT: It gives
+scrambled output to my monitor using the Voyager VGA card. It is obviously trying to do something.X server #3:

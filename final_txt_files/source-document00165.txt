@@ -1,0 +1,10 @@
+Research Areas Catalysis research at PNNL ranges from fundamental studies, to practical catalyst development, to catalytic process applications. Industrial catalyst technologies affect nearly
+all areas of the chemical and petroleum industries, and the economic impact of catalysis has been estimated to be over 10 trillion dollars per year worldwide. Furthermore, catalyst technologies
+have an integral part in some of our most important pollution control and environmental cleanup processes, including the reduction of harmful automobile emissions by catalytic converters
+Because of its substantial impact on the global economy, catalysis remains an active and vital area of research and development (R&D), with many scientific and engineering journals and
+conferences devoted to discussion of the latest results. New and improved catalytic materials and processes are being developed to attain more rapid reaction rates using milder, less
+energy-intensive reaction conditions, and for enhanced selectivity to produce the desired reaction products with minimal waste byproducts. Accordingly, the U.S. Department of Energy (DOE)
+has a longstanding interest in catalysis and continues to support catalysis R&D through the national laboratories, including Pacific Northwest National Laboratory. Our catalysis research takes
+advantage of the historical emphasis on chemistry and chemical engineering at the Laboratory. Programs include biomass conversion, environmental catalysis, microchannel reactors for fuel
+and chemical production, and surface science studies of catalysts. Alongside these experimental efforts, computational chemistry is a core-competency that is poised to be a world-leading
+resource for catalysis research and development.

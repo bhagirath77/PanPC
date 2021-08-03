@@ -1,0 +1,31 @@
+During the last part of summer 1998 a new heliostat was designed using a 6" flat of 1/4 wave. It has a right ascension drive and a declination drive to move the image of the sun using a
+control paddle. The original 3 1/4 inch refractor lens was replaced with a 9 foot focal length mirror that produces a one inch diameter image of the sun. (A barlow of 2" dia. 500mm F/L is now
+used in conjunction with the mirror producing a F/L of about 20 feet and an image of approximately 2 1/8 " dia.) A worm gear system was also constructed to tilt the diffraction grating from the
+first order to the third. At this time only the first and second order are used in the spectroscope mode to any advantage. These photographs (left side) show the entrance and exit slit
+arrangement and the (right side) nodding mirror mechanism. The slits are adjustable and were designed similar to the method explained in ATM, book II, page 503 (publication by Scientific
+American - 1970). The slits are not calibrated, but present little trouble in acquiring the ideal opening for either spectroscopic work or use in the spectrohelioscope mode (viewing the disk of the
+sun). If you notice in the upper left photograph, the exit slit is opened as a door. It is installed on hinges to allow easy conversion from one viewing mode to the other. The entrance slit remains
+stationary. A Phillips FTM800 (Black and White) electronic camera was used for the above images in the spectroscopic mode and the spectrohelioscope mode. When observing the disk of the
+sun the sweep rate of the camera and the nodder system produce vertical interference patterns. This can be overcome with a system of synchronizing the camera and nodder. The view of the
+sun's disk with one's eye is very good and the sun's disk reveals much detail. The images above were taken on June 27,1999. A sketch of the sun in H-alpha made on June 27, 1999 at 9:45AM
+P.D.S.T,, 16:45 UT. Not to scale, but an example of what can be seen. An interesting experiment with this instrument is the ability to tune the H-alpha band. One can observer the appearance of
+detail in different stages which indicate the direction of velocity in the gases - notability the prominences. Due to the optical train the image is reversed and backward. One still observes the
+same detail, but oriented differently. The by Leonard Higgins This web page is presented for those who have an interest in the spectrohelioscope and perhaps the desire to build one of these
+interesting instruments. George Ellery Hale (1868-1938) invented the spectrohelioscope in 1924 which allowed detection of sudden outbursts of activity on the sun. The following photographs
+are of such an instrument, built by Leonard Higgins with the support, and guidance of Fredrick Veio, author of the book, "The Spectrohelioscope." This particular instrument has been on display
+at the RTMC (Riverside Telescope Maker's Conference) at Big Bear Lake, Camp Oaks in California, U.S.A., for the last two conferences, 1998 and 1999. It received a Merit award at the RTMC,
+1998. "The instrument is a pleasure to use, and provides many different aspects and challenges in regard to observing the closest star, our sun." The spectrohelioscope with some
+modifications The nodding mirror synthesizer was adapted to the spectrohelioscope about 20 years ago by Jeffrey Young as explained in Fred Veio's book. It needs to be made so it will induce
+little or no vibration in the optical light path of the spectroscope section which could create movement of the air currents, degrading the quality of the image. A heavy steel plate was used as
+the mounting for the small electric motor (with eccentric wheel - cam) and the vertical supports for the aluminum nodding plate that holds two diagonal first surface mirrors. The steel plate is
+then spring mounted on a large aluminum base which is then attached (cushioned with camper shell foam sealer) to the wooden box of the spectrohelioscope. Readily available material was
+used to isolate as much vibration as possible. The follower that rides on the eccentric wheel was made from a discarded set of automobile ignition points. The fiber section was used and a small
+amount of cam lubricant is applied on occasions. As a result this system works well. This diagram shows the current optical system in use at this time. The distance between the nodder mirrors
+and the slits is 6 inches. To bring the image to a comfortable viewing angle an eyepiece system (trial and error) was acquired. A 45 degree erecting prism with two small achromatic lens of 3.5,
+inches f/l, placed on either side of the prism in combination with a 26mm Plossl, by Vixen, works very well. The builder of such an instrument is left with many alternatives concerning the
+construction of the spectrohelioscope. Much has been leamed from this project and the learning has just begun. It would be nice to have the opportunity to look through other such
+instruments, but there are few in existence. Hopefully there will be more.. The telescope mirror needs to be stopped down due to the generation of heat. The box on the left side contains the
+grating, slits, nodding mirrors, 90 degree diagonal mirror, and the eyepiece. A 6 inch flat, first surface mirror, on a tracking system, guides the sunlight onto the telescope mirror. An experiment
+that can be improved upon, but interesting. The detail of the spectrum can be improved by adjustment of the entrance slit. The exit slit is not used in the spectroscope mode. More images:
+The business end of the spectrohelioscope The heliostat A camcorder view of the spectrum Nice colors This web page was made possible by the with the assistance of Mike Rushford, a
+robotic solar telescope, located in Livermore, California. To acquire the book, "The Spectrohelioscope", send $25.00 to:

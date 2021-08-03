@@ -1,0 +1,54 @@
+See also: and Critical views of Wikipedia 10 Things You Did Not Know About Wikipedia Wikipedia is the spectacularly successful on-line , at . It is intended to be a , complete and accurate open
+content encyclopedia (in which it has been moderately successful). Wikipedia started in January 2001, and in September, 2007 had over 2 million articles in the English version. There are
+millions of articles in the international language versions. The English version uses both British and American conventions. open-content encyclopedia www.wikipedia.org multilingual Wikipedia
+was founded by , commonly known as , a former commodities trader and dot.com entrepreneur. It began as , more tightly controlled than Wikipedia and under the direction of employee , but
+was not a success in that . Participants were required to demonstrate their qualifications to edit articles, which sharply reduced participation. Wikipedia was begun as a far more open project,
+but remained under the direction of Sanger. With the collapse of the , Sanger was laid off as an employee, but continued to be intensely involved for about two years. He has gone on to create
+which emphasizes profession and academic expertise. Jimmy Wales Jimbo Nupedia Larry Sanger iteration dot.com bubble Citizendium is a created to manage Wikipedia and its affiliated
+projects, but not their free content, which remains under community control. Wikipedia is a , in that (with a few exceptions) it can be edited by anyone. It is, and uses the . exponent and the
+have articulated the usefulness of a "free universal encyclopedia". Wikimedia Foundation nonprofit corporation wiki open content copyleft GNU Free Documentation License Free software
+Richard Stallman Free Software Foundation The wide open nature of Wikipedia has resulted in extensive participation by contributors. This has many advantages and some drawbacks. The
+accuracy and objectiveness of some articles sometimes suffers, but participants argue that their experience has shown that over time these drawbacks will be reduced, as the quality and
+balance of individual articles improves. There is significant vandalism, as edits are sometimes made by those who have no intention of making useful contributions, but instead add nonsense
+like "fdghhjk", or other unencyclopedic content. The very nature of the project enables this activity but also works against it, as every contributor has the ability to undo, or "revert", such edits
+whenever they occur. If this becomes too much work, a page can sometimes be "protected", so that only the administrators can edit the particular page. However, this is not usually necessary.
+ Contents 8.1 References Wikipedia's Policies Wikipedia's participants commonly follow, and enforce, a few basic policies deemed essential to keeping the project running smoothly and
+productively. The following are just a few of those policies (more information is available on the Wikipedia site, see ). Wikipedia:Policies and guidelines "Users", or "editors", strive to write
+articles from a (NPOV), and are expected to make articles as unbiased as possible. Their aim is to fairly represent all significant views on a subject. A stated justification for this policy is that
+"there are a huge variety of participants of all from around the world.". See, on Wikipedia an explanation. Neutral point of view ideologies Wikipedia:neutral point of view A number of naming
+conventions are used to reduce confusion. Editors use "talk" pages to discuss changes to the text, rather than discussing the changes within the text itself. Concerns which seem to span many
+articles may require a more general treatment at various subject matter projects and policy talk pages. Wikipedia discourages a number of kinds of entries, because in Wikipedia's view they do
+not constitute encyclopedia articles. For example Wikipedia entries can not be merely dictionary definitions, links to other web sites or "creative" material which is outside the generally accepted
+
+See, on Wikipedia for an extensive explanation. (To solve this problem , a wiki dictionary, , a "creative material" wiki and have been created.) canon of knowledge what Wikipedia is not
+Wiktionary WikiBooks other projects There are a variety of rules proposed which have varying amounts of support within the Wikipedia community. One widely supported rule is: "If rules make
+you nervous and depressed, and not desirous of participating in the wiki, then ignore them entirely and go about your business." It is perhaps surprising, therefore, that the wiki is as
+well-disciplined and good-natured as it is. See, on Wikipedia, for extensive information. Wikipedia policies and guidelines Participation in Wikipedia Wikipedia has been built by thousands of
+volunteer scholars, hobbyists, students, and generally knowledgeable people from around the world who show up on the website. Seeing the activity and ease of article creation, they chose to
+donate some of their knowledge. The number of such participants has dramatically increased since Wikipedia's inception, and the number of highly educated participants is growing as well. It
+is possible to do productive research just on the interactions involved in creation of Wikipedia documents. Work by researchers at show of the evolution of Wikipedia artides. IBM
+http://researchweb.watson.ibm.com/history/index.htm history flow In contrast to Wikinfo, Wikipedia is more respectful towards individual languages as each language has its own Wikipedia,
+while Wikinfo is dominated by a single language (English). 22.66% of all the Wikipedia articles are written in English and 7.15% in German, while 98.14% of all Wikinfo articles are in English
+and 1.38% in German (in both projects the two largest languages). [Jas of July 2008 History See, on Wikipedia, for more. History of Wikipedia Software and hardware The particular version
+of wiki software that originally ran Wikipedia was , written by (""). Wikipedia was switched to new software, written especially for Wikipedia, using the , on January 25, 2002, the "Phase II
+Wikipedia software" also know as . After a while, the site started to slow down to an extent where editing became almost impossible; several rounds of modifications to the software provided
+only temporary relief. Then rewrote the software from scratch; the new version, a major improvement, has been running since July 2002 (""). has since taken the lead in fixing bugs and tuning
+the database for performance. UseModWiki Clifford Adams Phase I Wikipedia software PHP programming language Newcodebase Lee Daniel Crocker Phase III Wikipedia software Brion Vibber
+In 2003 the project ran on a single dedicated server, located in . The server was responsible for all of the language Wikipedias and the mailing lists. It was 2 dual CPU 1700+ with 2 of , running
+and the web server . Many more servers, located in several locations, are now online. San Diego Athlon GB RAM Red Hat Linux Apache Antecedents The idea to collect all of the world's
+knowledge within arm's reach under a single roof goes back to the ancient and . The in the middle ages, included many comprehensive works, and much development of what we now call , and
+
+Notable works include 's encyclopedia of science, the 's prolific output of 270 books, and 's medical encyclopedia, which was a standard reference work for centuries. Also notable are works of
+universal history (or sociology) from , ,, and , whose contains cautions regarding trust in written records that remain wholly applicable today. These people had an incalculable influence on
+methods of research and editing, due in part to the Islamic practice of which emphasized fidelity to written record, checking sources, and skeptical inquiry. Library of Alexandria Pergamon early
+Muslim compilations of knowledge scientific method historical method citation Fakhr al-Din Razi Mutazilite Al-Kindi Ibn Sina Asharites al-Tabri al-Masudi al-Athir Ibn Khaldun Mugadimmah isnah
+However, these works were rarely available to more than specialists: They were expensive, and written for those extending knowledge rather than (with some exceptions in medicine) using
+it. The modern idea of the general purpose widely distributed printed encyclopedia goes back to just a little before and the . Major university libraries can be seen as museums of monumental
+encyclopedic endeavors in various countries. Frequently found titles are the , the , the and . See for more information. Denis Diderot 18th century encyclopedists English Encyclop dia Britannica
+Spanish Enciclopedia Universal Illustrada German Meyer's KonversationslexikonBrockhaus encyclopedia The idea to use automated machinery beyond the to build a more useful encyclopedia
+can be traced to ' short story of a () and 's future vision of the microfilm based , (). An important milestone along this path is also 's (). With the development of the , many people attempted to
+develop on-line encyclopedia projects. See . printing press H. G. Wells World Brain 1937 Vannevar Bush Memex As We May Think 1945 Ted Nelson Project Xanadu 1960 Internet History of
+Intemet encyclopedia projects Similar projects Wikipedia is occasionally compared to other collaborative projects: - has a wider range and does not exclusively focus on building an
+encyclopedia; its contents are not available under a license. Everything2 copyleft - a collection of sometimes humorous encyclopedia articles, based on an idea from Douglas Adams's . Articles
+are also not freely modifiable. H2G2 The Hitchhiker's Guide to the Galaxy Wikinfo Larry Sanger's which emphasizes expertise. Citizendium Downloading the database The Wikipedia article
+database can be downloaded and utilized, within terms of the . See . GFDL Wikipedia:Database download See for a list of commonly used WP terms. See also: , , and Newspeak

@@ -1,0 +1,7 @@
+Misc No Comments  Solid state drives (SSDs) are the inevitable future of mobile computing, but a new experiment by Toms Hardware is extremely disappointing. It ends up that the touted
+power savings of SSDs over their moving-parts-laden cousins are truely nonexistent. In fact, SSDs are sucking more power than conventional hard drives. How is this possible? Tom's Hardware
+thinks they know. While moving hard drives have higher power requirements on paper, in reality, those peaks are only reached when random data is being searched out. On average, these
+drives have become very power efficient and rarely peak even when data is being accessed. SSDs, on the other hand, pretty much have an on mode and an off mode. That's it. So while
+you are using your hard drive, that mode is pretty much always going to be the on one. SSD manufacturers haven't focused on other power saving principles at this time. And until they do,
+dont expect things to get any better. Note: the benchmarks were all completed on the same Dell laptop. A 5400 RPM hard drive would have even lower power consumption than the 7200 RPM
+model tested. As for buying that new SSD for your notebook...We suggest you wait a bit longer.

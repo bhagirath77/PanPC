@@ -1,0 +1,47 @@
+New Zealand Magicz offers free registration of a domain name and pays for the internic fees, on the Special and Executive hosting accounts. to see if your domain name is available. A domain
+name pointer is a domain name which simply points to your account. In other words, domain name pointers allow you to have as many domain names point to your website as you wish. Below
+is an example of domain name pointing we use at Magicz: As you can see, both of the virtual domains above display the same hosting account. These are not two different accounts with two
+copies of the same website, but instead are two domains pointing to the same account. How it works is simply that both domain names above are pointing to the same IP address. There is a
+small one time setup fee for domain pointers, some accounts like the Special hosting account, recieve discounted domain pointing. Sub-domains allow you to create second-level domain
+names, taking the form of whatever.yourdomain.com. Each sub-domain has its own Document Root, where the files reside for that particular sub-domain. Just as a client's virtual domain has its
+files in the "public_html" directory, a sub-domain has a Document Root as well. The number of subdomains available depends on your hosting account. The personal control panel is a web
+utility which allows you to create dynamic features on your website. With the click of a few buttons, you can create FTP accounts, chatrooms, and e-commerce solutions etc. Disk space is the
+allotted amount of disk space on the server you are allowed to use. This space is used to store all files needed for your website, including HTML files, image files, CGI scripts, multimedia files,
+and any other files used for your website. The more disk space for future growth the better! Bandwidth is the amount of data, generally measured in Megabytes per month, that clients may
+transfer. Bandwidth includes any traffic originating from or going to their virtual server. A large part of this traffic is web traffic (website visitors) but can also be FTP (file uploads), Anonymous
+FTP (file downloads), and even e-mail services. Again, the more bandwidth allowed the better! Static IP addresses are numeric addresses that uniquely identify your virtual hosting account on
+the Internet. You can use your IP address update your website/collect email, even if your domain is not ready, or does not point to your hosting account. Not to be confused with basic mail
+forwarders, POP3 accounts come with their own distinct login and password and allow for the sending and retrieving of e-mail from the same account. Most organizations assign each employee
+their own POP3 e-mail account. E-mail autoresponders, also known as autobots, automatically reply to all incoming messages to a specific e-mail address with a pre-defined message.
+Pre-defined messages can be in plain text or HTML enhanced. E-mail forwarders are accounts which simply forward e-mail to a pre-designated e-mail address. E-mail sent to separate POP3
+mail accounts end up in a single location; mail forwards are quite popular. Mailing List Manager is a simple to use mailing list administrative application. It supports multiple mailing lists and
+automatic addition and removal of subscribers to specific lists. Unlike most other hosting companies, Magicz allows clients to maintain more than one FTP account for the purposes of group
+participation on the construction or maintenence of a website. Clients can create additional FTP accounts in real-time, set the startup directory on such users, and delete extra accounts
+automatically. Anonymous FTP allows dlients to take advantage of the FTP protocol for visitors to their website needing to download large files without a login or password for each visitor.
+Anonymous FTP can be installed and uninstalled automatically. Telnet is a remote service which allows users to log into the server and administer their website using a variety of system calls
+and executables. Telnet is an extremely powerful tool for website administration. SSH is a remote service which allows users to log into the server and administer their website using a variety of
+system calls and executables. SSH is an extremly powerful tool for website administration, and unlike Telnet, SSH is a secure method of working in a shell environment due to the high level of
+encryption used. Text based counters are just basic counters which display the number of times a particular webpage has been accessed. Reliant on Server-Side Includes, these counters are
+not very configurable. Graphical counters are just counters with a graphical interface, allowing clients to pick and choose what digit style to use for the counter. These type of counters are more
+popular and can be heavily configured. Microsoft's FrontPage 2000 is a client/server combination application which allows clients to create dynamic websites on their virtual server quickly and
+easily without any programming knowledge. ColdFusion is the industry's leading cross-platform web application server. With ColdFusion, Web developers can quickly develop and deliver a new
+generation of large-volume, transaction-intensive web applications for everything from e-commerce to business automation and more. Allaire's ColdFusion can also interface with databases
+offered by Magicz to make an outstanding, database-driven web application. E-Commerce solutions include everything from a Secure Sockets Layer (SSL) needed to transmit secure information
+to a shopping cart solution to credit card processing and merchant accounts. Magicz provides this different "e-commerce solutions" on difference hosting accounts. Secure Sockets Layer is a
+protocol which encrypts all data communicated between client/server to ensure there can be no intercepts of the data by third parties and ensures that communication is between the intended
+parties. Perl, or Practical Extraction Recursive Language, has become one of the most popular server-side scripting languages available today. Perl is used in a wide variety of applications, and
+is commonly used for website applications. Magicz maintains the latest version of Perl on all webservers and has installed commonly requested Per! modules. Magicz fully supports Server Side
+Indudes, which allow you to instruct the webserver to perform some operation to a static HTML page before sending it to the client. Server Side Includes can be used in plain HTML files as well
+as the specificed .shtmI file extension. In compliance with the ever-changing needs of a web developer, Magicz now offers PHP4. Clients can now take advantage of PHP4 along with the previous
+version of PHP3. Active Server Pages is Microsoft's very popular alternative to CGI scripting languages, such as Perl or PHP3 for the Windows NT platform. ASP is available on all Windows NT
+virtual server accounts. ASP can be written in a variety of languages, including VBScript, JScript, and PerlScript, so if you've ever programmed in Visual Basic, Java, or Perl, you already know
+how to program Active Server Pages. Create custom error pages on your virtual server. Through your Personal Control Panel, you can specify custom HTML documents to be displayed when an
+error is encountered with your website. Such errors include Internal Server Errors, File Not Found, Unauthorized, and more. Chat applications allow you to conduct real-time communication with
+visitors on your website. Clients can setup chat applications on their site through the control panel. On our Windows account, your domains can use any ODBC compliant database such as
+Microsoft Access or Microsoft Excel. ODBC data sources can be installed instantly on your control panel. MySQL is a true multi-user, multi-threaded SQL database server. SQL is the most
+popular database language in the world. MySQL is a client/server implementation that consists of a server daemon, mysqld, and many different client programs and libraries. Magicz maintains a
+hosting server solution from Real Networks on its webserver. Unlike other webhosting providers who claim to offer G2 technology, we use the RTSP protocol, not the standard HTTP protocol for
+delivery of real audio/video. Real Networks' G2 standard has become an extremely popular standard for streaming audio/video content. Magicz will submit your site to over 50 of the world's
+most popular internet search engines. We also provide clients with the possibility of submitting their site to specific search engines through the their Control Panel. MP3, or MPEG Layer-3 is a
+format which stores audio files on a computer in such a way that the file size is relatively small, but the audio sounds near perfect. MP3s are very popular file formats for encoding CD quality
+music for distribution. Magicz fully supports the MP3 standard for virtual server clients. Free .com Domain Name

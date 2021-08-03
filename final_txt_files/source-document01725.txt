@@ -1,0 +1,13 @@
+Welcome to Earth and Moon Viewer. Viewing the Earth You can view either a showing the day and night regions at this moment, or view the Earth from the , the , the of the Earth, above any
+location on the planet specified by , from a, or above around the globe. map of the Earth Sun Moon night side latitude, longitude and altitude satellite in Earth orbit various cities Images can
+be generated based on a full-colour by day and night, a of the Earth, up-to-date , or a of cloud cover superimposed on a map of the Earth, a which shows clouds, land and sea temperatures,
+and ice, or the global distribution of . allows you additional control over the generation of the image. You can compose a with frequently-used parameters and save it as a hotlist or bookmark
+item in your browser. Please consult the for additional information and answers to frequently-asked questions. image of the Earth topographical map weather satellite imagery composite image
+colour composite water vapour Expert mode custom request Details Viewing the Moon In addition to the Earth, you can also view the Moon from the , , , above on the lunar surface. or as a
+You can also make and images of the Moon. A related document compares the appearance of the Moon , including an interactive . Earth Sun night side named formations map showing day and
+night expert custom at petigee and apogee Perigee and Apogee Calculator Browser Requirements To use the Earth and Moon Viewer, you need a graphical Web browser with forms support and
+the ability to display GIF and JPEG images. In order to pan around the map or globe by clicking within the image, your browser must support "Client-Side Image Maps"if you don't know what
+this means, don't worry: if your browser doesn't support the feature, you'll see a page which explains how to proceed. The Earth and Moon Viewer would have been enormously more difficult
+to implement without the help of the software and imagery mentioned in the . credits Related Software on this Site Windows users can create images like this in real time, on their own
+machines, as well as view the sky, stars at the horizon, the solar system, orbits of asteroids and comets, and more with , my public domain Earth/Space/Sky simulator available for your
+pleasure. Other public domain astronomy and space software available from the same site includes: Home Planet downloading On the Web:

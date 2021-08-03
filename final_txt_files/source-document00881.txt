@@ -1,0 +1,140 @@
+arrStock = new Array(1 ); for (i = 0; i < arrStock.length; ++i) { arrStock [i] = new Array(31); }
+[[peseee sees eee seensaseeeseeteseenseaaesesaeetaaessaeeses tees eeeesaeesseetsees //This string isa list of all the stock options
+
+[et eeet eases eae nine ceee nes neesesaeesee sees tees tees ssaeeseesee sees seesees arrstock [0] [0] = "5985"; arrStock [0] [1] = "919"; arrStock [0] [2] = "2"; arrStock [0]
+[3] = "4"; arrStock [0] [4] = "None"; arrStock [0] [5] = "55"; arrStock [0] [6] = "None"; arrStock [0] [7] = "0"; arrStock [0] [8] = ""; arrStock [0] [9] = "0"; arrStock [0] [10] = ""; arrStock
+[0] [11] = "0"; arrStock [0] [12] = ""; arrStock [0] [13] = "0"; arrStock [0] [14] = ""; arrStock [0] [15] = "0"; arrStock [0] [16] = ""; arrStock [0] [17] = "0"; arrStock [0] [18] = ""; arrStock
+[0] [19] = "0"; arrStock [0] [20] = ""; arrStock [0] [21] = "206"; arrStock [0] [22] = "None"; arrStock [0] [23] = "70"; arrStock [0] [24] = "None"; arrStock [0] [25] = "0"; arrStock [0] [26]
+""; arrStock [0] [27] = "ACIS017"; arrStock [0] [28] = ""; arrStock [0] [29] = ""; arrStock [0] [30] = ""; arrStock [0] [31] = ""; arrStock [0] [32] = ""; arrStock [0] [33] = ""; arrStock [0]
+
+[34] ="; arrStock [0] [25] ="; //"222 sees weet eee eee tees eee sate sssaaee tenesaansgss ees ste saseeeseseeseereseese //Store product Type
+
+ 
+
+       
+
+ 
+
+[Hoesen eens eae esas saaaesss neste ssaeesseeeeeees yar ProductTypelD = 15;
+[Coe eeeee ee coe aaeeaa eee ne aaeesas eee ee saaeesas neste saeesseseeesees // Store No OF Dropdowns
+
+[Co eeeeee eee coe eeee eee oe saaaeesa eee to saaaeess ees tee ssaaesss esses yar NoOfDropDowns = 0; switch(ProductTypelD) { case 7:case 10:case 12:case 14:
+NoOfpropDowns = 2; break; case 5: NoOfDropDowns = 5; break; case 6:case 11: NoOfDropDowns = 3; break; case 9: NoOfDropDowns = 1; break; case 13: NoOfDropDowns = 0; break;
+
+case 15: NoOfDropDowns = 0; break; case 16: NoOfDropDowns = 2; break; case 17: NoOfDropDowns = 3; break; default: NoOfDropDowns = 4; } //alert(ProductTypeID);
+[PE On EE So oe ne aon | poeeet eae sai noe anes nee nest esit ste nner teeseessesresst are eee |] The
+
+   
+
+     
+
+NEW WAY STARTS //*tt tthe tees teeteetest ste teneeteesstestesee see steetieeess testes este
+[eee eee eee nee eats see ene nee neetesae sae sities //eanestesae sae snes tens tnes tes teseesee see tees eee eees eeee saan See SEE EEE yay
+Drop Value = 0; var Drop2Value = 0; var Drop3Value = 0; var Drop4Value = 0; var DropSValue = 0; var DropiPosition = 0; var Drop2Position = 0; var Drop3Position = 0; var Drop4Positior
+0; var DropSPosition = 0; function BuildFirstDropDown() { var iDropDownNo = 0; var iArrayIDPos = 0; var iNextDropDownNo = 0; switch(ProductTypelD) { case 1:case 6: iDropDownNo = 1;
+iarrayIDPos = 3; iNextArrayIDPos = 5; iNextDropDownNo = 2; break; case 2:case 3:case 4:case 5: iDropDownNo = 1; iArrayIDPos = 3; iNextArrayIDPos = 13; iNextDropDownNo = 2; break;
+case 7: iDropDownNo = 1; iArrayIDPos = 3; iNextArrayIDPos = 17; iNextDropDownNo = 2; break; case 8: iDropDownNo = 1; iArrayIDPos = 3; iNextArrayIDPos = 19; iNextDropDownNo
+break; case 9: iDropDownNo = 1; iArrayIDPos = 21; iNextDropDownNo = 1; break; case 10: iDropDownNo = 1; iArrayIDPos = 3; iNextArrayIDPos = 21; iNextDropDownNo = 2; break; case
+11: iDropDownNo = 1; iArrayIDPos = 23; iNextArraylDPos = 21; iNextDropDownNo = 2; break; case 14: iDropDownNo = 1; iArrayIDPos = 23; iNextArrayIDPos = 21; iNextDropDownNo = 2;
+break; case 12: iDropDownNo = 1; iArrayIDPos = 3; iNextArrayIDPos = 23; iNextDropDownNo = 2; break; case 15: iDropDownNo = 1; iArrayIDPos = 0; iNextArrayIDPos = 0;
+iNextDropDownNo = 0; break; case 16: iDropDownNo = 1; iArrayIDPos = 28; iNextArrayIDPos = 30; iNextDropDownNo = 2; break; case 17: iDropDownNo = 1; iArrayIDPos = 32;
+iNextarrayIDPos = 34; iNextDropDownNo = 2; break; default: //Do Nothing } var iOption = 1; var objDropDown = eval("document.forms['product_infoForm'].option" + iDropDownNo);
+eval("Drop" + iDropDownNo + "Position= " + iArraylDPos); eval("Drop" + iDropDownNo + "Value= objDropDown. value"); if (arrStock.length > 0) { //Build Dropdown
+
+eval("objDropDown. options[0] = new Option( please select,")"); var sTempText; for (vari = 0; i < 1; ++i) { //Ignore any single quotes sTempText = arrStock [i][iArrayIDPos +
+L.replace(/\'/a,"\\\"); if (Addo ption (iDropDownNo, arrStock [i][iArrayIDPos]) == true) { eval("objDropDown. options[" + iOption + "] = new Option(" + sTempText +," + arrStock
+[i][iArrayIDPos] + ")"); iOption = ioption + 1; } } //End For Loop } //End IF //If just one item (and the please select) then make that one selected if (objDropDown.length == 2) { //Now we
+need to automatically get the next dropdown objDropDown.selectedindex = 1; objDropDown.style.display = "none"; //There are single quotes in the dropdown values. //Need to tidy them up
+sTempText = objDropDown.options[objDropDown.selectedindex].text; sTempText = sTempText.replace(/\'/g,"\\\") ; eval("document.getlement8yId('spanOption1').innerHTML= " +
+sTempText + ""); eval("document.getElementById('spanOption1').style.display = inline"); try{ objDropDown.onchange(); }catch(e) {} } if (iNextDropDownNo <= NoOfDropDowns) {
+CheckifitsInStock(iNextDropDownNo); } } function toggle(){ var style2 = document.getElementBy!d("goh").style; alert(style2) style2.display = "block"; } function
+BuildDropDown(iDropDownNo, iArrayIDPos, iNextArrayIDPos) { try{ var iOption = 1; var objDropDown = eval("document.forms|'product_infoForm'].option + iDropDownNo); //
+alert(objDropDown. value) if (objDropDown. value != ""){ var iNextDropDownNo = iDropDownNo + 1 var objNextDropDown = eval("document.forms['product_infoForm'].option" +
+iNextDropDownNo); switch(iDropDownNo) { case 1: ClearDropDown(2); ClearDropDown(3); ClearDropDown(4); ClearDropDown(5); case 2: ClearDropDown(3); ClearDropDown(4);
+ClearDropDown(5); case 3: ClearDropDown(4); ClearDropDown(5); case 4: ClearDropDown(5); break; default: //Do Nothing } eval("Drop" + iDropDownNo + "Position= "+ iArrayDPos);
+eval("Drop" + iDropDownNo + "Value= objDropDown.value"); //alert(Drop1Value + "=" + Drop1Position + "\n" + Drop2Value + "=" + Drop2Position + "\n" + Drop3Value + "=" + Drop3Position
++"\n" + Drop4Value + "-" + Drop4Position + "\n" + DropSvalue + "-" + DropSPosition + "\n" ); if (arrStock.length > 0) { objNextDropDown.options[0] = new Option('please select',"); //var
+style2 = document.getElementById(""spanOption" + iNextDropDownNo).style; //alert("span" + iNextDropDownNo) //style2.display = "block"; //Build DropDown
+eval("objNextDropDown.options[0] = new Option('please select',")"); var sTempText; for (var i = 0; i < 1; ++i) { //Ignore any single quotes sTempText = arrStock [i][iNextArrayIDPos +
+L.replace(/\'/a,"\\\"); if (AddOption (iDropDownNo +1, arrStock [i][iNextArrayIDPos], iNextArrayIDPos) == true) { eval("objNextDropDown.options[" + iOption + "] = new Option(TM +
+sTempText +",'" + arrStock [iJ[iNextArrayIDPos] + ")"); iOption = iOption + 1; //alert(iNextArrayIDPos) } } //End For Loop } //End IF CheckifitsInStock(iNextDropDownNo); }else{
+/Jalert("HERE") //BuildFirstDropDown() } }catch(e) {} } function CheckIfitsInStock(iNextDropDownNo) { var objDropDown = eval("document.forms['product_infoForm'].option" +
+iNextDropDownNo); var dropItems = objDropDown. length; //var iPrevDropDownNo = iNextDropDownNo - 1; //alert(dropItems) //If just one item remove other drop downs if (dropltems
+{ /JNow recursivly hide all drop downs because no items in dropdowns //And display no optons available text for (i=iNextDropDownNo; i < 5; i++) { if
+(eval("document.getElementBy!d('spanOption" + i + ")") != null) { eval("document.getElementById(option" + i + ").style.display = 'none""); eval("document. getElementByld(spanOption" + i
++").innerHTML= 'No Options available'"); eval("document.getElementByld(spanOption" + i + ").style.display = inline'"); } } //Not in stock therefore; //1) Change In Stock text //2) Disabled
+Quantity button document.getElementById("stock_level").innerHTML= "OUT OF STOCK"; document.getElementById("spanOutofStockImage").style.display = "inline";
+document.getelementByld("spanAddToBasket").style.display = "none"; document. getElementById(""spanQuantity").style.display = "none"; //
+document.getelementByld(("spanAvailability").style.display = "none"; //document. getElementByld ("spanNoAvailability").style.display = "inline";
+document.getElementByld("prod_quantity").disabled = true; } else { document.getElementBy!d(""stock_level").innerHTML= "";
+document.getElementByld("spanOutofStockImage").style.display = "none"; document.getElement8yId("spanAddToBasket").style.display
+document.getelementByld("spanQuantity").style.display = "inline"; //document.getlement8yId("spanAvailability").style.display = "inline";
+
+//document.getElementById( "spanNoAvailability").style.display = "none"; document.getElementById("prod_quantity").disabled = false; } //If just one item (the "please select") then make that
+one selected if (dropitems == 2) { //Now we need to automatically get the next dropdown objDropDown.selectedIndex = 1; objDropDown.style.display = "none";
+eval("document.getElementById(span Option" + iNextDropDownNo + ").innerHTML= TM + objDropDown.options[objDropDown.selectedindex].text + "");
+eval("document.getElementById(span Option" + iNextDropDownNo + ").style.display = inline'"); try{ objDropDown.onchange(); }catch(e) {} } if (dropItems > 2) { objDropDown.style.display
+inline"; eval("document.getlementByld('spanOption" + iNextDropDownNo + ").style.display = none"); } } var stock _level function GetStockID(iDropDownNo, iArraylDPos) { var binMatch
+alse; //If -1 is passed that is to indicate that there are NO options for this product. //All Options have been set to "none" //But there will be one Stock line with Stock sku and stock level.
+//MWe still need to check this for stock level if (iDropDownNo == -1) { for (vari = 0; i < 1; ++i) { if (parseFloat(arrStock [i][2]) > parseFloat(0)) {
+document.forms['product_infoForm'].stock_id.value = arrStock [i][0] binMatch = true; stock _level=arrStock [i][2] } } } else { var objDropDown =
+eval("document.forms['product_infoForm'].option" + iDropDownNo); eval("Drop" + iDropDownNo + "Value = objDropDown.options[objDropDown.selectedIndex].value"); eval("Drop" +
+iDropDownNo + "Position = iArrayIDPos "); // if (objDropDown.value != ""){ for (vari = 0; i < 1; ++i) { switch(NoOfDropDowns) { case 1: if ( (parseFloat(arrStock [i][2]) > parseFloat(0)) &&
+(arrStock [i][Drop 1Position] == Dropivalue) ) { document.forms['product_infoForm'].stock_id.value = arrStock [i][0] //document.getElementBy!d("'strcheckStock").innerHTML= "In Stock";
+//document.getElementById("prod_quantity").disabled = false; binMatch = true; stock_level=arrStock [i][2] } break; case 2: if ( (parseFloat(arrStock [i][2]) > parseFloat(0)) && (arrStock
+[i][Drop1Position] == Drop 1Value) && (arrStock [i][Drop2Position] == Drop2Value) ) { document. forms['product_infoForm'].stock_id.value = arrStock [i][0]
+//document.getElementById("strCheckStock").innerHTML= "In Stock"; //document.getElementByld("prod_quantity").disabled = false; binMatch = true; stock_level=arrStock [i][2] } break;
+case 3: if ( (parseFloat(arrStock [i][2]) > parseFloat(0)) && (arrStock [i][Drop1Position] == Drop1 Value) && (arrStock [i][Drop2Position] == Drop2Value) && (arrStock [i][Drop3Position] ==
+Drop3Value) ) { document.formsf' product_infoForm'].stock_id.value = arrStock [i][0] //document.getElementById("strCheckStock").innerHTML= "In Stock";
+//document.getElementById("prod_quantity").disabled = false; binMatch = true; stock_level=arrStock [i][2] } break; case 4: if ( (parseFloat(arrStock [iJ[2]) > parseFloat(0) ) && (arrStock
+[i][Drop1Position] == Drop1Value) && (arrStock [i][Drop2Position] == Drop2Value) && (arrStock [i][Drop3Position] == Drop3Value) && (arrStock [i][Drop4Position] == Drop4Value) ) {
+document.forms['product_infoForm'].stock_id.value = arrStock [i][0] //document.getElementById("strCheckStock").innerHTML= "In Stock";
+//document.getElementById("prod_quantity").disabled = false; binMatch = true; stock_level=arrStock [i][2] } break; case 5: if ( (parseFloat(arrStock [i][2]) > parseFloat(0)) && (arrStock
+[i][Drop1Position] == Drop1Value) && (arrStock [i][Drop2Position] == Drop2Value) && (arrStock [i][Drop3Position] == Drop3Value) && (arrStock [i][Drop4Position] == Drop4Value) &&
+(arrStock [i][Drop 5Position] == DropSValue) ) { document.forms['product_infoForm'].stock_id.value = arrSto Loyalty Scheme
+
+ 
+
+     
+
+      
+
+      
+
+         
+
+       
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+inline",

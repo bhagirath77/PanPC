@@ -1,0 +1,19 @@
+Please click on Description tab High-efficiency photovoltaic module using silicon nitride multicrystalline silicon cells. Rated power (Pmax): 200 Watts Power Tolerance: +- 9% Nominal voltage:
+16V Limited Warranty: 25 years B Bronze frame with output cables and polarized Multicontact (MC) connectors Maximum power (Pmax): 200 Watts Voltage at Pmax: 24.5 Volts Current at
+Pmax: 8.16 Amps Warranted minimum Pmax: 182.0 Watts Short-circuit current (Isc): 8.7 Amps Open-circuit voltage (Voc): 30.8 Volts Temperature coefficient of Isc: (0.065 +-0.015)9%/C
+Temperature coefficient of Voc: -(111+-10)mV/C Temperature coefficient of power: -(0.5+-0.05)%/C NOCT (Air 20C Sun 0.8kW/m sq, wind 1m/s): 47 +-2C Maximum Series fuse rating: 15a
+Maximum system voltage: 600 V(US NEC rating) Dimensions: 66.14" x 32.95" x 1.97" / 1680 x 837 x 50 mm Weight: 33.95 pounds / 15.4kg Solar Cells: 50 cells (156 x 156 mm) in a 5x10
+matrix connected in series Output Cables: RHW-2 AWG #12 (4mm2) cable with polarized weatherproof DC rated Multicontact connectors; asymmetrical lengths-1250mm (-) and 800mm (+)
+Diodes: IntegraBus' technology includes Schottky by-pass diodes integrated into the printed circuit board bus Construction: Front: High-tranmission 1/8" (3mm) tempered glass; Back: white or
+Black Tedlar; Encapsulant: EVA Frame: 8 Anodized aluminum alloy type 6063T6 Universal frame; Color: Bronze ESTI Module power measurements calibrated to World Radiometric Reference
+through ESTI (European Solar Test Installation at Ispra, Italy); Certified to IEC 61215 UL Listing by Underwriters Laboratories for electrical and fire safety (Class C fire rating) BP Solar Sx
+
+ 
+
+ 
+
+ 
+
+ 
+
+3200B, 200 Watt 16 Volt nominal PV Module Performance

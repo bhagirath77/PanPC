@@ -1,0 +1,7 @@
+Contacts FAQ: Why was IN-SPIRETM developed? By the mid 1990s, the information age was burying information analysts in data. Analysts had access to more data than ever before, but
+lacked the tools to process and assimilate the overwhelming volume and diversity of the information. Most of the information was in textual form, but in different styles, for various purposes
+that could not be reliably processed for information content. Researchers at Pacific Northwest National Laboratory began to explore whether a computer program could be developed to quickly
+and automatically convey the thematic content of large sets of unformatted text documents. The goal was to provide technology that enables analysts to spend quality time doing real
+information exploration by shifting workload from processing data to analysis. The initial research project was the basis for Information Visualization program area. The SPIRE (Spatial
+Paradigm for Information Retrieval and Exploration) application was one of its first software products, for the Unix platform. IN-SPIRE is for personal computers running the Windows operating
+system.

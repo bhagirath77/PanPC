@@ -1,0 +1,16 @@
+Printable Version PV Performance: Modules We provide brief overviews of how to rate PV module performance and how to measure PV system reliability. PV Module Performance Ratings The
+peak watt (W) rating is determined by measuring the maximum power of a PV module under laboratory conditions of relatively high light level, favorable air mass, and low cell temperature. But
+these conditions are not typical in the real world. Therefore, we may use a different procedure, known as the NOCTor normal operating cell temperaturerating. In this procedure, the module
+first equilibrates with a specified ambient temperature so that maximum power is measured at a nominal operating cell temperature. This NOCT rating results in a lower watt value than the
+peak-watt rating, but it is probably more realistic.p Neither of these methods is designed to indicate the performance of a solar module under realistic operating conditions. Another technique,
+the AMPM Standard, involves considering the whole day rather than "peak" sunshine hours. This standard, which seeks to address the practical user's needs, is based on the description of a
+standard solar global-average day (or a practical global average) in terms of light levels, ambient temperature, and air mass. Solar arrays are designed to provide specified amounts of
+electricity under certain conditions. The following factors are usually considered when determining array performance: characterization of solar cell electrical performance, determination of
+degradation factors related to array design and assembly, conversion of environmental considerations into solar cell operating temperatures, and calculation of array power output capability.
+The amount of electricity required may be defined by any one, or a combination, of the following performance criteria: . Power (watts) available at the power regulator, specified either as peak
+power or average power produced during one day.Power output . The energy (watt-hour or Wh) output. This indicates the amount of energy produced during a certain period of time. The
+parameters are output per unit of array area (Wh/m), output per unit of array mass (Wh/kg), and output per unit of array cost (Wh/$).Energy output2 . This parameter is defined as "energy
+output from array" / "energy input from sun" x 100%.Conversion efficiency This last parameter is often given as a power efficiency, equal to "power output from array" / "power input from
+sun" x 100%. Power is typically given in units of watts (W), and energy is typical in units of watt-hours (Wh). To ensure the consistency and quality of photovoltaic systems and increase
+consumer confidence in system performance, various groups such as the Institute of Electrical and Electronics Engineers (IEEE) and the American Society for Testing and Materials (ASTM) are
+working on standards and performance criteria for PV systems. To learn more about PV physics, see:

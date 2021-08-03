@@ -1,0 +1,5 @@
+Netbook Price Comparison Guide When I was writing an earlier article, I needed to know the street prices of various netbooks. I spent lots of time going to different places to find the best
+price. By the time I was done, some of the prices had changed. I thought, there must be a better way to find the best price. So, I built our . Netbook Price Comparison Guide This can be
+accessed from any page on the site by clicking on the Compare Prices link on the right side of the header. Here is a sample: I been rather silent on my blog as I put this together, but I think
+it adds value for those looking to make a purchase. This is still very much a work in progress. If you have ideas on how to make this more useful, please take a moment and add a comment.
+Posted in: , Netbook Market Site-related August 2008 Leave a Reply Mail (will not be published) Website

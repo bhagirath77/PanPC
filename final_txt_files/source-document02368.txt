@@ -1,0 +1,7 @@
+Nachum Dafny, Ph.D. . The adult human brain weighs between 1,200 to 1,500 g and contains about one trillion cells. It occupies a volume of about 1400 cc - approximately 2% of the total
+body weight, and receives 20% of the blood, oxygen, and calories supplied to the body. The adult spinal cord is approximately 40 to 50 cm long and occupies about 150 cc. The brain and the
+spinal cord arise in early development from the neural tube, which expands in the front of the embryo to form the three primary brain divisions: the (forebrain), mesencephalon (midbrain), and
+(hindbrain) (Figure 1.14). These three vesicles further differentiate into five subdivisions: telencephalon, diencephalon, mesencephalon, metencephalon, and the myelencephalon (Figure 1.18).
+The mesencephalon, metencephalon, and the myelencephalon comprise the . The human nervous system is divided into the central nervous system (CNS) and the peripheral nervous system
+(PNS). The CNS, in tum, is divided into the brain and the spinal cord, which lie in the cranial cavity of the skull and the vertebral canal, respectively. The CNS and the PNS, acting in concert,
+integrate sensory information and control motor and cognitive functions. The Central Nervous System (CNS)

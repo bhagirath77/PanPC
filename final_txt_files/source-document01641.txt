@@ -1,0 +1,6 @@
+Numerically Intensive Routines and Operations Simulation, Emulation and Computer Aided Engineering Data Analysis and Reduction Automatic Test Systems for Production/Quality Control
+Environments Embedded Processors for RF, Communications and Instrumentation Supervisory, Control and Data Acquisition Encryption Authorized Design Consultant, Microchip Technology
+(Microcontrollers) Software Languages BASIC (PowerBasic, Visual BASIC, etc.) FORTRAN Other languages are supported, such as PASCAL, C, Java, etc., but are not utilized on a regular
+basis. NOTICE: All information on this site is copyright property of Myers Engineering Intemational, Inc. Any and all information herein contained may not be used for other than its
+intended informational purpose, or in any manner detrimental to MEI. (C) 1996-2001, 2006 by Myers Engineering International, Inc. Send your comments or suggestions for improving this site
+to Webmaster. Template Designed By:

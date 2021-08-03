@@ -1,0 +1,73 @@
+Frequently Asked Questions Do I really make a difference by playing FreeRice? The rice you donate makes a huge difference to the person who receives it. According to the United Nations,
+about 25,000 people die each day from hunger or hunger-related causes, most of them children. Though 20 grains of rice may seem like a small amount, it is important to remember that while
+you are playing, so are thousands of other people at the same time. It is everyone together that makes the difference. Thanks to you, FreeRice has generated enough rice to feed more than
+two million people since it started in October 2007. How does playing the vocabulary game at FreeRice help me? Learning new vocabulary has tremendous benefits. It can help you:
+Formulate your ideas better Write better papers, emails and business letters Speak more precisely and persuasively Comprehend more of what you read Read faster because you
+comprehend better Get better grades in high school, college and graduate school Score higher on tests like the SAT, GRE, LSAT and GMAT Perform better at job interviews and conferences
+Sell yourself, your services, and your products better Be more effective and successful at your job After you have done FreeRice for a while, you may notice an odd phenomenon. Words that
+you have never consciously used before will begin to pop into your head while you are speaking or writing. You will yourself using and knowing more words.feel How do I do other subjects
+besides vocabulary at FreeRice? Click on the link near the top right of the page to see a list of all subjects available at FreeRice. There is math, science, geography, art history, other languages
+and more. FreeRice is working to add more subjects and more material within each subject. Our goal is to provide knowledge that is useful and interesting for you. Subjects Why do I see some
+questions repeated? Whenever you get a question wrong, FreeRice will repeat it a few tums later to give you a second chance at it. Who pays for the donated rice? The rice is paid for by the
+sponsors whose names you see on the bottom of your screen when you enter a correct answer. These sponsors support both leaming (free education for everyone) and reducing hunger (free
+rice for the hungry). We thank these sponsors for their generous participation at FreeRice. For information about how you or your company can sponsor FreeRice, please email
+freerice.rep@wfp.org How do I start playing FreeRice? In the middle of the FreeRice Home page you will see something like: means:small little old big yellow To play the game, click on one
+of the four definitions (little, old, big, or "yellow") that you think is correct. If you get it right, FreeRice donates 20 grains of rice to help end hunger. In the example above, you would want
+to dick on little, which means small. You will then get a chance to do another word the same way. You can play as long as you like and donate as much rice as you like. When you are
+finished, you do not have to do anythingyour donation is already counted. How does the FreeRice program work? FreeRice has a custom database containing knowledge questions at varying
+levels of difficulty. There are levels appropriate for beginners and levels that will challenge the most scholarly professors. In between are levels suitable for students of all ages, business people,
+homemakers, doctors, truck drivers, retired people& everyone! FreeRice automatically adjusts to your level. It starts by giving you questions of increasing difficulty and then, based on how you
+do, assigns you an approximate starting level. You then determine a more exact level for yourself as you play. When you get a question wrong, you go to an easier level. When you get three
+questions in a row right, you go to a harder level. This one-to-three ratio is best for keeping you at the outer fringe of your skills, where learning can take place. How is the difficulty level
+determined? The program keeps track of how many people get each question right or wrong, and then adjusts each question(s difficulty level accordingly. So the questions at the easiest
+levels are the ones that people most often get right. The questions at the hardest levels are the ones that people most often get wrong. As more and more people have played the game, these
+levels have become increasingly more accurate. What is the Options page? On the page you can set FreeRice to remember how much total rice you have donated for the next time you play.
+Instructions are given at the bottom of that page. Options What happens if my computer suddenly loses power while I am in the middle of playing? Does my donation still count? Yes, once
+your screen says that you have donated a certain amount of rice, that means our servers have registered it. For example, suppose your screen says that you have donated 120 grains of rice. If
+your computer then suddenly loses power, or you close your browser, or you click to go somewhere else, your donation has already been counted. How do I hear a word pronounced? To hear
+one of the vocabulary words pronounced out loud, click on the speaker symbol to the right of the word. Speech over the Internet is not an exact science and there are a number of things you
+can check if you do not hear the word pronounced. Check that your computer has speakers, that the volume is turned up and not on mute, and that you have Flash installed (most computers
+do). Also, some recently added words may not have their pronunciations done yet. The pronunciations are very kindly provided by , a non-profit organization that tutors vocabulary and spelling
+online. eSpindle.org Where does FreeRice get the word definitions from? The word definitions for English vocabulary come from a wide variety of sources including dictionaries, thesauruses
+and books of synonyms. Each definition is double-checked and edited for accuracy. There are 60 levels of vocabulary with over 12,000 words in all, but it is rare for people to get above level 50
+@ How do you track the answers and rice donated for each person? When you click on your choice for the answer, this information is sent to one of our servers via a regular HTML form. This
+form is then processed by the server using the PHP programming language, which then figures out if you got the answer correct and, if so, adds to both your personal rice total and the overall
+rice total. It then sends back an HTML page with new words and your new total as part of the next form. If FreeRice has the rice to give, why not give it all away right now? FreeRice is not
+sitting on a pile of riceyou are earning it 20 grains at a time. Here is how it works. When you play the game, sponsor banners appear on the bottom of your screen. The money generated by
+these banners is then used to buy the rice. So by playing, you generate the money that pays for the rice donated to hungry people. Couldnt I just write a computer program to play all day and
+give a lot of rice that way? There are two problems with this. First, it overloads our servers so that real people canLIt play and learn. Second, without real people playing and the resulting
+company sponsorship, no money would be generated and we could not give any rice at all. Does FreeRice make any money from doing this? Is FreeRice a non-profit organization? FreeRice
+does not make any money from this. FreeRice is simply a website committed to the cause of ending hunger around the world. While it is not a registered non-profit organization, FreeRice is run
+entirely for free and at no profit. All money (100%) raised by the site goes to the UN World Food Program to help feed the hungry. Sponsors make all payments to the UN World Food Program
+directly. Can you tell me more about the Berkman Center for Internet & Society at Harvard University? FreeRice is pleased to have the Berkman Center for Intemet & Society at Harvard
+University as our partner. Founded over ten years ago, the Berkman Center is a network of faculty, students, fellows and members of an extended community. In their own words, We envision a
+growing opportunity to use Internet technologies to improve the ways that we teach, lear, and make information accessible to citizens around the world. Besides helping FreeRice to provide
+you with the best possible educational content, the Berkman Center has the talent and resources to help FreeRice develop in other areas as well. Please visit the Berkman Center for Internet &
+Society at Harvard University . here Can you tell me more about the UN World Food Program (WFP)? FreeRice is also pleased to have the United Nations World Food Program (WFP) as our
+partner. WFP distributes all of the rice that you donate to help fight hunger. As the worldCls largest food aid agency, WFP works closely with many other organizations in over 75 countries. In
+addition to providing food, WFP helps hungry people to become self-reliant so that they escape hunger for good. Wherever possible, WFP buys food locally to support local farmers and the local
+community. Please visit the WFP website to lear more at . www.wfp.org_ In what countries does the UN World Food Program (WFP) distribute the rice? The UN World Food Program (WFP)
+works around the globe and FreeRice donations are made with no restrictions. This freedom of use allows WFP to apply the donations to countries that need it most, often those that donCit
+make the headlines in the news, yet where chronic hunger continues unchecked. Often WFP is able to purchase the tice in the very countries where the beneficiaries are located, cutting down
+on the transport time to reach the hungry and helping to stimulate local economies at the same time. Here are some examples of where FreeRice rice has been distributed: In Bangladesh, to
+feed 27,000 refugees from Myanmar for two weeks. Please click to watch FreeRice being distributed in Bangladesh. here In Cambodia, to provide take-home rations of four kilograms of rice for
+two months to 13,500 pregnant and nursing women. In Uganda, to feed 66,000 school children for a week. In Nepal, to feed over 108,000 Bhutanese refugees for three days. In Bhutan, to
+feed 41,000 children for 8 days. In Myanmar, to feed 750,000 cyclone affected people for 3 days. How much rice does it take to feed a person for a day? How many grains of rice in a gram?
+The composition of UN World Food Program (WFP) food baskets varies from country to country and region to region, depending upon the eating habits of the people WFP feeds. In countries
+where rice is a staple part of the diet, WFP provides, on average, about 400 grams of rice per person, per day (for families, including children and adults). That is intended for two meals that
+include other ingredients to ensure 2 minimum of 2,100 kilocalories per day. There are about 48 grains of rice in a gram. How does the food prices crisis affect FreeRice? The cost of rice per
+metric ton has more than doubled since the website's inception. Given that FreeRice players raise grains of rice, not dollars, this increase does not change the overall number of people fed.
+However, FreeRice donates the cash equivalent of the grains raised through sponsorships and donations, so rising rice prices means that FreeRice has to raise significantly more money to pay
+for the grains generated by every correct click. Are there any banners or high-resolution logos I can use for FreeRice? FreeRice offers banners and logos you can use to create links on your
+web pages to easily refer your friends to the site. Banners and logos are available . Since FreeRiceCIs strength is in the number of people using it, you can also help to make a big difference
+simply by spreading the word through blogs or communities where FreeRice exist like , and . here Facebook MySpace Think MTV How can I make a donation to buy more rice for hungry
+people? If you like, you can make a donation to the UN World Food Program to help FreeRice buy more rice to feed hungry people. If you are located in the United States please click
+Otherwise, please click . If you would like to become a sponsor for FreeRice, please email . here here freerice.rep@wfp.org What is being done to end world hunger? There is great progress
+being made to end world hunger. Many organizations across the globe are involved in this struggle. Each day, hundreds of thousands of ordinary men and women work for these organizations.
+Through their efforts, millions of impoverished people have food to eat, learn skills and find hope for the future. What else can I do to help end hunger? Here are three things you can do to
+help end hunger. All are free and easy to do. To learn how to take action in your community, click . here Add your name to the , where several million people have already joined together "as.
+One to end hunger and extreme poverty. If enough people join, dreams for a better world can be made into reality very quickly. One Campaign Twenty-two countries have joined together to
+try to raise enough money to by each contributing 0.7% (less than 1%) of national income. Some of the countries have already met this goal. Others haven't come that far yet. You can see
+how the countries are doing . You can print a letter to support your countrys participation .end world hunger completely here here Where can I leam more about hunger? One last important
+thing you can do to help end hunger is to become knowledgeable about it. A good way to do this is to visit , our sister site , or one of the many excellent sites listed . We believe that when
+enough people around the world become knowledgeable about hunger, it will no longer be tolerated. WFP Poverty.com here

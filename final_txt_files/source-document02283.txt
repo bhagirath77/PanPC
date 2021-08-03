@@ -1,0 +1,9 @@
+Annuity - Fixed, Variable and Indexed Annuities  Annuity accumulation values and payouts may be "" - paying a stated rate of interest, "" - based on the value of securities such as stocks or
+bonds, or TM" - linked to an index such as Standard and PoorCls 500 Composite Stock Price Index. FixedVariableEquity Indexed pay interest at a rate set annually by the company, and
+normally have a minimum guaranteed rate. Once the payout or annuitization phase begins, payments are fixed and do not fluctuate based on interest rate changes.Fixed annuities values
+are based on the underlying value of the securities they invest in, such as mutual funds or common stocks. Variable annuities generally do not have maximum limits or a minimum guarantee,
+which means you could potentially lose your investment.Variable annuity _are a hybrid between fixed and variable annuities. These contracts generally base growth on an equity index such as
+Standard & PoorLls 500 Composite Stock Price Index. Equity indexed annuities are not normally subject to loss of principal like variable annuities, however account growth is often limited to a
+percentage (%) of the growth of the equity index on which it is based, and may also contain caps on the maximum annual growth. For example, a contract might credit gains based at 70
+percent of the growth of the S & P 500 Index, limited to no more than 10 percent per year.Equity indexed annuities Also see: located on the MyFloridaCFO website. ALERTA DE ANUALIDAD
+DE P LIZA INDEXADA

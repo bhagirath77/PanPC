@@ -1,0 +1,11 @@
+Events GPS, or Global Positioning System, consists of 24 Earth-orbiting satellites that transmit precisely timed microwave signals. GPS receivers must connect with signals from at least three of
+these GPS satellites and calculate the time it takes a signal to travel from each satellite to provide a distance reading that is accurate within 10 to 20 meters. At the most basic level, a GPS
+vehicle tracking system provides business managers and dispatchers with information on the locations of their vehicles. By combining GPS information with advanced software applications
+(such as Trimble and @Road solutions), managers and dispatchers can: Trimble and @Road GPS vehicle tracking systems provide additional features such as: Trimble and @Road solutions track
+the location of your mobile resources using a GPS receiver that is embedded in a vehicle-installed hardware device. For Trimble solutions, this device is the and for @Road solutions, the . Both
+hardware devices include GPS receivers, wireless communication technology, IP protocol and computing power in a low-profile compact enclosure. The vehicle-installed device also temporarily
+stores and transmits information for other features like vehicle diagnostics, two-way messaging and Sensor Services. Wireless technology is embedded in the in-vehicle hardware so that the
+GPS location and other data is sent via wireless carrier networks to the Trimble or @Road server. Once in the server, the gathered data is immediately processed and delivered to customers in
+the forms of maps and reports that managers and dispatchers can view on their desktop computer or web browser. The maps, reports and alerts use the processed data to show vehicles
+real-time location, speed, time and distance traveled. Managers use this information to create more efficient work processes and routes, leading to reduced operational costs. What is GPS
+Vehicle Tracking?

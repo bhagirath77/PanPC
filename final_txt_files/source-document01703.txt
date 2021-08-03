@@ -1,0 +1,5 @@
+The main purpose of a corporate web page is to be able to be used by the maximum number of users. Regardless of their knowledge and the computer they use. Consequently, at Editio
+Software we take care with every detail of the websites we design for our clients, since .web pages are not just an advertisement for their business, they are also a representation of their
+company and a means of communication with their clients Websites designed by Editio Software are always designed following very strict usability rules, and clearly orientated for the end user
+who will visit the website: Graphic design for .special-needs people Simple menu and link structures. Common look and feel in : Internet Explorer, Mozilla, Safari, etc.all Internet browsers
+Standard XSLT/XML web code structure

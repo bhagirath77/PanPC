@@ -1,0 +1,28 @@
+Index "I love this book. It's just so ... is both accessible and useful: everyone with an interest in maps will be able to take something away from it. But it's also tremendously enjoyable reading.
+Highly recommended." "...a constructively provocative introductory text that draws attention and creates enthusiasm and excitement. The book challenges the reader to engage and to think. It
+promotes creativity. It is packed with examples to demonstrate why maps are important." Peter Keller, 57, Spring 2007 "...opens the door to the thinking that goes into the argument the map
+will hopefully reveal, and therefore, necessitates a critique of the data and methodology that will be distilled in the map." Tom Koch, 57, Spring 2007 ...approaches "the entire cartographic
+process (from initial idea to completed map) in an innovative and captivating way. It is a good and useful approach and one long overdue." George McCleary, 57, Spring 2007 "...terse and
+wonderfully illustrated... Every how-to book should be this easy to read and look at." adds to the growing list of Guilford Press cartographic classics' which includes Denis Wood's and Alan
+MacEachren's " vol. 15, no. 3, 2007 "Making Maps takes a visual approach for translating complex concepts of Geographic Information Science (GISc) into easy-to-grasp concepts applicable to
+a range of users of Geographic Information Systems (GIS). The book is heavily illustrated and, rather than the images supporting the text, the text plays the supporting role. Often, concepts
+are illustrated by a good and poor example on this single page, which allows the reader to see each concept put into practice. Most often, these images speak for themselves and provide the
+user with revelatory insight. As someone who has been using GIS for about 13 years, but without much formal training (probably typical of many planning students and faculty), I find this
+book's approach to key geospatial concepts to be extremely effective, user-friendly, and just plain helpful." vol. 73, no. 1, Winter 2007 "The book's major strength is the enormous amount of
+practical how-to information that is packed into each section. ...there are literally hundreds of tips that can dramatically improve map comprehension. A valuable nuts-and-bolts introduction to
+map making that can help both students and practitioners create effective and insightful cartography." "The first impression, before you even begin to read this book... is that the authors had a
+specific objective: to introduce the reader to map design. This is conveyed in the text of course, but the layout of the book is as much an exercise in, and example of, design as the content
+inside. From chapter headers to the figure layout and captioning, the content works to blend form with function in a way that makes it obvious that this book is separate from most of the
+current texts on map making. This is definitely an example of practice what you preach. adopts a flexible and sometimes irreverent attitude towards established practices." is "less a technical
+cartography guide than a tour of effective map communication strategies." "What makes the book unique is that on each page illustrations highlight the idea under discussion, the text merely
+works in a supportive, explanatory role. Cartography is a visual craft and the many illustrations - 2 or more per page - are essential to the success of this book. The text might introduce an
+idea, for example, generalization... [and] the illustrations are the exemplar of what works and what doesn't and users can immediately grasp it." & no. 61, Spring 2006. "This detailed guide to
+elementary mapping in the age of digital information, Internet resources, and geographic information systems is simple, clear, and comprehensive. The book's lucid style and dramatic,
+apposite, and often funny illustrations make it a novel and effective resource in a culture where the map is a ubiquitous presence. More than an instruction manual on making maps, itis also a
+guide to their critical reading and interpretation. will be invaluable for users as well as creators of maps at the university level and beyond." "Although it looks deceptively simple - like the
+textbook equivalent of a graphic novel - condenses all the essential principles of map making and the geographic concepts behind them into a remarkably accessible, witty, engaging book. The
+text is crystal clear and irreverent, the hundreds of illustrations inspiring and memorable. Only Krygier and Wood, two of the most creative geographers on the planet, could come up with this
+breakthrough visualization of the art and science of making good maps. Novice and even experienced cartographers will find it an indispensable guide." "A unique and timely book that provides
+much-needed guidance to GIS users making thematic maps. One strength of the book is that principles of map design are often best shown by visual example, and another is that the examples
+are not tied to any one GIS software package. Cartographically sound and very approachable, this book will help readers ensure that the maps they make are clear, legible and easy to
+understand."neat.Making Maps The Map Room, March 29, 2006 Cartographic Perspectives,

@@ -1,0 +1,11 @@
+TechBlog The provides a comprehensive overview about "In the Wild" computer viruses. The WildList is a list of computer viruses found in the wild and is brought up to date on a monthly basis.
+More than 70 qualified volunteers around the world report about the latest threats and virus incidents. Tjark Auerbach, the CEO and founder of Avira GmbH is a member and active reporter
+since February 2000. Avira virus lab provides the latest descriptions for most of the threats listed on the organization's website. Please find the latest monthly additions as well as the full
+Wildlist below. If you have further questions what exactly the WildList is you may have a look at the FAQ section on Organization's website: Avira - In the Wild Viruses List Publish date: 07
+Nov 2008 Publish date: 07 Nov 2008 Publish date: 10 Sep 2008 Publish date: 04 Sep 2008 Publish date: 14 Jul 2008 Publish date: 18 Jun 2008
+Publish date: 13 Jun 2008 Publish date: 17 Jun 2008 Publish date: 18 Jun 2008 Publish date: 20 Jun 2008 Publish date: 20 Jun 2008 Publish date: 20 Jun
+Publish date: 20 Jun 2008 Publish date: 20 Jun 2008 Publish date: 20 Jun 2008 Publish date: 20 Jun 2008 Publish date: 20 Jun 2008 Publish
+0 Jun 2008 Publish date: 20 Jun 2008 Publish date: 20 Jun 2008 Publish date: 20 Jun 2008 Publish date: 20 Jun 2008 Publish date: 12 Jan 2007
+Publish date: 18 Dec 2006 Publish date: 12 Nov 2006 Publish date: 07 Oct 2006 Publish date: 11 Sep 2006 Publish date: 11 Aug 2006 Publish
+date: 07 Jul 2006 Publish date: 07 Jun 2006 Publish date: 11 May 2006 Publish date: 14 Apr 2006 Publish date: 13 Mar 2006 Publish date: 07 Feb 2006
+ Publish date: 12 Jan 2006

@@ -1,0 +1,10 @@
+Poker Hand Ranking Pictured below are the hands of poker, listed in order from highest poker hand to the lowest. In poker, certain combinations of cards, or hands, outrank other hands, based
+on the frequency with which these combinations appear. The player with the best poker hand at the showdown wins the pot. Although used in poker, these hand rankings are also used in a
+variety of other card games. The five highest cards, the 10 through the Ace, all five of the same suit. A royal flush is actually an ace-high straight flush. Which suit it is doesn't matter in poker.
+Two people with royal flushes would tie.Royal Flush Any five cards of the same suit in consecutive numerical order. Our example shows a five-high straight flush.Straight Flush Four cards of
+the same denomination. Our example shows four jacks with a deuce kicker.Four of a Kind Any three cards of the same denomination, plus any pair of a different denomination. Ties are broken
+first by the three of a kind, then the pair. Our example shows sevens full of threes.Full House Any five non-consecutive cards of the same suit. Our example shows a queen-high diamond
+fiush.Flush Any five consecutive cards of mixed suits. Ace can be high or low. Our example shows a six-to-ten straight.Straight Three cards of the same denomination.Our example displays
+three of a kind, fours.Three of a Kind Any two cards of the same denomination, plus any other two cards of the same denomination. If both hands have the same high pair, the second pair
+wins. If both pairs tie, the high card wins. Our example shows two pair, eights and fives.TWwo Pair Any two cards of the same denomination. Our example displays a pair of nines. In a tie, the
+high card wins.Pair If no other hand is achieved, the highest card held wins. In our example, the king of hearts is the high card.High Card

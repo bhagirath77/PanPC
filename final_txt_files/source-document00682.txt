@@ -1,0 +1,6 @@
+Europe/Middle East Preparing for the future The Galileo satellite radio navigation system proposed by the European Union offers advantages to Global Navigation Satellite System (GNSS)
+users by providing additional satellites, additional signals, and compatibility with GPS. Trimble fully supports this advancement in the GNSS market. As we have done with products that
+capitalize on next generation GPS capabilities, we are committed to having Galileo compatible products available for our customers well in advance of Galileo system availability. In the case of
+GPS modemization, our compatible products were available a year ahead of the first L2C-capable satellite launch. Trimble has also developed products for the coming LS GPS signal. Likewise,
+we will offer equipment with Galileo capability well ahead of the time when production satellites are launched. In the meantime, introducing products that take advantage of next generation
+GPS will continue to be our near-term focus. It is our goal to offer the most productive and competitive equipment that addresses our customers needs both now and in the future,

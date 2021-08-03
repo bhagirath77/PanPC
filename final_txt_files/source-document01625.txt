@@ -1,0 +1,129 @@
+[] edit Before the launch [] edit Satellite construction project The history of the project dates back to May 27, 1954, when addressed , then Minister of Defense Industries, proposing the
+development of an Earth-orbiting artificial satellite. Korolev also forwarded Ustinov a report by with an overview of similar projects abroad. Tikhonravov emphasized that an artificial satellite is
+an inevitable stage in the development of rocket equipment, after which interplanetary communication would become possible. On July 29, 1955 the announced, through his press secretary,
+that the United States would launch an artificial satellite during the (IGY). A week later, on August 8, the approved the idea of creating an artificial satellite. On August 30, the head of the State
+Commission on test launches held a meeting where Korolev presented calculation data for a spaceflight trajectory to the Moon. They decided to develop a three-stage version of the R-7 rocket
+for satellite launches.Sputnik 1 Sergei Korolev Dmitry Ustinov Mikhail Tikhonravov [5] [6] U.S. President Dwight Eisenhower Intemational Geophysical Year [7] Presidium of the Central
+Committee of the CPSU [8] Vasily Ryabikov R-7 rocket [9] On January 30, 1956, the approved practical work on an artificial Earth-orbiting satellite. This satellite, named "Object D", was
+planned to be completed in 1957-58; it would have a mass of 1,000 to 1,400 kg (2,200 to 3,090 Ib) and would carry 200 to 300 kg (440 to 660 Ib.) of scientific instruments. The first test
+launch of "Object D" was scheduled for 1957. According to that decision, work on the satellite was to be divided between institutions as follows: Council of Ministers of the USSR [10] [6] [11]
+was responsible for the general scientific leadership and research instruments supply USSR Academy of Sciences Ministry of Defense Industry and its main executor were assigned the task of
+creating the satellite as a special carrier for scientific research instruments OKB-1 Ministry of Radiotechnical Industry would develop the control system, radio/technical instruments and the
+system telemetry Ministry of Ship Building Industry would develop devices gyroscope Ministry of Machine Building would develop ground launching, refueling and transportation means
+Ministry of Defense was responsible for conducting launches By July 1956 the draft was completed and the scientific tasks to be carried out by a satellite were defined. It included measuring
+the density of the atmosphere, its composition, corpuscular , , , etc. Data, valuable in creating future satellites, were also to be collected. A ground observational complex was to be developed,
+that would collect information transmitted by the satellite, observe the satellite's orbit, and transmit commands to the satellite. Such a complex should include up to 15 measurement stations
+Due to the limited time frame, they should have means designed for rocket R-7 observations. Observations were planned for only 7 to 10 days and orbit calculations were expected to be not
+quite accurate. ion solar radiation magnetic fields cosmic rays [12] Unfortunately, the complexity of the ambitious design and problems in following exact specifications meant that some parts
+of 'Object D', when delivered for assembly, simply did not fit with the others, causing costly delays. By the end of 1956 it became clear, that plans for Object D' were not to be fulfilled in time
+due to difficulties creating scientific instruments and the low produced by the completed R-7 engines (304 sec instead of the planned 309 to 310 sec). Consequently the government
+re-scheduled the launch for April 1958. Object D would later fly as . specific impulse [6] Sputnik 3 Fearing the U.S. would launch a satellite before the USSR, OKB-1 suggested the creation and
+launch of a satellite in April-May 1957, before the IGY began in July 1957. The new satellite would be simple, light (100 kg), and easy to construct, forgoing the complex, heavy scientific
+equipment in favour of a simple radio transmitter. On February 15, 1957 the Council of Ministers of the USSR approved this, providing for launching the simplest version satellite, designated
+Object PS'. This version also facilitated the satellite to be visually tracked by Earth-based observers while in orbit, and transmit tracking signals to ground-based receiving stations. Launch of
+two satellites PS-1 and PS-2 with two R-7 rockets (8K71) was allowed, but only after one or two successful R-7 test launches. [13] [13] [13] [] edit Launch vehicle preparation and launch site
+selection Main article: R-7 rocket The was initially designed as an by OKB-1. The decision to build it was made by the and the Council of Ministers of the USSR on May 20, 1954. A special
+commission selected Tyuratam as a place for the construction of a rocket (the Sth Tyuratam range, usually referred to as "NIIP-5", or "GIK-5" in the post-Soviet time). The selection was
+approved on February 12, 1955 by the Council of Ministers of the USSR, but the site would not be completed until 1958. Actual work on the construction of the site began on July 20 by military
+building units. On June 14, 1956 Sergei Korolev decided to adapt the R-7 rocket to the Object D', that would later be replaced by the much lighter 'Object PS'. two-stage R-7 rocket ICBM CPSU
+Central Committee [14] reconnaissance proving ground [15] [16] The first launch of an R-7 rocket (8K71 No.SL) occurred on May 15, 1957. The flight was controlled until the 98th second, but
+a fire in a strap-on rocket led to an unintended crash 400 km from the site. Three attempts to launch the second rocket (8K71 No.6) were made on the 10-11 June, which failed due to a
+mistake made during the rocket's assembly. The unsuccessful launch of the third R-7 rocket (8K71 No.7) took place on July 12. During the flight the rocket began to rotate about its and its
+engines were automatically tumed off. The packet of stages was destroyed 32.9 seconds into the flight. The stages fell 7 km from the site and exploded. [17] [18] [17] longitudinal axis [19]
+The launch of the fourth rocket (8K71 No.8), on August 21 at 15:25 , was successful. Its head part separated, reached the defined region, entered the atmosphere, and was destroyed at a
+height of 10 km due to overload after traveling 6,000 km. On August 27 the USSR issued a statement on the launch of a long-distance multistage ICBM. The launch of the fifth R-7 rocket (8K71
+No.9), on September 7, was also successful, but the head part was also destroyed in the atmosphere, and hence needed a long redesign to completely fit its military purpose. The rocket,
+however, was already suitable for scientific satellite launches and this "time-out" of the rocket's military exploitation was used to launch the PS-1 and PS-2 satellites. Moscow Time [17]
+thermodynamic TASS [17] [19] [20] On September 22 a modified R-7 rocket, named Sputnik Rocket (: ) and indexed as 8K71PS, with the satellite PS-1, arrived at the proving ground and
+preparations for the launch began. As the R-7 was designed to carry the much heavier Object D, its adaptation to PS-1 reduced its initial mass from 280 to 272.83 tons and its mass at launch
+was 267 tons; its length with PS-1 was 29.167 meters and the was 3.90 . Russian - [21] thrust MN [22] [] edit Observational complex The measurement complex at the proving ground for
+monitoring launch vehicle parameters from its start onward was completed prior to the first R-7 rocket test launches in December 1956. It consisted of six static stations: IP-1 through IP-6,
+with IP-1 situated at a distance of 1 km from the launch pad. The main monitoring devices of these stations were telemetry and trajectory measurement stations, "Tral," developed by MEI.
+They received and monitored data from the "Tral" system mounted on the R-7 rocket; an on-board system that provided precise telemetric data about Sputnik's launch vehicle. The data was
+useful even after the satellite's separation from the second stage of the rocket; Sputnik's location was calculated from the data on the second stage's location (which followed Sputnik at a
+known distance) using developed by P.E. Elyasberg. [20] OKB transponders [23] nomograms [24] An additional observational complex, established to track the satellite after its separation
+from the rocket, was completed by a group led by Yu.A.Mozzhorin in accordance with the General Staff directive of May 8, 1957. It was called the Command-Measurement Complex and
+consisted of the coordination center in by the of the USSR (at ) and seven ground tracking stations, situated along the line of the satellite's . They were: NIP-1 (at station, , situated not far
+from IP-1), NIP-2 (at Makat station, ), NIP-3 (at Sary-Shagan station, ), NIP-4 (at ), NIP-5 (at village Iskup, ), NIP-6 (at ) and NIP-7 (at ). The complex had a communication channel with the
+launch pad. Stations were equipped with , optical instruments, and communication means. PS-1 was not designed to be controlled, it could only be observed. Data from stations were
+transmitted by into where specialists calculated orbital parameters. The complex became an early prototype of the Soviet Colonel NII-4 Ministry of Defence Bolshevo ground track Tyuratam
+Kazakh SSR Guryev Oblast Dzhezkazgan Oblast Yeniseysk Krasnoyarsk Krai Yelizovo Klyuchi [20] [25] radar telegraphs NII-4 ballistics Mission Control Center [26] [] edit Design The chief
+constructor of Sputnik 1 at OKB-1 was M.S.Khomyakov. The satellite was a 585 mm (23 in) diameter sphere, assembled from two hemispheres which were hermetically sealed using and
+connected using 36 . The hemispheres, covered with a highly polished 1mm-thick made of -- ("AMG" is an abbreviation for "aluminium-magnesium" and "T" stands for "titanium", the alloy
+contains 6% of magnesium and 0.2% of titanium) , were 2mm-thick. The satellite carried two antennas designed by the Antenna Laboratory of OKB-1 led by M.V.krayushkin. Each antenna was
+made up of two whip-like parts: 2.4 and 2.9 meters (7.9 and 9.5 ft) in length, and had an almost spherical , so that the satellite beeps were transmitted with equal power in all directions;
+making reception of the transmitted signal independent of the satellite's rotation. The whip-like pairs of antennas resembled four long "whiskers" pointing to one side, at equal 35 degrees
+angles with the of the satellite. [27] o-rings bolts [28] heat shield [29] aluminium magnesium titanium AMG6T [30] alloy [31] [11] [32] radiation pattem [33] longitudinal axis [34] The , with
+a mass of 51 ka, was in the shape of an octahedral with the radio transmitter in its hole. It consisted of three , developed at the All-Union Research Institute of Current Sources (VNIIT) under
+the leadership of N. S. Lidorenko. Two of them powered the radio transmitter and one powered the temperature regulation system. They were expected to fade out in two weeks, but ended up
+working for 22 days. The power supply was tumed on automatically at the moment of the satellite's separation from the second stage of the rocket. power supply [35] nut [36] silver-zinc
+batteries [35] [34] The satellite had a one-, 3.5 kg transmitting unit inside, developed by V. I. Lappo from that worked on two frequencies, 20.005 and 40.002 MHz. Signals on the first
+frequency were transmitted in 0.3 sec pulses (under normal temperature and pressure conditions on-board), with pauses of the same duration filled by pulses on the second frequency. Analysis
+of the radio signals was used to gather information about the electron density of the ionosphere. Temperature and pressure were encoded in the duration of radio beeps, which additionally
+indicated that the satellite had not been punctured by a meteorite. A temperature regulation system contained a , a dual , and a control thermal switch. If the temperature inside the satellite
+exceeded 36 C the fan was tured on and when it fell below 20 C the fan was turned off by the dual thermal switch. If the temperature exceeded 50 C or fell below 0 C, another control thermal
+switch was activated, changing the duration of the of radio signal pulses. Sputnik 1 was filled with dry , pressurized to 1.3 . For the control the satellite had a switch, activated when the
+pressure inside the satellite fell below 0.35 (approx. 0.34 atm), changing the duration of radio signal impulse. watt [20] radio NII-885, [34] [37] fan thermal switch [34] [33] [34] nitrogen atm
+[38] pressure barometric kg/cm [38] While attached to the rocket, Sputnik 1 was protected by a -shaped , with a height of 80 cm and an aperture of 48 degrees. The fairing separated from
+both Sputnik 1 and the rocket at the same time when the satellite was ejected. Tests of the satellite were conducted at OKB-1 under the leadership of . G. Ivanovsky. Sputnik 1 was launched
+by an on October 4, 1957. It burned up upon re-entry on January 4, 1958. cone payload fairing [20] [34] [27] R-7 rocket [] edit Launch and mission copecks The control system of the
+Sputnik Rocket was tuned to provide an orbit with the following parameters: perigee height - 223 km, apogee height - 1450 km, orbital period - 101.5 min. A rocket trajectory with these
+parameters was calculated earlier by , after completing the calculations over several nights on the 's . [39] Georgi Grechko [40] USSR Academy of Sciences mainframe computer [20] The
+Sputnik Rocket was launched at 19:28:34 , on October 4, 1957, from at NIIP-5. Processing of the information, obtained from the "Tral" system showed that the side boosters separated 116.38
+seconds into the flight and the second stage engine was shut-down 294.6 seconds into the flight. At this moment the second stage with PS-1 attached had a height of 223 km above Earth's
+surface, a velocity of 7,780 m/s and velocity vector inclination to the local horizon was 0 degrees 24 minutes. This motion resulted in an orbit with initial parameters: perigee height - 223 km,
+apogee height - 950 km, initial orbital period - 96.2 minutes. UTC Site No.1 [41] [20] [39] [39] After 314.5 seconds PS-1 separated from the second stage and at the same moment at the
+small "Finnish house" of IP-1 station Junior Engineer-Lieutenant V.G.Borisov heard the "Beep-beep-beep" signals from the radio receiver R-250. Reception lasted for two minutes, while PS-1
+was above the horizon. There were many people in the house, both military and civil, and they were probably the first to celebrate the event. After 325.44 seconds a on the second stage was
+opened, that also allowed measurement of its orbit parameters - like the working "Tral" system did. [39] [42] [20] comer reflector [29] The designers, engineers and technicians who
+developed the rocket and satellite watched the launch from the range. After the launch they ran to the mobile radio station to listen to signals from the satellite. They waited about 90 minutes
+to ensure that the satellite had made one orbit and was transmitting, before Korolyov called . The downlink telemetry included data on temperatures inside and on the surface of the sphere
+[43] [43] Khrushchev [44] On the first orbit the (TASS) transmitted: "As result of great, intense work of scientific institutes and design bureaus the first artificial Earth satellite has been built
+The Sputnik 1 rocket booster (second stage of the rocket) also reached Earth orbit and was visible from the ground at night as a object following the satellite. Korolyov had intentionally
+requested reflective panels placed on the booster in order to make it so visible. The satellite itself, a small but highly polished sphere, was barely visible at sixth magnitude, and thus more
+difficult to follow optically. Ahead of Sputnik 1 flew the third object - the payload fairing, 80cm-long cone, i.e. a little bit bigger than the satellite. Telegraph Agency of the Soviet Union [45] first
+magnitude [44] Further information: and Space Race+Artificial satellites Sputnik crisis .Our movies and television programs in the fifties were full of the idea of going into space. What came
+as a surprise was that it was the Soviet Union that launched the first satellite. It is hard to recall the atmosphere of the time John Logsdon [46] Teams of visual observers at 150 stations in the
+United States and other countries were alerted during the night to watch for the Soviet sphere at dawn and during the evening twilight. They had been organized in to sight the satellite through
+binoculars or telescopes as it passed overhead. The USSR asked radio amateurs and commercial stations to record the sound of the satellite on . Project Moonwatch [47] magnetic tape [47]
+News reports at the time pointed out that "anyone possessing a short wave receiver can hear the new Russian earth satellite as it hurtles over his area of the globe". Directions, provided by the
+were to "Tune in 20 megacycles sharply, by the time signals, given on that frequency. Then tune to slightly higher frequencies. The 'beep, beep sound of the satellite can be heard each time it
+rounds the globe," American Radio Relay League [48] At first the Soviet Union agreed to use equipment "compatible" with that of the United States, but later announced the lower frequencies,
+The declined to comment on military aspects of the launch, but said it "did not come as a surprise." On October 5 the Naval Research Laboratory announced it had recorded four crossings of
+over the United States. obtained photographs of the Soviet facilities from flights conducted since 1956. [47] White House [49] Sputnik-1 [47] U.S. President Dwight Eisenhower Lockheed U-2
+[50] [] edit Controversy surrounding re-entry Long-standing official accounts state that, based on the degradation of Sputnik 1's orbit, the satellite re-entered the atmosphere on or about
+January 4, 1958, whereupon it is assumed to have burned up completely. The Sputnik 1 rocket booster re-entry was expected to occur somewhere above Alaska, or the West coast of North
+America, according to Soviet predictions in December 1957. [51] There are dubious claims however, that certain components did survive: Per recent news reports, on the morning of December
+8, 1957, Earl Thomas of , California, was leaving his home to go to work, when he noticed something glowing beneath a tree in his back yard. The source turned out to be several pieces of
+plastic tubing, which he claimed matched structural diagrams of the Sputnik 1 satellite. A local Los Angeles radio DJ, Mark Ford of KDAY Radio, was at the same time offering a $50,000 reward
+for anyone who had found Sputnik, which reportedly had gone down in the L.A. area. When Thomas tried to claim the reward, he was met by a representative of the United States Air Force,
+who received the pieces Thomas found, and wrote a receipt on Air Force stationery. Later, after the radio station denied having offered a reward, Thomas brought the receipt back to the Air
+Force, where the sergeant on duty gave the pieces back to Thomas. The family wrote to government officials at all levels in an attempt to collect the reward, but were told that the government
+had not offered a reward. Of particular interest, however, was a reply from Colonel W.G. Woodbury of the Air Force, which includes the statement "At the time you recovered the Sputnik
+parts..." Currently, the disputed parts are in the possession of Bob Morgan, Thomas son. An exhibit about the parts is currently on display at , in the North Beach neighborhood of San
+Francisco. Encino The Beat Museum [52] [] edit Pop culture resulted in a fashion trend now called the "Sputnik Lamp", which usually consists of a metallic sphere with bars jutting out in
+multiple directions holding light bulbs or lamp globes at the ends. Most have 8 to 15 bars, as opposed to the 4 antennas on . As an example of such a lamp, see .Sputnik 1Sputnik 1
+http://site.inmod.com/images/vignettes/sputnik.jpg was referenced in , when is canceled because of the space probe. Stinky Pete the Prospector explains that "as soon as the astronauts went
+up, children only wanted to play with space toys."Sputnik Toy Story 2 Woody's RoundupSputnik [1] appears briefly in a episode, "Ski Ya, Wouldn't Wanna Be Ya". Flaky goes up on a ski lift and
+lands on an extremely high mountain. As Flaky panics, flies overhead, showing how high up she is.Sputnik Happy Tree Friends Sputnik was mentioned in the mission briefing of the video
+gameSputnik 1 Metal Gear Solid 3: Snake Eater In , the titular character crashes into , among other satellites, during his departure from Earth. WALL-E Sputnik In the episode titled "arthur
+the Wrecker", Arthur and Buster walk through the planetarium in their search for the Brain, and in the background is featured hanging from the roof. arthur Sputnik 1 The beginning of the
+movie , is shown orbiting the earth, prior to the Giant entering the atmosphere. Also, the crashed Giant is first rumored to be . The Iron Giant SputnikSputnik In the movie , (as well as the
+book) the satellite is mentioned at the beginning of the movie. Later as the main character watches over head he becomes interested in rocket science. October Sky Sputnik 1 Ina flashback
+section of the episode", a starship is in orbit around Earth in early October of 1957, and its crew closely observes the satellite. Star Trek: Enterprise Carbon Creek Vulcan Sputnik 1 Sputnik is
+also the name of a track by artist Zoo Brazil from his 2008 album. electronic dance music Sputnik is referred to in the computer game after learning certain technologies. Civilization IV In an
+episode of , Ross dresses up as Sputnik 1 at a party. However, people mistake him for being a giant potato. Friends In the game , Sputnik is a vehicle used to expand ones base. Red Alert 3 []
+edit Replicas One replica, built by French and Russian teenagers and hand-launched from on November 3, 1997, reentered Earth's atmosphere after two months in orbit.Sputnik 1 Mir [50] In
+2003 a back-up unit of Sputnik 1 called "model PS-1" failed to sell on . It was offered while still on display in a science institute near . It is estimated that between four and twenty models were
+made for testing and as replicas. eBay [53] Kyiv A Sputnik 1 model was given as a gift to the and now decorates the entry Hall of its Headquarters. United Nations New York City What is
+thought to be a backup of Sputnik 1 now hangs at in Seattle, Washington. The craft was manufactured by the Soviet Academy of Sciences and has battery acid remnants on the inside walls of
+the spherical shell, as well as fittings for the various components, suggesting that it was more than just a model. The Museum of Flight [54] Another replica is on display at the Smithsonian's
+National Air and Space Museum A Sputnik 1 backup unit is on display at the personal library of , an Internet entrepreneur. Jay Walker [55] A further replica is on display in the Space section
+of the . Science Museum, London Three accurate replicas of the Sputnik 1 titled "My Sputnik", were created by the artist and inventor Michael Joaquin Grey in 1990 and exhibited in art
+galleries and museums internationally. [] edit Notes * Jorden, William J (October 5, 1957). . . "Soviet Fires Earth Satellite Into Space" The New York Times
+
+http://www. nytimes.com partners/aol/special/sputnik/sput-01.html . Retrieved on 20 January 2007 * Ralph H. Didlake, KKSPM; Oleg P. Odinets, RA3DNC (September 28, 2007). . . "Sputnik
+and Amateur Radio" American Radio Relay League . http://www.arrl.org/news/features/2007/09/28/03/2nc=1 . Retrieved on 2008-03-26 * . vibrationdata.com. "Sputnik"
+
+http://www. vibrationdata.com/Sputnik.htm . Retrieved on 2008-03-08 * ... "Sputnik 1 - NSSDC ID: 1957-0018" NSSDC Master Catalog NASA
+http://nssdc.gsfc.nasa.gov/nme/spacecraftDisplay.do?id= 1957-0018 *

@@ -1,0 +1,27 @@
+Photoshop: How To Make An Awesome Grungy Paper Texture From Scratch Posted inJune 25, 2008| Photoshop | Many of you might remember my I gave away a while back. I had a lot of
+requests for a tutorial on how I actually made those textures, so I here we are. Fire up good ol Photoshop, have a scanner handy, and lets dive in, shall we :) Free High-Res Grungy Paper
+Textures Step 1: Scan Get a natural-brown-colored piece of paper (or brown paper bag), give it a good crinkle, then flatten it back out and scan it in. After you scan, take your image into
+Photoshop, where we'll be the rest of the tutorial. After you get your image into Photoshop, you should have something similar to below. If you dont have a scanner to download the image I'm
+using from Flickr if you'd still like to follow along. click here Step 2: Add Texture First, we're going to add a little texture to the paper itself. With your image layer selected, go toFilter >
+Texture > Texturizer. from the drop down menu, set the to around , and the between , then Click OK.Select Canvas"scale100depth2 and 4 You should now see something like below: (full size
+close-up) Now we have a canvas-like texture, but it only goes in one direction. I like to get the grain going both horizontally as well as vertical, so go to to rotate your image.Image > Rotate
+Canvas > 90 CW Now that your image is on its side, we're going to apply the texture again, this will give us the grain going in both directions. So go back to , and apply the same filter again,
+or just key Command + F (Control + F, PC) to repeat the filter Filter > Texture > Texturizer Now that we have our texture in both directions, lets rotate our canvas back so its vertical again
+(Or you can leave it horizontal if you need to, doesnt matter. Image > Rotate Canvas > 90 CCW Step 3: New Layer Now it's time to start grunging it up. Make a new layer on top of your
+paper texture, and fill () it with a color: (hex) #451300. Heres an image you can download if you'd like to just use the eyedropper tool:Edit > Fill After you fill your layer, take its opacity to
+around 70% You should be able to see your paper texture peeking through. Now change the layer mode to Soft Light. When you change the layer mode, it will lighten up quite a bit, but will
+be noticeably darker than the original texture below: Step 4: Erase We're going to use a high resolution brush to erase parts of our new layer and leave the comers a little grungy. For this, I
+like to use my . Hi Res Splatter Brushes After you get these brushes installed, , then select one of the brushes in the High Res Splatter set as your tip shape.select the Eraser tool In the
+Photoshop Toolbar (top left), set the of your Eraser to , and the toOpacity70%Flow60% Now, with the splatter brush tip eraser, start chipping away (erasing) at your top layer, leaving the
+comers looking stained or dirty. Concentrate on the middle section while erasing. (more advanced users should erase the layer mask for a non-destructive way to get the same results) And
+you should end up with something like this: Step 5: Repeat That's a start, but we need it to get quite a bit grungier before we call it quits. (on top) and with the color below. (hex) #371C11
+Set the , and the Make a new Layerfill itlayer opacity to 90%layer mode to Multiply After you do all this, repeat the last part of Step 4. Use the eraser, and a High Res Splatter brush tip to
+erase until you get something like this: Step 6: Repeat Again That's a step closer, but we're not done yet. (on top) and with the blue color below. (hex) #0078A4, Set the , and the .Make
+another new Layerfill itlayer opacity to 65%layer mode to Soft Light The only thing we're going to do different this time is change the and of theOpacityFlowEraser tool to 30% After you do all
+this, repeat the last part of Step 4. Use the eraser, and a High Res Splatter brush tip to erase until you get something like this: (You might notice how tha blue layer makes the other 2 layers
+quite a bit darker. Its subtle, but noticeable) Step 7: Add Some Details If you want to add a little extra to your grungy paper, you can always spice things up with some cool Photoshop
+brushes. Download and brush sets and install/load them. Botched Ornaments SS-Handwriting Create a for your brushes, set the , , and select one of the Botched Omaments brushes. Set the
+foreground color to (Hex) #A43A00.new layerlayer mode to Multiplylayer opacity to about 50% This part is really up to you but I just put a botched ornament in the bottom left comer, and the
+top right. Here's a close-up: Now lets add some old-fashioned handwriting, shall we, Make a, set the , , and set the . Now Load the SS-Handwriting brushes and .new layerlayer mode to
+Multiplylayer opacity to about 48%foreground color to (Hex) #54316select a brush to use I just put a little handwriting in a couple different places. Here's another close-up: Done! Here's the
+final result folks. Click on the image to download it via Flickr if you'd like to add it to your stock folder :) I hope you enjoyed the tutorial. Related Posts:

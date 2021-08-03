@@ -1,0 +1,19 @@
+Japanese TV Makers to Offer HDTVs with Web Access August 4th, 2006 There is currently considerable activity among telecom and cable companies - as well as a variety of newcomers - to
+offer TV services using Intemet Protocol (IP) standards. Services and trials are underway worldwide already, but all require either a special set-top box, media server PC or other special
+hardware. Accessing video content directly from the web with a TV remains in the very early stages of development. (Translation: It is often frustrating to use.) Chris Chinnock Sr. Analyst and
+Sr. Editor of Insight Media Nevertheless, many agree that this is going to be a major force in the industry. This was reinforced with the news that five major Japanese CE companies will now
+band together to offer Internet-enabled TVs, probably by next spring. According to the Japanese newspaper Nihon Keizai, Sony, Matsushita, Sharp, Toshiba and Hitachi will invest about 18 yen
+(~US$8.6M) to "set up a joint venture dedicated to integrating their standard and providing TV portal services for Internet usage via digital televisions for diverse information and services."
+While this language is a bit cryptic, we suspect it means the group aims to develop its own standards to manage how content is navigated, accessed, downloaded, managed and displayed on
+the TV, and, perhaps, within the whole house. In addition, we would not be surprised if this included bundled services of Internet sites to not only serve up video, but potentially package other
+services like photo printing. At the last CES, HP described its Advanced Digital Media Television, a 37-inch LCD-TV linked to an HP PC, home network and broadband connection. It features an
+integrated menu to facilitate streaming video, pictures and music from the PC or Internet to an LCD-TV. In addition, walled-garden services like HPs own Snapfish photo printing service,
+CinemaNow for movies and Real Networks Rhapsody music service were integrated into the menu. Users can go to other sites to get music or movies, but they need to go outside the main
+navigation menus. We think it likely the Japanese team will incorporate something like this into their services. What is also unclear is how digital rights management will be handled. will the
+content reside only within the TV with no way to redistribute it, so no content protection will be needed? If it is to be distributed, will it be on an HDMI cable, the new DisplayPort standard or
+some other standard to be developed by the joint venture? Since TVs and PCs still dont talk to each other very well, is content protection really required? Sharp already has its first Internet
+Tvs on the Japanese domestic market, so this may provide a clue as to what is coming. The AQUOS Internet LCD-TVs come in 32- and 37-inch screen sizes with built-in hard drives. The TVs
+are designed to let users navigate Internet and broadband TV broadcasts using the remote control, which is implemented by bundling the TV with a PC. Our take: A true Internet TV will
+necessarily combine a PC and display into one unit, complete with digital tuners, LAN connectors and a HD DVD or Blue-ray disc drive and HDD. It will need to have a wireless keyboard and/or
+remote that can navigate all sources of content quickly and easily. It will need to have some sort of content protection to enable output of content on connectors for sharing within the home. Of
+course, there can be many variations on this theme, but the point is, we aren't there yet. This new partnership among TV leaders seems like a great step in the right direction

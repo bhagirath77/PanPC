@@ -1,0 +1,14 @@
+Contacts Majorana Information and Resources The ultimate objective of the Majorana Collaboration is to study neutrinoless double beta decay (OvBB) with an effective Majorana-neutrino mass
+sensitivity below 50 meV to characterize the Majorana nature of the neutrino, the neutrino mass spectrum, and the absolute mass scale. An experimental study of the neutrino mass scale
+implied by neutrino oscillation results is now technically within our grasp. This exciting physics goal is best pursued using the well-established technique of searching for OvBB of Ge, augmented
+with recent advances in signal processing and detector design.76 The NuSAG report suggests a first, intermediate step of <180 kg of active mass. This intermediate Majorana experiment will
+consist of ~100 kg of Ge in the form of high-resolution intrinsic germanium detectors located deep underground within a low-background shielding environment. Observation of a sharp peak at
+the BB endpoint will quantify the OvBB half-life and thus the effective Majorana mass of the electron neutrino.76 Please see the or recent for more details. overview talk white paper Newsroom
+for Dr. Ron Brodzinski. Memorial under development which may benefit Majorana! (Hull et al, 28th Seismic Research Review: Ground-Based Nuclear Explosion Monitoring Technologies, 2006,
+also PNNL-SA-52058) New detector technology Preprint: for dark matter may be revolutionary for Majorana! New detector design is out! NuSAG report Recommendation: The Neutrino
+Scientific Assessment Group recommends that the highest priority for the first phase of a neutrino-less double beta decay program is to support research in two or more neutrino-less double
+beta decay experiments to explore the region of degenerate neutrino masses (vBB > 100 meV). The knowledge gained and the technology developed in the first phase should then be used in a
+second phase to extend the exploration into the inverted hierarchy region of neutrino masses (vBB > 10-20 meV) with a single experiment. is out! APS Multi-divisional Neutrino Science Review
+Recommendation 1: "We recommend, as a high priority, a phased program of sensitive searches for neutrinoless nuclear double beta decay. In this rare process, one atomic nucleus turns
+into another by emitting two electrons. Searching for it is very challenging, but the question of whether the neutrino is its own antiparticle can only be addressed via this technique. The answer
+to this question is of central importance, not only to our understanding of neutrinos, but also to our understanding of the origin of mass." Collaboration

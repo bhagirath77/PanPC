@@ -1,0 +1,13 @@
+Europe/Middle East Positioning Technologies for Commercial Applications GPS is a constellation of 24 satellites orbiting the Earth. These satellites have very accurate clocks and use radio
+signals to broadcast location information. Using satellites, a GPS receiver on the ground picks up the signals from the satellites to determine a location anywhere in the world. By adding
+sophisticated software, a base station and communications link, location can be accurately determined to the centimeter level. Learn more about how GPS works by viewing our . In addition to
+its GPS expertise, Trimble offers complete positioning solutions for a variety of applications.Global Positioning System (GPS) GPS tutorial Lasers are used in a range of applications to
+accurately determine level, grade, vertical alignment and distance. Spinning lasers emit a rotating 360-degree beam of light that is used as vertical, grade or horizontal reference, a
+difficult-to-establish yet critical datum for engineering and construction projects. Lasers are also used for measuring distance at high accuracy by determining phase shift or beam return time
+Trimble also uses laser technology combined with a unique scanning methodology to capture the shapes of physical structures or scenes and convert them into digital format, known as 3D laser
+scanning. This technology is revolutionizing high-end civil engineering and survey projects.Lasers Optics are an integral part of an essential surveying instrument called a total station. This
+instrument enables the surveyor to compare locations in relation to one another. Optics allow survey and construction professionals to accurately pinpoint the exact feature to be measured
+while lasers measure the distance. In the past, making sure the optic lenses were positioned correctly within the instrument was an art. Today, sophisticated software helps calibrate these
+sensitive instruments, improving the accuracy and productivity of the surveyor.Optics Inertial technology senses changes in motion and is primarily used when GPS signals are obstructed
+Starting with an initial location based on a landmark, inertial technology uses accelerometers and gyroscopes to determine the successive position based on movement. Inertial technology
+complements GPS and is currently used for aerial photogrammetry, vehicle tracking, high-end road construction and marine applications.Inertial

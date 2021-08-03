@@ -1,0 +1,64 @@
+See for explanations on the phonetic symbols found in this chart. Arabic alphabet IPA is pronounced as by some speakers. This is especially characteristic of the Egyptian and southern
+Yemeni dialects. In many parts of North Africa and in the , it is pronounced as .[d ][ ] Levant [ ] is pronounced only in , the name of God, i.e. , when the word follows , , or (after or it is
+unvelarized: )./I/[I J/ al a h/ Allah auibismi I-I h/bismil a h/ is usually a phonetic ./ / approximant In many varieties, are actually (despite what is reported in many earlier works)./ , /
+epiglottal [ , ] is considered to be a uvular sound () by some linguists./x// /[] citation needed Arabic has consonants traditionally termed "emphatic" , which are both and . This
+simultaneous velarization and pharyngealization is deemed "Retracted Tongue Root" by phonologists. In some transcription systems, emphasis is shown by capitalizing the letter, for
+example, is written D ; in others the letter is underlined or has a dot below it, for example, ./t, d,s, / velarized [t, d, 5, ] pharyngealised [t, d, s, ] [12] /d / Vowels and consonants
+can be phonologically short or long. Long (geminate) consonants are normally written doubled in Latin transcription (i.e. bb, dd, etc.), reflecting the presence of the Arabic diacritic mark
+shaddah, which indicates doubled consonants. In actual pronunciation, doubled consonants are held twice as long as short consonants. This consonant lengthening is phonemically
+contrastive: "he accepted" vs. "he kissed."qabalaqabbala [] edit Syllable structure Arabic has two kinds of syllables: open syllables (CV) and (CVV) - and closed syllables (CVC). Every
+syllable begins with a consonant, except in the case where the phrase begins with the definite article, for example, "the director" would be pronounced . When a word ends in a vowel and
+the following word is the definite article, then the initial vowel of the article is elided and the consonant closes the final syllable of the preceding word, for example, "house (of) the
+director," which becomes .[al mudi r]baytu | mudiirfbaytul mudi r] [] edit Stress Although word stress is not phonemically contrastive in Standard Arabic, it does bear a strong
+relationship to vowel length. The basic rules are: Only one of the last three syllables may be stressed. Given this restriction, the last "superheavy" syllable (containing a long vowel or
+ending in a consonant) is stressed. If there is no such syllable, the pre-final syllable is stressed if it is 'heavy.' Otherwise, the first allowable syllable is stressed. In Standard Arabic, a
+final long vowel may not be stressed. (This restriction does not apply to the spoken dialects, where original final long vowels have been shortened and secondary final long vowels have
+arisen.) For example: "book", "writer", "desk", "desks", "library", (MSA) "they wrote" = (dialect), (MSA) "they wrote it" = (dialect), (MSA) "they (dual, fem) wrote", (MSA) "I wrote" =
+(dialect). Doubled consonants count as two consonants: "magazine",
+
+"place". ki-TAA-bunkAA-ti-bunMAK-ta-bunma-KAA-ti-bunmak-TA-ba-tunKA-ta-buukA-ta-buka-ta-BUU-huka-ta-BUUka-TA-ba-taaka-TAB-tuka-TABTma-JAL-lama-HALL Some dialects have
+different stress rules. In the Cairo () dialect, for example, a heavy syllable may not carry stress more than two syllables from the end of a word, hence "school", "Cairo". In the Arabic of ,
+stress is often retracted: "two houses", "their table", "desks", "sometimes", "their school". (In this dialect, only syllables with long vowels or diphthongs are considered heavy; in a
+two-syllable word, the final syllable can be stressed only if the preceding syllable is light; and in longer words, the final syllable cannot be stressed.) Egyptian Arabic mad-RA-saqaa-HI-ra
+Sana BAY-taynMAA-sat-humma-KkAA-tiibZAA-rat-hiinmad-RA-sat-hum Main article: Varieties of Arabic In some dialects, there may be more or fewer phonemes than those listed in the
+chart above. For example, non-Arabic is used in the Maghrebi dialects as well in the written language mostly for foreign names. Semitic became extremely early on in Arabic before it was
+written down; a few modern Arabic dialects, such as Iraqi (influenced by and ) distinguish between and .[v][pI[f] Persian Turkish [p][b] Interdental fricatives ( and ) are rendered as stops
+and in some dialects (such as Egyptian, Levantine, and much of the Maghreb); some of these dialects render them as and in "learned" words from the Standard language. Early in the
+expansion of Arabic, the separate emphatic phonemes and coalesced into a single phoneme, becoming one or the other. Again, in "learned" words from the Standard language, is rendered
+as (in Egypt & the Levant) or (in North Africa) in dialects without interdental fricatives.{ If I[t][d][s][z][d Jf ]Predictably, dialects without interdental fricatives use exclusively, while
+dialects with such fricatives use .[d If If Iz fd] Another key distinguishing mark of Arabic dialects is how they render the original velar and uvular stops , (), and :/q//d / Proto-Semi
+/g//k/_ retains its original pronunciation in widely scattered regions such as Yemen, Morocco, and urban areas of the . It is pronounced as a in several , such as those spoken in Cairo,
+Beirut and Damascus. But it is rendered as a voiced velar stop in Gulf Arabic, Iraqi Arabic, Upper Egypt, much of the Maghreb, and less urban parts of the Levant (e.g. Jordan). Some
+traditionally Christian villages in rural areas of the Levant render the sound as , as do Shia Bahrainis. In some Gulf dialects, it is palatalized to or . It is pronounced as a voiced uvular
+constrictive in Sudanese Arabic. Many dialects with a modified pronunciation for maintain the pronunciation in certain words (often with religious or educational overtones) borrowed from
+the Classical language./q/ Maghreb glottal stop [ Iprestige dialects{g][kI[ Jf Jf J/q/[q] retains its pronunciation in Iraq and much of the Arabian Peninsula, but is pronounced in most of
+North Egypt and parts of Yemen, in Morocco and the Levant, and in some words in much of Gulf Arabic./d /[g][ ][j] usually retains its original pronunciation, but is palatalized to in many
+words in , Iraq and much of the Arabian Peninsula. Often a distinction is made between the suffixes (you, masc.) and (you, fem.), which become and , respectively. In Arabic, is
+pronounced ./k/[t ] Palestine /-ak//-ik/[-ak][-it ] Sana /-ik/[-i ] Main article: Arabic grammar Nouns in Literary Arabic have three grammatical (, , and [also used when the noun is
+governed by a preposition]); three (singular, dual and plural); two (masculine and feminine); and three "states" (indefinite, definite, and ). The cases of singular nouns (other than those
+that end in long ) are indicated by short vowels (/-u/ for nominative, /-a/ for accusative, /-i/ for genitive). The feminine singular is often marked by /-at/, which is reduced to /-ah/ or /-a/
+before a pause. Plural is indicated either through endings (the ) or internal modification (the ). Definite nouns include all proper nouns, all nouns in "construct state and all nouns which
+are by the definite article /al-/. Indefinite singular nouns (other than those that end in long ) add a final /-n/ to the case-marking vowels, giving /-un/, /-an/ or /-in/ (which is also referred
+to as or ). cases nominative accusative genitive numbers genders construct suffixed sound plural broken plural prefixed nunation tanw n Verbs in Literary Arabic are marked for person
+(first, second, or third), gender, and number. They are in two major paradigms (termed and , or and ); two (active and passive); and five in the imperfective (, , , and ). There are also
+two (active and passive) and a , but no . As indicated by the differing terms for the two tense systems, there is some disagreement over whether the distinction between the two systems
+should be most accurately characterized as , or a combination of the two. The is constructed using fused suffixes that combine person, number and gender in a single morpheme, while the
+aspect is constructed using a combination of (primarily encoding person) and (primarily encoding gender and number). The moods other than imperative are primarily marked by suffixes
+(/u/ for indicative, /a/ for subjunctive, no ending for jussive, /an/ for energetic). The imperative has the endings of the jussive but lacks any prefixes. The passive is marked through
+internal vowel changes. Plural forms for the verb are only used when the subject is not mentioned, or is preceding it, and the feminine singular is used for all non-human plurals
+conjugated perfective imperfective past non-past voices moods indicative imperative subjunctive jussive energetic participles verbal noun infinitive tense aspect perfective aspect
+imperfective prefixes suffixes in Literary Arabic are marked for case, number, gender and state, as for nouns. However, the plural of all non-human nouns is always combined with a
+singular feminine adjective, which takes the /-ah/ or /-at/ suffix. Adjectives in Literary Arabic are marked for person, number and gender. There are two varieties, independent pronouns
+and . Enclitic pronouns are attached to the end of a verb, noun or preposition and indicate verbal and prepositional objects or possession of nouns. The first-person singular pronoun has a
+different enclitic form used for verbs (/-ni/) and for nouns or prepositions (/- / after consonants, /-ya/ after vowels). Pronouns enclitics Nouns, verbs, pronouns and adjectives agree with
+each other in all respects. However, non-human plural nouns are grammatically considered to be feminine singular. Furthermore, a verb in a verb-initial sentence is marked as singular
+regardless of its semantic number when the subject of the verb is explicitly mentioned as a noun. Numerals between three and ten show "chiasmic" agreement, in that grammatically
+masculine numerals have feminine marking and vice versa. The spoken dialects have lost the case distinctions and make only limited use of the dual (it occurs only on nouns and its use
+is no longer required in all circumstances). They have lost the mood distinctions other than imperative, but many have since gained new moods through the use of prefixes (most often
+/bi-/ for indicative vs. unmarked subjunctive). They have also mostly lost the indefinite "nunation" and the internal passive. Modern Standard Arabic maintains the grammatical distinctions
+of Literary Arabic except that the energetic mood is almost never used; in addition, Modern Standard Arabic sometimes drop the final short vowels that indicate case and mood. As in
+many other Semitic languages, Arabic verb formation is based on a (usually) , which is not a word in itself but contains the semantic core. The consonants , for example, indicate , indicate
+indicate , etc. Words are formed by supplying the root with a vowel structure and with affixes. (Traditionally, Arabic grammarians have used the root , , as a template to discuss word
+formation.) From any particular root, up to fifteen different verbs can be formed, each with its own template; these are referred to by Western scholars as "form I", "form II", and so on
+through "form XV". These forms, and their associated participles and verbal nouns, are the primary means of forming vocabulary in Arabic. Forms XI to XV are incidental. triconsonantal
+root k-t-bwriteq-r-read-k-leatf- -Ido

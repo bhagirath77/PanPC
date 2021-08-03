@@ -1,0 +1,38 @@
+[] edit Standard key meanings The PC keyboard with its various keys has a long history of evolution reaching back to . In addition to the old standard keys, the PC keyboard has
+accumulated several special keys over the years. Some of the additions have been inspired by the opportunity or requirement for improving user productivity with general office , while
+other slightly more general keyboard additions have become the factory standards after being introduced by certain or software vendors such as . teletypewriters application software
+operating system GUI Microsoft :See also modifier key [] edit From mechanical typewriters selects the upper character, or select upper case of letters. The Shift key in typewriters was
+attached to a lever that moved the character types so that the uppercase characters could be printed in the paper. Unlike mechanical typewriters, PC keyboards do not capitalize all letters
+properly when both shift keys are engaged simultaneously. Shift selects upper case, or if shift is pressed, lower case of letters. In mechanical typewriters, it worked like the Shift key, but
+also used a lock to keep the Shift key depressed. The lock was released by pressing the Shift key. Caps Lock wraps to the next line or activates the default or selected option. ASCII
+keyboards were labeled CR or Return. Typewriters used a lever that would return the cylinder with the paper to the start of the line. Enter [] edit From Teletype keyboards shifts the
+value of letters and numbers from the ASCII graphics range, down into the control characters. For example, CTRL-S is XOFF (stops many programs as they print to screen) CTRL-Q is XON
+(resume printing stopped by CTRL-S). Ctrl ASCII produces an ASCII . It may be used to exit menus or modes. Esc escape character produces an character. Moves to the next tab stop
+Tab ASCII tab is the , an accent backspaced and printed over other letters for non-English languages. Nowadays the key does not produce a backspaceable character and is used for not
+or circa'.~ tilde is a or backtick, also formerly backspaced over letters to write non-English languages; on some systems it is used as an opening quote. The single quote ' is normally
+used for an acute accent.* grave accent is a, another accent for non-English languages. Also used to indicate exponentiation where superscript is not available. circumflex is an, used
+to indicate a note, or multiplication.* asterisk is an, backspaced and overprinted to add emphasis._ underscore | is a , originally used as a typographic separator for optical character
+recognition. Many character sets break it in the middle so it cannot be confused with the numeral "1" or the letter "I" (in most , vertical bar and divided vertical bar are separate
+characters). This character is often known as a "pipe" or a "fencepost." vertical bar EBCDIC codepages [] edit Invented for the PC The (also known as the super key) is a quick way to
+open the in Windows' standard Explorer shell, and can usually be configured to behave similarly in other graphical user interfaces, for Windows and other operating systems. Windows key
+Start menu The brings up a context menu, similar to right-clicking. menu key are the numbered keys, use varies by program, but F1 is often "help." Function keys move on the screen
+When shifted, they select items. Arrow keys moves to the start of text, usually the left side of the screen. Home moves to the end of text, usually the right-most edge of the current line
+End move through the document by pages. PgUp and PgDn deletes the character after the screen position, or the selected items. Delete toggles between insertion and "overwrite"
+mode. Insert originally printed a text image of the screen; nowadays often takes a screenshot. In combination with Alt, it produces a different keycode, . Print screen SysRq_toggles
+between states for the . When off, it acts as arrow and navigational keys. When on, it is a 10-key pad similar to a standard calculator. Preferences vary so much that a favorite default for
+this key can often be configured in the BIOS configuration. Its continued existence on keyboards that separate out the arrow keys has mostly historical reasons. Num lock numeric keypad
+is little-used. On modern software, typing text usually causes earlier text to scroll off the top of the screen or window. Some old programs could disable this and restart at the top of the
+window when scroll lock was pressed. The advantage is that the entire screen full of text does not shift, making it easier to read. It was also used to lock the cursor on its line and scroll
+the work area under it. On spreadsheets such as , it locks the cell pointer on the current cell, allowing the user to use the arrow keys to move the view window around without moving the
+cell pointer. On some consoles (such as the ), it prevents scrolling of messages until another key combination is pressed. Scroll lock Microsoft Excel Linux console pauses either output or
+processing. In combination with Control, it produces a different keycode, for . Ctrl-Break traditionally stopped programs in DOS. Ctrl-Break is also used to halt execution of the debugger in
+some programming environments such as Microsoft Visual Studio. In combination with the Windows key, it brings up the System Properties window in Microsoft Windows environments.
+Pause Break shifts the letters and numbers into the range above hex 0x80 where the international characters and special characters exist in the PC's standard character set. plus a
+number typed on the numeric pad produces special characters, see . Alt Alt Windows Alt keycodes works like the Ctrl+Alt key combination, often used in combination with other keys to
+print special characters like the on non-English keyboards. AltGr backslash may be present on compact keyboards such as those built into laptop computers. When depressed in
+combination with other keys, it either enables the user to access key functions that do not have dedicated keys on the compact keyboard (such as the numeric block), or it controls
+hardware functions such as switching between the built-in screen and an external display, changing screen brightness, or changing speaker volume. These alternate meanings are usually
+indicated with text or symbols of a different color printed on the key, with the 'Fn' key text having that same color. Fn on some keyboards. It is usually on the right side of the right Shift
+key. When depressed in combination with a it sets the key repeat rate. Turbo Function key [1] [] edit Connectors There are three types of used to connect a PC keyboard to the main
+system unit, All three are mechanically different from each other, but the first two are electrically identical (except for XT keyboards, which used a connector mechanically identical to the
+later AT connector, but not electrically compatible with it). The three connector types are listed below in chronological order: connector 5-pin (DIN 41524) "AT" connector. DIN

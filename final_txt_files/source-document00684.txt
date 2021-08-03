@@ -1,0 +1,17 @@
+Anew place to find help Wednesday, January 14, 2009 at 9:25 AM Our Google Map Help Group now has a new home! You may have already heard of (or tried out) the . Today, our will be
+moving to this new platform. The is still an area for users to come together to discuss and share their knowledge of Google Maps and the Local Business Center - only now it has a new look
+
+It's integrated with , which makes it even easier to jump into the forum while you're browsing the help center. You can search for content across both the forum and help center articles as well
+There are a lot of new features that make the forum an effective resource for users. You can vote on which responses you think answer a particular question, and even mark a response as 2
+"best answer" to a question that you've asked. The new system will also recognize contributions from helpful posters. . help forum our help center If you haven't checked out our help forum
+before, now is a great time to come take a look. Post a question if you have one, or take a few minutes to answer one of your fellow Google Maps users. You can find us at Google Maps Help
+Forum Posted by Adam Hughes, Online Operations Sr. Strategist New ways to get around with the Transit Layer Tuesday, January 13, 2009 at 11:05 AM I'm pleased to announce the launch
+of the Transit Layer on Google Maps in more than 50 cities around the world making it easier for citizens and tourists around the globe to access public transportation line information in their
+cities. To switch on the layer go to the More button and select the Transit tab: If you want to book a hotel or make a restaurant reservation you can switch on the Transit Layer and look for the
+public transport line nearest to the location. If you want to travel from A to B you can quickly familiarize yourself with the public transport network and find out which lines to use and where to
+change. The Transit Layer is a part of . Whereas the Google Transit product has the goal to provide full schedule information and routing, the objective of the Transit Layer is to overlay lines
+visually on Google Maps. Think of a virtual metro map on top of Google Maps -- Google Transit maineven when we don't have itinerary planning available, we want you to be able to see public
+transit options that are available.Our goal is to be able to offer transit information as an alternative to driving directions wherever possible. Let's say you plan a visit to London. For a long time
+you wanted to visit Tate Modem, but how do you get there? Simple! You do a search for Tate Modern on Google Maps, and then dlick on "More" and activate "Transit". Now you can see nearby
+Tube stations and which lines serve them. You can even dlick on a station and get passing lines highlighted. The full list of cities iS 544s). 4 0s eres rervr see eussbennursrererabenes
+dr reverre ees FOF agencies that are a part of Google Transit, you can also find schedule data and itineraries.

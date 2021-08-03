@@ -1,0 +1,16 @@
+Home | Sitemap | Contact Us Voyager 2 Voyager 2 was one of a pair of spacecrafts (the other was Voyager 1) launched to explore the planets of the outer solar system and the
+interplanetary environment. Its objectives at each planet were to: investigate dynamics, structure, and composition of the planet's atmosphere; characterize the morphology, geology, and
+physical state of the satellites of the planet; provide information on the mass, size, and shape of the planet, its satellites, and any rings; and, determine the magnetic field of the planet. The
+mission was estimated to cost several hundred millions of dollars. Voyager 2 is speeding away from the Sun at a velocity of about 3.13 AU/year (1AU (Astronomical unit 150 millions of
+kilometers). Communications with the spacecraft are provided through a high-gain antenna with a low-gain antenna for backup. Data could be stored for later transmission to Earth through the
+use of an on-board digital tape recorder. In order carry out the complex sequences of spacecraft motions and instrument operations, three interconnected on-board computers were utilized.
+The spacecraft system and its instruments are powered through the use of three thermoelectric generators using radioactive source (Plutonium-238 in the form of plutonium oxide which, as it
+decayed, gave off heat). A thermoelectric device is used to convert the heat to electric power which slowly decreases with time as the radioactive material is expended. While the initial (at
+launch) power output of the generators was about 470 Watts of 30 V DC current, it had fallen off to about 335 W by 1997 (about 20 years after the launch). It is believed that despite the
+decrease of the electric power of the generators, some limited instrument operations on the spacecraft can be carried out at least until 2020. Voyager 2 was launched before Voyager 1, with
+liftoff occurring 20 August 1977, but on 15 December 1977, while both spacecraft were in the asteroid belt, Voyager 1 surpassed Voyager 2 distance from the Sun. Voyager 2 flew by Jupiter
+(closest approach on 09 July 1979) and Saturn (05 August 1981). During these flybys, Voyager 2 obtained images roughly equal in number to Voyager 1 (18,000 at Jupiter, 16,000 at Satur)
+The spacecraft then went to flybys of Uranus (24 January 1986) and Neptune (25 August 1989). Voyager 2 obtained about 8,000 images of Uranus and its satellites, and about 10,000 images
+of Neptune and its satellites. Astronautics faculty Dr. Jerry Hintz worked on Staff of the Voyager Flight Engineering Office for the Neptune Encounter, and Dr. Don Shemansky worked on
+designing instrument measuring ultraviolet radiation in space. The Golden Record plaque ("Message in the bottle) attached to sides of the Voyager 1 and Voyager 2 spacecrafts. Voyager 2
+spacecraft moving towards the giant outer planets in our solar system,

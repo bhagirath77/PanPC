@@ -1,0 +1,9 @@
+Managed Services & Installation IP Satellite provides quick, cost-effective distribution of video and data, especially to multiple remote sites simultaneously, in a way that combines satellite and
+Intemet technologies. It is most effectively used between remote sites continually and permanently connected to the host, such as branch offices, retail stores or a company's manufacturing
+facilities. IP differs from traditional KU-band satellite in that a much smaller slice of a transponder is required to multicast video in the form of data files. These data files can then be stored and
+forwarded to the end user, thus enabling video on demand. Because the video is sent in an IP format, it more easily integrates into terrestrial networks such as LANs/WANs and can also be
+used to distribute large data files. A typical downlink site will require a sub-meter dish and a combination receiver/server/router. Sending video/data via IP Satellite also overcomes the
+challenges associated with terrestrial broadband solutions. First, with a private IP network, you can bypass the congestion of the public Intemet. Second, you aren't limited by the spotty
+coverage of DSL/cable modems or the astronomical expense of T1 lines. IP Satellite allows you to reach every one of your sites securely, reliably and economically. For more information on IP
+satellite technology and Broadcast International's IPsatsolution marketing alliance with Helius and Microspace, go to . www.ipsatsolution.com Benefits of IP Satellite Store and forward,
+on-demand capability, as well as live events Reduced cost of space segment Integration with LANs/WANs for desktop viewing High-speed data delivery

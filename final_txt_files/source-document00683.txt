@@ -1,0 +1,15 @@
+Table of Contents  Download the full report Wireless communications will increasingly be part of a larger bundle of services delivered to both homes and mobile environments. The main
+candidates to offer such bundles are leading phone companies, pay-TV services, and old and new wireless-only operators. Ideally, a service will offer any combination of voice, broadband
+Intemet, and video entertainment delivered to homes and mobile environments. In reality, service providers have strengths and weaknesses. Obviously, cable-TV companies have few resources
+for delivering mobile voiceCIbut they are banding together to gain purchasing power to resell cellular services. Similarly, telcos are traditionally weak in delivering videoCIbut recent
+developments indicate that some Baby Bells are strongly motivated to offer pay TV. What is the allure of bundled services? Users hope to save money, or at least to consolidate several monthly
+bills into a single payment. Services aim to keep customers loyal, expand business by entering new markets, and capture market share from companies that were not traditionally their
+competitors. And technology suppliers hope to sell a range of enabling tools, software, and integration projects to service providers that may have little expertise in their new lines of business.
+Existing services pose barriers to entry to competitors. But competitors perceive a strategic need to advance their own plans to offer bundles. If customers adopt fixed-mobile bundles offered
+by fixed-line telcos, cellular-only competitors can respond by supporting voice-over-DSL using preexisting home Wi-Fi networks. Emerging portable broadband services will try to provide
+full-featured voice and fast Internet connections, both at home and in mobile environmentsCland fixedline telcos may try to repurpose their wireless local-loop spectrum to match the offer. In
+the United States, Sprint and Clearwire have access to abundant spectrum and are likely to offer fixed/mobile voice/data bundles. Also in the United States, cable TV's entry into voice services
+motivates fixed-line telcos to renew efforts to enter the video business. As a result, readers can expect diverse service providers to invade one another's traditional markets. To enable the
+competition among many service models, we are experiencing technology's equivalent of a military arms race. We welcome feedback about this report and the program, and we encourage you
+to contact us with any questions or suggestions. For more information, contact Michael Gold at telephone: ; fax: We appreciate your support of our program and look forward to working
+closely with you as a Digital Futures sponsor.

@@ -1,0 +1,17 @@
+Foundry HanYang System Co., Ltd. (aka /SaeGulRim) is a sans-serif type designed especially for the -language script, designed by HanYang System Co., Limited (now Hanyang Information &
+Communications Co., Ltd). It is an expanded version of Hanyang Gulrim ( ).New Gulim unicode font Korean Font is hinted at 0-13 points, hinted and smoothed at 14 points or higher. It
+contains 49,284 glyphs and no kerning pairs in v3.10. This font was part of Old Korean support tools for MS Word 2000 and 2003. There are also alternative forms for the letters: It covers
+following ranges: Basic Latin, Latin-1 Supplement, Latin Extended-A, Spacing Modifier Letters, Greek, Cyrillic, Hangul Jamo, General Punctuation, Letterlike Symbols, Number Forms, Arrows,
+Mathematical Operators, Enclosed Alphanumerics, 80x Drawing, Geometric Shapes, Miscellaneous Symbols, CJK Symbols and Punctuation, Hiragana, Katakana, Hangul Compatibility Jamo,
+Enclosed CJK Letters and Months, CJK Compatibility, CJK Unified Ideographs Extension A, CJK Unified Ideographs, Hangul Syllables, CJK Compatibility Ideographs, Halfwidth and Fullwidth
+Forms. It basically extended the Gulim font to support all glyphs in CJK Unified Ideographs Extension A, CJK Unified Ideographs (up to Unicode 3.0), and miscellaneous glyph updates, with
+slight change in font metrics. The font is still panosed as Obtuse Cove and the weight is still Medium. The proportion and the contrast is Any. In the normal Gulim font, it's panosed as Normal
+Sans. It also covers the following ranges in Maintype: Basic Latin (128 characters), Latin-1 Supplement (96 characters), Latin Extended-A (128 characters), Latin Extended-B (7 characters),
+Spacing Modifier Letters (10 characters), Greek and Coptic (73 characters), Cyrillic (94 characters), Hangul Jamo (250 characters), Latin Extended Additional (8 characters), General
+Punctuation (25 characters), Superscripts and Subscripts (6 characters), Currency Symbols (5 characters), Letterlike Symbols (10 characters), Number Forms (26 characters), Arrows (13
+characters), Mathematical Operators (43 characters), Miscellaneous Technical (5 characters), Enclosed Alphanumerics (82 characters), Box Drawing (97 characters), Block Elements (8
+characters), Geometric Shapes (34 characters), Miscellaneous Symbols (24 characters), CJK Symbols/Punctuation (17 characters), Hiragana (83 characters), Katakana (86 characters), Hangul
+Compatibility Jamo (94 characters), Enclosed CJK Letters and Months (58 characters), CJK Compatibility (80 characters), CJK Unified Ideographs Extension A (6582 characters), CJK Unified
+Ideographs (20902 characters), Hangul Syllables (11172 characters), Private Use Area (5916 characters), CJK Compatibility Ideographs (302 characters), Alphabetic Presentation Forms (2
+characters), Halfwidth and Fullwidth Forms (100 characters), Specials (1 character). In the Private Use Area (E000 F8FF), it includes about 5000 precomposed pre-1933 Korean syllables, small
+form variants of , some small hanja glyphs in . orthography Hangul Jamos regular script The font was once available as part of 'MICROSOFT Old Hangul Support Pack'. Contents

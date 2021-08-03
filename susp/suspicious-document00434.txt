@@ -1,0 +1,12 @@
+Hauppauge Wireless MediaMVP Use the Wireless MediaMVPas the link between your BeyondTV PC and your TV over either a wireless 802.11G or wired 10/100 Mbit Ethernet network.
+Listen to digital audio, watch recordings and view your digital photos all on your TV! Check out this that explains how the Hauppauge Media MVP can be used with Beyond TV.
+$125.00$149.00 Overview Hauppauge's Wireless MediaMVP@ is the link between your TV and your PC, allowing you to watch and listen to PC based music, videos, digital pictures and
+Internet radio on your TV set. wMVP (as it is also called) works with either a wireless 802.11G or wired 10/100 Mbit Ethernet network. You can use up to 24 on a home network, or up to
+four wireless MediaMVPs. Listen to PC music on one TV set while watching an MPEG movie on another! wired MediaMVPs MediaMVP is a Linux based digital media receiver. Inside
+MediaMVP is a high performance IBM PowerPC processor and a hardware MPEG audio/ video decoder for MPEG-1/2 videos and MP3 music. MediaMVP receives digital media from the PC via
+the Ethernet LAN, decodes the media and outputs audio/video to the TV set through the S-Video and composite A/V connectors. Digital pictures are software decoded by MediaMVPs
+processor. When used in conjunction with a Hauppauge WinTV PVR installed in the home PC, a complete home TV and digital media distribution system can be made. Use in combination
+with the WinTV PVR to record your favorite TV shows on the home PC, then watch recordings on a TV set through the MediaMVP via the home network. Beyond TV Key Features Watch
+and listen to PC music, videos or pictures on your TV .. wirelessly! Watch PC based music, videos and pictures on your TV set. Connects to wireless 802.11G wireless networks. Also will
+connect to wired Ethernet local area networks. Play MP3 and WMA music and playlists on your TV set Play MPEG-1, MPEG-2 and Divx@ videos on your TV set View JPEG and GIF digital
+pictures on your TV set. Play slide shows with music, too! New! Listen to Internet radio stations See the for complete specifications. Hauppauge MediaMVP Datasheet Screenshots

@@ -1,0 +1,16 @@
+Back Combustion Dynamics of Conventional and Alternative fuel Alternative fuel combustion at high pressure and temperature is a complex problem involving fluid mechanics, multiphase heat
+transfer and chemistry which needs to be understood for improving fuel flexibility of current gas turbines as well as for better portable design of the premixers, afterbumers and fuel injection
+schemes. This project aims specifically at a better understanding of alternative fuel combustion dynamics at high pressures with emphasis on syngas through exhaustive series of experiments
+and computations. The experimental part of the project will involve adapting or piggybacking on the full scale combustor along with innovative designs of premixer and fuel injection
+Prototypical swirl burner can also be designed and mated with the a proposed high pressure combustor for smaller scale studies of combustion dynamics. Measurements of flame structure,
+ignition time and flame stability with respect to upstream flow modulations, homogeneity in the premixer and composition gradients will be carried out for a wide range of inlet flow conditions,
+pressure ranges [5-40 atm], fuel injections, effective fuel/air ratio and wall cooling schemes. Detailed measurements of velocity and species concentrations, pollutant emissions, gas
+temperature in the recirculation zone and reaction kinetics will also be performed. Measurements will involve laser based diagnostics methods like laser induced fluorescence, laser induced
+incandescence, Rayleigh, Raman and particle image velocimetry. Special care will be taken to adapt the diagnostic methods at higher pressures. This task is non-trivial and involves innovative
+redesign and extension of existing spectroscopic techniques. For e.g. laser induced fluorescence will have significant quenching effects at high pressures and needs to be modified and adapted
+for quality data. Mixing characteristics and homogeneity in the premixer will be investigated using tunable diode laser absorption spectroscopy and laser induced fluorescence in addition to
+computational modeling involving characterization of fuel injection by analyzing spray dynamics for various fuel types. Particular effort will be dedicated towards mechanistic modeling of the
+processes of fuel droplet breakup, topology of atomization, penetration and entrainment, which are crucial for mixing and subsequent homogeneity of the fuel-air mixture.
+
+Diagnostics/sensor development in the combustor Soot distribution in a vortex-flame interaction as in turbine combustion as a) function of time of interaction, b) vortex strength
+and c) Flow field characterization in a flame-vortex interaction

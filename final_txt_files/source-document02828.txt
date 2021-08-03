@@ -1,0 +1,8 @@
+Contacts Larry Smarr is founding director of the California Institute for Telecommunications and Information Technology and Harry E. Gruber professor in the Jacobs School's Department of
+Computer Science and Engineering at UCSD. Smarr is Principal Investigator on the NSF OptIPuter LambdaGrid project, the Moore Foundation CAMERA marine microbial metagenomics project,
+and is Co-PI on the NSF Greenlight Major Research Instrumentation project. As founding director of the National Center for Supercomputing Applications and the National Computational
+Science Alliance, Smarr has driven major contributions to the development of the national information infrastructure: the Internet, the Web, the emerging Grid, telepresence, and scientific
+visualization. He was a member of the President's Information Technology Advisory Committee for President Clinton and served until 2005 on the Advisory Committee to the Director of the
+National Institutes of Health and the NASA Advisory Council. He was a member of the California Governor's Task Force on Broadband in 2007. He is a member of the National Academy of
+Engineering and is a Fellow of the American Physical Society and the American Academy of Arts and Sciences. In 2006 he was presented with the ESRI Lifetime Achievement Award and
+received the IEEE Computer Society Tsutomu Kanai Award for distributed computing systems achievements. Dr. Smarr Computational Sciences & Mathematics

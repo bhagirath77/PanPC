@@ -1,0 +1,15 @@
+Article by Haresh Khemani (15,750 pts ) Published on May 6, 2008 AutoCAD is one of the most popular CAD software programs. Autodesk has launched the latest version named AutoCAD
+2009. It has great looks and a number of additional features, which have been dicussed in this article. 1017 views and faster to open the drawing files and edit them. is popular among design
+engineers just like office software. CAD software provides design and drafting tools for mechanical, civil, electrical engineers and other engineering professionals and architects, interior
+decorators, HCAV designers etc. One of the most popular CAD software programs is AutoCAD. Its latest version, AutoCAD 2009, has been released by Autodesk. AutoCAD 2009 has a beautiful
+user interface and a number of new features. CAD software Here are some special features: 1) : When you first see it you will feel as if you are working on Office 2007. At the top of the
+window is a ribbon with tabs for its defaultRibbon 2D Drafting and Annotation and 3D modeling workplaces. It is also very easy to customize the ribbon to add frequently used buttons and
+remove the ones that are used rarely. The ribbon feature of the user interface increases the productivity of the designer. 2): AutoCAD 2009 has an interactive tool called ViewCube which is
+used to rotate and orient any solid or surface model. All you have to do is rotate the cube and accordingly the model also rotates. Interactive tool 3) : The SteeringWheels tool allows quick
+access to the orbit, pan, center and zoom commands. This tool is highly customizable as you add walk through commands to create and record walk through of your model.Quick access tool 4)
+: AutoCAD 2009 has a browser type of interface that allows reviewing and working on several files very easily. It allows viewing the detailed information about the file size, and the file creator.
+ItCis very convenient to organize recently used files by name, date or title.Browser interface 5) : Within AutoCAD 2009 you can record the task, add simple text messages, and requests for
+input and finally quickly play the recorded files.Record your actions 6) : The new layer dialog makes creating and editing layer properties faster and the chances of errors are minimized. All the
+changes made in the dialog can be instantly viewed in your drawing.Layer dialog 7) : AutoCAD 2009 has a quick properties menu that helps access the properties information with minimum.
+steps thus increasing the productivity of the users.Quick properties menu 8) : The new quick view feature shows the thumbnail views of the files instead of the names, thus it becomes
+easierQuick view

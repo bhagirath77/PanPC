@@ -1,0 +1,12 @@
+In order to support future ESA projects involving GPS (global positioning satellite) navigation, ESA's Operations directorate has established a GPS Tracking and Data Analysis Facility
+(GPS-TDAF) co-located in the Navigation Office at ESA/ESOC. The GPS-TDAF system integrates data analysis, operations support and communication software tools and works with GPS
+receivers on board satellites in combination with receivers installed worldwide (including at six ESTRACK station sites) to provide highly accurate orbit determination services. ESA's
+GPS-TDAF also provides other geodesy related services having very stringent accuracy requirements within the framework of the International GNSS Service (IGS). Access links at right
+for more technical information. For more information on alll activities at ESA's Navigation Office, contact: GPS Tracking & Data Analysis Facility Diagram of GPS-TDAF system The IGS
+(International Global Navigation Satellite Systems Service) is a voluntary federation of more than 200 agencies worldwide that pool resources and permanent GPS & GLONASS station data to
+generate precise GPS and GLONASS products. The goals of ESA's GPS-TDAF system include: Build and operate of a network of high-precision geodetic GPS receivers at ESTRACK station
+sites, including communications to ESOC Development of related software Development of services related to processing GPS data, solving for the orbits of the GPS satellites, station positions
+and motions, and Earth orientation parameters Monitoring of variations between GPS satellite clocks and ground receiver clocks Active participation in the IGS_Ionospheric mapping in
+near-real time for ESA tracking stations, providing support to all ESA satellites being tracked from these sites Orbit determination for Earth satellites equipped with on-board GPS receivers
+GPS-TDAF receivers at Kourou station Contact Prof. John Dow, Head of Navigation Office ESA/ESOC, Darmstadt Tel: +49-6151-90-0 email: john.dow [at] esa.int Last update: 10 October
+2007

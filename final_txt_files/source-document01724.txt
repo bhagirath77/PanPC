@@ -1,0 +1,16 @@
+Real-time, online class sessions with an instructor 18 hours Real-time extra-help sessions with an instructor Additional tutoring hours are available 3 hours Additional support via email from
+expert instructors Customized homework assignments Time to complete the entire course 50+ hours Length of access to course and practice materials 120 days or completion of program
+120 days Back to GMAT Online Courses var previousMenuld = 0; var previousMenuA = null; function MenuClick(source,e) { // if (jQuery) { // $(document).ready(function() { var path
+
+var prevParentA,targetParentA,parent; // DMC 4/29: don't slide up or down if we're actually navigating to a new page... var sLink,bIsLink; sLink=source.href; blsLink=true; if ((sLin
+sLink=="+")) blsLink=false; else { if (sLink==window.location) bisLink=false; sLink=sLink.substring(0,sLink.length-1) if (sLink: Ise; } if (bIsLink
+
+/* Rewritten by DMC 5/2. Recursion is your friend. This probably will need a little more work; we need to get the id and
+
+ 
+
+  
+
+      
+
+window. location) bisLin! ue) return;

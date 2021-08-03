@@ -1,0 +1,54 @@
+[] edit Case-control studies For establishing cause-and-effect relationships, e.g., between types of sexual behavior developing cervical cancer, no is more highly regarded than the
+randomized . For medical interventions, the gold standard is the , a specific type of experiment. While such trials may be ideal for testing the efficacy of (what are hoped to be) beneficial
+interventions, such as surgeries or drug treatments, there are many instances in which trials would be impossible, impractical, and/or unethical. For example, it would generally be seen
+as unethical to randomly assign research subjects to be exposed to toxic substances in order to evaluate the substances effects. study design experiment double blind randomized
+controlled trial such as death from cancer using randomized clinical trials or other controlled prospective studies requires that large populations be tracked for lengthy periods to observe
+disease development. In the case of lung cancer this could involve 20 to 40 years, potentially longer than the careers of many epidemiologists. In addition, these studies, which generally
+rely on government funding, are unlikely to be supported because of the low likelihood that the population will develop the disease.Studying infrequent eventsCase-control studies use
+patients who already have a disease or other condition and look back to see if there are characteristics of these patients that differ from those who don t have the disease. The
+case-control study provides a cheaper and quicker study of risk factors; if the evidence found is convincing enough, then resources can be allocated to more "credible" and comprehensive
+studies. One major disadvantage of is that they do not give any indication of the absolute risk of the factor in question. For instance, a may tell you that a certain behavior may be
+associated with a tenfold increased risk of death as compared with the control group. Although this sounds alarming, it would not tell you that the actual risk of death would change from
+one in ten million to one in one million, which is quite a bit less alarming. For that information, data from outside the must be consulted.case-control studiescase-control studycase-control
+study [] edit Study methodology [] edit Comparison with cross-sectional studies involve data collected at a single point in time, often using survey research methods. In epidemiology,
+cross-sectional studies often involve secondary analysis of data collected for another purpose. Major sources of such data are often large institutions like the or the in the United States.
+Such studies can cover study groups as large as the entire population of the United States, but others are small and geographically limited. Cross-sectional studies Census Bureau Centers
+for Disease Control can contain individual-level data (one record per individual, for example, in national health surveys). Others, however, might only convey group-level information; that
+is, no individual records are available to the researcher. Recent census data is not provided on individuals - in the UK individual census data is released only after a century. Instead data
+are aggregated at the group level. For example, by zip code, urban zone, or even by states/provinces or country.Cross-sectional studies For example, although confirm that people who
+consume large amounts of also show high rates of many other diseases, they cannot provide confirmation that the first variable is a cause and the second variable is its effect. The
+primary difficulty is that most cross-sectional data have nothing to say about temporal order: which came first, the drinking or the depression? An important secondary difficulty is that
+cross-sectional studies often fail to control for' confounding factors, third variables that affect or even determine the relationship between the putative cause and effect. cross-sectional
+studies alcohol Another complication facing epidemiologists conducting secondary analysis of cross-sectional data is that often data are only available on an aggregate or "ecological"
+basis. For example, statistics on infant mortality and low birth weight might not be available on a level below the city or county. Inferences about individuals cannot reliably be made from
+ecological data; such inferences run afoul of the . For example, it might be true that there is no between infant mortality and family income at the city level, while still being true that
+there is a strong relationship between infant mortality and family income at the individual level. All aggregate statistics are subject to compositional effects, so that what matters is not
+only the individual-level relationship between income and infant mortality, but also the proportions of low, middle, and high income individuals in each city. ecological fallacy correlation
+Because case-control studies are based on individual-level data, they do not exhibit the problems associated with aggregated cross-sectional data. In the study, the association is
+determined for each individual pair, then aggregated. This provides a more specific analysis of the possible associations, and potentially determines more accurately which possible causes
+are directly related to the effect being studied, and which are merely related by a common cause.case-controlcase-control_One benefit of cross-sectional studies is that they are
+considered to be "hypothesis generating", such that clues to exposure/disease relationships can often be seen in these studies, and then other studies, such as case-control, cohort studies
+or even sometimes randomized trials can be implemented to study this relationship. [] edit Problems with case-control studies They are rated as low quality, grade 3, on a standard scale
+of medical evidence. [3] One problem is that of . The nature of case-control studies is such that it is difficult, often impossible, to separate the chooser from the choice. For example,
+studies of road accident victims found that those wearing seat belts were 80% less likely to suffer serious injury or death in a collision, but data comparing rates for those collisions
+involving two front-seat occupants of a vehicle, one belted and one unbelted, show a measured efficacy only around half that. Several case-control studies have shown a link between use
+and reductions in head injury, but long-term trends - including from countries which have substantially increased helmet use through compulsion - show no such benefit. Analysis of the
+studies shows substantial differences between the 'case' and control populations, with much of the measured benefit being due to fundamental differences between those who choose to
+wear helmets voluntarily and those who do not. confounding bicycle helmet More controversially, a significant number of case-control studies identified a link between combined hormone
+replacement therapy (HRT) and reductions in incidence of coronary heart disease (CHD) in women. Credible mechanisms were advanced as to why this link might be causal, and a
+consensus arose that HRT was protective against CHD. The evidence was sufficiently compelling that a full clinical trial was initiated - and this indicated that the effect was both far smaller
+and - combined HRT showed a small but significant in risk of CHD in the study population. Subsequent analysis has shown that the group of women opting for HRT were predominantly
+from higher socio-economic groups and therefore had, on average, better diet and exercise habits. The studies had falsely attributed the benefits of these confounding factors to the
+intervention itself. There have been similar controversies regarding links between vitamins and cancer; MMR and autism; antibiotics and asthma; cannabis and psychosis. All these have
+been identified through small-scale case-control studies but fail to show any effect in whole population time series or other investigations. [4] in the opposite directionincrease [5] A
+comparison with the tobacco/cancer link is instructive. Here the case-control studies pointed the way, but further confirmation was available in the form of time series showing rates of
+lung cancer tracking levels of smoking in whole populations, and in the form of laboratory experiments on animals. A further problem is that case-control studies depend on correct and
+honest reporting of the risk factor, which may be many years in the past or may be seen as socially (un)desirable. Case-control studies can be biased if the risk factor inquired about is
+incorrectly reported. Recent research has shown that a substantial majority of highly cited case-control studies are subsequently contradicted or found to be substantially over-ambitious
+when more rigorous investigations are conducted. As a result the following guidelines have been proposed when assessing case-control evidence : [6] Do not to contradiction. Do not
+ignore contradictory evidence but try to understand the reasons behind the contradictions. turn a blind eye Do not be seduced by mechanism. Even where a plausible mechanism exists,
+do not assume that we know everything about that mechanism and how it might interact with other factors. Suspend belief. Of the researchers defending observational studies, Pettiti
+says this: "belief caused them to be unstrenuous in considering confounding as an explanation for the studies". Do not be seduced by your desire to prove your case. Maintain scepticism.
+Question whether the factor under investigation can be that important; consider what other differences might characterise the case and control groups. Do not extrapolate results beyond
+the limits of reasonable certainty (e.g. with grandiose forecasts of "lives saved"). Specifically, ask whether the was used to overreach.really the rare disease assumption Case-control
+studies are a valuable investigative tool, providing rapid results at low cost, but caution should be exercised unless results are confirmed by other, more robust evidence.

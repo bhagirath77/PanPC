@@ -1,0 +1,27 @@
+Frontier Communications Partners with Teradata And Scorecard Systems to Improve the Customer Experience Using an Enterprise View of Data and Subscriber Analysis to Uncover and Address
+Subscriber Needs --(NYSE: - ), announced today that it is now using a from Teradata Corporation (NYSE: - ), and a subscriber analysis application to gain better insight into their customer
+behavior. Frontier Communications is the nation's second largest rural local exchange telephone company, providing services including phone, Internet, wireless Internet and DISH satellite TV
+to customers in 24 states. TORONTO, Ontario & MIAMISBURG, Ohio, January 15, 2009--(BUSINESS WIRE) Frontier Communications FTR News Teradata Active Enterprise Data Warehouse TDC
+News Scorecard Systems Teradata, the worlds largest company solely focused on and , provides integrated data to deliver a company-wide view of business operations, subscribers and
+customers. Scorecard Systems is a leader in subscriber analysis for carriers in the telephony, broadband, wireless and cable/satellite TV industries. By implementing the two together, Frontier
+will gain significantly more insight into customer and product movement. data warehousing enterprise analytics "The combination of a Teradata Enterprise Data Warehouse and Scorecards
+Subscriber Analysis Application gives us great visibility into the needs and usage patterns of our customer base. Traditionally, fixed-line carriers have relied upon hard-coded reporting platforms
+that do not give deep insight into value-added service and bundled activity," said Scott DeLap, Frontier's director of financial systems and reporting. "In contrast, our new deployment gives
+Frontier accurate, auditable and deep insight into migration paths, feature-level churn, and other key metrics. The allows us to link this data with all of our other key enterprise information and
+to process it quickly." Teradata platform In addition, the Subscriber Analysis Application running directly on Teradata lets Frontier apply business rules and business intelligence tools uniformly
+for more detailed and accurate reporting and analysis. "Telecom carriers worldwide realize that detailed subscriber and unit reporting is vital to their success. Traditional add up the service
+orders and put the results ina spreadsheet, or hard-coded business rules in a homegrown solution, do not provide the accuracy and detail needed to analyze bundled, converged products,
+said Simon Marwood, chief executive officer of Scorecard Systems. "Frontier is leveraging the power of Teradata and the pre-built business rules engine from Scorecard to ensure its access to
+the most detailed, auditable level of information available. By accelerating the flow of information about customers response to product and service offerings, Frontier can easily adjust the
+business rules and linkages between products without a large IT development effort." Frontier is also using the Teradata Solution to support its , its predictive analytics application and for
+business intelligence queries and reports for its finance organization. customer relationship management application "The integrated data from throughout the enterprise in the Teradata
+Enterprise Data Warehouse gives Frontier a 360-degree view of products, customers and operations for better, faster decision making. In an ultra-competitive environment, Frontier knows that
+an excellent customer experience is a key differentiator and the competitive edge that will increase market share and boost retention," said David Grant, vice president of global industry
+solutions, Teradata. "Frontier is continuing to distinguish itself by focusing on areas that impact customer experience. Putting the customer first promotes their loyalty, resulting in profitability
+across products and services." Frontier Communications Corporation (NYSE: - ) is one of the nation's largest rural local exchange carriers and offers phone, Intemet, wireless Internet, DISH
+satellite TV, Peace of Mind computer support and more to residential and business customers in 24 states. For more information, visit About Frontier Communications Corporation FTR News
+www.frontieronline.com Scorecard Systems Inc. was founded in 1996 as a business intelligence company specializing in telecommunications, cable and broadband companies. In 2000, the
+company developed its Subscriber Analysis Application, a robust application for delivering deeper, more accurate customer/service activity reporting. This application has been deployed at
+dozens of carriers, and measures results for over 100 million subscribers.About Scorecard Systems Teradata Corporation (NYSE: - ) is the world's largest company solely focused on raising
+intelligence through data warehousing, consulting services and enterprise analytics. Teradata is in more than 60 countries and on the web at. Teradata is a trademark or registered trademark of
+Teradata Corporation in the United States and other countries.About Teradata

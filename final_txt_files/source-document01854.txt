@@ -1,0 +1,6 @@
+The Sun is the closest star to the earth, at a distance of some 150 million kilometers away. Because of this we are able to study the Sun in great detail using an array of instrumentation both in
+and on the . With dedicated solar telescopes we are able to identify individual features on the and in the . The average star, however, is many light years away, the closest being Proxima
+Centauri at approximately 4.5 light years distance. The great distances involved in stellar astronomy means that normal telescopes are not particularly useful in studying the average star.
+
+Instead special observational techniques are required in order to obtain some information about any particular star. Before discussing these techniques it is important to understand some basic
+concepts about stars, including the Sun. Seeing Stars!

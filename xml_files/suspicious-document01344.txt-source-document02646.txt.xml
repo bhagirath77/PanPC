@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<document reference="suspicious-document01344.txt">
+
+<feature name="plagiarism" obfuscation="none" source_length="119" source_offset="603" source_reference="source-document02646.txt" this_length="115" this_offset="11037" type="artificial"/>
+</document>

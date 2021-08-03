@@ -1,0 +1,112 @@
+Systems Biology at Pacific Northwest National Laboratory Systems biology researchers at Pacific Northwest National Laboratory (PNNL) focus on understanding gene and protein
+networks involved in individual cell signaling, communication between cells in communities, and cellular metabolic pathways. Our systems biology research program is primarily driven
+by the , a program. Biomolecular Sciences Initiative Laboratory R&D Talented Multidisciplinary Teams The integrated talents of our multidisciplinary research teams lend strength to our
+systems biology research. Our biologists, microscopy experts, and proteomicists study the thousands of proteins and/or other cellular components, which are regulated through
+variations in their location, their activity, and their state of modification. This intermediate Majorana experiment will consist of ~100 kg of Ge in the form of high-resolution intrinsic
+germanium detectors located deep underground within a low-background shielding environment. Observation of a sharp peak at the BB endpoint will quantify the OvBB half-life and thus
+the effective Majorana mass of the electron neutrino.76 Please see the or recent for more details. overview talk white paper Newsroom for Dr. Ron Brodzinski. Memorial under
+development which may benefit Majorana! (Hull et al, 28th Seismic Research Review: Ground-Based Nuclear Explosion Monitoring Technologies, 2006, also PNNL-SA-52058) New detector
+technology Vol. 4.No. 3Current Issue: Volume 4, Issue 3 November 17, 2008 Editor's Note Climate change could have dramatic consequences for Northwest energy sources, agriculture,
+forestry, business interests, and the environment. With 100 experts dedicated solely to atmospheric science and climate change, Pacific Northwest National Laboratory (PNNL) is
+providing a better understanding of this complex topic. Whether in the air, on mountains and glaciers; in computer laboratories, speaking to Congressional committees, or collaborating
+with the worldwide science community, PNNL is bringing objective, valuable climate insights to decision makers. The national multiprogram laboratories are: Argonne National Laboratory
+Argonne, IL Brookhaven National Laboratory Upton, NY Idaho National Laboratory Idaho Falls, ID Lawrence Berkeley National Laboratory Berkeley, CA Lawrence Livermore National
+Laboratory Livermore, CA Los Alamos National Laboratory Los Alamos, NM Oak Ridge National Laboratory Oak Ridge, TN Pacific Northwest National Laboratory Richland, WA Sandia
+National Laboratories Albuquerque, NM Laboratory News PNNL has a who is authorized to receive and address complaints and inquiries concerning acts, omissions and alleged
+improprieties from licensees and others in a commercialization partnership . The Ombudsman system has been established for conflict resolution if the relationship between Battelle and
+a potential licensee or business partner becomes strained. The Ombudsman is an impartial party who may investigate the alleged improprieties and take appropriate action to aid in
+the resolution of the issues. Today, we are assessing the vulnerability of critical infrastructures across the nation and teaming with others to ensure our air and seaports are protected
+from the threat of terrorist attacks. We are training border enforcement officials worldwide to thwart the smuggling of chemical, biological or nuclear materials. We're also instructing
+emergency first responders in every country that houses a U.S. embassy. Whether it's discussing innovative methods to secure commerce in the Pacific Northwest and across the nation
+or 21st century protections for international borders, our researchers look forward to sharing with you their role in protecting our homeland. Electronics are routinely required to bring
+many of our sensor and measurement system concepts into practical applications and to the functional requirements of our clients. In many cases, this may build on PNNL-developed
+sensors or measurement ideas. However, it also includes the incorporation of commercial sensors and measurement instruments or subsystems into integrated systems to meet client
+requirements. We also develop and deliver specialized electronics designed to meet specific client requirements. System Integration Integrated systems are often required for
+applications that involve robust measurement methods, automated data acquisition, and effective process monitoring and control. We routinely perform system integration functions to
+ensure that complex systems are designed, effectively reviewed at the design stage, fabricated and assembled, tested and validated, and delivered to the client. The Academy's goal
+was to enhance the teachers scientific literacy and deepen their understanding of the nature of science. This project was made possible with funds from the U.S. DOE Office of Science,
+Office of Workforce Development for Teachers and Scientists. During the three-year program, teachers developed lesson enhancements aligned with the National Science Education
+Standards and Washington State Essential Academic Learning Requirements to fill gaps in the existing curricular materials. Armed with a "need to know" about earth and environmental
+science, the teacher leaders set out to increase their own understanding of earthquakes, volcanoes, fossils and energy flow through natural systems. Welcome to the Pacific Northwest
+National Laboratory publications page. You can use this page to find citations to materials published since 1998 by PNNL staff or by external researchers using PNNL facilities. The latter
+are denoted by a logo preceding the citation. Full text copies of many PNNL formal reports are available from this page either as PDF or HTML files. Most of the information was in
+textual form, but in different styles, for various purposes that could not be reliably processed for information content. Researchers at Pacific Northwest National Laboratory began to
+explore whether a computer program could be developed to quickly and automatically convey the thematic content of large sets of unformatted text documents. The goal was to provide
+technology that enables analysts to spend quality time doing real information exploration by shifting workload from processing data to analysis. If you do not find what you are looking
+for, contact the by or telephone at (509) 372-7430. Hanford Technical Library email Publications You must enter at least 2 characters in any field to perform a valid search. Author For
+best success, search on the author's last name followed by the author's initials with punctuation as follows: "Jones"; "Jones, "; "Jones, EG". Date Published Publications are available
+from 1998 through the present year. Title search for any words in the title of a journal article, formal report, book, or book chapter being careful to include punctuation. Furthermore,
+catalyst technologies have an integral part in some of our most important pollution control and environmental cleanup processes, including the reduction of harmful automobile
+emissions by catalytic converters. Because of its substantial impact on the global economy, catalysis remains an active and vital area of research and development (R&D), with many
+scientific and engineering journals and conferences devoted to discussion of the latest results. We are defining the mechanisms by which Gram-negative, metal-reducing bacteria export
+contaminant nanoparticles from the periplasm and_ studying the subsequent biogeochemical behavior of the externalized nanoparticles. Biogeochemical Processes Controlling Microbial
+Reductive Precipitation of Radionuclides - Central to the NABIR goal to develop the scientific basis for radioactive groundwater contaminant remediation is the fundamental understanding
+of microorganisms with dissimilatory metal-reducing activity. Hybrid computing architectures can address these requirements by complementing traditional general-purpose
+architectures with hardware accelerators (e.g., Field-Programmable Gate Arrays, graphics processors, IBM Cell processor, or vector or math coprocessors). These hardware accelerators
+are specialized to expedite the execution of important components of data intensive applications, which, for general-purpose computers, would represent a bottleneck. To harness the
+power of the hybrid architectures, PNNL is making investments in the software development tools and the methodologies used to deal with the heterogeneous nature of the hardware.
+Projects that support this R&D capability: Helens to the fossil beds of the John Day, the teacher leaders learned first-hand as they deepened their geoscience and environmental science
+content knowledge under the mentorship of the PNNL scientists, Janelle Downs, Shannon Goodwin, Duane Horton and Steve Reidel. The and Lessons were developed by: Earth Changes
+Fossil & , Kennewick School District & , Sunnyside School District , Art and Science Educator , PNNL , Walla Walla School DistrictGeorgia BoatmanVicki Mitchell We strive to understand the
+business opportunities for new inventions so that they can become a useful product or service. An excellent example of successful technology transfer is the life-saving deployment of our
+millimeter wave technology that is licensed for personnel security screening applications. The systems are used to screen for concealed weapons or explosives. The same basic
+technology is also licensed into the apparel industry in applications for custom fitting clothing for consumers. Review our technology portfolios on the website to see if PNNL has the base
+technology you need. Our core science strengthseneray, environmental, fundamental, information technology and national securityresult in new IP, so check back frequently to see
+what's new at PNNL. Proteins outside of the core proteome are responsible for the lifestyle-specific differences of individual bacterial species. Environmental Molecular Sciences Laboratory
+Pelagibacter ubiqueYersinia pestis Commonalities in the genome indicate shared ancestry, and proteomics verifies the expression of those genes. The team verified the expression of a
+core set of genes that defines bacterial life and designed an approach that can be used to compare the lifestyles of selected bacteria. A cooperative venture among government and
+world-class nanoscience and microtechnology R&D institutions and industry in the Northwest, ONAMI was created to cultivate research and commercialization to advance Oregon's
+leading economic sector and expand the benefits of technology innovation to traditional and natural resource industries. ONAMIs community of world-class industry, academic and federal
+research institutions in the Pacific Northwest forms a vibrant network of nanoscience and microtechnology expertise that is moving nanoscience and microtechnology innovations from
+basic research through to commercialization. ONAMI partners Oregon State University, Pacific Northwest National Laboratory (PNNL), Portland State University, and the University of
+Oregon (UO). While simplified tools are typically based on full-load efficiencies and full-load equivalent operating hours, the estimators account for local climate and partial-load, as
+well as full-load efficiencies. The cost estimators assist decision-making regarding the purchase or replacement of packaged rooftop air conditioning equipment and room air
+conditioners, by estimating a product's lifetime energy cost savings at various efficiency levels. Other key features include the following: The cost estimators are fully web-based . The
+menu-driven format is easy to learn and use. The tools quickly estimate life cycle cost, simple payback, return on investment, and savings-to-investment ratio. They also will outline
+some steps individuals can take to protect themselves and their families. Global SecurityPreventing nuclear proliferation What are the U.S., the Northwest and PNNL doing to prevent
+nuclear proliferation? Laboratory speakers candidly address the question of global security in the 21st century in a presentation focusing on U.S. efforts to foster nuclear nonproliferation
+worldwide. For example PNNL researchers participate in U.S. Department of Energy Office of Science laboratory, Pacific Northwest National Laboratory is part of that quest, providing
+science-based solutions to high-priority challenges in national security, energy and the environment. Pacific Northwest National Laboratory is currently hiring the best and brightest
+scientists and engineers to help solve these challenges. We are seeking candidates for our Post Graduate employment classifications (Post Doctoral, Post Master, Post Bachelors), student
+employment classifications (Undergraduate/Graduate Interns), as well as entry level research staff. Our 4,200 researchers and staff are building the scientific foundation and creating
+the technologies necessary to advance our fundamental_understanding of complex chemical, physical and biological systems. The results obtained with the cost estimators will be useful to
+home owners, facility managers, financial officers, energy management professionals, air conditioning contractors, and other decision makers interested in maximizing both
+energy-efficiency and cost-effectiveness of cooling system investments. The tools provide energy and cost estimates, suitable for comparison purposes. They were not designed to
+replace building load simulating software for heating and cooling systems design. Due to the dynamic nature of building heating and cooling, actual energy use will vary depending on the
+application. Data Intensive Computing (DIC) is concerned with capturing, managing, analyzing, and understanding data at volumes and rates that push the frontiers of current
+technologies. Addressing the demands of ever-growing data volume and complexity requires epochal advances in software, hardware, and algorithm development. Effective solution
+technologies must also scale to handle the amplified data rates and simultaneously accelerate timely, effective analysis results. PNNL's approach to DIC is focused on three key research
+areas: hybrid hardware architectures, software architectures, and analytic algorithms. The development bubble chart represents the range of PNNL capabilities and activities and covers
+the span from underlying science to the engineering developments required to deliver devices, instruments, and systems. Staff working in the application environment (i.e., delivering
+engineered solutions) are most commonly exposed to the clients upcoming sensor needs and interests. At the same time, the existence of an integrated technology development
+team facilitates the transfer of information to staff working on the development or improvement of appropriate sensing mechanisms and devices. Contact: Media Relations, (509)
+375-3776 The national laboratory system The origins of the nine multiprogram national laboratories date back to the Manhattan Project and the years immediately following World War
+IL. During this era, the Atomic Energy Commission (DOE's predecessor) established 2 system of national laboratories to augment America's existing academic and industrial research
+infrastructure. Today, the nine multiprogram labs possess many of the world's top scientists and engineers, as well as superior laboratories and equipment. A large percentage of Nobel
+laureates and R&D 100 Award winners perform or have performed their research at America's national laboratories. The technical networks nurture communication and encourage
+collaboration across organizational and geographic boundaries, facilitating the sharing of information on the deployment of state-of-the-art tools, methods, and equipment. Technical
+networks also facilitate the alignment of Battelle-wide capabilities with the business strategies of our organizations and their businesses. In addition, technical networks provide a holistic
+approach to stewardship for Battelle's diverse intellectual assets. It is in the mixed layer and free troposphere that most chemical reactions, gas-to-particle transformations, cloud
+processes, and long range transport of pollutants occur. The Pacific Northwest National Laboratory (PNNL) operates the U.S. Department of Energy (DOE) Research Aircraft Facility (RAF) to
+serve atmospheric scientists at DOE and other federal, state, and industrial laboratories in carrying out airborne research in these areas. This facility is dedicated to the fulfillment of
+important DOE and national goals related to understanding atmospheric processes as they relate to the DOE's environmental missions and the global environment. A flexible
+reimbursement plan, which allows employees to set aside pre-tax dollars for qualified health and dependent care expenses Access to an Employee Assistance Program (EAP), which
+offers free, confidential, professional counseling services and information referral to employees and their immediate families, including domestic partners/significant others A variety of
+paid and unpaid time off and leave of absence opportunities for all qualified employees, including medical and family care leave, short and long-term disability leave, personal leave,
+bereavement leave, military leave, and educational leave Tuition assistance for career-related courses *Some of these benefits may not apply to Hourly employees or Student Educational
+Interns. The Economic Development Office received honorable mention for its Technology Assistance Program in an international economic development program competition sponsored
+by the International Economic Development Council. EDO also leads the Laboratory's involvement in the development of the Tri-Cities Research District, a 1,600-acre area surrounding
+PNNL's campus planned to attract technology businesses to the area. From local to global, the complex interactions between human activities and their effects on the environment play a
+pivotal role in energy, environmental, and economic security. With the new landscape of terrorist threats at home and abroad; with the need to sustain the critical balance between our
+activities and the environment; we are charting new environmental solutions every day. Environmental Technology The Computational and Information Sciences Directorate develops and
+deploys leading-edge computing and scientific capabilities to advance the next generation of discovery in science, national security, energy, and the environment. Contacts WhatCIs next,
+starts here The is an emerging center for clean technology invention and advancement in the Pacific Northwest. Designated by WashingtonXJs Governor as an Innovation Partnership
+Zone, the Tri-Cities Research District is 2 1,600-acre mixed-use area located along the Columbia River in Richland, Washington composed of approximately 3.4 million square feet of
+office, laboratory, and light manufacturing space. The TCRD is fast becoming recognized as a place where people with ideas create technologies that solve problems and produce
+commercial value, fueling the regionOs economic growth. For additional staff awards, see our page. Awards and Honors Archive Patents In fiscal year 2008, PNNL received 33 U.S. and
+30 foreign patents. Since 1965, PNNL has received a total of 1,664 U.S. and foreign patents. Employment, Payroll and Taxes Staff employment at the end of FY 2008 was 4,199. The
+gross payroll for the year was approximately $342 million. Employer-paid benefits totaled $102 million and various state and federal payroll taxes paid by the Laboratory amounted to
+more than $25.9 million. As an Employer of Choice we offer you*: Market competitive, pay-for-performance compensation program A multi-faceted Rewards and Recognition program,
+based on individual and team performance Comprehensive life insurance, healthcare, vision, and dental coverage for all employees and their dependents Beginning two weeks of paid
+vacation per year, with the opportunity to accrue up to a_ maximum of five weeks Ten holidays per calendar year, including two personal floating holidays Personal sick time for care of
+immediate family, including domestic partners.

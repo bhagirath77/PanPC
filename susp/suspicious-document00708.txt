@@ -1,0 +1,39 @@
+The Columbia Basin geologic province covers about 50,000 square miles of what is now southeastern Washington and adjacent parts of Idaho and Oregon. The Basin is underlain by vast
+lava flows of the Columbia River Basalt Group. Today, those flows and the ground surface above them slope toward the Pasco Basin, where two large rivers, the Snake and the Yakima,
+enter the Columbia. Coordinate and lead regional efforts to test, demonstrate, and deploy new and emerging technologies. Conduct forums focusing for prevention and emergency
+preparedness, response, and recovery. Provide information and expertise on new and emerging technologies, including chem-bio detection, analysis, and forensics; radiological detection;
+information analytics; explosives detection; and situational awareness. Regional Homeland Security Summit Comprehensive life insurance, healthcare, vision, and dental coverage for all
+employees and their dependents Beginning two weeks of paid vacation per year, with the opportunity to accrue up to a maximum of five weeks Ten holidays per calendar year, including
+two personal floating holidays Personal sick time for care of immediate family, including domestic partners Business casual dress and flexible work hours, including consideration for
+alternate work schedules (macro properties of materials and objects, for example, object size and shape, nondestructive material/component evaluation, radar cross-section, geographic
+characterization with remote sensing, mechanical system operational diagnostics) macro property measurement PNNL and control capabilities enable the integration of sensors, power,
+signal processing and conditioning, 1/0, and user interface functions to provide deliverables ranging from subsystems to turn-key instruments and equipment systems. Measure of
+temperature at a in the atmosphere is a physical measurement (an individual sensor can be used) while measuring the temperature profile in a column of air above a test site is a
+macro-property measurement which may use a series of temperature sensors or an optical method using remote lasers and detection systemspoint Detection and characterization of
+cracks in a metal pipe is a macro-property measurement which may use an electromagnetic, acoustic, or ultrasonic probe and specialized data acquisition and analysis methods This
+suite of tools allows the user to rapidly discover hidden information relationships by reading only pertinent documents. IN-SPIRETM has been used to explore technical and patent
+literature, marketing and business documents, web data, accident and safety reports, newswire feeds and message traffic, and more. It has applications in many areas, including
+information analysis, strategic planning, and medical research. The goal of IN-SPIRETM is to: Smarr is Principal Investigator on the NSF OptIPuter LambdaGrid project, the Moore Foundation
+CAMERA marine microbial metagenomics project, and is Co-PI on the NSF GreenLight Major Research Instrumentation project. As founding director of the National Center for
+Supercomputing Applications and the National Computational Science Alliance, Smarr has driven major contributions to the development of the national information infrastructure: the
+Internet, the Web, the emerging Grid, telepresence, and scientific visualization. From cultivating relationships with our community to building advocacy within the region, the Community
+and Regional Outreach staff provides the resources and programs to ensure that PNNL is an asset to the northwest region and the local community. The Community and Regional Outreach
+organization builds mutually beneficial relationships and implements strategies to promote economic vitality, generate goodwill and advocacy for the laboratory, the community and our
+regional neighbors. Department of Energy sites. Biomolecular Mechanisms Controlling Metal and Radionuclide Transformations in Anaeromyxobacter dehalogenans
+
+Anaeromyxobacter dehalogenans - Researchers are studying many aspects of the biotransformation of plutonium (Pu) and Pu-ethylenediaminetetraacetate (Pu-EDTA) under various
+anaerobic conditions. By understanding these processes better, researchers can assess, model, and design approaches to stop Pu transport in groundwater at U.S. Department of Energy
+sites. Find Jobs Create an and resume. applicant profile Use our job search agent to receive email notifications of new PNNL job openings. University Recruiting and Internships For
+graduate and post doc opportunities, visit our page. university recruiting For undergraduate internships and other educational programs, read about PNNL's Programs. Science and
+Engineering Education Working at PNNL Learn about our competitive . compensation and benefits MeDICi makes it faster and less expensive to build scientific workflows in many science
+domains by providing a more scalable, flexible workflow environment that promotes ease of use for scientists and that can be easily modified and scaled to meet future research needs.
+MeDICi is already in use for a range of applications at PNNL, including biological workflows, groundwater simulations, video processing, and satellite data processing. Integrated
+systems are often required for applications that involve robust measurement methods, automated data acquisition, and effective process monitoring and control. We routinely perform
+system integration functions to ensure that complex systems are designed, effectively reviewed at the design stage, fabricated and assembled, tested and validated, and delivered to the
+client. The extensible framework will support the creation and execution of workflows for data preparation, model execution on a variety of compute resources, and model validation.
+Records of workflow executions and resultant data will be tracked. A variety of existing visualization and analysis tools, including parallel capable tools, will be integrated into the
+framework and accessible from workflows or for use in later analyses. Unfortunately, of the few written records left by the early explorers, traders and trappers regarding the original,
+pristine condition, those that have survived are sparse indeed. Source The text contained within the following links is taken from Chapter 1 of the book "Shrub-steppe: Balance and
+Change in a Semi-arid Terrestrial Ecosystem", W. H. Rickard, L. E. Rogers, 8. E. Vaughan and S. F, Contacts About Us Pacific Northwest National Laboratory's interactive visual analytics
+provide new ways to ask questions and get answers, an essential element of new discoveries. Working Solutions With more than 10 years of visual analytics experience in research,
+engineering and product development, PNNL's efforts in visual information analysis spans from basic research to development of innovative tools and technologies.

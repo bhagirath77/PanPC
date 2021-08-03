@@ -1,0 +1,14 @@
+State Boundaries of the United States The boundaries of the United States of America. What this map layer shows: Background Information A State is the primary legal subdivision of the
+United States, and State boundaries translate this concept into a geographic framework for our Nation. A State can be discussed in terms of the many roles it plays in national, regional, and
+local government and in terms of its history, geography, and demographics. Each State has a unique identity evidenced by those of us who carry a lifelong allegiance to the place where we
+grew up, our home State. The Government of the United States is based on the concept of federalism, where power is shared between the National Government and the State Governments
+This relationship is defined by the . Under this system, State Governments have exclusive powers to issue licenses, regulate intrastate businesses, conduct elections, establish local
+governments, ratify amendments to the Constitution, and take measures for public health and safety. States may exert powers that are not delegated to the National Government. States may
+exert powers not explicitly prohibited by the Constitution. Sharing power between National and State governments allows us to enjoy the benefits of a unified government, while retaining many
+rights at the State and local levels. States are often grouped or described by their geography. Forty-eight of the fifty States form the conterminous United States (States within a common
+boundary). The remaining two States are Alaska and Hawaii. Canada separates Alaska from the conterminous United States, and Hawaii is located in the Pacific Ocean. The State Boundaries of
+the United States map layer includes boundaries for the fifty States and for three State equivalents: the , the , and the . These State equivalents are not States but are governmental units
+treated as if they were States for purposes of data presentation. State names, two-letter State abbreviations, the (FIPS) codes for each State, and the date and order of State admission for
+each State are included. FIPS codes are standardized numeric codes used to ensure the uniform identification of geographic entities through all Federal Government agencies. This map layer
+
+was compiled by the National Atlas of the United States. Sample Map

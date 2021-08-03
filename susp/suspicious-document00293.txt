@@ -1,0 +1,133 @@
+[] edit Design notes To keep the design clean, simple and fast, it was hardwired without , like the much simpler 8-bit processor used in prior microcomputers. microcode 6502 Acorn The
+ARM architecture includes the following features: RISC Load/store architecture No support for misaligned memory accesses (now supported in ARMv6 cores, with some exceptions related
+to load/store multiple word instructions) Uniform 16 32-bit register file Fixed instruction width of 32 bits to ease decoding and , at the cost of decreased . (Later, increased code density.)
+pipelining code density "Thumb mode" Mostly single-cycle execution To compensate for the simpler design, compared with contemporary processors like the and , some unique design
+features were used: Intel 80286 Motorola 68020 Conditional execution of most instructions, reducing branch overhead and compensating for the lack of a branch predictor Arithmetic
+instructions alter only when desired condition codes 32-bit which can be used without performance penalty with most arithmetic instructions and address calculations barrel shifter for
+fast leaf function calls. link register Simple, but fast, 2-priority-level subsystem with switched register banks interrupt An interesting addition to the ARM design is the use of a 4-bit on
+the front of every instruction, meaning that execution of every instruction is optionally conditional. Other CPU architectures typically only have condition codes on branch
+instructions.condition code This cuts down significantly on the encoding bits available for displacements in memory access instructions, but on the other hand it avoids branch instructions
+when generating code for small . The standard example of this is the : if statements Euclidean algorithm In the , the loop is: C programming language i != j i>j
+is j-= i;while(){if(Jelse}_In ARM , the loop is: assembly Ri, Rj SUBGT Ri, Ri, Rj SUBLT Rj, Rj, Ri
+BNEloopCMP; set condition "NE" if (i != j); "GT" if (i> ies or "LT" if (i < j); if "GT", if "LT", j = j-i;loop; if "NE", then loop which avoids the branches around the
+and clauses.thenelse Another unique feature of the instruction set is the ability to fold shifts and rotates into the "data processing" (arithmetic, logical, and register-register move)
+instructions, so that, for example, the C statement a += (j << 2); could be rendered as a single word, single cycle instruction on the ARM. ADD Ra, Ra, Rj, LSL #2 This results in the
+typical ARM program being denser than expected with fewer memory accesses; thus the pipeline is used more efficiently. Even though the ARM runs at what many would consider to be
+low speeds, it nevertheless competes quite well with much more complex CPU designs. The ARM processor also has some features rarely seen in other RISC architectures, such as
+-relative addressing (indeed, on the ARM the is one of its 16 registers) and pre- and post-increment addressing modes. PC PC Another item of note is that the ARM has been around for a
+while, with the instruction set increasing somewhat over time. Some early ARM processors (prior to ARM7TDMI), for example, have no instruction to store a two-byte quantity, thus,
+strictly speaking, for them it's not possible to generate code that would behave the way one would expect for C objects of type "volatile short.[] citation needed The ARM7 and earlier
+designs have a three stage pipeline; the stages being fetch, decode, and execute. Higher performance designs, such as the ARM9, have a five stage pipeline. Additional changes for higher
+performance include a faster adder, and more extensive branch prediction logic. The architecture provides a non-intrusive way of extending the instruction set using "coprocessors" which
+can be addressed using MCR, MRC, MRRC and MCRR commands from software. The coprocessor space is divided logically into 16 coprocessors with numbers from 0 to 15, coprocessor 15
+(cp15) being reserved for some typical control functions like managing the caches and operation (on processors that have one). MMU In ARM based machines, peripheral devices are
+usually attached to the processor by mapping their physical registers into ARM memory space or into the coprocessor space or connecting to another device (a bus) which in turn attaches
+to the processor. Coprocessor accesses have lower latency so some peripherals (for example interrupt controller) are designed to be accessible in both ways (through memory and through
+coprocessors). XScale [] edit Thumb To improve compiled code-density, processors from the ARM7TDMI on have featured the mode. When in this mode, the processor executes 16-bit
+instructions. Most of these 16-bit-wide Thumb instructions are directly mapped to normal ARM instructions. The space-saving comes from making some of the instruction operands implicit
+and limiting the number of possibilities compared to the full ARM mode instruction.Thumb In Thumb, the smaller opcodes have less functionality. For example, only branches can be
+conditional, and many opcodes are restricted to accessing only half of all of the CPU's general purpose registers. The shorter opcodes give improved code density overall, even though
+some operations require extra instructions. In situations where the memory port or bus width is constrained to less than 32 bits, the shorter Thumb opcodes allow increased performance
+compared with 32-bit ARM code, as less program code may need to be loaded into the processor over the constrained memory bandwidth. Embedded hardware, such as the , typically
+have a small amount of RAM accessible with a full 32-bit datapath; the majority is accessed via a 16 bit or narrower secondary datapath. In this situation, it usually makes sense to
+compile Thumb code and hand-optimise a few of the most CPU-intensive sections using full 32-bit ARM instructions, placing these wider instructions into the 32-bit bus accessible memory.
+Game Boy Advance The first processor with a Thumb instruction decoder was the ARM7TDMI. All ARM9 and later families, including , have included a Thumb instruction decoder. xScale []
+edit DSP Enhancement Instructions To improve the ARM architecture for and multimedia applications, a few new instructions were added to the set . These are signified by an "E" in the
+name of the ARMVSTE and ARMvSTE) architectures. E-variants also imply T,D,M and I. digital signal processing [2] The new instructions are common in architectures. They are variations
+on signed multiply-accumulate, saturated add and subtract, and count leading zeros. digital signal processor [] edit Jazelle A technology called (Direct Bytecode eXecution) allows recent
+ARM architectures to execute some in hardware as a third execution state alongside the existing ARM and Thumb modes. Jazelle DBX Java bytecode The most prominent use of Jazelle is
+by manufacturers of mobile phones to increase the execution speed of games and applications. Java ME [] citation needed A Jazelle-aware (JVM) will attempt to run Java bytecodes in
+hardware, while returning to the software for more complicated, or lesser-used bytecode operations. ARM claim that approximately 95% of bytecode in typical program usage ends up
+being directly processed in the hardware. Java Virtual Machine Jazelle functionality was specified in the ARMVSTEJ architecture and the first processor with Jazelle technology was the :
+Jazelle is denoted by a 'J' appended to the CPU name. [16] ARM926EJ-S [17] The published specifications are very incomplete, being only sufficient for writing code that can support a JVM
+that uses Jazelle. The declared intent is that only the JVM software needs to (or is allowed to) depend on the hardware interface details. This tight binding facilitates that the hardware and
+JVM can evolve together without affecting other software. In effect, this gives ARM Ltd. considerable control over which JVMs are able to exploit Jazelle. operating system [] citation
+needed [] citation needed [] edit Implementation The Jazelle extension is implemented as an extra stage between the fetch and decode stages in the processor pipeline. Recognised
+bytecodes are converted into a string of one or more native ARM instructions. The Jazelle mode moves JVM interpretation into hardware for the most common simple JVM instructions.
+This is intended to significantly reduce the cost of interpretation. Among other things, this reduces the need for JIT and other JVM accelerating techniques. JVM instructions that are not
+implemented in Jazelle hardware cause appropriate routines in the Jazelle-aware JVM implementation to be invoked. Details are not published. [18] Jazelle mode is entered via the BX)
+instructions. A hardware implementation of Jazelle will only cover a subset of JVM bytecodes. For unhandled bytecodes or if overridden by the operating system the hardware will invoke
+the software JVM. The system is designed so that the software JVM does not need to know which bytecodes are implemented in hardware and a software fallback is provided by the
+software JVM for the full set of bytecodes. [] edit Instruction set The used in Jazelle mode is documented it is after all. However, ARM have chosen to remain quiet on the exact execution
+environment details; the documentation provided with Sun's goes as far as to state: . instruction set Java bytecode HotSpot Java Virtual Machine For the avoidance of doubt, distribution of
+products containing software code to exercise the BXJ instruction and enable the use of the ARM Jazelle architecture extension without [..] agreement from ARM is expressly forbidden.
+[19] Employees of ARM have in the past published several that do give some good pointers about the processor extension. Versions of the ARM Architecture Reference Manual available
+from 2008 have included for the 'BX3' (Branch and eXchange to Java) instruction, but with the finer details being shown as "SUB-ARCHITECTURE DEFINED" and documented elsewhere.
+white papers pseudocode [] edit Application binary interface (ABI) The Jazelle state relies on an agreed between the JVM and the Jazelle hardware state. This is not published by ARM,
+rendering Jazelle an for most users and Free Software JVMs. calling convention application binary interface undocumented feature The entire VM state is held within normal ARM registers,
+allowing compatibility with existing operating systems and interrupt handlers unmodified. Restarting a bytecode (such as following a return from interrupt) will re-execute the complete
+sequence of related ARM instructions. Specific registers are designated to hold the most important parts the JVM state, registers r0-r3 hold an alias of the top of the Java stack, r4 holds
+Java local operand zero (pointer to ) and r6 contains the Java stack pointer.*this [20] Jazelle reuses the existing register r15. A pointer to the bytecode goes in 14, so the use of the PC is
+not generally user-visible except during debugging. Program Counter [21] next [22] [] edit CPSR: Mode indication Java bytecode is indicated as the current instruction set by a
+combination of two-bits in the ARM CPSR (Current Program Status Register). The 'T-bit must be cleared and the 'J-bit set. [23] Bytecodes are decoded by the hardware in two stages
+(versus a single stage for Thumb and ARM code) and switching between hardware and software decoding (Jazelle mode and ARM mode) takes ~4 clock cycles.. [24] For entry to Jazelle
+hardware state to succeed, the JE (Jazelle Enable) bit in the CP14:c0(c2)[bit 0] register must be set; clearing of the JE bit by a [privileged] operating-system provides a high-level override
+to prevent application programs from using the hardware Jazelle acceleration, additionally the CV (Configuration Valid) bit found in CP14:cO(c1)[bit 1] must be set to show that there is a
+consistent Jazelle state setup for the hardware to use. [16] [25] [16] [25] [] edit BXJ: Branch to Java The BX) instruction attempts to switch to Jazelle state, and if allowed and
+successful, sets the J' bit in the CPSR; otherwise "falling through" and acting as a standard 8X (Branch) instruction. The only time when an operating system, or debugger must be fully
+aware of the Jazelle mode is when decoding a faulted or trapped instruction. The Java PC pointing to the next instructions must be placed in the Link Register (r14) before executing the
+8X) branch request, as regardless of hardware or software processing, the system must know where to begin decoding. [16] Because the current state is held in the CPSR, the bytecode
+instruction set is automatically reselected after task-switching and processing of the current Java bytecode is restarted. [20] Following an entry into the Jazelle state mode, bytecodes can
+be processed in one of three ways; decoded and executed natively in hardware, handled in software (with optimised ARM/ThumbEE JVM code), or treated as an invalid/illegal opcode. The
+third case will cause a branch to an ARM exception mode, as will a Java bytecode of Oxff, which is used for setting JVM breakpoints. [26] Execution will continue in hardware until an
+unhandled bytecode is encountered, or an exception occurs. Between 134 and 149 bytecodes (out of 203 bytecodes specified in the JVM specification) are translated and executed directly
+in the hardware. [] edit Low-level registers Low-level configuration registers, for the hardware virtual machine, are held in the ARM Co-processor "CP14 register cO". The registers allow
+detecting, enabling or disabling the hardware accelerator if it is available. [27] The Jazelle Identity Register in register CP14:c0(c0) is read-only accessible in all modes. The Jazelle OS
+Control Register at CP14:c0(c1) is only accessible in kernel mode and will cause an exception when accessed in user-mode. The Jazelle Main Configuration Register at CP14:c0(c2) is
+write-only in user-mode and read-write in kernel mode. A trival" hardware implementation of Jazelle (as found in the emulator) is only required to support the BX) opcode itself (treating
+BX] as a normal BX instruction) and to return RAZ (Read-As-Zero) for all of the CP14:cO Jazelle-related registers. QEMU [16] [28] [] edit Thumb-2 technology made its debut in the ,
+announced in 2003. Thumb-2 extends the limited 16-bit instruction set of Thumb with additional 32-bit instructions to give the instruction set more breadth. The resulting stated aim for
+Thumb-2 is to achieve code density similar to Thumb with performance similar to the ARM instruction set on 32-bit memory. Thumb-2ARM1156 core Thumb-2 also extends both the ARM
+and Thumb instruction set with yet more instructions, including bit-field manipulation, table branches, and conditional execution. All ARMv7 chips support the Thumb-2 instruction set.
+Some chips, such as the Cortex-M3, support only the Thumb-2 instruction set. Other chips in the Cortex and ARM11 series support both "ARM instruction set mode" and "Thumb-2
+instruction set mode" . [3] [4] [5] [] edit Thumb Execution Environment (ThumbEE) , also known as , and marketed as (Runtime Compilation Target), was announced in 2005, first
+appearing in the processor. ThumbEE provides a small extension to the Thumb-2 extended Thumb instruction set, making the instruction set particularly suited to code generated at
+runtime (e.g. by ) in managed . ThumbEE is a target for languages such as , , , and , and allows to output smaller compiled code without impacting performance. ThumbEEThumb-2EE
+Jazelle RCT Cortex-A8 JIT compilation Execution Environments Limbo Java C# Perl Python JIT compilers New features provided by ThumbEE include automatic null pointer checks on every
+load and store instruction, an instruction to perform an array bounds check. Access to registers r8-r15 (where the Jazelle/DBX Java VM state is held) and the ability to branch to handlers
+small sections of frequently called code commonly used to implement a feature of a high level language, such as allocating memory for a new object. [] edit Advanced SIMD (NEON) The
+extension, marketed as technology, is a combined 64 and 128 bit (Single Instruction Multiple Data) instruction set that provides standardized acceleration for media and signal processing
+applications. NEON can execute MP3 audio decoding on CPUs running at 10 MHz and can run the AMR (Adaptive Multi-Rate) speech at no more than 13 MHz. It features a comprehensive
+instruction set, separate register files and independent execution hardware. NEON supports 8-, 16-, 32- and 64-bit integer and single precision floating-point data and operates in
+operations for handling audio/video processing as well as graphics and gaming processing. In NEON, the SIMD supports up to 16 operations at the same time.Advanced SIMDNEON SIMD
+GSM codec SIMD [] edit VFP technology is a coprocessor extension to the ARM architecture. It provides low-cost single-precision and double-precision floating-point computation fully
+compliant with the . VFP provides floating-point computation suitable for a wide spectrum of applications such as PDAs, smartphones, voice compression and decompression,
+three-dimensional graphics and digital audio, printers, set-top boxes, and automotive applications. The VFP architecture also supports execution of short vector instructions allowing (Single
+Instruction Multiple Data) parallelism. This is useful in graphics and signal-processing applications by reducing code size and increasing throughput. VFP ANSI/IEEE Std 754-1985 Standard
+for Binary Floating-Point Arithmetic SIMD Other floating-point and/or SIMD coprocessors found in ARM-based processors include , FPE, . They provide some of the same functionality as
+VFP but are not -compatible with it. FPA iwMMXt opcode [] edit Security Extensions (TrustZone) The , marketed as (TM) Technology, is found in ARMV6KZ and later application profile
+architectures. It provides a low cost alternative to adding an additional dedicated security core to a , by providing two virtual processors backed by hardware based access control. This
+enables the application core to switch between two states, referred to as worlds (to reduce confusion with other names for capability domains), in a manner such that information can be
+prevented from leaking from the more trusted world to the less trusted world. This world switch is generally orthogonal to all other capabilities of the processor and so each world can
+operate independently of the other while using the same core. Memory and peripherals are then made aware of the operating world of the core and may use this to provide access control
+to secrets and code on the device. A typical application of TrustZone Technology is to run a rich operating system in the less trusted world, and smaller security-specialized code in the
+more trusted world (known as TrustZone Software, a TrustZone optimized version of the Trusted Foundations(TM) Software developed by ).Security ExtensionsTrustZone SoC Trusted Logic
+In practice, since the specific implementation details of are proprietary and have not been publicly disclosed for review, it is unclear what level of assurance is provided for a given threat
+model.TrustZone [] edit ARM licensees ARM Ltd does not manufacture and sell CPU devices based on their own designs, but rather, licenses the processor architecture to interested
+parties. ARM offers a variety of licensing terms, varying in cost and deliverables. To all licensees, ARM provides an integratable hardware description of the ARM core, as well as complete
+software development toolset (, , ), and the right to sell manufactured containing the ARM CPU. Fabless licensees, who wish to integrate an ARM core into their own chip design, are
+usually only interested in acquiring a ready-to- manufacture verified . For these customers, ARM delivers a gate netlist description of the chosen ARM core, along with an abstracted
+simulation model and test programs to aid design integration and verification. More ambitious customers, including integrated device manufacturers (IDM) and foundry operators, choose
+to acquire the processor IP in synthesizable RTL () form. With the synthesizable RTL, the customer has the ability to perform architectural level optimizations and extensions. This allows
+the designer to achieve exotic design goals not otherwise possible with an unmodified netlist (high clock speed, very low power consumption, instruction set extensions, etc.). While ARM
+does not grant the licensee the right to resell the ARM architecture itself, licensees may freely sell manufactured product (chip devices, evaluation boards, complete systems, etc.). can be
+a special case; not only are they allowed to sell finished silicon containing ARM cores, they generally hold the right to remanufacture ARM cores for other customers. compiler debugger
+SDK silicon IP core Verilog Merchant foundries Like most IP vendors, ARM prices its IP based on perceived value. In architectural terms, the lower performance ARM cores command a
+lower license cost than the higher performance cores. In terms of silicon implementation, a synthesizable core is more expensive than a hard macro (blackbox) core. Complicating price
+matters, a merchant foundry who holds an ARM license (such as Samsung and Fujitsu) can offer reduced licensing costs to its fab customers. In exchange for acquiring the ARM core
+through the foundry's in-house design services, the customer can reduce or eliminate payment of ARM's upfront license fee. Compared to dedicated semiconductor foundries (such as and )
+without in-house design services, Fujitsu/Samsung charge 2 to 3 times more per manufactured wafer. For low to mid volume applications, a design service foundry offers lower overall
+pricing (through subsidization of the license fee). For high volume mass produced parts, the long term cost reduction achievable through lower wafer pricing reduces the impact of ARM's
+NRE (Non-Recurring Engineering) costs, making the dedicated foundry a better choice. TSMC UMC_Many semiconductor or IC design firms hold ARM licenses; ,,,,,,, , (through its
+settlement with ),,,,,,,,,, and are some of the many companies who have licensed the ARM in one form or another. Although ARM's license terms are covered by , within the IP
+industry, ARM is widely known to be among the most expensive CPU cores. A single customer product containing a basic ARM core can incur a one-time license fee in excess of (USD)
+$200,000. Where significant quantity and architectural modification are involved, the license fee can exceed $10M. Analog Devices Atmel Broadcom Cirrus Logic Energy Micro Faraday
+technology Freescale Fujitsu Intel Digital Equipment Corporation IBM Infineon Technologies Nintendo NXP Semiconductors OKI Qualcomm Samsung Sharp STMicroelectronics Texas
+Instruments VLSI NDA [] citation needed ARM believes that its base of 200+ semiconductor licensees gives it a chance to succeed in the ongoing controversies regarding the use of ARM or
+Intel architectures in mobile computers. [] edit Approximate licensing costs ARM's 2006 annual report and accounts state that royalties totalling 88.7 million GBP (164.1 million USD) were
+the result of licensees shipping 2.45 billion units. This is equivalent to 0.036 GBP (0.067 USD) per unit shipped. However, this is averaged across all cores, including expensive new cores
+and inexpensive older cores. [29] In the same year ARM's licensing revenues for processor cores were 65.2 million ($119.5 million), in a year when 65 processor licenses were signed, an
+average of 1 million GBP (1.84 million USD) per license. Again, this is averaged across both new and old cores. [30] [31] Given that ARM's 2006 income from processor cores was
+approximately 60% from royalties and 40% from licenses, ARM makes the equivalent of 0.06 GBP (0.11 USD) per unit shipped including both royalties and licenses. However, as one-off
+licenses are typically bought for new technologies, unit sales (and hence royalties) are dominated by more established products. Hence, these figures above do not reflect the true costs of
+any single ARM product.

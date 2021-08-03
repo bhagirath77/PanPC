@@ -1,0 +1,73 @@
+Instead of adding another voice to the already crowded market of game sites and magazines, GameStats is focused squarely on providing the most objective view of games. To do this,
+GameStates assembles articles from around the web, alows gamers to weigh in with their opinions, and lets you access daily popularity statistics for thousands of games. We have the
+most extensive list of Atari Classic Arcade reviews, previews, and news from around the net. The system comes with a Heavy Sixer Console, 2 Original Joysticks, 1 1977 Joy with spring
+dampers (rare) (this joy was manufactured in 1977 and does not have the word "TOP" printed on the stick ring), 1 set of Original jitter-free paddles with the Atari Logo (rare), a 6 cart
+Cartridge Changer (one end plugs into the system and the other stores 6 of your favorite games that are ready to play with the push of a button - a unique accessory), an Original Remote
+Control Joystick Set in an Unopened Factory Sealed Box, an Original Atari Power Supply, 2 Travel Game storage cases, a game storage cabinet with 3 drawers (each holds 10 games), an
+unopened Joy Stick Stick Stand, 95 Great Game Carts, and an original Owners Manual. So they made interviews with thousands of people to gain some ideas for their new project called
+atari 3600. Later it was renamed to 'Maria'. Atari ordered the GCC (General Computer Corporation) to design an improved chipset for their new system with enhanced colors and graphics
+The chipset was called 'MARIA'. The new console also should support a keyboard add-on which would convert the 7800 into a fully grown Sbit-computer. This algorithm produces a
+sequence of (231 - 1) random bits before repeating. To seed the register, you can generate one random bit every frame whether you need it or not; then, your register can have at least
+200 different values by the time the user presses Reset. Some code for the procedure: ;Rand1, Rand2, Rand3, Rand4 are RAM locations, initialized to any nonzero ;value at program start
+(Luse $6D) ;RandomBit generates one random bit. With the Wii hardware and its additional memory we are able to increase the texture resolutions our games can use. The same titles
+developed with GODS today for the Wii are clearly more graphically pleasing over our earlier PlayStation 2 and PC games through the use of these higher texture resolutions.Improved
+texture resolutions over older titles We are glad to have you as a guest on our arcade. Browse our database of games at Magic Afro Games - Free Online Games _Cllick here to save
+Magic Afro Games - Free Online Games in your favorites folder Becoming a member at Magic Afro Games - Free Online Games is easy and has many benefits Post your thoughts
+and suggestions in our forum Contact us at Magic Afro Games - Free Online Games and let us know what you think Brandon W. - Dreamcast Correspondent We Want You Heads up old
+school gamers, we are looking for people to contribute content to the site. If you're interested, . drop us a note Things we're looking for: people who own retro consoles and/ or classic
+gaming systems. If you own a Nintendo Wii and use the Virtual Console to play the classics, we'd like to hear from you too. The Atari 7800 was made as the successor of the Atari 5200
+during the 8-bit generation of Video Games. Originally produced in 1984, the 7800was shunned by Atari's leaders claiming they did not want to produce any more video games. Not till they
+witnessed the success of the Nintendo NES, Atari released the 7800 in 1986. RandomBit Idarand4 asl asl_asi_eor rand4 ;new bit is now in bit6 of A asl_asl jnew
+bit is now in carry rol rand1_;shift new bit into bit 0 of register; bit 7 goes into carry _rol rand2 ;shift old bit 7 into bit 8, etc. rolrand3 rol rand4 rts RandomByte Idx #8
+RandomByte1 jsr RandomBit dex  bne RandomByte1 Ida rand1 rts. -- Archives available at http://www. biglist.com/lists/stella/archives/ E-mail UNSUBSCRIBE in the body to
+stella-request@biglist.com to be removed. for ages 6 and up. Missile Command" | Size 4.1KB (Add to Playlist) User Rating6.5 | 2005 Atari Interactive, Inc. All rights reserved. OVERVIEW:
+In Missile Command, players take control of a battery of anti-ballistic missiles as they protect six cities from wave after wave of missile attacks. This is a game of speed and precision
+Using your joystick, you must target and time your missiles so that the concussion from their explosions destroys enemy warheads as they drop. Repairs Section More detailed explanation
+of TV standards such as RGB and S Video Video Standards Table showing the different power requirements and tv system usedd for each country. Regional Differences Still need help -
+Email us at- sales@retro-games.net All product names and logos are registered trademarks of their respective owners. All content 2007 www.retro-games.co.uk Search Now available for
+free download. The game would go on to spawn one of the most successful franchises in history. Mario Party 2000 Activision released the first-person shooter for Windows in North
+America. (ESRB: M)Quake III: Team Arena LucasArts released the vehicular combat game for the Nintendo 64 in the North America. (ESRB: T)Star Wars: Episode I Battle for Naboo
+Joined: June 2006 Posts: 66178 Nice Dedicated 1979 Atari Asteroids Arcade Game/Machine _End Date: Friday Jan-16-2009 10:11:28 PST Buy It Now for only: US $549.99 | Fri, 09
+Jan 2009 10:11:28 PST Brought to you by Game Room Central.. Nice Dedicated 1979 Atari Asteroids Arcade Game/Machine US $549.99 09 Jan 2009 15:53 #1 posted 1
+year and 1 month ago Old news / UVL Work In Progress page Other news Fennec alpha 1 was released to the public on 2008-12-23. Named after arguably the
+[mediaJhttp://upload.wikimedia.org/wikipedia/commons/5/5f/Fennec_Singing.ogg[/media]. Fennec is a Mozilla based browser aimed at the mobile computer market (tablets, cell phones,
+MIDs). With Firefox 3.0 becoming a bloated beast, some people are discussing the possibility of using Fennec on their desktop instead. Dopo essere stato scaricato da Activision il gioco
+tratto da Ghostbusters stato miracolosamente resuscitato da Atari: proprio per dimostrarci che i lavori dello sviluppatore Terminal Reality vanno avanti, il nuovo publisher ha rilasciato due
+immagini del gioco. Vi ricordo che nonostante la lieta novella di qualche settimana fa, attualmente non si sa ancora [...] October 11th, 2008 - No Comments Soeben hat Publisher Atari
+den ersten Trailer zu ihrem Horror-Spiel Alone in the Dark f r die Playstation 3 ver ffentlicht. For the Atari 2600 there is Stella, the code name for the VCS 2600. For its succesor the 5200
+there is Jum 52. Atar''s first homecomuter, the 800 is emulated by Rainbow or Mac800. The Lynx is emulated by Handy (Epyx' name for the Lynx). Even the Jaguar has an experimental
+emulator, but that has to be started with the Terminal: Virtual Jaguar. Pong can't be emulated, because it used analogue relais instead of microchips. It seems almost like a Christmas
+ritual: there's a Next Big Thing in the video game world almost every holiday season. Last year featured a particularly interesting competition between the new gaming hardware put on
+the market by Nintendo and their prime competitor, Sony with its PlayStation series. Madison Lockwood Nintendo Wii: Redefining an Industry Nintendo's latest home console system was
+released in North America on November 19th 2006. The time now is Monday, 26 January 2009, 09:02 PM | All times are UTC - 6 Hours Users browsing this topic: 0 Registered, 0 Hidden
+and 0 Guests Registered Users: None Permissions List You post new topics in this forum You reply to topics in this forum You edit your posts in this forum You delete your posts in this
+forum You vote in polls in this forum You attach files in this forum You download files in this forum You post calendar events in this forumcannot May 2001 Atari Day WASHINGTRON, DC -
+On May 5, 2001 Evil Robots, Inc observed its First Annual Atari Day. It is expected that Atari Day will become a much celebrated and anticipated holiday. Atari Day was conceived by Evil
+Robots CEO and Co-Founder, Godzilla, and Evil Robots Special Assistant, Mr. Joshua. Godzilla and Mr. Joshua cleared their busy schedules for the occasion and devoted the afternoon to
+playing Atari Atari included every conceivable form of flexibility into the console. There were seperate difficult switches for both the left and right player, the console had a
+selection for both Black & White and Color televisions. The game console also came packaged with not only a set of joystick controllers, but also a set of paddle controllers giving the
+customer the ability to purchase nearly any game they wanted and not have to worry about whether it would work with the console or not. Protect the humanoids stranded on the planet
+from their alien abductors. Features a scanner, smart bombs, hyperspace button and a variety of enemys. Its also infuritatingly difficult. Download our very own PC tribute to defender
+Pac Man 1980 Midway Control pac-man around a maze eating dots and trying to avoid ghosts, get one of the four power pills to become invincible and eat the ghosts. 0.00 (UK postage
+included) SOLD This first set comprises 5 games 3 boxed and 2 loose these are as follows: Pit Fighter (boxed), Electro Cop (boxed), Turbo Sub (boxed), Gauntlet (unboxed) and
+Chequered Flag (unboxed). Click picture for close up view ITEM GMP002 - Atari Lynx Game Pack 2.0.00 (UK postage included) ITEM GMP003 - Atari Lynx Game Pack 3.0.00 (UK
+postage included) Set Number 3 comprises 5 games - 3 boxed and 2 loose these are as follows: Bill & Teds Excellent Adventure (boxed), Stun Runner (boxed), Klax (boxed), Electro Cop
+(unboxed) and Ninja Gaiden (unboxed). Click picture for close up view ITEM GMP004 - Atari Lynx Game Pack 4.0.00 (UK postage included) SOLD While the Atari 7800 was a brand
+new system, the basic architecture was based on the Atari 2600 allow full backward compatibility with Atari 2600 games and accessories. The Atari 7800 had a power processor named
+the MARIA chip; this allowed games to run much smoother and was capable of displaying up to 100 items on screen. While the sound processor built into the Atari 7800 was not great due
+to size issues, some games, such as Ballblazer and Commando, had a superior POKEY sound chip built into the cart. Some emulators may be deficient in joystick support, sound, and other
+significant features. In writing an emulator, you will undergo a difficult process which requires attaining the precise system information, and figuring out how to emulate it with the
+software code. There are two different types of emulators. The first one is the single-system or the single-game emulator. Examples of these are an Atari 2600 emulator, NES emulator,
+and an Apple II emulator. Atari's forked out $27.6 million upfront in cash to buy the studio, with further payment linked to the performance of Champions Online and Star Trek Online. Last
+we heard, Champions Online, which is down for release on PC and Xbox 360, was being published by BioShock publisher 2K Games. We're finding out now if there's been any knock on
+affect. In the mean time, why not check out our , which is shaping up very nicely indeed? Videotopia - International traveling museum exhibit chronicling the history of mankind's first
+interactive media. new Check out all of our video game categories for other titles and game cheats codes. Game tips and news for Video Games : Console Platforms : Atari : History can
+be located above by browsing alphabetically and by game genre. (the video game sites directory may be altered for content and space) Complete Atari Heavy Sixer With 78 Games (a363)
+An Instant Collection! This system comes with a Heavy Sixer Console, 1 1977 Joy without the word "top" on the orange ring (rare), 2 Original Joysticks, a Star Raiders Pad with overlay, an
+Original Atari Power Supply, 78 Great Game Carts and an assortment of game instructione and literature.(1 Available) At least to us it is... Monday Leaderboard - Galaga Mon 12 Jan 2009
+6:00 AM EST to Mon 12 Jan 2009 11:59 PM EST Every Monday, Gametap hosts a 18 hour battle for leaderboard supremacy. Log in, play some Galaga, and you could win fabulous prizes!
+Lunchtime Tournament - Round 5 - Space Invaders Still others you'll find which weren't released, and you will see exactly why they weren't released - they aren't fun. Each genre of game
+is broken down into an individual hub where gamers can check out both arcade and home came versions of these classics. As bonus features, gamers are offered comics, instruction
+manuals, catalogs, and updated visual modes, which allow higher res versions of the games, to features which distort gameplay to make the games more challenging. As with
+
+any multi-title pack in one like this you'll be most excited about the games you know and love.

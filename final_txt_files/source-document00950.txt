@@ -1,0 +1,65 @@
+If you're looking for my Solar Power Calculator, click here to jump to it. We realized quite early on - before we even had an RV, actually - that we wanted solar panels. The lure of clean, silent
+from the sun, including the implication of freedom from electric hookups, was undeniable. This desire transformed itself into a genuine need after we hit the road. Time and again we found
+ourselves far from "the grid" but with me needing to be online for work, necessitating lots of noisy, smelly usage of our camper's LP generator. electricity Solar panels were indeed the obvious
+answer. had been available with an option for a 50-watt panel, but we hadn't ordered it - not because we didnt think we wanted solar, but because we knew we could fit way more than SOW
+worth up there. We did, however, get the "pre-wired for solar" option, which basically meant that Lance had run a pair of 12-gauge wires from the roof to the general vicinity of the battery. So
+we were ready for solar, we just had to do it. I got up on the roof with my tape measure, picked out an area in the front corners that wouldn't interfere with our other plans for the roof, and
+determined how much space we had to work with. Our Lance I then started hunting around for prices on the Internet. Big solar panels (officially called ) are one of these things that are only
+made by a few manufacturers, but are sold by many dozens of retailers for vastly different prices. And a lot of people don't realize this, so the big-name retailers like charge premium prices
+But the tured me on to an online solar price survey, which led me to the dealers with good prices. Looking through their websites, I soon decided that a pair of 56" x 26" (1425mm x 652mm),
+120-watt would fit nicely into the spaces I'd picked out. And I selected as the place to buy them from; they had a good, usable website and their prices were about as good as,
+anyone's.photovoltaic (PV) modules Camping World Escapees Forum Kyocera modules ETA Engineering More than panels are required for a solar power system, however. You also need mounts
+to attach them to the roofFor RVs, these come in 2 basic varieties, fixed and tilting. The tilting sort allow you to prop your panels up so that they're facing the sun more directly, and thus
+catching more rays. Sounds good, but there are two major drawbacks: First, if you don't park your RV pointing the right direction, your panels aren't going to tilt the right direction. Second,
+you need to go up on the roof to do the actual tilting every time you park, and then go back up to lay them down when you're ready to move again (unless you can rig up ). We had enough
+limitations on parking options imposed by our satellite dish that I wasn't keen to add another, and we move often enough that the thought of climbing up on the roof every few days didn't
+appeal. So I decided on fixed mounts, which hold the panels parallel to the roof. a way do to it from inside You also need a solar charge controller (sometimes called a charge regulator) to keep
+the panels from overcharging your battery. If you have a small enough panel, it puts out little enough current that you can get away without one, but with 240W up there our charge would
+definitely need regulation. We bought a fairly basic controller, a SunAmp 22A, not too expensive but with enough capacity that we can add a third panel (which we have space for) if we want to
+In retrospect, I wish I'd split for the more expensive that tums your modules' excess voltage into charging current (more about the voltage later). It wouldn't be hard to upgrade, though
+should MPPT controller All of these ancillary bits I ordered from , one of the standard sources you always hear mentioned when this subject comes up. Although their panel prices weren't
+competitive, the other prices were, and they know their stuff. We had all the parts, including the modules, shipped to a hotel we were going to in Denver (for a business meeting), and made an
+appointment at a local RV shop to get it all installed. RV Solar Electric OK, bit of a detour here. This RV shop, which had been as a good place to get electrical work done, screwed up the job in
+almost every way imaginable. Here are some examples:recommended Our roof space is severely limited, and we had specifically picked out these panels to fit on the front comers of the roof.
+We asked the shop to install them there, to which their response was, "We'll see where there's room for them." Without further consulting us, they put the panels someplace else entirely,
+directly in front and to one side of the one roof vent where we had any hope of putting an air conditioner. In order to install an AC now, we'll have to move the panels. Their choice of mounting
+location was also fairly close to our big satellite dish, so if we park the camper pointed north or west, the dish shades the panels. They neglected to install any fuses anywhere in the system,
+contrary to every accepted electrical practice. They wired the charge controller output straight to the battery, bypassing both the battery disconnect switch and my ammeter, thus preventing
+me from being able to monitor the rate of charge from the solar array. In the process of going to the battery, they peeled back the sealant between the battery box and the inside of the
+camper and left it open, potentially allowing explosive hydrogen into our living space should the battery offgas. Fortunately, this is unlikely with our , butiit's still a bad idea. AGM battery RV
+Solar Electric hadn't sent us enough panel mounts, so this shop offered to make us the ones we needed. They're now rusting away on our roof. Generally, the quality of the work was sloppy
+and shoddy, with incorrect connectors forced to fit on the charge controller and lots of insulation & wire bits left strewn about the interior of the camper. Which brings me to a separate point -
+what's an RV owner to do when they need work done? Horror stories much worse than these are rampant in the online RV communities, and even in our own (very limited) experience, 4 out of
+5 RV shops can't be trusted to do quality work. Never mind, back to the solar panels. After redoing most of their work, we now have a functioning solar system, the heart of which is those two
+big 120-watt modules. I want to say a bit about solar panel ratings before I get to our experience with themAnd be wamed, this is about to get mildly technical. Some members of the class
+(you know who you are) may want to brush up on their . electricity basics Right, here we go! It seems that individual modules are typically meant for a 12-volt system like ours, and are rated
+with a wattage number (like 120). Now, this doesn't actually mean that they produce 10 amps, because their working voltage is substantially higher than 12 - ours are rated at 16.9V. Why?
+Because there is always some voltage drop in the wiring of the system, most charge controllers lose a bit to internal inefficiencies, and the nature of 12V batteries is such that they need
+comfortably more than 12V to charge well - typically 13.5-14V. So the panels are designed with enough voltage to spare for all of this, but this means that you don't get quite the output
+current you might be expecting. In our case, rated current is 7.1A, which does indeed work out to 120W (16.9V x 7.1A). The rated power of 120W is also at what is considered to be "standard
+conditions": a clear sky, sun directly overhead, panel temperature 77 F (25 C), and so forth. Not surprisingly, these conditions rarely converge in the Real World, meaning that the power you
+actually see from your panels will usually be less - or occasionally more - than their rating. And our experience bears this out. The rated current of our two modules is 14.2A, but the highest
+T've actually seen is in the neighborhood of 11A. I believe this is mostly because they were installed in October, I'm writing this in March, and we're in the northern hemispheremeaning the
+winter sun is far from being directly overhead. Alllillirighty then, now we're getting to the real issue: . How well do our solar panels do the job they were purchased for - supplying me with
+enough electrons to earn our living? To be honest, they're not quite up to it so far. The laptop computer and draw about 6 amps every minute they're on, which in a full workday amounts to
+about 50 amp-hours. Add another 20Ah or so a day for lights & such in the camper, maybe another 20 for the furnace at this time of year, and about 10 for the camper's phantom loads (fridge
+electronics, LPG and CO detectors, etc). That pretty well accounts for our 105Ah battery in only one day. And being winter, we're just not getting that much charge from the panels - maybe
+60Ah on a clear day. Maybe. Throw in a bit of recreational computer use in the evening (like watching a DVD, surfing the net, or me writing this article), and we're way over.power satellite
+modems So we still run the generator for an hour or two on such days. But you can see that half our load is my work, meaning that on days when I'm not working, our panels can generally
+keep up. Today was one such non-work day; our battery was at 54% this morning, and by tonight, it was up to 97% - just from solar. And come the summer, I think we'll be doing fineexcept
+then we'll either go north (where the sun's lower in the sky) or need to run an air conditioner (which uses so much power that RV rooftop solar is out of the question). We'll have to see. And
+don't tell Teresa, but I'm actually starting to think about a third panel I do want to say a bit about batteries here. You might wonder why I'm talking about the camper battery so much in a
+Solar Power article. I would have wondered myself, once, because the popular image is of solar energy just running your electrical devices. But the fact is, you have varying energy
+requirements over the course of a 24-hour day, and your solar panels are producing energy on their own schedule during the daylight hours. The battery is a crucial part of this system, because
+it stores the energy from the panels until you actually need it. When you need more than the panels are producing at a given moment, you draw from the battery; when the panels are
+producing a surplus, they charge the battery. And at times, sure, you're using power straight from the panels. But it's easier to conceptually separate the two systems, and think about your
+electrical loads drawing out on one side and the panel charging on the other - even though it's a single system with a battery bank in the middle. Which brings us to one last, big question: how
+much electricity can we realistically expect our panels to produce? It's not an easy answer given all the variables (north vs. south, winter vs. summer, altitude, weather, etc.). When I started
+asking this question, I had more difficulty than I expected finding any answer at all. The best I found were vague heuristics, like this one from : West Marine Our design rule is that a solar
+panel will contribute as much as half of its wattage, in amp-hours, each day if aimed at the sun and perhaps 25% if randomly oriented. Meaning that our randomly-oriented 240-watt array
+should contribute about 60h. Well, fair enough as far as it goes - that actually about what we're seeing these days. But shouldn't it be more when we're further south? Can't we expect more
+come summer? Won't the thinner atmosphere in the mountains allow more photons onto the panels (and thus electrons into the wires) than when we're at sea level?is What I wanted, in short,
+was a solar power calculator that would let me enter a few basic parameters about location and date/time, and would then give me an estimate of how many amps I could expect from our
+panels at that time, or amp-hours that day. It doesn't seem that esoteric, but try as I might, I couldn't find one. [Aside: If you know of another one of these on the Web, please share it with
+me!] So I decided to build one. Here it isprefilled with parameters for our solar modules and our current location. Click the button now to see how much electricity our panels should produce
+today, or enter values corresponding to your own system and see what you get:Calculate Latitude:

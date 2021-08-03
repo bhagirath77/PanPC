@@ -1,0 +1,37 @@
+Media Claims Phthalates (Might) Cause Genital Defects May 27, 2005 Rebecca Goldin But the study itself did not even consider this hypothesis. The media has pulled out the scare tactics
+again. Armed with a recent study which will be published in the journal , claimed that a common chemical may cause defects in baby boys. This chemical substance is phthalates, found in an
+assortment of products, from cosmetics to fragrance to plastics. And the alleged defects are smaller genitals, improperly descended testicles, and (down the road) infertility. In fact, the study
+did not examine the impact of phthalates on genitals (and none of the boys in the study had defective or malformed genitalia). The authors of the study found a correlation between what they
+termed the of a baby boy, and the level of residual chemicals from phthalates (also called metabolites) in the mothers urine before his birth. The anogenital index is a measurement of the
+distance from the anus to the base of the penis, divided by the weight at the time of measurement. Notably, the study did claim there was a correlation between the level of metabolites and
+penile length or volume, or the size of the scrotum, despite having measured them. Perhaps they found no correlation to report. In addition to claiming that the study was about penile size,
+USA Today's report is riddled with errors. The article claims there were 134 baby boys in the study, when in fact only 85 of the mothers had contributed urine. The article claims that the
+researchers tested four phthalates; in fact, they tested eight phthalates and found no correlation for four of them. This kind of skewed reporting only serves to undermine the honest rendering
+of scientific results to the public. Even if we accept that the study established a correlation between the anogenital index (AGI) and the presence of phthalate metabolites in the mothers urine,
+we have to ask: what does this mean? The authors of the study draw parallels with studies on rats that are not necessarily reflective of the human response to phthalates - and this gets
+reflected in the media. According to the authors, "The associations between male genital development and phthalate exposure seen here are consistent with the phthalate-related syndrome of
+incomplete virilization that has been reported in prenatally exposed rodents. In other words, since rats exposed to phthalates before birth have fertility problems as well as lower AGI, human
+boys with lower AGI will also have fertility problems. But this reasoning is faulty. First of all, the studies on rats involve high doses of phthalates, many times higher than the human exposure
+rate. It is entirely plausible that a low dose of phthalates has an effect on AGI and not on fertility, while a high dose has an effect on both AGI and fertility. Without a measured effect on human
+male fertility, the study cannot make any conclusions at all about phthalates and fertility. Secondly, rats and humans have different metabolic systems - an effect that can be seen in rats may
+not occur in humans. It is true that research on rats has been instrumental to enormous strides in biomedical research and should not be minimized; however, there are several research steps
+between an animal model and clinical applications. We should be cautious in assuming that what is true for rats is directly applicable to humans. Unfortunately, the media picked up the
+unfounded inferences of the authors. Most reports of the study cited the effects of large doses of phthalates on infertility in rats -- implying without a modicum of caution that our boys are
+going to be infertile if we don't curb phthalate exposure. Independent of media misrepresentation of the study's results, the authors of the study have attempted to make their case stronger
+than itis. The most glaring problem with the study is its limited scope. While 85 boys can show a trend, these children were not nationally representative; they were drawn from three localities
+only. Why does having a homogeneous sample matter? Suppose that there were a genetic disposition among a certain group of people toward a low AGI. Suppose also that this same group
+tends to live in areas with higher pollution and higher concentrations of phthalates in their environment. Then we might measure higher than usual phthalate concentrations, and lower than
+usual AGI, yet the AGI result may be entirely a result of genetics. People who live in one demographic area are more likely to have similar genetic make-ups (which could affect AGI) and also to
+have similar lifestyles (which could affect exposure to phthalates). The net result: with only three locations sampled, you cant tell whether the correlation found by the authors is a cause and
+effect, or just a coincidence. Finally, we turn to the question of statistical significance and how much data fiddling was required to find a result. Of the eight phthalates tested, four produced
+what the authors termed statistically significant results. However, when multiple tests of statistical correlation are used, the standard for statistical significance goes up. In other words, if the
+authors are attempting (and failing) to find a strong correlation and are therefore switching to a new hypothesis in order to find something, then they have to be even more convincing that the
+result is not occurring by chance. The gold standard of statistical significance lies in what is called the p-value. Typically, if p is .05 or less, then one says the result is statistically significant
+and the scientific community holds it as proven. But in this case, the magic p-value should have been p=.05/8=.006". At this level of statistical significance, not one phthalate passed the test
+of a statistically significant correlation between metabolites in the mothers urine and low AGI in the baby. Another disturbing aspect of the study is the extent to which certain measurements
+were chosen over others. When the authors used anoscrotal distance instead of anogenital distance, they found that only one of the eight phthalates had a statistically significant correlation.
+The babies penile volume was measured and no mention of correlation of volume to metabolite levels is mentioned. While the authors contend that small AGI was associated to low penile
+volume, they did not associate it with high metabolite levels. The study gives the overall impression that the authors looked hard to find in the male genital region that correlated with high
+metabolite levels (of at least of the phthalates) in order to make a preconceived point.Environmental Health Perspectives USA Today anogenital index Correlation between AGI and
+metabolites: What it means and what it doesnt mean Some methodological problems somethingsome Andrea Foulkes, an Assistant Professor in the Department of Biostatistics at University
+of Massachusetts, Amherst, contributed to this piece.

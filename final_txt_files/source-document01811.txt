@@ -1,0 +1,11 @@
+Interactive maps and spacial interfaces Some of our emerging solutions are utilising spatial interfaces to augment computer mediated experiences of creating and sharing digitised resource
+collections. Maps and satellite photographs in particular are being used as navigation interfaces to access collections of Text, Audio, Movies and Images (see ). Two DVD projects are currently
+under evaluation, the and Examples of different ways of using satellite photographs and topographic maps are being explored and presented as examples of enhancing the common icon based,
+desktop metaphor used in conventional computing displays. TAMI Gulumerrgin DVD East of Arafura DVD. GIS (Geographic Information Systems) go some way to provide a workable way of
+using maps and linking them to other collections of digital resources. However due to their various specificities they are expensive, cumbersome and difficult to use easily anywhere. Zoomify is
+product suited to creating high quality maps with zoom and pan functionality. These maps can be multilayered, they can be annotated and can link to other resources. Zoomify maps can be
+viewed via the Internet and they can also be stored and distributed on a CD Rom. Some examples of Zoomify maps can be explored in the column on the right . The maps can also be used to
+zoom and pan over maps and satellite photographs. Google has mapped the whole planet to varying degrees and offer a few ways of viewing maps and other spatial information. The limitation
+with Google maps is that it relies on a broadband internet connection. Maps can only be requested and viewed via an intemet connection. Here is an example of embedding Google Maps in
+web page Click to view an intercative satellite map Click to view an interactive map that compares a satellite map to a topographic map Click to view an interactive map that lets you fade
+from a topographic map to satellite map

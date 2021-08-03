@@ -1,0 +1,31 @@
+The First and Second Quartos ofHamlet Professor Ann Thompson, King's College London The three texts A short play called The was printed in 1603. It was ascribed to William Shakespeare
+on its title-page - which also claimed that it had been diverse times acted by his Highnesse seruants in the Cittie of London: as also in the two Vniuersities of Cambridge and Oxford, and
+elsewhere, This text is known as the First Quarto (Q1). Soon another version appeared, variously dated 1604 or 1605, claiming on its title-page to be Newly imprinted and enlarged to almost
+as much againe as it was, according to the true and perfect Coppie. This text is known as the Second Quarto (Q2). Its daim as to length is more or less accurate, and it is also a much more
+careful and coherent text than Q1, which has generally been dismissed as a bad quarto - an unreliable version of the play put together from the memories of actors or reporters. Finally, a third
+text (F) appeared in the First Folio of 1623, very like Q2 in many ways, but lacking around 230 lines that are in Q2 and adding around 70 lines of its own. It also has numerous minor verbal
+variants, some of which seem to be corrections but others of which are substitutions or errors. Tragicall Historie of Hamlet, Prince of Denmarke Modern editors use of Q1 Most editors of have
+chosen to base their texts on Q2 or F, or they have combined these two longer texts to produce the fullest possible version of the play, including not only the 230 lines unique to Q2 but also the
+70 lines unique to F They have generally ignored Q1 apart from some discussion of its unique stage directions - which, if it is indeed a remembered or reported text, might be said to give us
+some insight into the earliest performances of . In Ophelias mad scene for example (4.5 in edited versions of the longer texts), Qi has the direction, ' playing  (G4v) where Q2 has  (K4r) and
+F has (p.273). And in the scene between Hamlet and his mother in the Queen's closet (3.4), Q1 has (G2v) where Q2 and F have" (I3v and p.272). Both these directions have influenced
+stagings of the play since the rediscovery of Q1 in 1823 - there are still only two known copies of Q1, the British Library copy and one at the Huntington Library in California. HamletHamletenter
+Ofeliaon a Lute, and her haire downe singingEnter Ophelianter Ophelia distractednter the ghost in his night gownEnter Ghost A unique feature of Q1 While Q1 lacks the literary polish of the
+longer texts (2 quick comparison of the Q1 and Q2 versions of To be or not to be (Q1 D4v-Eir; Q2 G2r-v) will make this evident), it is by no means an incompetent or unactable text, as
+numerous professional and amateur productions have demonstrated. It speeds up the action of the play and its language is surprisingly intelligible and accessible. At a late point it contains a
+unique scene between the Queen and Horatio (H2v-H3r) after Ophelias mad scene (4.5) and before the Kings scene with Laertes (4.7). This not only suggests a conspiracy between Hamlet's
+supporters to counter that between his enemies, but neatly abridges material found in three separate scenes in the longer texts: Hamlet's letter to Horatio (4.6, L2v-L3r), his letter to the King
+(4.7, L3v) and his account to Horatio of events on his voyage to England (5.2, Nir-N2r). The soliloquies in Q1. Given the importance of Hamlet's soliloquies to our understanding of the
+dominance and centrality of his role (and indeed to the enormous cultural prestige of the play), it seems significant that Q1 omits one of them altogether and presents the most famous of them
+all in a different scene from where we are used to finding it. The missing soliloquy is the last one, How all occasions doe informe against me, found in Q2 (4.4, K3r-v) after Hamlet has
+observed the army of Fortinbras. In Q1 this is an extremely short scene (G4v) in which Hamlet does not appear. The Folio text also lacks this soliloquy and has a similarly short scene (p.273).
+Some have argued that this is a deliberate authorial revision, part of a pattern of cuts introduced in order to abridge the play for performance, but this seems debatable, given that F remains
+an extremely long text. Most startlingly, Q1 presents To be or not to be in its equivalent of 2.2 rather than in 3.1. In Q1 it follows straight on from the decision of the King and his councillor
+(who is called Corambis in Q1) to spy on Hamlet and Ophelia when Hamlet enters poring vppon a booke (D4v). In Q2 there are some 500 lines between Hamlet's entry with his book (Fir) and
+his delivery of the soliloquy (G2r-v). These cover the fishmonger dialogue with Polonius, Hamlet's first encounter with Rosencrantz and Guildenstem, the arrival of the Players, the performance
+of the speech about Pyrrhus, Priam and Hecuba, and Hamlet's O what a rogue and pesant slaue am I soliloquy. Q1 has its (shorter) versions of all this material, but after rather than before To
+be or not to be. Several productions of the longer texts have chosen to follow Q1's placing of the speech, on the grounds that it makes more sense psychologically. Having finally come up with
+a plan at the end of 2.2 (the play's the thing / Wherein Ile catch the conscience of the King, Q2 Gir), it seems strange that Hamlet should enter only 50 lines later contemplating suicide. Does
+QI derive from an acting version? We do not know what Elizabethan and Jacobean audiences saw and heard when they went to early performances of . They are unlikely to have experienced
+the four-hour version familiar to us in modem editions. They may have experienced a shorter acting version similar in structure (if not in the details of its language) to Q1. In so far as it does
+seem to be accepted that Q1 is closest to such an acting version, should we redefine it as the good quarto?Hamlet

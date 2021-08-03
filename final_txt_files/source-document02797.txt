@@ -1,0 +1,20 @@
+MIOS Studio MIOS Studio was started by Jason Williams in November 2003, and later taken over by Adam King. It is a Java-based, platform-independent MIDI processing environment which
+not only provides upload and debug functions for MIOS (MIdibox Operating System), but also general purpose MIDI features like MIDI Port Routing, Monitoring, Filtering and a virtual Keyboard,
+It's written in a modular way and will be published under GPL later so that other programmers can make their contributions. The cross-platform nature of Java allows MIOS Studio to replace a
+number of tools accross different operating systems for working with MIOS and the MidiBox Hardware platform, eg: Perl scripts, batch files, MIDI-OX, SysEx librarian, etc. For example,
+previously hex files had to be converted to SysEx format first using a Perl script and then manually uploaded using a seperate MIDI program. Hex files can now be uploaded directly from MIOS
+Studio with full error checking and handling, without needing to convert to SysEx format first. Debugging MIOS is now easier to do thanks to a graphical function builder. This allows
+programmers to have instant access to all of MIOS's debugging functions and build custom commands from a number of functions, all with 'drag n drop! ease of use. Installing MIOS Studio To
+run MIOS Studio you will need the Java Runtime, at least version 1.5 installed. If you do not have it, you will need to go to the Sun site first, download the JRE 5.0 setup file and install it
+according to your platform's instructions. http://java.sun.com/j2se/1.5.0/download.jsp Once Java is installed, all you will need to do is and save it to your computer. In Windows, you should be
+able to just double click on the .jar file to open the program. To start from a command line (or setup a shortcut), you can use the command "" to open MIOS Studio. download MIOS Studio java
+~jarpath_and_name_of_jar_file As an added utility, a cutdown version with just a keyboard controller, MIDI routing/filtering and keyboard zone mapping is available. This can be started with
+the command "".java -cp org.midibox.apps.virtualkeyboard. VirtualKeyboardpath_and_name_of_jar_file NOTE: is the name of the downloaded .jar file, and the loction it is saved in. eg:
+path_and_name_of_jar_file"C:\MIDI Stuff\MIOSStudio_beta4.jar" Windows users can use the command instead of to open MIOS Studio without a command prompt window in the
+background.javawjava So far the program has been tested with Windows 98, 2000 and XP. In theory, it should also run on Linux and Mac but the old saying proves true, "write once, debug
+everywhere". Linux MIDI support is supposed to be working, but I have had many problems - possibly due to an older kernel and ALSA drivers. If anyone can test on a newer version of Linux
+(with Java 1.5 installed) it would be greatly appreciated. At the moment, Java 1.5 is not officially available for the Mac, but if there are any Java/Mac developers in the community, please test it
+and report you findings. MIOS Studio Help MIOS Studio has it's own built-in help system that can be accessed via the Help Menu or contextual help buttons. The MIOS Studio help
+documentatation is also available online. Planned Features for MIOS Studio Add a memory read/write facility to the MIOS Debug Interface MIDI Translate/Mapping between device connections
+ General SysEx upload/download facility Configurable colours for message types in Port Monitors. Computer keyboard input for MIDI Keyboard Controller Variable number of octaves on MIDI
+Keyboard Controller Proper config/workspace file format for saving: MIDI device routes

@@ -1,0 +1,244 @@
+From the Bureau of the Census. A monthly survey of about 50,000 households. The Current Population Survey Data for making major policy decisions that affect retirement, health
+insurance, saving and economic well-being. The Health and Retirement Study Current minimum wage, history, charts, and employee and employer rights. The Minimum Wage (Yahoo!)
+Labor information accessible by state. U.S. States Labor Market Information No person shall be a Senator or Representative in Congress, or elector of President and Vice-President, or
+hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as
+a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion
+against the same, or given aid or comfort to the enemies thereof. But Congress may by a vote of two-thirds of each House, remove such disability. This institution in compliance with all
+applicable Federal and State laws and regulations does not discriminate on the basis of race, color, national origin, sex, age, religion, political affiliation, disability, or status as a veteran
+in any of its policies, practices, or procedures. This includes but is not limited to admissions, employment, financial aid, and educational services. This notice is provided as required by
+Title VI of the Civil Rights Act of 1964, Section 504 of the Rehabilitation Act of 1973, Title IX of the Education Amendments of 1972, the Age Discrimination Act of 1975, and the Americans
+with Disabilities Act of 1990. Age Discrimination Act Under these laws you can make a complaint to HREOC if you think you have been: refused employment denied promotion, transfer or
+other benefits associated with employment given less favourable terms or conditions of employment denied equal access to training opportunities of your:because race - including colour,
+descent, national or ethnic origin Prohibited discrimination and harassment are illegal and unacceptable. Prohibited discrimination and harassment generally carry a component of power
+differential between individuals; therefore, a person who seems to acquiesce to discriminatory or harassing conduct may still be considered a victim of prohibited harassment. Prohibited
+discrimination and harassment can occur between an employee and a manager; between co-workers; between faculty members; between a faculty, staff, or student and a customer,
+patient, vendor, or contractor; between a student and a faculty member or another student; between men and women; or between members of the same gender. A subset of prohibited
+discrimination and harassment is sexual harassment. If legal advice or other expert assistance is required, the service of a competent professional person should be sought. 1. We will
+tell the truth. We will acknowledge and correct any mistakes promptly. 2. We will not delete comments unless they are spam, off-topic, rude, or defamatory. 3. We will reply to comments
+when appropriate as promptly as possible. // var oView = new WIS.Web.JSManager();google.load("language", "1");Sys.Application.initialize(); Sys.Application.add_init(function() {
+$create(WIS.Web.AjaxControls.Extenders.SiteSearchBehavior, {"SearchTextID":"site_search_input","SearchUrl":"http://whereistand.com/Search","id":"sitesearchextendjs"}, null, null,
+$get("sitesearchbuttonthing")); }); Sys.Application.add_init(function() { $create(WIS.Web.AjaxControls.Extenders.HoverPopupBehavior,
+{"PopDelay":350,"PopHoverDelay":300,"PopupPosition":4,"dynamicContextKey":"{\"st\":false,\"t\":\"Account\",\"a\":\"uptownguy\",\"sb\":true}","dynamicControlID":
+null, null, $get("target_control_ai_ap_module")); }); Sys.Application.add_init(function() { $create(WIS.Web.AjaxControls.xtenders.FollowButtonBehavior,
+{"accountName":"uptownguy","FavoriteKey":"uptownguy","FollowText":"\u003ca\u003eFollow this
+Person\u003c/a\u003e","OwnerName":"guest_unpersisted","ServiceMethod":"ToggleFavorite","ServicePath":"http://whereistand.com/Services/AjaxService.asmx","StopFollowingText":"\u003
+following this Person\u003c/a\u003e","id":"foll_btn_extend_follo_uptownguy", null, null, $get("follo_uptownguy")); }); Sys.Application.add_init(function() {
+$create(AjaxControlToolkit.ModalPopupBehavior,
+{"BackgroundCssClass":"modal_transparent","CancelControlID":"st_popup_closebutton_st_popup_tas_popup_superactionitem_actionitems_blah_myindex_1","PopupControlID":"st_popup_tas_
+null, null, $get("tas_superactionitem_actionitems_blah_myindex_1")); }); Sys.Application.add_init(function() {
+
+$create(WIS. Web.AjaxControls. Extenders. Opinions. TakeStandButtonBehavior,
+{"IssueRefID":17188,"ModalPopupControlID":"tas_superactionitem_actionitems_blah_myindex_1","NarrativeControlID":"wis_narrative_17188","PositionControlID":"wis_opinion_positions_171
+null, null, $get("st_ssc_st_popup_tas_popup_superactionitem_actionitems_blah_myindex_1")); }); Sys.Application.add_init(function() {
+
+$create(WIS. Web. AjaxControls.Extenders.Compare.StandTakerBehavior, {"AgreeText":"I
+agree","ChangeElementID":"tas_span_superactionitem_actionitems_blah_myindex_1","ChangeElementType
+stand","CompareBarID":"cbg_holderuptownguy_guest_unpersisted","ComparePosition":"26", "DisagreeText":"I
+disagree","DocumentRoot":"http://whereistand.com/Client/Styles","SubmitStandControlID":"st_ssc_st_popup_tas_popup_superactionitem_actionitems_blah_myindex_1","TakeStandText":"Tal
+a stand","id":"ctl196"}, null, null, $get("tas_superactionitem_actionitems_blah_myindex_1")); }); Sys.Application.add_init(function() {
+
+$create(WIS. Web.AjaxControls. Extenders. HoverPopupBehavior,
+
+{"PopDelay":50,"PopHoverDelay":50,"PopupPosition:4, "dynamicContextKey":"{\"issueRefID\":17188}","dynamicControlID":"tas_tooltip_superactionitem_actionitems_blah_myindex_1_dynan
+null, null, $get("tas_superactionitem_actionitems_blah_myindex_1")); }); Sys.Application.add_init(function() { $create(WIS.Web.AjaxControls. Extenders. HoverPopupBehavior,
+{"PopDelay":350,"PopHoverDelay":300,"PopupPosition":4,"dynamicContextKey":"{\"st\":false,\"t\":\"Account\", \"a\":\"uptownguy\",\"sb\":true}","dynamicControlID":"ai_dyn_:
+null, null, $get("target_control_ai_blah_myindex_1")); }); Sys.Application.add_init(function() { $create(WIS.Web.AjaxControls. Extenders.FollowButtonBehavior,
+{"AccountName":"uptownguy", "FavoriteKey":"uptownguy","FollowText":"\u003ca\u003eFollow this
+Person\u003c/a\u003e","OwnerName":"guest_unpersisted","ServiceMethod":"ToggleFavorite","ServicePath":"http: //whereistand.com/Services/AjaxService.asmx","StopFollowingText":"\u003
+following this Person\u003c/a\u003e","id":"foll_btn_extend_fol_person_uptownguy_17188_blah_myindex_1"}, null, null, $get("fol_person_uptownguy_17188_blah_myindex_1")); });
+Sys.Application.add_init(function() { $create(WIS.Web.AjaxControls. Extenders.FollowButtonBehavior, {"FavoriteKey":"17188","FollowTextTM:"\u003ca\u003eFollow this
+Issue\u003c/a\u003e","OwnerName":"guest_unpersisted","RefID":17188,"ServiceMethod":"ToggleFavorite","ServicePath":"http://whereistand.com/Services/AjaxService.asmx","StopFollowinc
+following this Issue\u003c/a\u003e","id":"foll_btn_extend_fol_issue_-1962267720-1131169345_blah_myindex_1"}, null, null, $get("fol_issue_-1962267720-1131169345_blah_myindex_1"));
+}); Sys.Application.add_init(function() { $create(AjaxControlToolkit.ModalPopupBehavior,
+{"BackgroundCssClass":"modal_transparent","CancelControlID":"st_popup_closebutton_st_popup_tas_popup_superactionitem_actionitems_blah_myindex_2","PopupControlID":"st_popup_tas_
+null, null, $get("tas_superactionitem_actionitems_blah_myindex_2")); }); Sys.Application.add_init(function() {
+
+$create(WIS. Web.AjaxControls. Extenders. Opinions. TakeStandButtonBehavior,
+{"IssueReflD":5267,"ModalPopupControlID":"tas_superactionitem_actionitems_blah_myindex_2","NarrativeControlID":"wis_narrative_5267","Posi
+null, null, $get("st_ssc_st_popup_tas_popup_superactionitem_actionitems_blah_myindex_2")); }); Sys.Application.add_init(function() {
+$create(WIS. Web. AjaxControls.Extenders.Compare.StandTakerBehavior, {"AgreeText":"I
+agree","ChangeElementID":"tas_span_superactionitem_actionitems_blah_myindex_2","ChangeElementType
+stand","CompareBarID":"cbg_holderuptownguy_guest_unpersisted","ComparePosition":"19","DisagreeText":"I
+disagree","DocumentRoot":"http://whereistand.com/Client/Styles","SubmitStandControlID":"st_ssc_st_popup_tas_popup_superactionitem_actionitems_blah_myindex_2","TakeStandText":"Tal
+a stand","id":"ctl232"}, null, null, $get("tas_superactionitem_actionitems_blah_myindex_2")); }); Sys.Application.add_init(function() { $create(WIS.Web.AjaxControls.Extenders.HoverP
+However, since many EPA claims also raise Title VII sex discrimination issues, it may be advisable to file charges under both laws within the time limits indicated. To protect legal rights, it
+is always best to contact EEOC promptly when discrimination is suspected. Federal employees or applicants for employment should see Federal Sector Equal Employment Opportunity
+Complaint Processing. What Agency Handles a Charge that is also Covered by State or Local Law? Many states and localities have anti-discrimination laws and agencies responsible for
+enforcing those laws. On March 6 Kennedy signed Executive Order 10925, which established the Presidentamp39s Commission on Equal Employment Opportunity and spelling out the
+obligations ... (1046 Words -- Approx. 4 Pages) Is affirmative action a workab ... The Equal Employment Opportunity Commission EEOC is responsible for receiving charges of age
+discrimination under the ADEA, investigating them, and working ... (2211 Words -- Approx. 9 Pages) Age Discrimination ... Equal employment opportunity refers to the situation in which
+every individual has access to employment and its benefits. Equal ... (1578 Words -- Approx. 6 Pages) Affirmative Action 2 ... On March 2 Kennedy signed Executive Order EO 10925, which
+established the Presidents Commision on Equal Employment Opportunity. FERA provided work for over 20 million people and developed facilities on public lands across the country. Faced
+with continued high unemployment and concerns for public welfare during the coming winter of 1933-34, FERA instituted the (CWA) as a $400 million short-term measure to get people to
+work, The Federal Emergency Relief Administration was terminated in 1935 and its work taken over by the and the . IMAGES FROM CMS WILL HAVE PRIORITY OVER THE ONES FROM
+PHOTO GALLERY.</description> <validate docname="SS_DEFAULT_VALIDATION_SCRIPT" language="javascript" methodname="fnSSVDefaultPlainTextValidation" paramtype="html">
+<parameters > <parameter ></parameter> <parameter >8</parameter> <parameter ></parameter> <parameter >false</parameter></parameters> </validate> </element>
+xWebsiteObjectType <Matches> Data File <OR> xWebsiteObjectType <Matches> Native Document xWebsiteObjectType <Matches> Data File <OR> xWebsiteObjectType
+<Matches> Native Document <element id="0" name="PlainText" label="PlainText" type="6" flags="1111100000000000000000000000000000000000000011000000000000000000">
+</element> xWebsiteObjectType <Matches> Data File <OR> xWebsiteObjectType <Matches> Native Document xWebsiteObjectType <Matches> Data File <OR>
+xWebsiteObjectType <Matches> Native Document* <element id="0" name="PlainText" label="PlainText" type="6"
+flags="1111100000000000000000000000000000000000000011000000000000000000"> </element> xWebsiteObjectType <Matches> Data File <OR> xWebsiteObjectType <Matches>
+Native Document xWebsiteObjectType <Matches> Data File <OR> xWebsiteObjectType <Matches> Native Document If you cannot come to an agreement through ACAS or by
+discussion, you can still take your case to an employment tribunal. However, there are time limits for doing this (see below). Going to an employment tribunal (ET) If these actions do
+not get you what you want, you may be able to take your case to: an employment tribunal (if it is about a job, a pension or vocational training); or the county court (if it is about goods
+and services, a public authority, private clubs or education at a college or university); or Tell us and you could receive a HMV voucher Take part Join the discussion If you've got an issue
+you want to talk about or just fancy a natter, check out the boards Find more feeds Discrimination at work If you feel you're being treated unfairly at work, there may be a law to protect
+you. Read on to find out about your rights, and what you can do about discrimination in the workplace. It's against the law for an employer to discriminate against you because of your
+race, religion, country of origin, nationality, ethnic group, gender, sexuality or disability. On November 16, 2005, the Commission met and approved a revised EEO-1 report. Following a
+30-day period for public comment, the Office of Management and Budget (OMB) approved the revised EEO-1. Employers must begin to use the revised survey for the reporting period
+beginning September 30, 2007. Final EEO-1 Form, beginning 2007, Section D (All revisions to the EEO-1 survey form are in Section D- Employment Data only. Sections A, B, C, E, F, and G
+remain unchanged.): | PDF (Preferred) HTML Instruction Booklet for the EEO-1 Survey Report beginning in 2007: | PDF (Preferred) HTML Please for more information.2009 Legislative and
+Regulatory PreviewJanuary 8, 2009, from 2:00 p.m. - 3:00 p.m. click here EEAC's weekly memoranda OI our signature member benefit Ol analyze and provide practical guidance on
+important regulatory, legislative, judicial, and policy developments affecting company equal employment opportunity and affirmative action compliance programs. Posted January 2, 2009:
+Opponents of equal opportunity programsespecially affirmative actiondecry the practice as "reverse discrimination" and protest that decisions on hiring and other such issues should be
+made without consideration one's race, ethnicity, or gender or for past discrimination of any particular groups. They propose a purely "merit-based" system without preferential
+treatment. Proponents point to the blatant, and often accepted, discrimination prior to the implementation of Title VII, as well as the pervasive societal inequities that handicap certain
+groups from gaining equal footing in the business world. Top of Page 6. I won at the Employment Tribunal but my employer has appealed - can I make them pay me before the appeal is
+decided? You may be able to. If you apply to the County Court to enforce the Employment Tribunals judgment you should tell them that your employer has appealed and what the appeal is
+about. You should contact the County Court for more information. Article 1 and 2: Right to freedom from discrimination Article 22: Right to social security Article 23.1: Right to work
+Article 23.2: Right toequal pay for equal work Article 23.3: Right to just remuneration Article 23.4: Right to join a trade union Article 24: Right to rest and leisure Article 25.1: Right to
+an adequate standard of living Article 25.2: Right to special care and assistance for and mothers children Article 26.1: Right to education Article 26.2: Human rights education Article
+
+26.3: Right to choice of education Article 27.1: Right to participate in culture Article 27.2: Right to intellectual property The bill was sent to the , and referred to the , chaired by . After a
+series of hearings on the bill, Celler's committee greatly strengthened the act, adding provisions to ban racial discrimination in employment, providing greater protection to black voters,
+eliminating segregation in all publicly-owned facilities (not just schools), and strengthening the anti-segregation clauses regarding public facilities such as lunch counters. Jump to: ,
+navigation search The of the (EEO) requires employers to report various information about their employees, in particular, their to prevent based on race/ethnicity. The definitions used in
+the report have been different at different times. Equal Employment Opportunity Commission US Department of Labor racial/ethnic categories discrimination [] edit 2007 In 1997, the
+Office of Management and Budget gave a Federal Register Notice called the "" which defined new racial and ethnic definitions. As of 2007 September 30, the EEO's EEO-1 report must use
+these new racial and ethnic definitions in establishing grounds for racial or ethnic discrimination. There are also requirements aimed at improving access to these places by the physically
+handicapped. Employment Much of the discrimination that women experience takes place in the workplace. Federal and state laws prevent an employer, with few exceptions, from
+considering that you are a woman in hiring, firing, or promoting you or in deciding how much you get paid. Your employer may not follow employment policies or practices that
+serve no legitimate purpose and that harm women unfairly. During the 1990's many Americans called for an end to this process of constant borrowing and rising national debt by
+demanding a t, one that spend equal to or less than the revenue the government would take in during a year. This call was embodied by the attention paid to third-party candidate and
+his during the 1992 and 1996 presidential elections, form whom a balanced budget and reduced national debt was a focal issue.balanced budgeH. Ross PerotReform Party Following his
+re-election in 1996, President Bill Clinton delivered to Congress a balanced budget, the first of four such budgets in his final term in office. [] edit Race discrimination Racial
+discrimination differentiates between individuals on the basis of real and perceived racial differences, and has been official government policy in several countries, such as in the era, and
+the USA. South Africa apartheid An child at a segregated drinking fountain on a courthouse lawn, , 1938. white The 10th federal census, in 1880, asked for Color and gave the choices: [7]
+white Chinese Indian The 22nd federal census, in, had a "short form" that asked one ethnic and one race/ancestry question: 2000 [8] 1. Is the person Spanish/Hispanic/Latino? No, not
+Spanish/Hispanic/Latino Yes, other // (write in group) Spanish Hispanic Latino 2. What is the person's race? White American Indian or Alaska Native (write in tribe) Asian Indian Other
+Pacific Islander (write in race) You can also get help with problems of discrimination from: your trade union (if it is about a job); your local law centre; a Citizens Advice Bureau; or a
+solicitor or adviser displaying the Community Legal Service logo (see " for more about this). The Community Legal Service See  for how to contact these organisations. Further help If
+your case is about discrimination to do with your work, the Advisory, Conciliation and Arbitration Service (ACAS) may also be able to help. Unfree societies point up their successes in this
+area (using labels like "Social Justice," and so forth) however when government controls prices, wages, industry, and the media these claims are easily made. Advocates of Equal Pay are
+quick to broadcast the disparity between women's pay and men's pay, but there are valid cultural reasons for it which have little to do with discriminatory sentiment or conduct. EEOC will
+then attempt conciliation with the employer to develop a remedy for the discrimination. If the case is successfully conciliated, or if a case has earlier been successfully mediated or
+settled, neither EEOC nor the charging party may go to court unless the conciliation, mediation, or settlement agreement is not honored. In the context of the Constitution, apportionment
+means that each state gets a number appropriate to its population. For example, Representatives are apportioned among the states, with the most populous getting the greater share.
+Direct taxes (of which there are none today) were to be charged to the states in this manner as well. The need for apportionment of taxes, and the reason for it, is difficult for us to
+imagine today, but there were good reasons for it. The following is an explanation of the need for the Direct Tax Apportionment clause. the driving licence is not strictly necessary to do
+the job because the amount of travelling is small and you could do it, for example, by taxi; and you are otherwise the best candidate for the job. Other reasonable adjustments may be,
+for example: providing a different keyboard, phone or lighting; providing extra training; giving you a parking space at work; moving a workstation so you can use it while in a wheelchair;
+or changing the working hours to fit in with a care assistant. What is reasonable depends on the circumstances. For example, it may be reasonable for a large employer to make greater
+adjustments than a smaller employer. Consistent with the university's commitment to diversity, persons from traditionally under represented groups are strongly encouraged to apply.
+Indiana University Southeast is an Equal Opportunity/Affirmative Action employer. 8/13/08 Assistant Professor of Criminal Justice-School of Social Sciences Print this Job Posting Indiana
+University Southeast is pleased to announce an opening for a tenure track position in Criminal Justice beginning August 2009. The successful candidate will be appointed at the Assistant
+Professor level. This person will have a PhD in Criminal Justice or related area, evidence of teaching effectiveness, and potential scholarly productivity. 30.10 - Noncompliance with Federal
+and State Equal Opportunity Requirements Equal Opportunity Requirements Standard Title: Noncompliance with Federal and State Equal Opportunity Requirements A pattern or
+practice of noncompliance by a sponsor (or where the sponsor is a joint apprenticeship committee, by one of the parties represented on such committee) with Federal or state laws or
+regulations requiring equal opportunity may be grounds for the imposition of sanctions in accordance with 30.13 if such noncompliance is related to the equal employment opportunity of
+apprentices and/or graduates of such an apprenticeship program under this part. The aftermath of the September 11th terrorist attacks on American soil is a strategic environment that is
+volatile, uncertain, complex, and ambiguous. To succeed in achieving and defending national security objectives, the Army must become culturally competent. It must reach across racial
+and cultural boundaries to recruit and retain the very best people ... Air Force Enlisted Force Management: System Interactions and Synchronization Strategies 2007 Authors: ; ; ; 3
+Michael Schiefer Albert A. Robbert Lionel A. Galway Richard E. Stanton Christine San RAND CORP SANTA MONICA CA In September 2004, the active-duty enlisted component of the United
+States Air Force consisted of about 298,000 airmen. The University of Chicago offers equal opportunities in employment to all employees and job seekers. No person shall be discriminated
+against regarding employment because of age, ancestry, color, disability, gender identity, marital status, national origin, parental status, race, religion, sex, gender, sexual orientation,
+source of income, or veteran status. This policy includes the commitment to maintaining a work environment free from unlawful harassment. The policy goes on to outline complaint
+procedures. The full policy is available at: http://hr.uchicago.edu/policy/p201.html EEO Enforcement Equal Employment Opportunity is enforced at the federal and state level. It is also
+enforced internally by University staff: Federal The Office of Equity and Diversity is committed and works hard to ensure compliance with federal, state and local laws and with University
+equal employment opportunity and affirmative action policies. Our primary responsibilities are listed below: on faculty and staff at Indiana University Southeast for completion of the
+University Affirmative Action Plan.Compilation and maintenance of statistical data is one of Wikipedia's most fundamental policies. Verifiability explains what constitutes a reliable source
+for Wikipedia Reliable sources - How and why to cite sources on Wikipedia Citing sources - How to use footnotes on Wikipedia Footnotes - Standardized formatting for citations Citation
+templates How to produce the "citation needed" flag To learn more about the "citation needed" template itself, including when and how to use it, see . In addition, the Fourteenth
+Amendment allows persons to sue in federal court if they believe that a state law or regulation deprives them of the "equal protection of the laws." The famous case of (1954) is an
+example of a situation where the "equal protection" clause was used in such a manner. This case struck down segregation in public schools, citing the practice as a violation of the federal
+"equal protection" clause. However, the states are free to do more than the minimum required by the Fourteenth Amendment and the U.S. Constitution. (19 October 2004) Decision to
+confine in restrictive conditions within prison not a "service" under the DDA: decisions made purely in exercise of State statutory function distinuished from educational and rehabilitation
+services; discussion of "requirement or condition" Rainsford v State of Victoria No. 2 Train carriage doors closing while passenger attempting to board found negligent rather than
+discriminatory; rail operator found to have exrcised sufficient due diligence to prevent discrimination by employees (FMC 3 May 2004) Vance v State Rail Authority of NSW (3 March
+2004) No discrimination found in complaint by worker dissatisfied with workers compensation service. OHSU's Code of Conduct OHSU is committed to upholding the following core values
+in all its endeavors: Achieving excellence in all we do. Creating new knowledge through research and innovation. Providing the highest-quality education for the next generation of health
+care professionals. Fostering a spirit of collegiality and integrity. Providing compassionate care for our patients. Maintaining a high level of accountability for our use of resources.
+Encouraging diversity within OHSU; and standing as a role model for service to the community. The U.S. prohibits discrimination on the basis of disability in programs conducted by
+Federal agencies, in programs receiving Federal financial assistance, in Federal employment, and in the employment practices of Federal contractors. The standards for determining
+employment discrimination under the Rehabilitation Act are the same as those used in title I of the Americans with Disabilities Act.Rehabilitation Act of 1973 [1] There are four key
+
+sections of the Act. A HREOC officer facilitates the conciliation process and can assist when necessary, with writing up any agreement. Conciliation agreements may include such things as
+reinstatement to a job, compensation for lost wages, a statement of service or an apology. If you make a complaint under these laws and the complaint can't be resolved through
+conciliation you may choose to pursue the matter in court. HREOC also investigates and conciliates complaints of discrimination lodged under theHuman Rights and Equal Opportunity
+Commission Act. Under this law you can make a complaintif you think you have been discriminated against in your employment because of your: In contrast, Amerindian labor was more
+difficult to control; moreover, Amerindians occupied large territories that became valuable as agricultural lands, especially with the invention of new technologies such as railroads; thus,
+the blood quantum definition enhanced White acquisition of Amerindian lands in a doctrine of that subjected them to marginalization and multiple episodic localized campaigns of
+extermination. anthropologists White hegemony and privilege racism White supremacy commodities Manifest Destiny The political economy of race had different consequences for the
+descendants of aboriginal Americans and African slaves. Conduct that creates poor working conditions for an employee or impairs a student's access to education may also constitute
+prohibited harassment. Conduct is not always offensive or unwelcome in the same degree when perceived by different people. Courts use a "reasonable person" standard to determine
+whether contested behavior constitutes prohibited discrimination and/or harassment. The reasonable person standard takes into account the perspectives of both men and women and is
+sensitive to the professional position and power of the people involved. However, if the employer refuses you employment because of your criminal record, and you think your criminal
+record is irrelevant to the job, you can make a discrimination complaint to the Commission. You may not need to disclose of your criminal record when asked. If you have an old conviction
+which is spent, generally you do not need to disclose the conviction to an employer, even when asked (except for some occupations such as correctional officers). (See information on
+spent convictions laws below).unless all Can I be refused a licence or registration? Licensing boards and registration organisations may ask you to disclose your criminal record and
+undertake a police check. citizens outside the United States or its territories, and multinational employers that operate in the United States or its territories, are covered under EEO laws,
+with certain exceptions. For answers to common questions about how EEO laws apply to multinational employers, please see: Employee Rights When Working for Multinational Employers
+Federal Government Title VII, the ADEA, and the EPA also cover the federal government. In addition, the federal government is covered by , as amended, which incorporate the
+requirements of the ADA. However, different procedures are used for processing complaints of federal discrimination. The major responsibilities of the Office of Diversity & Equal
+Employment Opportunity are to educate the University community about affirmative action and equal employment opportunity laws, and to ensure compliance with statutory and
+regulatory requirements. About the Office of Diversity & Equal Employment Opportunity The Director: Develops and implements University policy statements pertaining to equal opportunity
+and diversity. Unlike the Employment Tribunals, the EAT does not reimburse travel expenses for parties, witnesses or volunteer representatives. 4. How do I find a judgment? Refer to the
+section of this website. search Judgments Top of Page 5. If I lose will I have to pay the other side's costs? You will not automatically have to pay the other side's costs if you lose
+
+Although it does not often do so, the EAT has the power to award costs against a party (or their representative) where appropriate. The circumstances under which it may award costs are
+set out in Rules 34A and 34C. See also Rules 34, 34B and 34D and . This is a documentation site, everybody is named and shamed. - A guide to using the employment tribunal service to
+overcome workplace bullying - The paramafia violence of mobbing: how the company fires a smart and honest clerk who has become inconvenient. Multi-language italian site. -
+Anti-Bullying Services for Workplace Health. - Information about workplace bullying, abuse, mobbing and harassment. - Offers advice and resources on workplace bullying, harassment,
+employment law and industrial stress. Articles written by leading university professors on issues of discrimination and employment law. Message board forum on site. The Commission is
+also tasked with filing suits on behalf of alleged victim(s) of discrimination against employers and as an adjudicatory for claims of discrimination brought against federal agencies.Equal
+Employment Opportunity Commission (EEOC) The EEOC's mandate is specified under Title VII of the , the , the (ADEA), the and the (ADA) of 1990 and the . It was established on July 2,
+1965, exactly one year after passage of the 1964 Civil Rights Act, under the chairmanship of , an appointee of President . Civil Rights Act of 1964 Equal Pay Act Age Discrimination in
+Employment Act Rehabilitation Act of 1973 Americans with Disabilities Act ADA Amendments Act of 2008 Franklin Delano Roosevelt, Jr. , To Prohibit Discrimination in Federal Employment
+Based on Genetic Information, prohibits discrimination in Federal employment against employees based on protected genetic information, or information about a request for or the receipt
+of genetic services. Executive departments and agencies are responsible for carrying out the provisions of this order to the extent permitted by law and consistent with their statutory and
+regulatory authorities, and their enforcement mechanisms. Equal Employment Opportunity Commission Mediation Mediation is a and process to help you resolve your employment disputes
+and reach an agreement. A neutral mediator assists you in reaching a voluntary, negotiated agreement. Choosing mediation to resolve employment discrimination disputes promotes a
+better work environment, reduces costs and works for the employer the employee.fairefficientand 03-05-025 Affirmative Action Goals: Employment OHSU shall establish an affirmative
+action plan including goals and procedures for the purpose of increasing the proportion and effective utilization of minorities and women employed in administrative, technical and faculty
+positions in programs and departments where minorities or women are under represented. Policy No. 03-05-030 Equal Opportunity OHSU provides equal opportunities to all individuals
+without regard to race, religion, national origin, disability, age, marital status, sex, sexual orientation, disability, military reserve status, or any other status protected by law. This policy
+applies to all employment, student and patient related activities. Covers people who experience discrimination based on a perception of impairment regardless of whether the individual
+experiences disability. Provides that reasonable accommodations are only required for individuals who can demonstrate they have an impairment that substantially limits a major life
+activity, or a record of such impairment. Accommodations need not be provided to an individual who is only regarded as having an impairment. Is supported by a broad coalition of civil
+rights groups, disability advocates, and employer trade organizations. [] edit The Possibility of a Coming Reversal in Gender Wage Gap Inequity This article . Please by adding . See the
+for details.may contain or original research unverified claims improve the article references talk page (June 2008) Please to use a more . edit it formal, encyclopedic tone (June 2008) The
+momentum of the change has been dramatic with the most recent generations.
+
+   
+
+ 
+
+   
+
+dyn_ai_ap_module",
+
+  
+
+ 
+
+actionitem","ChangeStandText":"Change my
+
+ 
+
+        
+
+i_blah_myinde
+
+   
+
+  
+
+ 
+
+   
+
+ionControlID":"wis_opinion_positions_5267",
+
+ 
+
+actionitem","ChangeStandText":"Change my

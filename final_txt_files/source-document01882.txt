@@ -1,0 +1,6 @@
+Mapperz - The Mapping News Blog Map and GIS News finding blog... for UK, Europe and Worldwide Maps... With so many Maps and GIS sites online now it is hard to find the good from the not
+50 good. This blog tries to cut the cream and provide you with the newest, fastest, cleanest and most user friendly maps that are available online. News has location and it is mapped. Mobile
+web users use Mapperz Mobile Page 23 October 2008 " Official Google Maps API Reverse Geocoder -New! What is Reverse Geocoding?"finding an associated textual location such as a street
+address, from geographic coordinates." source: wiki:geocoding Clicking the map sends the latitude and longitude to the 'Google Geocoder Servers the nearest address is returned. (click the
+image above to view the new official example) Finally after many months of Google Map API Team have released the Google Reverse Geocoder :) asking There is also a HTTP Server Reverse
+Geocoder - it works like this send request:

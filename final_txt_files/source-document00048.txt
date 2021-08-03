@@ -1,0 +1,51 @@
+_WidgetManager._Init(http://www.blogger.com/rearrange?blogID=9027263834999 685640, http://kingchenyang.blogspot.com/2009/01 /types-of-poker-game.html','9027263834999685640');
+_WidgetManager._SetPageActionUri('http://www. blogger.com/display ?blogID =9027 263834999685640', '1_SFWfamWgMrdQjClDfb2teC2nM: 1234539313290);
+_WidgetManager._SetDataContext([{'name': blog, data: {'title': 'Poker Kingdom, 'pageType': item, 'url': 'http://kingchenyang.blogspot.com/2009/01/types-of-poker-game.html',
+homepageUr'': 'http://kingchenyang. blogspot.com/, 'pageName': 'Types of Poker Game, 'pageTitle': 'Poker Kingdom: Types of Poker Game, encoding: 'UTF-8', 'isPrivate: false,
+"anguageDirection': Itr, 'feedLinks': '\74link rel\75\42altemate\42 type\75\42application/atom+xml\42 title\75\42Poker Kingdom - Atomn\42
+
+href\75\42http://kingchenyang, blogspot.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42Poker Kingdom - RSS\42
+href\75\42http://kingchenyang, blogspot.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service. post\42 type\75\42application/atom+xml\42 title\75\42Poker Kingdom - Atom\42
+href\75\42http://www. blogger. com/feeds/902726 3834999 685640/posts/default\42 /\76\n\74link rel\75\42EditURI\42 type\75\42application/rsd-+xml\42 title\75\42RSD\42
+href\75\42http://www. blogger. com/rsd.g?blogID\75902726 3834999 685640\42 /\76\n\74link rel\75\42altemate\42 type\75\42ap plication/atom+xml\42 title\75\42Poker Kingdom - Atomn\42
+href\75\42http://kingchenyang. blogspot.com/feeds/3172325822073038155/comments/default\42 /\76\n', 'meTag': ", 'openIdOpTag': ", 'latencyHeadScript': '\74script
+type\75\42text/javascript\42\76(function() { var a\75window;function d(){this.t\75{};this.tick\75function(b,c){this.t[b]\75[(new Date).getTime(),c]};this.tick(\42start\42)}var e\7Snew
+da.jstiming\75{Timer:d,load:e};if(a.external\46\46a. extemal. pageT)a.jstiming.pt\75a.extemal.pageT function f(b){var c\0750;if(b.offsetParent){ do
+
+c+\75b.offsetTop; while(b\7 5b.offsetParent)}return c}a.tickAboveFold\7Sfunction(b){f(b)\74\075750\46\46a.jstiming.load.tick(\42aft\42)}; var g\7Sfalse; function
+h()Kif(19){9\75true;a.jstiming.load.tick(\42firstScrollTime\42)}}a.addEventListener?a.addEventListener (\42scroll\42,h,false):a.attachEvent(\42onscroll\42,h); })();\74/script\o76'}}1);
+_WidgetManager._SetSystemMarkup({'layout': {'varName': ", 'template': '\74div class\75\47widget-wrap 1\47\76 \n\74div class\75\47 widget-wrap2\47\76\n\74div
+
+class\75\47 widget-wrap3\47\76\n\74div class\75\47widget-content\47\76\n\74div class\75\47layout-title\47 \76\74data:|ayout-title\76\7 4/data:layout-title\76\74/div\76\n\74a
+class\75\47editlink\47 expr:href\75\47 data:widget.quickEditUrl\47 expr:ondlick\75\47\46quot;return _WidgetManager._PopupConfig(document.getElementById(\\\46quot; \46quot; +
+data:widget.instanceld + \46quot;\\46quot;));\46quot;\47
+
+target\75\47choosewidget\47\76\74data: edit-link\76\74/data:edit-link\76\74/a\76\n\74/div\76\n\74/div\76\n\74/div\76\n\74/div\076'}, quickedit': {'varName': ", 'template': '\74div
+class\75\47dear\47\76\74/div\76\n\74span class\75\47 widget-item-control\47\76\n\74span class\75\47item-control blog-admin\47\76\n\74a class\75\47 quickedit\47
+expr:href\75\47data:widget.quickEditUrl\47 expr:onclick\75\47 \46quot;return _WidgetManager._PopupConfig(document. getElementBy!d(\\\46quot;\46quot; + data:widget.instanceld +
+\46quot;\\\46quot; ));\46quot;\47 expr:target\75\47\46quot; config\46quot; + data:widget.instanceld\47 expr:title\75\4 7data:edit-link\47\76\n\74img alt\75\47\47 height\75\04718\47
+src\75\4 7http ://img 1. blogblog.com/img/icon1 8_wrench_allbkg.png\47 width\75\04718\47/\76\n\74/a\76\n\74/span\76\n\74/span\76\n\74div class\75\47clear\47\76\74/div\076"},,
+all-head-content': {'varName': page, template: '\74data:blog. latencyHeadScript\76\74/data:blog.latencyHeadScript\76\n\74meta expr:content\75\47 \46quot;text/html; charset\75\46quot;
++ data:page.encoding\47 http-equiv\75\47Content-Type\47/\76\n\74meta content\75\47true\47 name\75\47MSSmartTagsPreventParsing\47/\76\n\74meta content\75\47blogger\47
+name\75\47generator\47/\76\n\74link href\75\47http://www. blogger.com/favicon.ico\47 rel\75\47icon\47
+type\75\47image/vnd.microsoft.icon\47/\76\n\74data:blog.feedLinks\76\74/data: blog. feedLinks\76\n\74data: blog. meTag\76\74/data:blog. meTag\76\n\74data: blog.openIdOpTag\76\74/data:bl
+cond\75\47data:page.isPrivate\47\76\n\74meta content\75\47NOINDEX, NOFOLLOW\47 name\75\47robots\47/\76\n\74/b:if\076"}}); _WidgetManager._RegisterWidget('_ProfileView', new
+_Widgetinfo('Profile1', 'sidebar {'main': {'varName': ", 'template': '\74b:if cond\75\47datatitle !\75
+
+\46quot;\46quot; \47\76\n\74h2\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74b:if cond\75\47data:team \75\75
+\46quot;true\46quot; \47\76\n\74ul\76 \n\74b:loop values\75\47 data:authors\47 var\75\47i\47\76\n\74li\76\74a
+expr:href\75\47data:i.userUrl\47\76\74data:i.display-name\76\74/data:i.display-name\76\74/a\76\74/li\7 6\n\74/b:loop\76\n\74/ul\76\n\74b :else\76\74/b:else\76\n\74b:if
+cond\75\47data:photo.url !\75 \46quot;\46 quot; \47\76\n\74a expr: href\75\47data:userUrl\47\76\74img class\75\47 profile-img\47 expr:alt\75\47data: photo. alt\47
+expr:height\75\47data: photo.height\47 expr:src\75\47data:photo.url\47 expr:width\75\47data:photo.width\47/\76\74/a\76\n\74/b:if\76\n\74dl class\75\47 profile-datablock\47\76\n\74dt
+class\75\47 profile-data\47 \76\74 data: displayname\76\74/data: displayname\76\74/dt\76\n\74b:if cond\75\47data:showlocation \75\75 \46quot;true\46quot;\47\76\n\74dd
+
+class\75\47 profile-data\47 \76\74data:location\76\74/data:location\76\74/dd \7 6\n\74/b :if\76\n\74b:if cond\75\47data:aboutme !\75 \46quot;\46quot;\47\76\74dd
+
+class\75\47 profile-textblock\47\76\74data:aboutme\76\74/data:aboutme\76\74/dd\76\74/b:if\76\n\74/dl\76\n\74a class\75\47profile-link\47
+
+expr:href\75\47 data: userUrl\47\76\74 data: viewProfileMsg\76\74/data: viewProfileMsg\76\74/a\76\n\74/b:if\76\n\74b:include name\75\47 quickedit\47\76\74/b:include\76\n\74/div\076"}},
+document.getElementByld('Profile1'), {}, 'displayModeFull')); _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML7, 'sidebar {'main': {'varName': ", 'template': "\74b:if
+cond\75\47data:title !\75 \46quot;\46 quot; \47\76\n\74h2 class\75\4 7title\47\76\74data :title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div
+
+class\75\47 widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:indude name\75\47quickedit\47\76\74/b:include\076"}}, document. getElementById('HTML7'),
+{}, displayModeFull'));

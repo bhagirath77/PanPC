@@ -1,0 +1,8 @@
+Macro Property Measurement Scope Detection/measurement of properties of a non-uniform material/medium, objects (either natural or man-made, large or small), or structures. While this
+title may not be common nomenclature, the capabilities and applications grouped under this heading are important to many of our clients and PNNL has a significant number of staff engaged in
+these activities. For illustration, consider several examples of how Macro-Property measurements are distinguished from other sensing categories: Measure of temperature at a in the
+atmosphere is a physical measurement (an individual sensor can be used) while measuring the temperature profile in a column of air above a test site is a macro-property measurement which
+may use a series of temperature sensors or an optical method using remote lasers and detection systemspoint Detection and characterization of cracks in a metal pipe is a macro-property
+measurement which may use an electromagnetic, acoustic, or ultrasonic probe and specialized data acquisition and analysis methods Representative Applications Non-Destructive Evaluation
+(material integrity, defect detection & characterization) Metrology (dimensional gauging, product inspection) Shape & texture characterization Remote sensing (thermal, vegetation, mineral,
+etc.) Atmospheric & Marine measurements

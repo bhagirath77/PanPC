@@ -1,0 +1,8 @@
+Written by Ed Wednesday, 11 October 2006 22:13 As with previous releases, Joomla! provides a unified and easy-to-use framework for delivering content for Web sites of all kinds. To
+support the changing nature of the Internet and emerging Web technologies, Joomla! required substantial restructuring of its core functionality and we also used this effort to simplify many
+challenges within the current user interface. Joomla! 1.5 has many new features. The goals for the Joomla! 1.5 release are to: Substantially improve usability, manageability, and scalability
+far beyond the original Mambo foundations. Expand accessibility to support internationalisation, double-byte characters and Right-to-Left support for Arabic, Farsi, and Hebrew languages for
+example amongst others. Extend the integration of external applications through Web Services and remote authentication such as the Lightweight Directory Access Protocol (LDAP). Enhance
+the content delivery, template and presentation capabilities to support accessibility standards and content delivery to any destination. Achieve a more sustainable and flexible framework for
+Component and Extension developers. Deliver backward compatibility with previous releases of Components, Templates, Modules and other Extensions. Last Updated ( Sunday, 04
+November 2007 15:39 )
