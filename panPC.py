@@ -81,7 +81,7 @@ class document:
         self.tokens = x.preprocess(text)
         self.grams = x.offset_to_gram(self.tokens, 3)
         self.checksumMap = x.generateHashMap(self.grams)
-        self.min_tokens = int(len(self.tokens) * 0.1)
+        self.min_tokens = int(len(self.tokens) * 0.11)
 
 
 class matchrange:
@@ -289,20 +289,22 @@ for p in pairs:
     matched = getMatches(susp.grams, src)
     # runs = detect_runs(len(susp.tokens), 0.6, matched, src.min_tokens)
 
-    fuses = fuse_matches(matched, [], 0.87, len(susp.tokens), src.min_tokens)
+    fuses = fuse_matches(matched, [], 0.95, len(susp.tokens), src.min_tokens)
     if len(fuses) > 0:
         found += 1
+    else:
+        continue
+
+    root = minidom.Document()
+    xml = root.createElement('document')
+    xml.setAttribute('reference', str(p[0]))
+    root.appendChild(xml)
 
     for match in fuses:
         x = susp.tokens[match.susp_start].offset_start
         y = susp.tokens[match.susp_end].offset_start
         a = src.tokens[match.src_start].offset_start
-        b = src.tokens[match.src_end].offset_start
-        root = minidom.Document()
-
-        xml = root.createElement('document')
-        xml.setAttribute('reference', str(p[0]))
-        root.appendChild(xml)
+        b = src.tokens[match.src_end].offset_start        
 
         productChild = root.createElement('feature')
         productChild.setAttribute('name', 'plagiarism')
@@ -316,14 +318,10 @@ for p in pairs:
 
         xml.appendChild(productChild)
 
+
+    save_path_file = p[0] + "-" + p[1] + ".xml"
+    with open(save_path_file, "w") as f:
         xml_str = root.toprettyxml(indent="\n")
+        f.write(xml_str)
 
-        save_path_file = p[0] + "-" + p[1] + ".xml"
-
-        with open(save_path_file, "w") as f:
-            f.write(xml_str)
-
-        # print(p[0], p[1], susp.tokens[match.susp_start].offset_start, susp.tokens[match.susp_end].offset_start,
-        #       src.tokens[match.src_start].offset_start, src.tokens[match.src_end].offset_start, match.tokensclaimed)
-        # print(match.susp_start, match.susp_end, match.src_start, match.src_end, match.tokensclaimed)
 print('found', found)
