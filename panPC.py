@@ -81,7 +81,7 @@ class document:
         self.tokens = x.preprocess(text)
         self.grams = x.offset_to_gram(self.tokens, 3)
         self.checksumMap = x.generateHashMap(self.grams)
-        self.min_tokens = int(len(self.tokens) * 0.1)
+        self.min_tokens = int(len(self.tokens) * 0.11)
 
 
 class matchrange:
@@ -289,7 +289,7 @@ for p in pairs:
     matched = getMatches(susp.grams, src)
     # runs = detect_runs(len(susp.tokens), 0.6, matched, src.min_tokens)
 
-    fuses = fuse_matches(matched, [], 0.87, len(susp.tokens), src.min_tokens)
+    fuses = fuse_matches(matched, [], 0.95, len(susp.tokens), src.min_tokens)
     if len(fuses) > 0:
         found += 1
     else:
