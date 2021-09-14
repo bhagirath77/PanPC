@@ -3,14 +3,18 @@ import zlib
 import os
 from collections import defaultdict
 from xml.dom import minidom
+# import nltk
+# nltk.download('stopwords')
 from nltk.corpus import stopwords
+# import stopwords
 from nltk.stem.snowball import EnglishStemmer
 from nltk.stem.porter import *
+from collections import deque
 
 stemmer = EnglishStemmer()
 nltk_stop_words = set(stopwords.words("english"))
 
-
+n_gram = 4
 class token:
     def __init__(self, val, start, end, id):
         self.val = val
@@ -41,7 +45,6 @@ class plag:
         n = len(text)
         curr = ""
         j = 0
-        s = ""
         for i in range(n):
             s = text[i]
             if not re.search(r'[\s\.]', s):
@@ -57,13 +60,18 @@ class plag:
                 j = i + 1
         return offset_data
 
-    def offset_to_gram(self, off_data, n):
+    def offset_to_gram(self, off_data):
         data = []
+        arr=deque()
         m = len(off_data)
-        for i in range(m - 3):
-            s = off_data[i].val + ' ' + off_data[i + 1].val + ' ' + off_data[i + 2].val
+        for i in range(n_gram-1):
+            arr.append(off_data[i].val)
+        for i in range(n_gram-1,m-1):
+            # s = off_data[i].val + ' ' + off_data[i + 1].val + ' ' + off_data[i + 2].val
             # print(s, zlib.crc32(bytes(s, 'utf8')))
-            data.append(gram(s, i, i + 3), )
+            arr.append(off_data[i].val)
+            data.append(gram("".join(arr), i-n_gram+1, i+1))
+            arr.popleft()
 
         return data
 
@@ -79,9 +87,9 @@ class document:
         x = plag()
         self.name = name
         self.tokens = x.preprocess(text)
-        self.grams = x.offset_to_gram(self.tokens, 3)
+        self.grams = x.offset_to_gram(self.tokens)
         self.checksumMap = x.generateHashMap(self.grams)
-        self.min_tokens = int(len(self.tokens) * 0.11)
+        self.min_tokens = int(len(self.tokens) * 0.05)
 
 
 class matchrange:
@@ -120,54 +128,6 @@ def getMatches(grams, src_doc):
             matches.append(value)
     tokensort(matches)
     return matches
-
-
-# def detect_runs(susp_len, confidence, matches, src_min_length):
-#     sub_len = src_min_length
-#
-#     target_tokens = int(src_min_length * confidence)
-#     # print(target_tokens)
-#     hits = []
-#     for i in range(susp_len):
-#         hits.append(False)
-#
-#     for element in matches:
-#         for i in range(element.susp_start, element.susp_end):
-#             hits[i] = True
-#
-#     total_matches = 0
-#     for i in range(src_min_length):
-#         if hits[i]:
-#             total_matches += 1
-#
-#     # print(total_matches)
-#     out = []
-#     if total_matches >= target_tokens:
-#         out.append(0)
-#
-#     for i in range(1, susp_len):
-#         if hits[i - 1]:
-#             total_matches -= 1
-#         end = i + sub_len - 1
-#
-#         if end < susp_len and hits[end]:
-#             total_matches += 1
-#
-#         if total_matches >= target_tokens:
-#             out.append(i)
-#
-#     if len(out) == 0:
-#         return []
-#
-#     final_out = [matchrange(out[0], out[0] + 3, 0, 0)]
-#
-#     for i in range(1, len(out)):
-#         if out[i] != out[i - 1] + 1:
-#             final_out.append(matchrange(out[i], out[i] + 3, 0, 0))
-#         else:
-#             final_out[-1].susp_end = out[i] + 3
-#
-#     return final_out
 
 
 def fuse_matches(matches, runs, confidence, susp_size, src_min_size):
@@ -243,6 +203,52 @@ def fuse_matches(matches, runs, confidence, susp_size, src_min_size):
 
     return final_filter
 
+# def detect_runs(susp_len, confidence, matches, src_min_length):
+#     sub_len = src_min_length
+#
+#     target_tokens = int(src_min_length * confidence)
+#     # print(target_tokens)
+#     hits = []
+#     for i in range(susp_len):
+#         hits.append(False)
+#
+#     for element in matches:
+#         for i in range(element.susp_start, element.susp_end):
+#             hits[i] = True
+#
+#     total_matches = 0
+#     for i in range(src_min_length):
+#         if hits[i]:
+#             total_matches += 1
+#
+#     # print(total_matches)
+#     out = []
+#     if total_matches >= target_tokens:
+#         out.append(0)
+#
+#     for i in range(1, susp_len):
+#         if hits[i - 1]:
+#             total_matches -= 1
+#         end = i + sub_len - 1
+#
+#         if end < susp_len and hits[end]:
+#             total_matches += 1
+#
+#         if total_matches >= target_tokens:
+#             out.append(i)
+#
+#     if len(out) == 0:
+#         return []
+#
+#     final_out = [matchrange(out[0], out[0] + 3, 0, 0)]
+#
+#     for i in range(1, len(out)):
+#         if out[i] != out[i - 1] + 1:
+#             final_out.append(matchrange(out[i], out[i] + 3, 0, 0))
+#         else:
+#             final_out[-1].susp_end = out[i] + 3
+#
+#     return final_out
 
 src_data = {}
 path = 'final_txt_files'
@@ -264,8 +270,10 @@ for i in os.listdir():
     susp_data[x] = document(x, s)
 
 os.chdir("..")
-path = "pairs"
 
+# path = "pairs"
+# path="01-no-plagiarism/pairs"
+path="03-random-obfuscation/pairs"
 pairs = []
 with open(path, encoding='utf8') as f:
     s = f.read()
@@ -277,7 +285,11 @@ for i in s:
 # print(pairs)
 found = 0
 # print(os.getcwd())
-os.chdir("xml_files")
+# os.chdir("xml_files")
+# os.chdir("xml_files2")
+os.chdir("xml_files3")
+for file in os.listdir():
+    os.remove(file)
 print('start matching')
 for p in pairs:
 
@@ -289,7 +301,40 @@ for p in pairs:
     matched = getMatches(susp.grams, src)
     # runs = detect_runs(len(susp.tokens), 0.6, matched, src.min_tokens)
 
-    fuses = fuse_matches(matched, [], 0.95, len(susp.tokens), src.min_tokens)
+    fuses = fuse_matches(matched, [], 0.7, len(susp.tokens), src.min_tokens)
+    # if len(fuses) > 0:
+    #     found += 1
+    #
+    # for match in fuses:
+    #     x = susp.tokens[match.susp_start].offset_start
+    #     y = susp.tokens[match.susp_end].offset_start
+    #     a = src.tokens[match.src_start].offset_start
+    #     b = src.tokens[match.src_end].offset_start
+    #     root = minidom.Document()
+    #
+    #     xml = root.createElement('document')
+    #     xml.setAttribute('reference', str(p[0]))
+    #     root.appendChild(xml)
+    #
+    #     productChild = root.createElement('feature')
+    #     productChild.setAttribute('name', 'plagiarism')
+    #     productChild.setAttribute('obfuscation', 'none')
+    #     productChild.setAttribute('source_length', str(b - a))
+    #     productChild.setAttribute('source_offset', str(a))
+    #     productChild.setAttribute('source_reference', str(p[1]))
+    #     productChild.setAttribute('this_length', str(y - x))
+    #     productChild.setAttribute('this_offset', str(x))
+    #     productChild.setAttribute('type', 'artificial')
+    #
+    #     xml.appendChild(productChild)
+    #
+    #     xml_str = root.toprettyxml(indent="\n")
+    #
+    #     save_path_file = p[0] + "-" + p[1] + ".xml"
+    #
+    #     with open(save_path_file, "w") as f:
+    #         f.write(xml_str)
+
     if len(fuses) > 0:
         found += 1
     else:
@@ -304,7 +349,7 @@ for p in pairs:
         x = susp.tokens[match.susp_start].offset_start
         y = susp.tokens[match.susp_end].offset_start
         a = src.tokens[match.src_start].offset_start
-        b = src.tokens[match.src_end].offset_start        
+        b = src.tokens[match.src_end].offset_start
 
         productChild = root.createElement('feature')
         productChild.setAttribute('name', 'plagiarism')
@@ -318,10 +363,16 @@ for p in pairs:
 
         xml.appendChild(productChild)
 
-
     save_path_file = p[0] + "-" + p[1] + ".xml"
     with open(save_path_file, "w") as f:
         xml_str = root.toprettyxml(indent="\n")
         f.write(xml_str)
 
+        # print(p[0], p[1], susp.tokens[match.susp_start].offset_start, susp.tokens[match.susp_end].offset_start,
+        #       src.tokens[match.src_start].offset_start, src.tokens[match.src_end].offset_start, match.tokensclaimed)
+        # print(match.susp_start, match.susp_end, match.src_start, match.src_end, match.tokensclaimed)
 print('found', found)
+
+# doubt line 88
+# why number offset is key
+# 115 susp.end+1==gram.start ?
