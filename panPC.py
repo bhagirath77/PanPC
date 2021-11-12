@@ -273,7 +273,7 @@ os.chdir("..")
 
 # path = "pairs"
 # path="01-no-plagiarism/pairs"
-path="03-random-obfuscation/pairs"
+path="02-no-obfuscation/pairs"
 pairs = []
 with open(path, encoding='utf8') as f:
     s = f.read()
@@ -287,7 +287,7 @@ found = 0
 # print(os.getcwd())
 # os.chdir("xml_files")
 # os.chdir("xml_files2")
-os.chdir("xml_files3")
+os.chdir("xml_files")
 for file in os.listdir():
     os.remove(file)
 print('start matching')
