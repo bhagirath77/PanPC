@@ -271,9 +271,7 @@ for i in os.listdir():
 
 os.chdir("..")
 
-# path = "pairs"
-# path="01-no-plagiarism/pairs"
-path="03-random-obfuscation/pairs"
+path = "03-random-obfuscation/pairs"
 pairs = []
 with open(path, encoding='utf8') as f:
     s = f.read()
@@ -284,10 +282,7 @@ for i in s:
 
 # print(pairs)
 found = 0
-# print(os.getcwd())
-# os.chdir("xml_files")
-# os.chdir("xml_files2")
-os.chdir("xml_files3")
+os.chdir("xml_files")
 for file in os.listdir():
     os.remove(file)
 print('start matching')
@@ -337,8 +332,8 @@ for p in pairs:
 
     if len(fuses) > 0:
         found += 1
-    else:
-        continue
+    # else:
+    #     continue
 
     root = minidom.Document()
     xml = root.createElement('document')
@@ -353,7 +348,7 @@ for p in pairs:
 
         productChild = root.createElement('feature')
         productChild.setAttribute('name', 'plagiarism')
-        productChild.setAttribute('obfuscation', 'none')
+        productChild.setAttribute('obfuscation', 'random')
         productChild.setAttribute('source_length', str(b - a))
         productChild.setAttribute('source_offset', str(a))
         productChild.setAttribute('source_reference', str(p[1]))
@@ -372,7 +367,3 @@ for p in pairs:
         #       src.tokens[match.src_start].offset_start, src.tokens[match.src_end].offset_start, match.tokensclaimed)
         # print(match.susp_start, match.susp_end, match.src_start, match.src_end, match.tokensclaimed)
 print('found', found)
-
-# doubt line 88
-# why number offset is key
-# 115 susp.end+1==gram.start ?
