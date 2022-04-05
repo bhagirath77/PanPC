@@ -3,10 +3,7 @@ import zlib
 import os
 from collections import defaultdict
 from xml.dom import minidom
-# import nltk
-# nltk.download('stopwords')
 from nltk.corpus import stopwords
-# import stopwords
 from nltk.stem.snowball import EnglishStemmer
 from nltk.stem.porter import *
 from collections import deque
@@ -52,8 +49,6 @@ class plag:
                     curr += s
             else:
                 if j != i and len(curr) != 0:
-                    # final_word = self.filter_word(curr)
-                    # if len(final_word) != 0:
                     offset_data.append(token(curr.lower(), j, i, id))
                     id += 1
                 curr = ""
@@ -67,8 +62,6 @@ class plag:
         for i in range(n_gram-1):
             arr.append(off_data[i].val)
         for i in range(n_gram-1,m-1):
-            # s = off_data[i].val + ' ' + off_data[i + 1].val + ' ' + off_data[i + 2].val
-            # print(s, zlib.crc32(bytes(s, 'utf8')))
             arr.append(off_data[i].val)
             data.append(gram("".join(arr), i-n_gram+1, i+1))
             arr.popleft()
@@ -142,18 +135,6 @@ def fuse_matches(matches, runs, confidence, susp_size, src_min_size):
             filter[i] = True
 
     for match in matches:
-        # offset = match.susp_start - match.src_start
-
-        # if offset < 0:
-        #     if -offset < error_margin:
-        #         offset = 0
-        # else:
-        #     continue
-
-        # if not filter[offset]:
-        #     continue
-        #
-        # print('pass filter', match.susp_start)
 
         unclaimed = True
 
@@ -169,8 +150,6 @@ def fuse_matches(matches, runs, confidence, susp_size, src_min_size):
             within_error = sample_error < error_margin and match_within_error_margin_to_claim
 
             if within_error and match.tokensclaimed > sample_error:
-                # print('sample error', sample_error, 'claim', claim.susp_start, 'match', match.susp_start,
-                #       match.tokensclaimed)
                 if match.susp_start >= claim.susp_start and match.susp_end <= match.src_end:
                     claim.tokensclaimed += match.tokensclaimed
                     unclaimed = False
@@ -180,14 +159,12 @@ def fuse_matches(matches, runs, confidence, susp_size, src_min_size):
                         claim.susp_start = match.susp_start
                         claim.src_start = match.src_start
                         claim.tokensclaimed += match.tokensclaimed
-                        # print('updated claim', claim.susp_start, claim.susp_end, claim.src_start, claim.src_end)
                         unclaimed = False
 
                     elif match.susp_end > claim.susp_start and match.src_end > claim.src_end:
                         claim.susp_end = match.susp_end
                         claim.src_end = match.src_end
                         claim.tokensclaimed += match.tokensclaimed
-                        # print('updated claim', claim.susp_start, claim.susp_end, claim.src_start, claim.src_end)
                         unclaimed = False
 
             if not unclaimed:
@@ -202,53 +179,6 @@ def fuse_matches(matches, runs, confidence, susp_size, src_min_size):
             final_filter.append(claim)
 
     return final_filter
-
-# def detect_runs(susp_len, confidence, matches, src_min_length):
-#     sub_len = src_min_length
-#
-#     target_tokens = int(src_min_length * confidence)
-#     # print(target_tokens)
-#     hits = []
-#     for i in range(susp_len):
-#         hits.append(False)
-#
-#     for element in matches:
-#         for i in range(element.susp_start, element.susp_end):
-#             hits[i] = True
-#
-#     total_matches = 0
-#     for i in range(src_min_length):
-#         if hits[i]:
-#             total_matches += 1
-#
-#     # print(total_matches)
-#     out = []
-#     if total_matches >= target_tokens:
-#         out.append(0)
-#
-#     for i in range(1, susp_len):
-#         if hits[i - 1]:
-#             total_matches -= 1
-#         end = i + sub_len - 1
-#
-#         if end < susp_len and hits[end]:
-#             total_matches += 1
-#
-#         if total_matches >= target_tokens:
-#             out.append(i)
-#
-#     if len(out) == 0:
-#         return []
-#
-#     final_out = [matchrange(out[0], out[0] + 3, 0, 0)]
-#
-#     for i in range(1, len(out)):
-#         if out[i] != out[i - 1] + 1:
-#             final_out.append(matchrange(out[i], out[i] + 3, 0, 0))
-#         else:
-#             final_out[-1].susp_end = out[i] + 3
-#
-#     return final_out
 
 src_data = {}
 path = 'final_txt_files'
@@ -280,7 +210,6 @@ s = s.splitlines()
 for i in s:
     pairs.append(i.split())
 
-# print(pairs)
 found = 0
 os.chdir("xml_files")
 for file in os.listdir():
@@ -294,46 +223,12 @@ for p in pairs:
     except:
         continue
     matched = getMatches(susp.grams, src)
-    # runs = detect_runs(len(susp.tokens), 0.6, matched, src.min_tokens)
-
     fuses = fuse_matches(matched, [], 0.7, len(susp.tokens), src.min_tokens)
-    # if len(fuses) > 0:
-    #     found += 1
-    #
-    # for match in fuses:
-    #     x = susp.tokens[match.susp_start].offset_start
-    #     y = susp.tokens[match.susp_end].offset_start
-    #     a = src.tokens[match.src_start].offset_start
-    #     b = src.tokens[match.src_end].offset_start
-    #     root = minidom.Document()
-    #
-    #     xml = root.createElement('document')
-    #     xml.setAttribute('reference', str(p[0]))
-    #     root.appendChild(xml)
-    #
-    #     productChild = root.createElement('feature')
-    #     productChild.setAttribute('name', 'plagiarism')
-    #     productChild.setAttribute('obfuscation', 'none')
-    #     productChild.setAttribute('source_length', str(b - a))
-    #     productChild.setAttribute('source_offset', str(a))
-    #     productChild.setAttribute('source_reference', str(p[1]))
-    #     productChild.setAttribute('this_length', str(y - x))
-    #     productChild.setAttribute('this_offset', str(x))
-    #     productChild.setAttribute('type', 'artificial')
-    #
-    #     xml.appendChild(productChild)
-    #
-    #     xml_str = root.toprettyxml(indent="\n")
-    #
-    #     save_path_file = p[0] + "-" + p[1] + ".xml"
-    #
-    #     with open(save_path_file, "w") as f:
-    #         f.write(xml_str)
+    
 
     if len(fuses) > 0:
         found += 1
-    # else:
-    #     continue
+   
 
     root = minidom.Document()
     xml = root.createElement('document')
@@ -363,7 +258,5 @@ for p in pairs:
         xml_str = root.toprettyxml(indent="\n")
         f.write(xml_str)
 
-        # print(p[0], p[1], susp.tokens[match.susp_start].offset_start, susp.tokens[match.susp_end].offset_start,
-        #       src.tokens[match.src_start].offset_start, src.tokens[match.src_end].offset_start, match.tokensclaimed)
-        # print(match.susp_start, match.susp_end, match.src_start, match.src_end, match.tokensclaimed)
+       
 print('found', found)
