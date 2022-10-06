@@ -137,9 +137,7 @@ def fuse_matches(matches, runs, confidence, susp_size, src_min_size):
     for match in matches:
 
         unclaimed = True
-
         moff = match.susp_start - match.src_start
-
         for claim in claimed:
             coff = claim.susp_start - claim.src_start
 
